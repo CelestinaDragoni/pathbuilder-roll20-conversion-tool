@@ -1,0 +1,546 @@
+{
+  "success": true,
+  "build": {
+    "name": "Celestina",
+    "class": "Sorcerer",
+    "level": 20,
+    "ancestry": "Human",
+    "heritage": "Tiefling",
+    "background": "Academy Dropout",
+    "alignment": "CN",
+    "gender": "Female",
+    "age": "Unknown",
+    "deity": "Calistria",
+    "size": 2,
+    "keyability": "cha",
+    "languages": [
+      "Abyssal",
+      "Celestial",
+      "Common",
+      "Infernal",
+      "Necril"
+    ],
+    "attributes": {
+      "ancestryhp": 8,
+      "classhp": 6,
+      "bonushp": 0,
+      "bonushpPerLevel": 1,
+      "speed": 25,
+      "speedBonus": 5
+    },
+    "abilities": {
+      "str": 10,
+      "dex": 20,
+      "con": 18,
+      "int": 16,
+      "wis": 18,
+      "cha": 22
+    },
+    "proficiencies": {
+      "classDC": 8,
+      "perception": 4,
+      "fortitude": 4,
+      "reflex": 4,
+      "will": 6,
+      "heavy": 0,
+      "medium": 0,
+      "light": 0,
+      "unarmored": 4,
+      "advanced": 0,
+      "martial": 0,
+      "simple": 4,
+      "unarmed": 4,
+      "castingArcane": 0,
+      "castingDivine": 8,
+      "castingOccult": 0,
+      "castingPrimal": 0,
+      "acrobatics": 4,
+      "arcana": 2,
+      "athletics": 0,
+      "crafting": 0,
+      "deception": 8,
+      "diplomacy": 6,
+      "intimidation": 2,
+      "medicine": 0,
+      "nature": 0,
+      "occultism": 2,
+      "performance": 2,
+      "religion": 8,
+      "society": 0,
+      "stealth": 0,
+      "survival": 0,
+      "thievery": 0
+    },
+    "feats": [
+      [
+        "Dubious Knowledge",
+        null
+      ],
+      [
+        "Tiefling",
+        null,
+        "Heritage",
+        1
+      ],
+      [
+        "Natural Ambition",
+        null,
+        "Ancestry Feat",
+        1
+      ],
+      [
+        "Dangerous Sorcery",
+        null,
+        "Class Feat",
+        1
+      ],
+      [
+        "Charming Liar",
+        null,
+        "Skill Feat",
+        2
+      ],
+      [
+        "Reach Spell",
+        null,
+        "Class Feat",
+        2
+      ],
+      [
+        "Incredible Initiative",
+        null,
+        "General Feat",
+        3
+      ],
+      [
+        "Bon Mot",
+        null,
+        "Skill Feat",
+        4
+      ],
+      [
+        "Cantrip Expansion",
+        null,
+        "Class Feat",
+        4
+      ],
+      [
+        "Devil in Plain Sight",
+        null,
+        "Ancestry Feat",
+        5
+      ],
+      [
+        "Cat Fall",
+        null,
+        "Skill Feat",
+        6
+      ],
+      [
+        "Advanced Bloodline",
+        null,
+        "Class Feat",
+        6
+      ],
+      [
+        "Untrained Improvisation",
+        null,
+        "General Feat",
+        7
+      ],
+      [
+        "Doublespeak",
+        null,
+        "Skill Feat",
+        8
+      ],
+      [
+        "Soulsight",
+        null,
+        "Class Feat",
+        8
+      ],
+      [
+        "Light from Darkness",
+        null,
+        "Ancestry Feat",
+        9
+      ],
+      [
+        "Slippery Secrets",
+        null,
+        "Skill Feat",
+        10
+      ],
+      [
+        "Quickened Casting",
+        null,
+        "Class Feat",
+        10
+      ],
+      [
+        "Battle Prayer",
+        null,
+        "General Feat",
+        11
+      ],
+      [
+        "Sacred Defense",
+        null,
+        "Skill Feat",
+        12
+      ],
+      [
+        "Greater Bloodline",
+        null,
+        "Class Feat",
+        12
+      ],
+      [
+        "Fiend's Door",
+        null,
+        "Ancestry Feat",
+        13
+      ],
+      [
+        "Quick Disguise",
+        null,
+        "Skill Feat",
+        14
+      ],
+      [
+        "Spell Shroud",
+        null,
+        "Class Feat",
+        14
+      ],
+      [
+        "Toughness",
+        null,
+        "General Feat",
+        15
+      ],
+      [
+        "Cognitive Crossover",
+        null,
+        "Skill Feat",
+        16
+      ],
+      [
+        "Effortless Concentration",
+        null,
+        "Class Feat",
+        16
+      ],
+      [
+        "Heroic Presence",
+        null,
+        "Ancestry Feat",
+        17
+      ],
+      [
+        "Discreet Inquiry",
+        null,
+        "Skill Feat",
+        18
+      ],
+      [
+        "Echoing Spell",
+        null,
+        "Class Feat",
+        18
+      ],
+      [
+        "Fleet",
+        null,
+        "General Feat",
+        19
+      ],
+      [
+        "Divine Guidance",
+        null,
+        "Skill Feat",
+        20
+      ],
+      [
+        "Bloodline Perfection",
+        null,
+        "Class Feat",
+        20
+      ]
+    ],
+    "specials": [
+      "Low-Light Vision",
+      "Bloodline: Angelic",
+      "Signature Spells",
+      "Magical Fortitude",
+      "Expert Spellcaster",
+      "Lightning Reflexes",
+      "Alertness",
+      "Simple Weapon Expertise",
+      "Defensive Robes",
+      "Weapon Specialization",
+      "Master Spellcaster",
+      "Resolve",
+      "Legendary Spellcaster",
+      "Bloodline Paragon",
+      "Tiefling"
+    ],
+    "lores": [
+      [
+        "Academia",
+        2
+      ]
+    ],
+    "equipment": [],
+    "specificProficiencies": {
+      "trained": [],
+      "expert": [],
+      "master": [],
+      "legendary": []
+    },
+    "weapons": [
+      {
+        "name": "Spear",
+        "qty": 1,
+        "prof": "simple",
+        "die": "d6",
+        "pot": 0,
+        "str": "",
+        "mat": null,
+        "display": "Spear",
+        "runes": []
+      }
+    ],
+    "money": {
+      "pp": 0,
+      "gp": 15,
+      "sp": 0,
+      "cp": 0
+    },
+    "armor": [],
+    "spellCasters": [
+      {
+        "name": "Sorcerer",
+        "magicTradition": "divine",
+        "spellcastingType": "spontaneous",
+        "ability": "cha",
+        "proficiency": 8,
+        "focusPoints": 0,
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Disrupt Undead",
+              "Haunting Hymn",
+              "Stabilize",
+              "Shield",
+              "Divine Lance",
+              "Daze",
+              "Light"
+            ]
+          },
+          {
+            "spellLevel": 1,
+            "list": [
+              "Bless",
+              "Magic Weapon",
+              "Heal",
+              "Heal"
+            ]
+          },
+          {
+            "spellLevel": 2,
+            "list": [
+              "Dispel Magic",
+              "Silence",
+              "Heal",
+              "Spiritual Weapon"
+            ]
+          },
+          {
+            "spellLevel": 3,
+            "list": [
+              "Rouse Skeletons",
+              "Crisis of Faith",
+              "Remove Disease",
+              "Searing Light"
+            ]
+          },
+          {
+            "spellLevel": 4,
+            "list": [
+              "Stoneskin",
+              "Divine Wrath",
+              "Freedom of Movement",
+              "Divine Wrath"
+            ]
+          },
+          {
+            "spellLevel": 5,
+            "list": [
+              "Breath of Life",
+              "Healing Well",
+              "Heal",
+              "Flame Strike"
+            ]
+          },
+          {
+            "spellLevel": 6,
+            "list": [
+              "Field of Life",
+              "Devil Form",
+              "Heal",
+              "Blade Barrier"
+            ]
+          },
+          {
+            "spellLevel": 7,
+            "list": [
+              "Angel Form",
+              "Plane Shift",
+              "Heal",
+              "Divine Decree"
+            ]
+          },
+          {
+            "spellLevel": 8,
+            "list": [
+              "Moment of Renewal",
+              "Divine Armageddon",
+              "Heal",
+              "Divine Aura"
+            ]
+          },
+          {
+            "spellLevel": 9,
+            "list": [
+              "Weapon of Judgement",
+              "Meteor Swarm",
+              "Massacre",
+              "Heal"
+            ]
+          },
+          {
+            "spellLevel": 10,
+            "list": [
+              "Revival",
+              "Cataclysm"
+            ]
+          }
+        ],
+        "perDay": [
+          5,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          2
+        ]
+      },
+      {
+        "name": "Fiend's Door",
+        "magicTradition": "divine",
+        "spellcastingType": "prepared",
+        "ability": "cha",
+        "proficiency": 8,
+        "focusPoints": 0,
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": []
+          },
+          {
+            "spellLevel": 1,
+            "list": []
+          },
+          {
+            "spellLevel": 2,
+            "list": []
+          },
+          {
+            "spellLevel": 3,
+            "list": []
+          },
+          {
+            "spellLevel": 4,
+            "list": []
+          },
+          {
+            "spellLevel": 5,
+            "list": [
+              "Dimension Door"
+            ]
+          }
+        ],
+        "perDay": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Focus Spells",
+        "magicTradition": "focus",
+        "spellcastingType": "",
+        "ability": "cha",
+        "proficiency": 8,
+        "focusPoints": 3,
+        "spells": [
+          {
+            "spellLevel": 1,
+            "list": [
+              "Angelic Halo"
+            ]
+          },
+          {
+            "spellLevel": 3,
+            "list": [
+              "Angelic Wings"
+            ]
+          },
+          {
+            "spellLevel": 5,
+            "list": [
+              "Celestial Brand"
+            ]
+          }
+        ],
+        "perDay": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "formula": [],
+    "pets": [],
+    "acTotal": {
+      "acProfBonus": 24,
+      "acAbilityBonus": 5,
+      "acItemBonus": 0,
+      "acTotal": 39
+    }
+  }
+}
