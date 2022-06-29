@@ -1,0 +1,1433 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "name": "Celestina",
+        "bio": "",
+        "avatar": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "version_character",
+                "current": 4.5,
+                "max": "",
+                "id": "beb12949bce0850a9e96dad49be8a0f4"
+            },
+            {
+                "name": "name",
+                "current": "Celestina",
+                "max": "",
+                "id": "5bc59d05ff79efacd8e9ebb6493e7ad2"
+            },
+            {
+                "name": "ancestry_heritage",
+                "current": "Human \/ Tiefling",
+                "max": "",
+                "id": "20e72554a347ec879a4a3e6e29eabdb3"
+            },
+            {
+                "name": "deity",
+                "current": "Calistria",
+                "max": "",
+                "id": "27d24152f0321a5282df2e1320f03ea1"
+            },
+            {
+                "name": "class",
+                "current": "Sorcerer",
+                "max": "",
+                "id": "ff6079147f30b7735de7b877a7c24b0a"
+            },
+            {
+                "name": "background",
+                "current": "Academy Dropout",
+                "max": "",
+                "id": "09e358a1e8ef427e71d6a016c924ed9f"
+            },
+            {
+                "name": "alignment",
+                "current": "CN",
+                "max": "",
+                "id": "49ce03465b174dd08da9c0d6f4da2f04"
+            },
+            {
+                "name": "level",
+                "current": 20,
+                "max": "",
+                "id": "0b1e70e427661590724426767d8e28ed"
+            },
+            {
+                "name": "age",
+                "current": "Unknown",
+                "max": "",
+                "id": "f718202c62fe5bd9bcd0bdd96e4e5948"
+            },
+            {
+                "name": "gender_pronouns",
+                "current": "Female",
+                "max": "",
+                "id": "1f5f6d2544d8c6faa2ffbbac5d09f658"
+            },
+            {
+                "name": "repeating_languages_0f87e7ec3dd84b31870cb9f57dfe8446_language",
+                "current": "Abyssal",
+                "max": "",
+                "id": "4677b4f44a84b761b5095bbd05306137"
+            },
+            {
+                "name": "repeating_languages_0f87e7ec3dd84b31870cb9f57dfe8446_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "31d6f1cdb8968a4cad773757273202c4"
+            },
+            {
+                "name": "repeating_languages_11967ce0db8f30f337610859aae87835_language",
+                "current": "Celestial",
+                "max": "",
+                "id": "f51ff30c9437cba7f6504b1abd158cf3"
+            },
+            {
+                "name": "repeating_languages_11967ce0db8f30f337610859aae87835_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "7742ed57e58ca8250094f6138288d9be"
+            },
+            {
+                "name": "repeating_languages_a4c7f3381f38c4fbd18e9437629bf524_language",
+                "current": "Common",
+                "max": "",
+                "id": "d2dfa4340f0b3a676a1a836d9e2e3d09"
+            },
+            {
+                "name": "repeating_languages_a4c7f3381f38c4fbd18e9437629bf524_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "a7f789864357ff3235885c6583029dfb"
+            },
+            {
+                "name": "repeating_languages_4487e8a72685cd68fc02dec12217e796_language",
+                "current": "Infernal",
+                "max": "",
+                "id": "56675ca80597f948062bec52c7eecb40"
+            },
+            {
+                "name": "repeating_languages_4487e8a72685cd68fc02dec12217e796_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "2f51426dcdba606042c192cef92f2683"
+            },
+            {
+                "name": "repeating_languages_fea171ceb0f08838680416a35400e886_language",
+                "current": "Necril",
+                "max": "",
+                "id": "437d742097a9d77aacefbc76885cf7f7"
+            },
+            {
+                "name": "repeating_languages_fea171ceb0f08838680416a35400e886_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "39a1fa4c0c92263355af162f6dd642cd"
+            },
+            {
+                "name": "strength",
+                "current": 10,
+                "max": "",
+                "id": "818e1cab581715510594c23fc33fdeee"
+            },
+            {
+                "name": "strength_score",
+                "current": "10",
+                "max": "",
+                "id": "f2c58bd74c97a2949b09bf21f9b1b4fc"
+            },
+            {
+                "name": "strength_modifier",
+                "current": 0,
+                "max": "",
+                "id": "34ea1bec0f53880f120233bc48fe925e"
+            },
+            {
+                "name": "strength_modifier_half",
+                "current": 0,
+                "max": "",
+                "id": "b9434bbc8193e333b38bda80ad5e5292"
+            },
+            {
+                "name": "dexterity",
+                "current": 20,
+                "max": "",
+                "id": "224ad5cc40c9786bd2a3eb8ca41c68e3"
+            },
+            {
+                "name": "dexterity_score",
+                "current": "20",
+                "max": "",
+                "id": "42e77b8be409f3e38dbee89c07dc184f"
+            },
+            {
+                "name": "dexterity_modifier",
+                "current": 5,
+                "max": "",
+                "id": "44a14da1514ebd7e65dbaf53b8419235"
+            },
+            {
+                "name": "dexterity_modifier_half",
+                "current": 2,
+                "max": "",
+                "id": "29ca272738a8dc9f7f631f8eb7ce1cc2"
+            },
+            {
+                "name": "constitution",
+                "current": 18,
+                "max": "",
+                "id": "7ae6a214a083c74beb41ad93c727d26a"
+            },
+            {
+                "name": "constitution_score",
+                "current": "18",
+                "max": "",
+                "id": "2dc46f15d4c5e865fb1eb3a36ba890da"
+            },
+            {
+                "name": "constitution_modifier",
+                "current": 4,
+                "max": "",
+                "id": "72e47f70ec1f6aa1f0b0f3994ba38ec2"
+            },
+            {
+                "name": "constitution_modifier_half",
+                "current": 2,
+                "max": "",
+                "id": "54bce6552187d5e9a724ac5520547287"
+            },
+            {
+                "name": "intelligence",
+                "current": 16,
+                "max": "",
+                "id": "a4c1fc10dde71e59058b0d3dd6132eac"
+            },
+            {
+                "name": "intelligence_score",
+                "current": "16",
+                "max": "",
+                "id": "5d6af8e1929cb2d78bc78f11be99ef12"
+            },
+            {
+                "name": "intelligence_modifier",
+                "current": 3,
+                "max": "",
+                "id": "b25007a3d9dbbb2028d17eeb5c7ae2c4"
+            },
+            {
+                "name": "intelligence_modifier_half",
+                "current": 1,
+                "max": "",
+                "id": "8199923e5c07347d69d0b3a0dc9fea8f"
+            },
+            {
+                "name": "wisdom",
+                "current": 18,
+                "max": "",
+                "id": "3b1601d3f70fd8c796d4a20148eda949"
+            },
+            {
+                "name": "wisdom_score",
+                "current": "18",
+                "max": "",
+                "id": "ef7630bb4b9c4d6a6621b5334ac389ee"
+            },
+            {
+                "name": "wisdom_modifier",
+                "current": 4,
+                "max": "",
+                "id": "3ed61cc32d856be33b76cf301a1d468e"
+            },
+            {
+                "name": "wisdom_modifier_half",
+                "current": 2,
+                "max": "",
+                "id": "43d8b7547ebceb60bc7f14b6da9ccd2b"
+            },
+            {
+                "name": "charisma",
+                "current": 22,
+                "max": "",
+                "id": "93472d2e7e8e1acde497c713037d70a2"
+            },
+            {
+                "name": "charisma_score",
+                "current": "22",
+                "max": "",
+                "id": "e093d9246435b57f8bf80e17375c0b7a"
+            },
+            {
+                "name": "charisma_modifier",
+                "current": 6,
+                "max": "",
+                "id": "b8be9d462d8a6feb73ccc729c8d234a7"
+            },
+            {
+                "name": "charisma_modifier_half",
+                "current": 3,
+                "max": "",
+                "id": "5f8461c1a57e1291c058bf276398f03e"
+            },
+            {
+                "name": "acrobatics",
+                "current": 29,
+                "max": "",
+                "id": "df472225bbe77afa848fa21f583560fd"
+            },
+            {
+                "name": "acrobatics_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "c2121597d312cd77e60cc51c1ecb6017"
+            },
+            {
+                "name": "acrobatics_proficiency",
+                "current": 24,
+                "max": "",
+                "id": "45c88b24d36b5a608e96afffad051b93"
+            },
+            {
+                "name": "acrobatics_item",
+                "current": 0,
+                "max": "",
+                "id": "7824f714b424bc2b4862fa8de16c97f5"
+            },
+            {
+                "name": "acrobatics_temporary",
+                "current": "0",
+                "max": "",
+                "id": "655651554509ce66000c261c10bea102"
+            },
+            {
+                "name": "acrobatics_armor",
+                "current": "0",
+                "max": "",
+                "id": "9c379c89786b40689381f11d88fe97eb"
+            },
+            {
+                "name": "acrobatics_rank",
+                "current": 4,
+                "max": "",
+                "id": "f8c197cdeb1c3e32b40047bb53db617c"
+            },
+            {
+                "name": "acrobatics_ability",
+                "current": 5,
+                "max": "",
+                "id": "2e33c6ddd53bd0cbb32b67f4a7e75d13"
+            },
+            {
+                "name": "acrobatics_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "075282212eb2daa95add74cf2d73d51e"
+            },
+            {
+                "name": "arcana",
+                "current": 25,
+                "max": "",
+                "id": "08927de0fed254b05cd40321a4d715b8"
+            },
+            {
+                "name": "arcana_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "41fcb6967fb0df7965748835019773ba"
+            },
+            {
+                "name": "arcana_proficiency",
+                "current": 22,
+                "max": "",
+                "id": "df8b70c1552144a447fa08beaf005033"
+            },
+            {
+                "name": "arcana_item",
+                "current": 0,
+                "max": "",
+                "id": "10a4a56744530ddc19f81c0366e0def3"
+            },
+            {
+                "name": "arcana_temporary",
+                "current": "0",
+                "max": "",
+                "id": "7c46ce6903c49b7e48a1aeef7fe3e851"
+            },
+            {
+                "name": "arcana_armor",
+                "current": "0",
+                "max": "",
+                "id": "45869a6809542dcec5c8bf26c00830d7"
+            },
+            {
+                "name": "arcana_rank",
+                "current": 2,
+                "max": "",
+                "id": "e0704f4983a18436693954dcbd755776"
+            },
+            {
+                "name": "arcana_ability",
+                "current": 3,
+                "max": "",
+                "id": "87b34737565baa33945c7b5f338a0e7c"
+            },
+            {
+                "name": "arcana_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "1efda1f2a908227dc9dd4735ebe34011"
+            },
+            {
+                "name": "athletics",
+                "current": 20,
+                "max": "",
+                "id": "5adfbf3f83aa12a0616f02f39a271706"
+            },
+            {
+                "name": "athletics_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "c821f318cf4c14071750d5797d8e1388"
+            },
+            {
+                "name": "athletics_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "735ea84d906e2fa85ca49d8ed10b78ca"
+            },
+            {
+                "name": "athletics_item",
+                "current": 20,
+                "max": "",
+                "id": "6407ba698a235d896cadcc2cb8769e6a"
+            },
+            {
+                "name": "athletics_temporary",
+                "current": "0",
+                "max": "",
+                "id": "55d785f72b999b6c198b6fe9f600a827"
+            },
+            {
+                "name": "athletics_armor",
+                "current": "0",
+                "max": "",
+                "id": "a7c31039981354e89b603eca0176c8d5"
+            },
+            {
+                "name": "athletics_rank",
+                "current": 0,
+                "max": "",
+                "id": "4be7b502ddb7e898551c0c080f72e08a"
+            },
+            {
+                "name": "athletics_ability",
+                "current": 0,
+                "max": "",
+                "id": "38468a8c181a22632528df90ad4297c5"
+            },
+            {
+                "name": "athletics_ability_select",
+                "current": "@{strength_modifier}",
+                "max": "",
+                "id": "cbdda93bb6bd6dd9e90e65f0e9b5fabe"
+            },
+            {
+                "name": "crafting",
+                "current": 23,
+                "max": "",
+                "id": "3478968dcc8f8ed5c12b09b19c31d30f"
+            },
+            {
+                "name": "crafting_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "d1c6c8b6149806e7750165380a2375e9"
+            },
+            {
+                "name": "crafting_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "d81e9cc81a6bbafe1f8b876968c869d7"
+            },
+            {
+                "name": "crafting_item",
+                "current": 20,
+                "max": "",
+                "id": "6cbda88e11c9444d4edbc0fa50716d16"
+            },
+            {
+                "name": "crafting_temporary",
+                "current": "0",
+                "max": "",
+                "id": "5aae79905d299335fadc1ef3c87f1492"
+            },
+            {
+                "name": "crafting_armor",
+                "current": "0",
+                "max": "",
+                "id": "95b86bee04b61af9deb5cf7c2f6d56bb"
+            },
+            {
+                "name": "crafting_rank",
+                "current": 0,
+                "max": "",
+                "id": "0515f53b332a3f688b6cf725ca60c153"
+            },
+            {
+                "name": "crafting_ability",
+                "current": 3,
+                "max": "",
+                "id": "f2c401d36e9906c745809584e0501b6f"
+            },
+            {
+                "name": "crafting_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "e5362f070d5aaf40c915d692ca9698a0"
+            },
+            {
+                "name": "deception",
+                "current": 34,
+                "max": "",
+                "id": "3c85447ff7030b4ffff83d00cc7502c1"
+            },
+            {
+                "name": "deception_proficiency_display",
+                "current": "L",
+                "max": "",
+                "id": "aebfd0d708965c78aaa916d6afac3146"
+            },
+            {
+                "name": "deception_proficiency",
+                "current": 28,
+                "max": "",
+                "id": "78fb424e142250b92de7c94c27f7c33b"
+            },
+            {
+                "name": "deception_item",
+                "current": 0,
+                "max": "",
+                "id": "ab34135d8bb1aeeb7dfc2580be67c266"
+            },
+            {
+                "name": "deception_temporary",
+                "current": "0",
+                "max": "",
+                "id": "1290e186181b3e9f2491fa090312f762"
+            },
+            {
+                "name": "deception_armor",
+                "current": "0",
+                "max": "",
+                "id": "a1265baed97d070c2e1fc3d7313a69f8"
+            },
+            {
+                "name": "deception_rank",
+                "current": 8,
+                "max": "",
+                "id": "72b176a641ef44242ee4b909859f2087"
+            },
+            {
+                "name": "deception_ability",
+                "current": 6,
+                "max": "",
+                "id": "f8dc179ee0cc009e3b868d645e132303"
+            },
+            {
+                "name": "deception_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "744c5db61ee99c913d18b8e996f45fd9"
+            },
+            {
+                "name": "diplomacy",
+                "current": 32,
+                "max": "",
+                "id": "54314667b77a1ff484a9c5870082b628"
+            },
+            {
+                "name": "diplomacy_proficiency_display",
+                "current": "M",
+                "max": "",
+                "id": "3edfeaede3eaa42cd15635f9c8608adf"
+            },
+            {
+                "name": "diplomacy_proficiency",
+                "current": 26,
+                "max": "",
+                "id": "76d6e9c9209f378ff0a1c4bc3fe48367"
+            },
+            {
+                "name": "diplomacy_item",
+                "current": 0,
+                "max": "",
+                "id": "eea638c43a341cf875759dfef238bca1"
+            },
+            {
+                "name": "diplomacy_temporary",
+                "current": "0",
+                "max": "",
+                "id": "ef79e1a09dd3201b71d6e34d46e30617"
+            },
+            {
+                "name": "diplomacy_armor",
+                "current": "0",
+                "max": "",
+                "id": "61c36129b2ae29130b6ecb817b26e4cb"
+            },
+            {
+                "name": "diplomacy_rank",
+                "current": 6,
+                "max": "",
+                "id": "15ea8b97de92db376def970d837edf01"
+            },
+            {
+                "name": "diplomacy_ability",
+                "current": 6,
+                "max": "",
+                "id": "9e4c2878e3e73fa9c31f7d4accfc7ed0"
+            },
+            {
+                "name": "diplomacy_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "257fc7f968e3ccc576df3fcd18516fae"
+            },
+            {
+                "name": "intimidation",
+                "current": 28,
+                "max": "",
+                "id": "c164b804a5d3a103c3ff9e9376532ff3"
+            },
+            {
+                "name": "intimidation_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "a2acc5aabccabd84d4025b789ed3b80f"
+            },
+            {
+                "name": "intimidation_proficiency",
+                "current": 22,
+                "max": "",
+                "id": "3f8dd809871503f3cc2a8db434feb822"
+            },
+            {
+                "name": "intimidation_item",
+                "current": 0,
+                "max": "",
+                "id": "3bb77ac122299b3b9acdd27c062a5eff"
+            },
+            {
+                "name": "intimidation_temporary",
+                "current": "0",
+                "max": "",
+                "id": "ec84d38c4fc8ad2251873b4f7e9afc11"
+            },
+            {
+                "name": "intimidation_armor",
+                "current": "0",
+                "max": "",
+                "id": "f8a089ef7ec48fc0a074928fa27d16b5"
+            },
+            {
+                "name": "intimidation_rank",
+                "current": 2,
+                "max": "",
+                "id": "04094dc3db8475f6e92bd7d4cd261ab9"
+            },
+            {
+                "name": "intimidation_ability",
+                "current": 6,
+                "max": "",
+                "id": "be0bcd78fa4f859ef4c118be54da0b0a"
+            },
+            {
+                "name": "intimidation_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "361f6d0d4e0dc4f0a4c81820e09db50b"
+            },
+            {
+                "name": "medicine",
+                "current": 24,
+                "max": "",
+                "id": "ec9c141a71681293b698ec9aeaa252cf"
+            },
+            {
+                "name": "medicine_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "afc89dd35bd87feaf66ef7917e7944e7"
+            },
+            {
+                "name": "medicine_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "9b0474be8d32369593ddbab3d5ed39c1"
+            },
+            {
+                "name": "medicine_item",
+                "current": 20,
+                "max": "",
+                "id": "d60e17886d016d31ed5cab5f7db82545"
+            },
+            {
+                "name": "medicine_temporary",
+                "current": "0",
+                "max": "",
+                "id": "7d75155db2d2e061dd1dbd81b692e807"
+            },
+            {
+                "name": "medicine_armor",
+                "current": "0",
+                "max": "",
+                "id": "9592760405351b7f138a419a46b840f1"
+            },
+            {
+                "name": "medicine_rank",
+                "current": 0,
+                "max": "",
+                "id": "ddb1c86e7a61aab8621e22ea3f19a585"
+            },
+            {
+                "name": "medicine_ability",
+                "current": 4,
+                "max": "",
+                "id": "3e4225ebfe93f6e56e2f9ffb65473c5b"
+            },
+            {
+                "name": "medicine_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "2742172b3c743f76dab0b090fea34b2c"
+            },
+            {
+                "name": "nature",
+                "current": 24,
+                "max": "",
+                "id": "fd45bd5425de837d933ad1211f54d95d"
+            },
+            {
+                "name": "nature_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "e3a63ffbde15bb0bc4e431b8445d8da9"
+            },
+            {
+                "name": "nature_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "275b2ca41f4bd45c1113ae97c0757e17"
+            },
+            {
+                "name": "nature_item",
+                "current": 20,
+                "max": "",
+                "id": "9a7ece2779a2cb35d1fe9a9a7daefed9"
+            },
+            {
+                "name": "nature_temporary",
+                "current": "0",
+                "max": "",
+                "id": "2bb0f5074f336e68a3ead756915126e0"
+            },
+            {
+                "name": "nature_armor",
+                "current": "0",
+                "max": "",
+                "id": "a59c5f874cb598a5c3b1c014cd68ff99"
+            },
+            {
+                "name": "nature_rank",
+                "current": 0,
+                "max": "",
+                "id": "d239fcebef026f4a6d5d6e1e2a221be3"
+            },
+            {
+                "name": "nature_ability",
+                "current": 4,
+                "max": "",
+                "id": "13417fc68728d5f9d3c067efa5b10959"
+            },
+            {
+                "name": "nature_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "067b35fa39fde943def3362af1609d41"
+            },
+            {
+                "name": "occultism",
+                "current": 25,
+                "max": "",
+                "id": "cc2ca2305fa3de64587d39b96c2fe0ba"
+            },
+            {
+                "name": "occultism_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "14cae3ce654fedeabddb098747a49427"
+            },
+            {
+                "name": "occultism_proficiency",
+                "current": 22,
+                "max": "",
+                "id": "3ed36b1a9ddf320c0f47e8e64ab61569"
+            },
+            {
+                "name": "occultism_item",
+                "current": 0,
+                "max": "",
+                "id": "69ef844051917795449ee1795f0c82f0"
+            },
+            {
+                "name": "occultism_temporary",
+                "current": "0",
+                "max": "",
+                "id": "fbce955c03061a03a26e502f54b4843d"
+            },
+            {
+                "name": "occultism_armor",
+                "current": "0",
+                "max": "",
+                "id": "47fdb1915c50433b90bd74676cb161bf"
+            },
+            {
+                "name": "occultism_rank",
+                "current": 2,
+                "max": "",
+                "id": "24d080b84afb85edc73cc94a37bfd233"
+            },
+            {
+                "name": "occultism_ability",
+                "current": 3,
+                "max": "",
+                "id": "81de870850dd663e816487ec1d7e7128"
+            },
+            {
+                "name": "occultism_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "e2867715807cc3708891e092c78cfed7"
+            },
+            {
+                "name": "performance",
+                "current": 28,
+                "max": "",
+                "id": "f6c04109233998be6c0b831a2f7476f7"
+            },
+            {
+                "name": "performance_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "e94ee23473046d44adcef77bfc944bbf"
+            },
+            {
+                "name": "performance_proficiency",
+                "current": 22,
+                "max": "",
+                "id": "f24ef0299b5e45ecfe7caf1d6beac903"
+            },
+            {
+                "name": "performance_item",
+                "current": 0,
+                "max": "",
+                "id": "7b30d2e26eb2f342323e1fb08d696a31"
+            },
+            {
+                "name": "performance_temporary",
+                "current": "0",
+                "max": "",
+                "id": "12d34c41dafc6cc138c27719b3291c55"
+            },
+            {
+                "name": "performance_armor",
+                "current": "0",
+                "max": "",
+                "id": "1655a6b5f420628b0b16e77d0f10aa6d"
+            },
+            {
+                "name": "performance_rank",
+                "current": 2,
+                "max": "",
+                "id": "c4b375df415b7a0f574aa8728da1eb8d"
+            },
+            {
+                "name": "performance_ability",
+                "current": 6,
+                "max": "",
+                "id": "83a66458e31d1009367b1c63e8abf0b1"
+            },
+            {
+                "name": "performance_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "b716a0a18c00922400a72500b42b194d"
+            },
+            {
+                "name": "religion",
+                "current": 32,
+                "max": "",
+                "id": "b6861b8d0d3840059ace00e9bf4f6094"
+            },
+            {
+                "name": "religion_proficiency_display",
+                "current": "L",
+                "max": "",
+                "id": "f2d2123ac76955fe450f72ef02783bf0"
+            },
+            {
+                "name": "religion_proficiency",
+                "current": 28,
+                "max": "",
+                "id": "9d9ba114d5b385642f0ed4e99a6f4c17"
+            },
+            {
+                "name": "religion_item",
+                "current": 0,
+                "max": "",
+                "id": "237df67e82b7f8931756b2fd5c4867ed"
+            },
+            {
+                "name": "religion_temporary",
+                "current": "0",
+                "max": "",
+                "id": "fffecb0ca25ddf7556a7914b17140988"
+            },
+            {
+                "name": "religion_armor",
+                "current": "0",
+                "max": "",
+                "id": "f464a2f15055e65d40c7e7a71480bf83"
+            },
+            {
+                "name": "religion_rank",
+                "current": 8,
+                "max": "",
+                "id": "386a6d2def0ff1581772e9f1912c8d26"
+            },
+            {
+                "name": "religion_ability",
+                "current": 4,
+                "max": "",
+                "id": "45e98588339445c07d3f4c14d9312971"
+            },
+            {
+                "name": "religion_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "88eaf60b3ec83d39e9c55bbd2b7b4252"
+            },
+            {
+                "name": "society",
+                "current": 23,
+                "max": "",
+                "id": "ff60997d53f699f2f7b72260c1338971"
+            },
+            {
+                "name": "society_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "5b18bf290653d2e206507e4b03c7f188"
+            },
+            {
+                "name": "society_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "4181da7402853f4528a347e21da1deca"
+            },
+            {
+                "name": "society_item",
+                "current": 20,
+                "max": "",
+                "id": "80e9091670818b858f74e6ed9fce2bba"
+            },
+            {
+                "name": "society_temporary",
+                "current": "0",
+                "max": "",
+                "id": "9390fe028fef2ffa6ff644438fba69e8"
+            },
+            {
+                "name": "society_armor",
+                "current": "0",
+                "max": "",
+                "id": "d10fca1475d361ffb3f65f5c6890e4c3"
+            },
+            {
+                "name": "society_rank",
+                "current": 0,
+                "max": "",
+                "id": "b2a918d217805db50ec4a55952eb1706"
+            },
+            {
+                "name": "society_ability",
+                "current": 3,
+                "max": "",
+                "id": "38960673f5b2010a826b03dffc3e9419"
+            },
+            {
+                "name": "society_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "bfb9b69e5cecefa0db6e0357faf6b8da"
+            },
+            {
+                "name": "stealth",
+                "current": 25,
+                "max": "",
+                "id": "da0e22995782054fa968cab97c909e7d"
+            },
+            {
+                "name": "stealth_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "1e08858d47940b8820ca90dec9ce32ae"
+            },
+            {
+                "name": "stealth_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "8ebb99a0f0a12deca669713d2146befd"
+            },
+            {
+                "name": "stealth_item",
+                "current": 20,
+                "max": "",
+                "id": "6162ffcbd9a0b7b49467428732b7d691"
+            },
+            {
+                "name": "stealth_temporary",
+                "current": "0",
+                "max": "",
+                "id": "8afb170354568246b01e14e2dfb715c2"
+            },
+            {
+                "name": "stealth_armor",
+                "current": "0",
+                "max": "",
+                "id": "f8838707e690cd749bb2ff2625e487f8"
+            },
+            {
+                "name": "stealth_rank",
+                "current": 0,
+                "max": "",
+                "id": "fc59a9dccede480b4f30f6507e945afc"
+            },
+            {
+                "name": "stealth_ability",
+                "current": 5,
+                "max": "",
+                "id": "2fd4c23e8f96c97dee408c007afc35ca"
+            },
+            {
+                "name": "stealth_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "7be31dff74f8b13570584ec0bf06b25a"
+            },
+            {
+                "name": "survival",
+                "current": 24,
+                "max": "",
+                "id": "c11c4670360c279bdce40acaa2f07c39"
+            },
+            {
+                "name": "survival_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "012e31a1fd5eab00ddbfc93415f2a0a3"
+            },
+            {
+                "name": "survival_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "91b29fef983a4e1d6201625d696359d4"
+            },
+            {
+                "name": "survival_item",
+                "current": 20,
+                "max": "",
+                "id": "a4f3885f5141ad58d5ea06fc66637e91"
+            },
+            {
+                "name": "survival_temporary",
+                "current": "0",
+                "max": "",
+                "id": "d05ef25ab0d4424e54c7615fb380faba"
+            },
+            {
+                "name": "survival_armor",
+                "current": "0",
+                "max": "",
+                "id": "c572965b25445dfecea6a5d9469a9581"
+            },
+            {
+                "name": "survival_rank",
+                "current": 0,
+                "max": "",
+                "id": "9e9e287880d57f2d5ce8160458862607"
+            },
+            {
+                "name": "survival_ability",
+                "current": 4,
+                "max": "",
+                "id": "c183c22002ce3fe31c3b6ccb6eae70eb"
+            },
+            {
+                "name": "survival_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "a7c1d20d08c4a8d0b8cded7ac4b866a2"
+            },
+            {
+                "name": "thievery",
+                "current": 25,
+                "max": "",
+                "id": "09a04efae068f3cdbde99e154b2985b0"
+            },
+            {
+                "name": "thievery_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "f1448b7c873d9843d7ddedf6fb369b66"
+            },
+            {
+                "name": "thievery_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "0dfd8a440978d4de2b549eaeb9867149"
+            },
+            {
+                "name": "thievery_item",
+                "current": 20,
+                "max": "",
+                "id": "bb17e5d741af2d10c85b81e8d339b1fd"
+            },
+            {
+                "name": "thievery_temporary",
+                "current": "0",
+                "max": "",
+                "id": "4eced97e6cd680af19b8773d60bd1c63"
+            },
+            {
+                "name": "thievery_armor",
+                "current": "0",
+                "max": "",
+                "id": "b20b5d83790a54a12580de4385b6e3d3"
+            },
+            {
+                "name": "thievery_rank",
+                "current": 0,
+                "max": "",
+                "id": "d611544314528d1bed1cc3cb9a3ba48c"
+            },
+            {
+                "name": "thievery_ability",
+                "current": 5,
+                "max": "",
+                "id": "9d6ccd41074776b6fe73575a11c571d8"
+            },
+            {
+                "name": "thievery_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "b089877527c5bd8ace6f2a1f3858f526"
+            },
+            {
+                "name": "weapon_proficiencies_simple_rank",
+                "current": 4,
+                "max": "",
+                "id": "5d8eb850f44eec20e63673c622962762"
+            },
+            {
+                "name": "weapon_proficiencies_martial_rank",
+                "current": 0,
+                "max": "",
+                "id": "6548d68214df0877ad327d580eab3170"
+            },
+            {
+                "name": "repeating_weapon-proficiencies_6b01279c31e1e2b3b04790428094af59_weapon_proficiencies_other",
+                "current": "Unarmed",
+                "max": "",
+                "id": "1fe79c000b68e9af4207a39c9836637e"
+            },
+            {
+                "name": "repeating_weapon-proficiencies_6b01279c31e1e2b3b04790428094af59_weapon_proficiencies_other_rank",
+                "current": "4",
+                "max": "",
+                "id": "e89d88eb27c55fba5e3a7d308cb30661"
+            },
+            {
+                "name": "armor_class_unarmored_rank",
+                "current": 4,
+                "max": "",
+                "id": "4a953c7dff0f08291f7a69c67099354d"
+            },
+            {
+                "name": "armor_class_light_rank",
+                "current": 0,
+                "max": "",
+                "id": "687b6ca0a253c407104b3b33dcad265a"
+            },
+            {
+                "name": "armor_class_medium_rank",
+                "current": 0,
+                "max": "",
+                "id": "cacaa875e3c74431887d66032c1db6bd"
+            },
+            {
+                "name": "armor_class_heavy_rank",
+                "current": 0,
+                "max": "",
+                "id": "3011d4afbaec96b66faa3c52b9803d90"
+            },
+            {
+                "name": "saving_throws_fortitude",
+                "current": 28,
+                "max": "",
+                "id": "ca0ceba73903c1c345061c8ce427ebc0"
+            },
+            {
+                "name": "saving_throws_fortitude_proficiency",
+                "current": 24,
+                "max": "",
+                "id": "df149280e7a148c4e1961ec5ffc75565"
+            },
+            {
+                "name": "saving_throws_fortitude_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "900514ef3a0bb042e53d302325d773fc"
+            },
+            {
+                "name": "saving_throws_fortitude_rank",
+                "current": 4,
+                "max": "",
+                "id": "fdd6e10da4eee6c79f3d4a0f4749180e"
+            },
+            {
+                "name": "saving_throws_fortitude_ability_select",
+                "current": "@{constitution_modifier}",
+                "max": "",
+                "id": "0b8b08bb32dedc896046bcc77b5f9443"
+            },
+            {
+                "name": "saving_throws_reflex",
+                "current": 29,
+                "max": "",
+                "id": "84c8afe96dd904c951e291585e251eeb"
+            },
+            {
+                "name": "saving_throws_reflex_proficiency",
+                "current": 24,
+                "max": "",
+                "id": "543a91df296b32785f3b84c258197560"
+            },
+            {
+                "name": "saving_throws_reflex_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "50776713b1f487bbeef923c556b49807"
+            },
+            {
+                "name": "saving_throws_reflex_rank",
+                "current": 4,
+                "max": "",
+                "id": "61cc3604578b472a0e4bf124e7b8ea96"
+            },
+            {
+                "name": "saving_throws_reflex_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "547e74195793e75e660d0b40682e7844"
+            },
+            {
+                "name": "saving_throws_will",
+                "current": 24,
+                "max": "",
+                "id": "e47310f635ff620fce5554a4cd31a86f"
+            },
+            {
+                "name": "saving_throws_will_proficiency",
+                "current": 26,
+                "max": "",
+                "id": "e6b128b31b219f5138174eb3265951a2"
+            },
+            {
+                "name": "saving_throws_will_proficiency_display",
+                "current": "M",
+                "max": "",
+                "id": "327a0cbf5298e5945817939f3d0f1035"
+            },
+            {
+                "name": "saving_throws_will_rank",
+                "current": 6,
+                "max": "",
+                "id": "ec9c299a94b94e944bc9f229dc82da42"
+            },
+            {
+                "name": "saving_throws_will_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "cf70d73449c990619510297c6ab8d411"
+            },
+            {
+                "name": "perception",
+                "current": 30,
+                "max": "",
+                "id": "ac399d2b980631f45918925aac1bd87a"
+            },
+            {
+                "name": "perception_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "eb7d2c1ab412ebf24f264bb25e9e674e"
+            },
+            {
+                "name": "perception_proficiency",
+                "current": 24,
+                "max": "",
+                "id": "dbdf0a493c37d531c795c3ecf22bca3c"
+            },
+            {
+                "name": "perception_item",
+                "current": 2,
+                "max": "",
+                "id": "d3a669debb2bd666991ec35af87e04b1"
+            },
+            {
+                "name": "perception_temporary",
+                "current": "0",
+                "max": "",
+                "id": "ebecd9bbfac07cbf2ceb37f49f084bfd"
+            },
+            {
+                "name": "perception_rank",
+                "current": 4,
+                "max": "",
+                "id": "2df36b17fb9ede9b44cc0605a8709585"
+            },
+            {
+                "name": "class_dc",
+                "current": 44,
+                "max": "",
+                "id": "5d58d8aa0dec1f307ac46540057aed55"
+            },
+            {
+                "name": "class_dc_rank",
+                "current": 8,
+                "max": "",
+                "id": "b8d79b8e62058ad23b4aeff1519b11a2"
+            },
+            {
+                "name": "class_dc_proficiency_display",
+                "current": "L",
+                "max": "",
+                "id": "0b870b6249c1da84d2ac75feb37a68f5"
+            },
+            {
+                "name": "class_dc_proficiency",
+                "current": 28,
+                "max": "",
+                "id": "cbeeb6a8846790621fab7f173a8bf9c9"
+            },
+            {
+                "name": "class_dc_key_ability",
+                "current": 6,
+                "max": "",
+                "id": "786776d45e60f8d4da4ace0ddbcebd6a"
+            },
+            {
+                "name": "class_dc_key_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "e2e22949ea24545e6356ba1a366d711a"
+            },
+            {
+                "name": "ac",
+                "current": 39,
+                "max": "",
+                "id": "3b5d37d64a11b027026e562fab40fd1c"
+            },
+            {
+                "name": "armor_class",
+                "current": 39,
+                "max": "",
+                "id": "a711dc152ea69bee2b98ff763eecb921"
+            },
+            {
+                "name": "armor_class_ability",
+                "current": 5,
+                "max": "",
+                "id": "72697533693ef8d221a13cca30914a75"
+            },
+            {
+                "name": "armor_class_rank",
+                "current": 4,
+                "max": "",
+                "id": "86007d6bc009544e8b810809896a7aca"
+            },
+            {
+                "name": "armor_class_proficiency",
+                "current": 24,
+                "max": "",
+                "id": "ef217f3683daa5d5b89712ed13fe57cc"
+            },
+            {
+                "name": "armor_class_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "0122eb2ea3a2f20f1e0467ecc642fb96"
+            },
+            {
+                "name": "armor_class_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "19a05b91c543b8bb67764707dba7a53b"
+            },
+            {
+                "name": "hit_points",
+                "current": 228,
+                "max": "",
+                "id": "6919e7325401216880d5aa2b769d95d9"
+            },
+            {
+                "name": "hit_points_max",
+                "current": 228,
+                "max": "",
+                "id": "d301233fa44afb0c6ee37093906e6b2b"
+            },
+            {
+                "name": "hit_points_class",
+                "current": 7,
+                "max": "",
+                "id": "56c233b1be097cf0cb08180c5130cd69"
+            },
+            {
+                "name": "hit_points_ancestry",
+                "current": 8,
+                "max": "",
+                "id": "1fbe03b9b1ba65d7b45d0b7e2f16d300"
+            },
+            {
+                "name": "hit_points_notes",
+                "current": "Toughness Figured Into Class HP Attribute",
+                "max": "",
+                "id": "200733e344ea94a8802456fb520ca0aa"
+            },
+            {
+                "name": "speed",
+                "current": 30,
+                "max": "",
+                "id": "f814fc246c42d47efc870ff998c87480"
+            }
+        ],
+        "abilities": []
+    }
+}
