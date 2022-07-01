@@ -7,7 +7,7 @@
         "Dwarf"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your intractable nature can help you shrug off even the most grievous injuries.",
     "description": "Your intractable nature can help you shrug off even the most grievous injuries. Attempt a DC 17 flat check. If you are successful, the attack becomes a normal hit.Traits\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
     "economy": "reaction",

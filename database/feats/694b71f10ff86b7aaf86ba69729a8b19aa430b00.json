@@ -7,7 +7,7 @@
         "Summoner"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You buffer your eidolon.",
     "description": "You buffer your eidolon. You gain the reinforce eidolon link cantrip.",
     "economy": "none",

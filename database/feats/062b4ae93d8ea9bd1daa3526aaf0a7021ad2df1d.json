@@ -7,7 +7,7 @@
         "Investigator"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your mind works through clues at an unbelievable speed.",
     "description": "Your mind works through clues at an unbelievable speed. You instantly use up to five Recall Knowledge actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can't use them for these actions.",
     "economy": "1-action",

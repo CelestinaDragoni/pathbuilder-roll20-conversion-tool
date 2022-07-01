@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn the ode to ouroboros composition spell, which enables you to temporarily spare your allies from death.",
     "description": "You learn the ode to ouroboros composition spell, which enables you to temporarily spare your allies from death.",
     "economy": "none",

@@ -7,7 +7,7 @@
         "Strix"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can commune with ancestor spirits to assume the form of an enormous primeval strix.",
     "description": "You can commune with ancestor spirits to assume the form of an enormous primeval strix. You can cast 5th-level aerial form as a primal innate spell once per day, but you take the form of a primeval strix, using the statistics for a bird form.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
     "economy": "none",

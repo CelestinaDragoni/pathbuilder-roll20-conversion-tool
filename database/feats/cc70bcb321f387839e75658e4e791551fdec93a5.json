@@ -7,7 +7,7 @@
         "Alchemist"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have enhanced the formulas for your mutagens, aligning them perfectly to your physiology.",
     "description": "You have enhanced the formulas for your mutagens, aligning them perfectly to your physiology. When under the effect of a mutagen you crafted, you do not suffer its drawback.",
     "economy": "none",

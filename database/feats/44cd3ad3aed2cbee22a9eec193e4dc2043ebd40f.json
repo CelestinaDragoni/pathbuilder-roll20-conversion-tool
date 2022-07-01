@@ -7,7 +7,7 @@
         "Half-Orc"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Many consider half-orcs little more than dumb brutes.",
     "description": "Many consider half-orcs little more than dumb brutes. This is offensive to you, but it can occasionally be useful. You are trained in Deception (or another skill of your choice if you were already trained in Deception), and you gain a +2 circumstance bonus to Deception checks to Lie when specifically claiming ignorance and to Deception DCs against Sense Motive checks to uncover such lies.Traits\n\nHalf-Orc: A creature with this trait is part human and part orc. An ability with this trait can be used or selected only by half-orcs.",
     "economy": "none",

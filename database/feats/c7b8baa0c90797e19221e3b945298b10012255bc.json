@@ -7,7 +7,7 @@
         "Skeleton"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You rearrange your bones into a bestial shape.",
     "description": "You rearrange your bones into a bestial shape. Once per day, you can cast animal form as a divine innate spell. When you cast it, you choose the spell's level: 3rd, 4th, or 5th. Your battle form looks like a skeletal version of the animal. In this form, you retain the benefits of any skeleton feats that do not require the use of hands or the ability to communicate.Traits\n\nSkeleton: This undead is made by animating a dead creature’s skeleton with negative energy.",
     "economy": "none",

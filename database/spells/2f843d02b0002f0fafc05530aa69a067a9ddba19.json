@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "1 object of Bulk 1 or less",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

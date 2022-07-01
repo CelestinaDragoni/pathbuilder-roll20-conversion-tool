@@ -105,6 +105,7 @@ class Document
             'target'        => '',
             'duration'      => '',
             'saving'        => '',
+            'school'        => '',
         ];
     }
 }

@@ -8,7 +8,7 @@
         "Wizard"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Altering your spells doesn’t take any longer than casting them normally.",
     "description": "Altering your spells doesn’t take any longer than casting them normally. You can use metamagic single actions as free actions.",
     "economy": "none",

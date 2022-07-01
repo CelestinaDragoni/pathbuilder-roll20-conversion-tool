@@ -27,5 +27,6 @@
     "range": "1 mile",
     "target": "one of your animal companions you can percieve",
     "duration": "sustained up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

@@ -7,7 +7,7 @@
         "Halfling"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Halflings have been unobtrusive assistants of larger folk for untold ages, and your people count on this assumption of innocence.",
     "description": "Halflings have been unobtrusive assistants of larger folk for untold ages, and your people count on this assumption of innocence. You gain the trained proficiency rank in Deception (or another skill of your choice, if you’re already trained in Deception). If you fail a Deception check to Create a Diversion, humanoid creatures aren’t aware that you were trying to trick them unless you get a critical failure on your roll.Traits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
     "economy": "none",

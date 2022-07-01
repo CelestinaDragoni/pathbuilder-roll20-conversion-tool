@@ -7,7 +7,7 @@
         "General"
     ],
     "level": 3,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Improve bonuses when you Follow the Expert.",
     "description": "Your keen observation of your allies has made you better at following their lead. When using the Follow the Expert activity in exploration mode, you gain a +3 circumstance bonus if the ally you are following is an expert and a +4 circumstance bonus if your ally is a master.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
     "economy": "none",

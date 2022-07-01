@@ -7,7 +7,7 @@
         "Undine"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You channel the magic of marids.",
     "description": "You channel the magic of marids. You can cast hydraulic push and obscuring mist each once per day as 2nd-level arcane innate spells.Traits\n\nUndine: Undines are planar scions descended from marids.",
     "economy": "none",

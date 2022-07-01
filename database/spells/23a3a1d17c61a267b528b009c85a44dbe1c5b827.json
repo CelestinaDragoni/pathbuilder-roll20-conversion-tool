@@ -23,5 +23,6 @@
     "range": "",
     "target": "the creature you hit",
     "duration": "2 rounds",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

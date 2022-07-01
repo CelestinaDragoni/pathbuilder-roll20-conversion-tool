@@ -7,7 +7,7 @@
         "Witch"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You embody the link to your patron so completely that you can cast your hexes in rapid succession.",
     "description": "You embody the link to your patron so completely that you can cast your hexes in rapid succession. You are no longer limited to casting only a single hex each turn. In addition, when you cast cackle to sustain a hex, you gain the effects of Sustain a Spell for all your active hexes that have a duration of sustained.",
     "economy": "none",

@@ -8,7 +8,7 @@
         "Tiefling"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "One of your ancestors was a rakshasa, the corrupt and aristocratic reincarnated souls that call Golarion home.",
     "description": "One of your ancestors was a rakshasa, the corrupt and aristocratic reincarnated souls that call Golarion home. You have some dim echo of your ancestor's memories— enough to play the role of noble as needed, no matter your origins. You're trained in Society. If you're already trained in Society (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the Courtly Graces skill feat.Beastbrood Leads To...\n\nRakshasa MagicTraitsLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
     "economy": "none",

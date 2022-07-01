@@ -7,7 +7,7 @@
         "Poppet"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces.",
     "description": "Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces. You gain a climb Speed of 15 feet.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
     "economy": "none",

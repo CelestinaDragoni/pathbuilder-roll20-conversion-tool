@@ -7,7 +7,7 @@
         "Beastkin"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have mastered how to hunt with your pack.",
     "description": "You have mastered how to hunt with your pack. If an enemy is within reach of you and at least two of your allies, that enemy is flat-footed against you.Traits\n\nBeastkin: Humanoids that can partially or fully transform into animal forms.",
     "economy": "none",

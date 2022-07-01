@@ -27,5 +27,6 @@
     "range": "planetary",
     "target": "1 creature you've met",
     "duration": "until your next daily preparations",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

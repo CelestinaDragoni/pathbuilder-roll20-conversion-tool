@@ -7,7 +7,7 @@
         "Kobold"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned to use roots, crevices, uneven ground, and dense underbrush to your advantage.",
     "description": "You've learned to use roots, crevices, uneven ground, and dense underbrush to your advantage. When you're in difficult terrain from an environmental feature, you can Take Cover, even if the feature wouldn't ordinarily be large enough for you to Take Cover.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
     "economy": "none",

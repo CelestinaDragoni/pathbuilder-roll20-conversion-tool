@@ -7,7 +7,7 @@
         "Undine"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You're at home in the unpredictable tides.",
     "description": "You're at home in the unpredictable tides. You gain a +1 circumstance bonus to saves against cold and water effects. If you roll a success on a save against a cold or water effect, you get a critical success instead.Traits\n\nUndine: Undines are planar scions descended from marids.",
     "economy": "none",

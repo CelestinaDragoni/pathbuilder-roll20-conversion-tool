@@ -28,5 +28,6 @@
     "range": "120 feet",
     "target": "1 willing ally and 1 enemy",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

@@ -7,7 +7,7 @@
         "Elf"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Once per day, you can spend 10 minutes studying your surroundings in search of omens related to a particular course of action to cast augury as an innate divine spell.",
     "description": "Once per day, you can spend 10 minutes studying your surroundings in search of omens related to a particular course of action to cast augury as an innate divine spell. Unless the result of the augury was “nothing,” you gain the following reaction for the next 30 minutes:Call Upon the Brightness    Source Character Guide pg. 27 2.0\nTrigger You attempt an attack roll, skill check, or saving throw while performing the course of action from your augury, but you haven’t rolled yet\n\n------\n\nYou gain a +1 status bonus to the triggering check, or a +2 status bonus if the result of the augury was “woe” and you proceeded anyway.\n\n------\n\nTraits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
     "economy": "reaction",

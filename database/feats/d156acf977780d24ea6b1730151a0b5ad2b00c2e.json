@@ -7,7 +7,7 @@
         "Fighter"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You throw everything into one last press.",
     "description": "You throw everything into one last press. Use a single action that you know with the press trait as part of Desperate Finisher. You forgo the ability to use reactions until the start of your next turn.",
     "economy": "reaction",

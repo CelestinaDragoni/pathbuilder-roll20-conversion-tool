@@ -7,7 +7,7 @@
         "Gnome"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The upwelling of innate magic refreshes your body.",
     "description": "The upwelling of innate magic refreshes your body. You gain a number of temporary Hit Points equal to half your level (minimum 1) that last until the end of your next turn.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
     "economy": "reaction",

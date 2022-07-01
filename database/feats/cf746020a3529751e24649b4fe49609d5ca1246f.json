@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Make an unarmed melee attack against a prone target.",
     "description": "Make an unarmed melee attack against a prone target. On a hit, the target becomes flat-footed to all attacks until the end of your next turn.",
     "economy": "1-action",

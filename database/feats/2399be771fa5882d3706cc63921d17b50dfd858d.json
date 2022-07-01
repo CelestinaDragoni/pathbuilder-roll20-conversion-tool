@@ -7,7 +7,7 @@
         "Catfolk"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You avoid the attention of creatures focused on your allies.",
     "description": "You avoid the attention of creatures focused on your allies. You can use lesser cover from your allies to Hide.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
     "economy": "none",

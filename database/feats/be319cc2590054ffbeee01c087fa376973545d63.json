@@ -9,7 +9,7 @@
         "Rage"
     ],
     "level": 16,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your projectiles are unhindered by flesh and bone.",
     "description": "Your projectiles are unhindered by flesh and bone. Make a ranged Strike against each creature in a 30-foot line. These attacks ignore lesser cover, cover, and greater cover granted by creatures. Roll damage only once and apply it to each creature you hit. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you have made all your attacks.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "2-action",

@@ -7,7 +7,7 @@
         "Fighter"
     ],
     "level": 16,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You throw your weight into a powerful attack that leaves you vulnerable.",
     "description": "You throw your weight into a powerful attack that leaves you vulnerable. Make a melee Strike. This counts as three attacks when calculating your multiple attack penalty. If this Strike hits, you get a critical hit. If you roll a critical hit, your attack also gains the deadly d12 trait. Whether or not you hit, you become stunned 1 and are flat-footed until the start of your next turn.",
     "economy": "3-action",

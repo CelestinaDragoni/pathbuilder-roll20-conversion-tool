@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "1 living creature",
     "duration": "",
-    "saving": "basic FortitudeYou close your hand and pull life energy from another creature into yourself. This deals 3d4 negative damage"
+    "saving": "basic FortitudeYou close your hand and pull life energy from another creature into yourself. This deals 3d4 negative damage",
+    "school": "Necromancy"
 }

@@ -10,7 +10,7 @@
         "Swashbuckler"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You swat a foe that leaves an opening.",
     "description": "You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Attack of Opportunity Leads To...Disorienting Opening, Impassable Wall Stance",
     "economy": "reaction",

@@ -26,5 +26,6 @@
     "range": "100 feet",
     "target": "1 creature or object tracked and up to 5 other willing creatures",
     "duration": "varies",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

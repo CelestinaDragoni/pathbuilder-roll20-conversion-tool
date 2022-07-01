@@ -26,5 +26,6 @@
     "range": "5-foot emanation",
     "target": "creatures in the area",
     "duration": "varies",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Illusion"
 }

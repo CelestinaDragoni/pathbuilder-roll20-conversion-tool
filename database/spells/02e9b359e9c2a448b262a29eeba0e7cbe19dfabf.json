@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "2 willing creatures",
     "duration": "1 round",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

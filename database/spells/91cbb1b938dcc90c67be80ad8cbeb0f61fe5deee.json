@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "",
-    "saving": "WillYou inflict pain upon the target and revel in their anguish. This deals 1d4 mental damage and 1d4 persistent mental damage"
+    "saving": "Will",
+    "school": "Enchantment"
 }

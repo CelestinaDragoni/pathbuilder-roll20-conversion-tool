@@ -7,7 +7,7 @@
         "Druid"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "With primal magic sustaining you, you cease aging.",
     "description": "With primal magic sustaining you, you cease aging. The overflowing primal energy gives you a +2 status bonus to saves against diseases and primal magic.",
     "economy": "none",

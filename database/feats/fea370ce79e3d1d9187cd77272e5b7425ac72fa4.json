@@ -8,7 +8,7 @@
         "Flourish"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You vanish with silent treads.",
     "description": "You vanish with silent treads. You Step, then Hide or Sneak. You still need to meet the requirements to Hide or Sneak, as normal.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
     "economy": "1-action",

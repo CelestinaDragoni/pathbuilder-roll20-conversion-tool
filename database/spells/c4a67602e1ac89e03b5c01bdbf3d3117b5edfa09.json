@@ -26,5 +26,6 @@
     "range": "500 feet",
     "target": "1 creature",
     "duration": "",
-    "saving": "FortitudeGiving the air a push, you buffet the target with a powerful gust of wind"
+    "saving": "Fortitude",
+    "school": "Conjuration"
 }

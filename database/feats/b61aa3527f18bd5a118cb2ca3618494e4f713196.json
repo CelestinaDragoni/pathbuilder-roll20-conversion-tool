@@ -7,7 +7,7 @@
         "Barbarian"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your senses improve when you are raging.",
     "description": "When you are raging, your visual senses improve, granting you darkvision.Acute Vision Leads To...\n\nAcute Scent",
     "economy": "none",

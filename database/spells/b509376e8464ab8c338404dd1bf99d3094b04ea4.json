@@ -27,5 +27,6 @@
     "range": "100 feet",
     "target": "up to 5 creatures",
     "duration": "varies",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

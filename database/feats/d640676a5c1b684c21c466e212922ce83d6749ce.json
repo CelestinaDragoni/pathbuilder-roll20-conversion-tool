@@ -7,7 +7,7 @@
         "Automaton"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your body is designed to be particularly resilient.",
     "description": "Your body is designed to be particularly resilient. Your chassis is medium armor in the plate armor group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a speed penalty of –5 feet, and a Strength value of 16. You can never wear other armor or remove your chassis; however, you still don't become fatigued from sleeping. Finally, you can etch armor runes onto your chassis as normal.\n\nEnhancement Your chassis becomes difficult to overcome. You gain the Chassis Deflection reaction.Chassis Deflection    Source Guns &amp; Gears pg. 40\nTrigger A critical hit deals physical damage to you\n\n------\n\nAttempt a DC 17 flat check. If you are successful, the attack becomes a normal hit.\n\n------\n\nTraits\n\nAutomaton: Automatons are living constructs sustained by a magical core.",
     "economy": "reaction",

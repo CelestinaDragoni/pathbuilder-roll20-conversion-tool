@@ -7,7 +7,7 @@
         "Fighter"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You combine an attack with quick grappling moves to throw an enemy off balance as long as it stays in your reach.",
     "description": "You combine an attack with quick grappling moves to throw an enemy off balance as long as it stays in your reach. Make a Strike while keeping one hand free. If this Strike hits, the target is flat-footed until the start of your next turn or until it's no longer within the reach of your hand, whichever comes first.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
     "economy": "1-action",

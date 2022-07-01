@@ -7,7 +7,7 @@
         "Inventor"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've built triple redundancies into your innovation and added all sorts of buffers to protect it from the harm of your unstable experiments.",
     "description": "You've built triple redundancies into your innovation and added all sorts of buffers to protect it from the harm of your unstable experiments. You automatically succeed at the triggering flat check.\n\n You can't rely on your Unstable Redundancies again until you spend 10 minutes setting them back up. If you spend 10 minutes retuning your innovation so you can use unstable actions again, you can set up your Unstable Redundancies during the same time.",
     "economy": "free_action",

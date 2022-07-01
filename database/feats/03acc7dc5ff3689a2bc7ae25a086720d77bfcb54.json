@@ -7,7 +7,7 @@
         "Fetchling"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You're used to dealing with dangerous situations and sinister creatures.",
     "description": "You're used to dealing with dangerous situations and sinister creatures. You become trained in Deception (or another skill of your choice, if you're already trained in Deception), and you gain the Lengthy Diversion skill feat as a bonus feat.Traits\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.",
     "economy": "none",

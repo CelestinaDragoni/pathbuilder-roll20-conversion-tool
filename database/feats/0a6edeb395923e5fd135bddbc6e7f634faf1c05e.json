@@ -7,7 +7,7 @@
         "Swashbuckler"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You swagger readily into any fight—even an ambush.",
     "description": "You swagger readily into any fight—even an ambush. You gain a +2 circumstance bonus to your initiative roll and can Interact to draw a weapon.",
     "economy": "free_action",

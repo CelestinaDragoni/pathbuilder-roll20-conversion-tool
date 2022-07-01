@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You make your foes fall painfully when you trip them.",
     "description": "You make your foes fall painfully when you trip them. When you successfully Trip a flat-footed foe, your target takes 1d6 bludgeoning damage. On a critical success, the target takes 1d6 bludgeoning damage plus your sneak attack damage.",
     "economy": "none",

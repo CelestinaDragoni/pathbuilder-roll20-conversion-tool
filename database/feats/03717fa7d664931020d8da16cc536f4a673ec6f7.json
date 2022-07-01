@@ -8,7 +8,7 @@
         "Monk"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You execute a maneuver that defies possibility.",
     "description": "You execute a maneuver that defies possibility. If the triggering effect was an enemy’s attack hitting you, the enemy rerolls the attack roll and uses the lower result. If the triggering effect was you failing a saving throw, you reroll the saving throw and use the higher result.Traits\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
     "economy": "reaction",

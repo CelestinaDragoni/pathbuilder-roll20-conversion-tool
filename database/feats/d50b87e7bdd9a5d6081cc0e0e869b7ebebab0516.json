@@ -7,7 +7,7 @@
         "Fleshwarp"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your stomach is particularly durable.",
     "description": "Your stomach is particularly durable. When you succeed at a Fortitude save to reduce your sickened value, you reduce it by 2 (or by 3 on a critical success).Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
     "economy": "none",

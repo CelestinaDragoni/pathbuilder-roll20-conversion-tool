@@ -25,5 +25,6 @@
     "range": "60 feet",
     "target": "up to 10 metal objects with a total Bulk or 1 or less",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

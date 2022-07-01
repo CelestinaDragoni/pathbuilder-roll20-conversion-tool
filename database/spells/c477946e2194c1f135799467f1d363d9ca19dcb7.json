@@ -26,5 +26,6 @@
     "range": "1 mile",
     "target": "one undead creature under your control",
     "duration": "sustained up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

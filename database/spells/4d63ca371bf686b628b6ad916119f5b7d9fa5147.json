@@ -25,5 +25,6 @@
     "range": "15 feet",
     "target": "1 item or work of art that fits entirely within the range",
     "duration": "10 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

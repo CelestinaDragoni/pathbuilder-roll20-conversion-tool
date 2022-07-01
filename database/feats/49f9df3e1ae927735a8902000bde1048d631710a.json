@@ -7,7 +7,7 @@
         "Sorcerer"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your magical blood makes you more resistant to magic.",
     "description": "Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and magical effects.",
     "economy": "none",

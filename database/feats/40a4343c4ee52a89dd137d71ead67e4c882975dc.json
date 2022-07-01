@@ -7,7 +7,7 @@
         "Goloma"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your body tenses up when surrounded, putting you on edge just enough to anticipate an attack.",
     "description": "Your body tenses up when surrounded, putting you on edge just enough to anticipate an attack. You gain a +1 circumstance bonus to AC until the beginning of your next turn and Step.Traits\n\nGoloma: Insular humanoids that bear countless eyes.",
     "economy": "1-action",

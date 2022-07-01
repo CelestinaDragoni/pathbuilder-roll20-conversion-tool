@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 creature",
     "duration": "until the end of the target's next turn",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

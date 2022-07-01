@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "1 object held by 1 creature and the creature holding it",
     "duration": "varies",
-    "saving": "Reflex"
+    "saving": "Reflex",
+    "school": "Abjuration"
 }

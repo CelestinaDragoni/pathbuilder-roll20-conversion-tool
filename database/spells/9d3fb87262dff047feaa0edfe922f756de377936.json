@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "your companion or eidolon",
     "duration": "1 hour",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

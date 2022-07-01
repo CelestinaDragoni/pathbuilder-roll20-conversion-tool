@@ -7,7 +7,7 @@
         "Azarketi"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have learned the history and origins of your people and how to connect to both your land and sea heritage.",
     "description": "You have learned the history and origins of your people and how to connect to both your land and sea heritage. You become trained in Athletics and Nature. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Azarketi Lore.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
     "economy": "none",

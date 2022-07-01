@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "",
     "duration": "sustained up to 1 minute",
-    "saving": "basic Fortitude"
+    "saving": "basic Fortitude",
+    "school": "Evocation"
 }

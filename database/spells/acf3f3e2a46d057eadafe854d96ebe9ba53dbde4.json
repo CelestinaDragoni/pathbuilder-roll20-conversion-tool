@@ -27,5 +27,6 @@
     "range": "60 feet",
     "target": "1 creature or unattended object",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

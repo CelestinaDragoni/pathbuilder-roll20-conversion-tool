@@ -26,5 +26,6 @@
     "range": "60 feet",
     "target": "1 creature",
     "duration": "1 round",
-    "saving": "Reflex"
+    "saving": "Reflex",
+    "school": "Transmutation"
 }

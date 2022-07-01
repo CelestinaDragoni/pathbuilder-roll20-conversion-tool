@@ -8,7 +8,7 @@
         "Sorcerer"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your inborn magical nature lets you redirect ambient energies to fuel your spells.",
     "description": "Your inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to Cast a Spell of 5th level or lower that has no duration, you don’t expend the spell’s slot when you cast it.Traits\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
     "economy": "1-action",

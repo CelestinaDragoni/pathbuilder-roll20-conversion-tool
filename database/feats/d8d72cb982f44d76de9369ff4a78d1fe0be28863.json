@@ -7,7 +7,7 @@
         "Cleric"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The force of your blow sends your victim back to its home plane.",
     "description": "The force of your blow sends your victim back to its home plane. You expend a banishment spell you have prepared, affecting the creature you critically hit without needing to cast the spell. The creature can attempt to resist the spell as normal.Swift Banishment Leads To...\n\nImproved Swift Banishment",
     "economy": "reaction",

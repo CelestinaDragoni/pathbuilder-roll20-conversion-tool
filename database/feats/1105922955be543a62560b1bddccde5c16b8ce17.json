@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Learn the silver's refrain composition cantrip.",
     "description": "You learn the silver’s refrain composition cantrip, which aids you when fighting devils.TraitsRare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.\n\nLacunafex LoreSource Pathfinder #147: Tomorrow Must Burn pg. 72\nIf the PCs earn Mialari Docur's trust and prove their worth by defeating the Scarlet Triad, she rewards them by granting them access to several feats and spells she and her students have developed over the years.\n\nRelated Feats: Different Worlds, Reveal Machinations, Secret Speech, Tweak Appearances",
     "economy": "none",

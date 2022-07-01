@@ -7,7 +7,7 @@
         "Ganzi"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You focus on your protean forebears to change your energy resistance.",
     "description": "You focus on your protean forebears to change your energy resistance. The energy resistance you gain from your ganzi heritage changes to match the triggering damage. This change occurs after the damage is dealt.Traits\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a protean",
     "economy": "reaction",

@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "1 lock, or a door or container with a latch",
     "duration": "1 day",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

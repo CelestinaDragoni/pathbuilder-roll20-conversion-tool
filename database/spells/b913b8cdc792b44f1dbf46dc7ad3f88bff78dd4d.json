@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "a cave wall or other stone surface",
     "duration": "sustained",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

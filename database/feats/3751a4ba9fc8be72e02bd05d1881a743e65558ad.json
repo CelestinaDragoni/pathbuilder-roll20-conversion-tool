@@ -13,7 +13,7 @@
         "Wizard"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You are able to quickly cast a spell.",
     "description": "If your next action is to cast a cantrip or a spell that is at least 2 levels lower than the highest level spell slot you have, reduce the number of actions to cast it by 1 (minimum 1 action).\n\nSpecial This can only be used on a cantrip or spell from the class matching the one you gained this feat from.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
     "economy": "free_action",

@@ -9,7 +9,7 @@
         "Tengu"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You caw ominously, cursing the creature with misfortune.",
     "description": "You caw ominously, cursing the creature with misfortune. The target creature must roll the triggering check twice and take the lower result.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nMisfortune: A misfortune effect detrimentally alters how you roll your dice. You can never have more than one misfortune effect alter a single roll. If multiple misfortune effects would apply, the GM decides which is worse and applies it. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.Tengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
     "economy": "reaction",

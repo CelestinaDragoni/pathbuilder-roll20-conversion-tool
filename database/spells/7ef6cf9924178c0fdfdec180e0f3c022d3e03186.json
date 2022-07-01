@@ -24,5 +24,6 @@
     "range": "60 feet",
     "target": "1 shield",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

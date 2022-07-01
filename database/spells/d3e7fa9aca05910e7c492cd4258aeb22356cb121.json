@@ -27,5 +27,6 @@
     "range": "500 feet",
     "target": "",
     "duration": "1 round",
-    "saving": "Reflex"
+    "saving": "Reflex",
+    "school": "Evocation"
 }

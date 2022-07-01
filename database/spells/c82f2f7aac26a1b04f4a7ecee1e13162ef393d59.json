@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "1 creature",
     "duration": "varies",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

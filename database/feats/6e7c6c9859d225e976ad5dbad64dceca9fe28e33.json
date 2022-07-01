@@ -8,7 +8,7 @@
         "Summoner"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon's heart beats with energy.",
     "description": "Your eidolon's heart beats with energy. Choose an energy damage type other than force. One of its unarmed attacks changes its damage type to the chosen type, and it gains resistance to that type equal to half your level (minimum 1).Energy Heart Leads To...\n\nDual Energy Heart, Energy ResistanceTraitsEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
     "economy": "none",

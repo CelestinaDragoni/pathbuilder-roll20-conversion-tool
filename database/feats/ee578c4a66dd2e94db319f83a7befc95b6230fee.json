@@ -7,7 +7,7 @@
         "Duskwalker"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your connection to the Boneyard empowers you to bring death to all forms of life and unlife, exploiting their weaknesses.",
     "description": "Your connection to the Boneyard empowers you to bring death to all forms of life and unlife, exploiting their weaknesses. All your weapon and unarmed Strikes are magical and deal 1 additional negative damage to living creatures and 1 additional positive damage to undead.Traits\n\nDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
     "economy": "none",

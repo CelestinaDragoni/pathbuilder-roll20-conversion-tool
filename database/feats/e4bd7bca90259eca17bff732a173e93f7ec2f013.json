@@ -7,7 +7,7 @@
         "Beastkin"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your animalistic connections help you resist natural afflictions.",
     "description": "Your animalistic connections help you resist natural afflictions. You gain a +2 circumstance bonus to saves to resist diseases and poisons.Traits\n\nBeastkin: Humanoids that can partially or fully transform into animal forms.",
     "economy": "none",

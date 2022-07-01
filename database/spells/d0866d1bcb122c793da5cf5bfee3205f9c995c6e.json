@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "each ally targeted by the triggering spell",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

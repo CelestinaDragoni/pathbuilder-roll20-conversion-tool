@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 enemy of level 15 or lower",
     "duration": "sustained up to 1 minute",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Conjuration"
 }

@@ -24,5 +24,6 @@
     "range": "5 feet",
     "target": "",
     "duration": "1 minute",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Conjuration"
 }

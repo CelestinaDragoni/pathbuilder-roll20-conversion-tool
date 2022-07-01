@@ -7,7 +7,7 @@
         "Barbarian"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You roar in pain, awakening the rage within you.",
     "description": "You roar in pain, awakening the rage within you. You Rage.",
     "economy": "reaction",

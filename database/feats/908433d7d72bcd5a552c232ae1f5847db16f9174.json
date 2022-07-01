@@ -7,7 +7,7 @@
         "Undine"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your swim Speed increases to match your land Speed.",
     "description": "Your swim Speed increases to match your land Speed.Traits\n\nUndine: Undines are planar scions descended from marids.",
     "economy": "none",

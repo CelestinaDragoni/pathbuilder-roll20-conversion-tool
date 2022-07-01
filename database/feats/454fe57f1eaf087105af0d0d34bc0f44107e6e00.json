@@ -7,7 +7,7 @@
         "Aphorite"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your body anticipates the blow.",
     "description": "Your body anticipates the blow. The impact area briefly reorganizes into a strengthened tissue lattice that blunts the attack. You gain resistance equal to your level to the triggering damage type, which applies against the triggering damage.\n\n If you have the Crystalline Dust feat, you can use Preemptive Reconfiguration without expending a usage of the reaction for the purpose of the feat's Frequency limit. Instead, the usage counts toward your number of Crystalline Dust uses per day, as if you had used that feat instead.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
     "economy": "reaction",

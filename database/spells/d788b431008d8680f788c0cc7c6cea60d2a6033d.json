@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "you and up to 9 willing creatures touched",
     "duration": "8 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

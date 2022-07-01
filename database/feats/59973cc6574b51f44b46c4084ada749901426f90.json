@@ -8,7 +8,7 @@
         "Summoner"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon evolves to protect itself from the danger posed by spells.",
     "description": "Your eidolon evolves to protect itself from the danger posed by spells. It gains a +1 status bonus to all saving throws against magic. Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
     "economy": "none",

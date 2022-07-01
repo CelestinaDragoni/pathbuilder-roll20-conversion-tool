@@ -7,7 +7,7 @@
         "Lizardfolk"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You make the most of your iruxi unarmed attacks.",
     "description": "You make the most of your iruxi unarmed attacks. Whenever you score a critical hit with a claw or an unarmed attack you gained from a lizardfolk ancestry feat, you apply the unarmed attack’s critical specialization effect.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
     "economy": "none",

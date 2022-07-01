@@ -28,5 +28,6 @@
     "range": "10 feet",
     "target": "up to 200 unattended objects in range, each of light Bulk or less",
     "duration": "up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

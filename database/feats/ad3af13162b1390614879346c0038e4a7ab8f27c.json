@@ -7,7 +7,7 @@
         "Human"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You’ve learned to split your focus between multiple classes with ease.",
     "description": "You've learned to split your focus between multiple classes with ease. You gain a 2nd-level multiclass dedication feat, even if you normally couldn't take another dedication feat until you take more feats from your current archetype.\n\n If you're a half-elf, you don't need to meet the feat's ability score prerequisites.\nTraits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
     "economy": "none",

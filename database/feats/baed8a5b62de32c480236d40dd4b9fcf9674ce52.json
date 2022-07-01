@@ -7,7 +7,7 @@
         "Hobgoblin"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You make sure that your allies push themselves while traveling.",
     "description": "You make sure that your allies push themselves while traveling. You gain the Caravan Leader and Pick Up the Pace general feats, even if you don't meet the prerequisites.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
     "economy": "none",

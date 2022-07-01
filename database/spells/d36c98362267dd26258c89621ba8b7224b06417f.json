@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 object or creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

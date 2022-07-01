@@ -25,5 +25,6 @@
     "range": "120 feet",
     "target": "1 flying creature",
     "duration": "varies",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Transmutation"
 }

@@ -10,7 +10,7 @@
         "Shadow"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can perform simple Interact actions with your shadow, such as opening an unlocked door.",
     "description": "You can perform simple Interact actions with your shadow, such as opening an unlocked door. Anything your shadow Interacts with must be within your reach. Your shadow can't perform actions that require significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.Clever Shadow Leads To...\n\nHefting ShadowTraitsEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.Shadow: Magic with this trait involves shadows or the energy of the Shadow Plane. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.",
     "economy": "none",

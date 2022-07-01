@@ -7,7 +7,7 @@
         "Swashbuckler"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned a flexible way to position your buckler to provide more protection.",
     "description": "You've learned a flexible way to position your buckler to provide more protection. When you Raise a Shield to gain a circumstance bonus to AC from a buckler, increase the bonus from +1 to +2.",
     "economy": "none",

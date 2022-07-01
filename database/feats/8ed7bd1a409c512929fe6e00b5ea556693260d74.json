@@ -10,7 +10,7 @@
         "Visual"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You stoke an ally’s fury.",
     "description": "You stoke an ally’s fury. While you are raging, one willing creature within 30 feet gains the effects of the Rage action, except it can still use concentrate actions.Share Rage Leads To...\n\nContagious RageTraitsAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.Visual: A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.",
     "economy": "1-action",

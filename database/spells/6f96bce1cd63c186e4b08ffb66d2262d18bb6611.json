@@ -24,5 +24,6 @@
     "range": "",
     "target": "",
     "duration": "",
-    "saving": "basic FortitudeBrandishing your weapon and shouting the final line of the Crimson Oath, you unleash a blast of destructive ruby energy. You must be wielding a melee weapon, and you perform this spell’s somatic component by swinging the weapon in a downward arc. You deal normal melee damage for your weapon, including all appropriate bonuses, penalties, modifiers, and properties, to each creature in the spell’s area"
+    "saving": "basic FortitudeBrandishing your weapon and shouting the final line of the Crimson Oath, you unleash a blast of destructive ruby energy. You must be wielding a melee weapon, and you perform this spell’s somatic component by swinging the weapon in a downward arc. You deal normal melee damage for your weapon, including all appropriate bonuses, penalties, modifiers, and properties, to each creature in the spell’s area",
+    "school": "Evocation"
 }

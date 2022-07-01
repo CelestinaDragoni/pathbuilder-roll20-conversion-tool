@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "up to two weapons, each of which must be wielded by you or a willing ally, or else unattended",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

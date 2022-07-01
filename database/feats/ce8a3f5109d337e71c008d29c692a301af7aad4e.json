@@ -8,7 +8,7 @@
         "Rage"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You thrash the grabbed foe around.",
     "description": "You thrash the grabbed foe around. It takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your Rage damage. The foe must attempt a basic Fortitude save against your class DC.Thrash Leads To...\n\nCollateral ThrashTraitsRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "1-action",

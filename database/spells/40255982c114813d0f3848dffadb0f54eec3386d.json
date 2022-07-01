@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 creature that could find you attractive",
     "duration": "10 minutes",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

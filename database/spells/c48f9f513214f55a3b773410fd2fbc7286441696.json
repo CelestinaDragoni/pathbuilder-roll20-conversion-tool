@@ -24,5 +24,6 @@
     "range": "20 feet",
     "target": "1 creature",
     "duration": "1 round (see text)",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

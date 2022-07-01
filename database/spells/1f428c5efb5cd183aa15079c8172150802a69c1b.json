@@ -25,5 +25,6 @@
     "range": "500 feet",
     "target": "1 creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

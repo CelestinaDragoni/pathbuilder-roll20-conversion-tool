@@ -7,7 +7,7 @@
         "Champion"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You embody an aspect of your deity.",
     "description": "You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.Deity's Domain Leads To...\n\nAdvanced Deity's Domain",
     "economy": "none",

@@ -25,5 +25,6 @@
     "range": "",
     "target": "",
     "duration": "",
-    "saving": "basic WillYou call upon the lost and forgotten, assailing your foes’ minds with the memories of those who died with a grievance toward them. Enemies in the area take 6d6 mental damage (basic Will save) and are frightened 1 on a critical failure. If you know the names of anyone murdered or grievously wronged by an enemy in the area, you can chant those victims’ names when you cast the spell to improve the clarity of the visions, increasing the damage to the corresponding enemy from 6d6 to 6d10"
+    "saving": "basic WillYou call upon the lost and forgotten, assailing your foes’ minds with the memories of those who died with a grievance toward them. Enemies in the area take 6d6 mental damage (basic Will save) and are frightened 1 on a critical failure. If you know the names of anyone murdered or grievously wronged by an enemy in the area, you can chant those victims’ names when you cast the spell to improve the clarity of the visions, increasing the damage to the corresponding enemy from 6d6 to 6d10",
+    "school": "Divination"
 }

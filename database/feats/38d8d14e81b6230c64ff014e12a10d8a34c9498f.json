@@ -13,7 +13,7 @@
         "Wizard"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Study broadens your range of simple spells.",
     "description": "A greater understanding of your magic broadens your range of simple spells.\n\nPrepared Caster (Cleric, Wizard, etc.): You can prepare two additional cantrips each day.\nSpontaneous Caster (Bard, Sorcerer, etc.): Add two additional cantrips from your spell list to your repertoire.",
     "economy": "none",

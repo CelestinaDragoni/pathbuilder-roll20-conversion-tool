@@ -7,7 +7,7 @@
         "Goblin"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "After years of crawling and climbing through caverns, you can climb easily anywhere you go.",
     "description": "After years of crawling and climbing through caverns, you can climb easily anywhere you go. You gain a climb Speed of 10 feet.Traits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
     "economy": "none",

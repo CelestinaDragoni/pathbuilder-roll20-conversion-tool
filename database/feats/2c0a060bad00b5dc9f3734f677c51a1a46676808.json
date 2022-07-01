@@ -7,7 +7,7 @@
         "Leshy"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You unleash a cloud of pollen or similar spores.",
     "description": "You unleash a cloud of pollen or similar spores. All creatures in a 10-foot emanation around you must attempt a Fortitude save using your class DC or spell DC (whichever is higher) with the following results. Plants and fungi are immune to this effect.\n\nCritical Success No effect.\nSuccess The creature is dazzled for 1 round.\nFailure The creature is dazzled and can see only 10 feet away for 1 round.\nCritical Failure The creature is blinded for 1 round.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
     "economy": "2-action",

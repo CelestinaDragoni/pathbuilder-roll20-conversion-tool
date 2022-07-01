@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

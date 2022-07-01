@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "When you Strike with a thrown weapon, the weapon's range increment increases 10 feet.",
     "description": "When you Strike with a thrown weapon, the weapon's range increment increases 10 feet.",
     "economy": "none",

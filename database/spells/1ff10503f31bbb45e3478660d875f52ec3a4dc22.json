@@ -27,5 +27,6 @@
     "range": "10 feet",
     "target": "you and the triggering ally",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

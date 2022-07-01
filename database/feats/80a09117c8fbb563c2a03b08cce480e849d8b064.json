@@ -7,7 +7,7 @@
         "Fighter"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "When there’s imminent danger, you drop into a stance with a mere thought.",
     "description": "When there’s imminent danger, you drop into a stance with a mere thought. Use an action that has the stance trait.",
     "economy": "free_action",

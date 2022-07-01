@@ -7,7 +7,7 @@
         "Monk"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have transcended the barriers between words and meaning.",
     "description": "You have transcended the barriers between words and meaning. You can speak and understand all spoken languages.",
     "economy": "none",

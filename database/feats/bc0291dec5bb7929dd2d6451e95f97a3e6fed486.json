@@ -7,7 +7,7 @@
         "Lizardfolk"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Using your ancestors' bones, you manifest their spirits around you in a fossilized form, terrifying your foes.",
     "description": "Using your ancestors' bones, you manifest their spirits around you in a fossilized form, terrifying your foes. You can cast mask of terror on yourself as a primal innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
     "economy": "none",

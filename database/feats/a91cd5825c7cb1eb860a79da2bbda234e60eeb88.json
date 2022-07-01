@@ -7,7 +7,7 @@
         "Goblin"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Others might look upon them with disdain, but you know that the weapons of your people are as effective as they are sharp.",
     "description": "Others might look upon them with disdain, but you know that the weapons of your people are as effective as they are sharp. You are trained with the dogslicer and horsechopper.\n\n In addition, you gain access to all uncommon goblin weapons. For the purpose of determining your proficiency, martial goblin weapons are simple weapons and advanced goblin weapons are martial weapons.\nGoblin Weapon Familiarity Leads To...\n\nGoblin Weapon Expertise, Goblin Weapon FrenzyTraitsGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
     "economy": "none",

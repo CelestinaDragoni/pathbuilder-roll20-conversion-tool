@@ -7,7 +7,7 @@
         "Sylph"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can transform into an elemental.",
     "description": "You can transform into an elemental. Once per day, you can cast elemental form as a 7th-level primal innate spell, but you can only choose the air elemental form.Traits\n\nSylph: Sylphs are planar scions descended from djinn.",
     "economy": "none",

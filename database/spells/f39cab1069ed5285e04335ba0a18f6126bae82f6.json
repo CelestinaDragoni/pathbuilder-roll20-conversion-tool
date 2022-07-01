@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "up to 4 weapons, each wielded by a separate willing creature within range",
     "duration": "up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

@@ -7,7 +7,7 @@
         "Gnoll"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your jaws can crush bone and bite through armor.",
     "description": "Your jaws can crush bone and bite through armor. Your jaws unarmed attack deals 1d8 piercing damage instead of 1d6 and gains the grapple trait.Traits\n\nGnoll: Gnolls are humanoids that resemble hyenas.",
     "economy": "none",

@@ -27,5 +27,6 @@
     "range": "120 feet",
     "target": "1 spell effect or unattended magic item",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

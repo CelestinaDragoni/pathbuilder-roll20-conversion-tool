@@ -9,7 +9,7 @@
         "Summoner"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon constricts the creature, dealing bludgeoning damage equal to your eidolon's level plus its Strength modifier, with a basic Fortitude save against your spell DC.",
     "description": "Your eidolon constricts the creature, dealing bludgeoning damage equal to your eidolon's level plus its Strength modifier, with a basic Fortitude save against your spell DC.Traits\n\nEidolon: A creature with this trait is a summoner's eidolon. An action or spell with this trait can be performed by an eidolon only. An item with this trait can be used or worn by an eidolon only, and an eidolon can't use items that don't have this trait. (An eidolon can have up to two items invested.)\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
     "economy": "1-action",

@@ -7,7 +7,7 @@
         "Beastkin"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your instincts kick in and you take on an aggressive stance.",
     "description": "Your instincts kick in and you take on an aggressive stance. You use Change Shape to enter your hybrid form or a new form granted by a beastkin feat.Traits\n\nBeastkin: Humanoids that can partially or fully transform into animal forms.",
     "economy": "free_action",

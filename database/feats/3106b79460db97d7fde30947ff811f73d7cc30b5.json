@@ -7,7 +7,7 @@
         "Gunslinger"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've practiced a technique for mixing alchemical bombs with your loaded shot.",
     "description": "You've practiced a technique for mixing alchemical bombs with your loaded shot. You Interact to retrieve the bomb (if it's not already in your hand) and pour its contents onto your ammunition, consuming the bomb. Next, Strike with your firearm. The Strike deals damage of the same type as the bomb (for instance, fire damage for alchemist's fire), and it deals an additional 1d6 persistent damage of the same type as the bomb. If the Strike is a failure, you take 1d6 damage of the same type as the bomb you used, and the firearm misfires.\n\n The persistent damage increases to 2d6 if the bomb is 11th level or higher, or 3d6 if it's 17th level or higher.",
     "economy": "2-action",

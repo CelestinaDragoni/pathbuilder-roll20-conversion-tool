@@ -7,7 +7,7 @@
         "Human"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You recover from near-death experiences with astounding resilience.",
     "description": "You recover from near-death experiences with astounding resilience. Don't increase the value of your wounded condition due to losing the dying condition.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
     "economy": "free_action",

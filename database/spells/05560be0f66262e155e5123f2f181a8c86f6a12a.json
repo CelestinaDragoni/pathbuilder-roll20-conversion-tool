@@ -27,5 +27,6 @@
     "range": "60 feet",
     "target": "1 touched shield and 1 willing creature",
     "duration": "sustained up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

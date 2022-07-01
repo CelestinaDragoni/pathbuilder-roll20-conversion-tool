@@ -7,7 +7,7 @@
         "Sprite"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can fling a portion of your magic at foes.",
     "description": "You can fling a portion of your magic at foes. You gain a ranged unarmed attack in the sling weapon group with a maximum range of 20 feet that deals 1d4 damage. (No ability modifier is added to the damage roll.) The damage type and name of the unarmed attack depends on your heritage, described below; most sprite heritages not presented in this book also use luminous spark. Like other unarmed attacks, you can improve this attack with handwraps of mighty blows. \n\nDraxie euphoric spark (mental) \n\nFirefly Sprite luminous spark (fire) \n\nGrig dissonant note (sonic) \n\nMelixie sting shot (poison) \n\nNyktera ultrasonic pulse (sonic) \n\nPixie pixie dust (mental)Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
     "economy": "none",

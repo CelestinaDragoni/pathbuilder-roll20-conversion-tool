@@ -27,5 +27,6 @@
     "range": "120 feet",
     "target": "",
     "duration": "1 minute",
-    "saving": "basic Reflex or Will (target's choice)"
+    "saving": "basic Reflex or Will (target's choice)",
+    "school": "Illusion"
 }

@@ -7,7 +7,7 @@
         "Oread"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned to harness your connection to the earth to travel through it.",
     "description": "You've learned to harness your connection to the earth to travel through it. You gain a burrow Speed of 15 feet.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
     "economy": "none",

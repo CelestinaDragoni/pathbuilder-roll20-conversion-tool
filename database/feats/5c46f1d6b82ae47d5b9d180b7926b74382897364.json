@@ -7,7 +7,7 @@
         "Kobold"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Underestimating you is a grave mistake, but it's one others keep making.",
     "description": "Underestimating you is a grave mistake, but it's one others keep making. You've learned to take advantage of slips in your foes' defenses. When you Strike a flat-footed creature using a melee weapon or unarmed attack that has the agile and finesse traits, it gains the backstabber trait.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
     "economy": "none",

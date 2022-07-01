@@ -7,7 +7,7 @@
         "Witch"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your patron grants you greater knowledge.",
     "description": "Your patron grants you greater knowledge. Choose a greater or basic lesson. You gain its associated hex, and your familiar learns the associated spell. Increase the number of Focus Points in your focus pool by 1.",
     "economy": "none",

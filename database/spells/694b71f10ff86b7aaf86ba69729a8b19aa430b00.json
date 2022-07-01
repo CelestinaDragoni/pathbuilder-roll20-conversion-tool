@@ -25,5 +25,6 @@
     "range": "100 feet",
     "target": "your eidolon",
     "duration": "1 round",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

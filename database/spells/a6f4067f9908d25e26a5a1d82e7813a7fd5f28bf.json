@@ -29,5 +29,6 @@
     "range": "",
     "target": "any number of creatures",
     "duration": "until full tribute is paid",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

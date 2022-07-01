@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 corporeal creature",
     "duration": "see below",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

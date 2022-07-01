@@ -27,5 +27,6 @@
     "range": "planetary",
     "target": "1 creature",
     "duration": "sustained up to 10 minutes",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Divination"
 }

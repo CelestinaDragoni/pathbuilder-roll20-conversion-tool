@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "",
-    "saving": "FortitudeYou touch the target to afflict it with ghoul fever, infesting it with hunger and a steadily decreasing connection to positive energy"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

@@ -7,7 +7,7 @@
         "Gunslinger"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Even as your firearm misfires, you quickly draw a backup weapon.",
     "description": "Even as your firearm misfires, you quickly draw a backup weapon. Release the misfired weapon if you so choose, and Interact to draw a one-handed weapon.",
     "economy": "reaction",

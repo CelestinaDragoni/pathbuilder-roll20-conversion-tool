@@ -8,7 +8,7 @@
         "Gunslinger"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You use the smoking barrel of your firearm to sear shut a bleeding wound.",
     "description": "You use the smoking barrel of your firearm to sear shut a bleeding wound. Make a Strike with your firearm. You then press the heated barrel to the wounds of you or an ally within reach that is taking persistent bleed damage, giving an immediate flat check to end the bleed with the lower DC for particularly effective assistance.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
     "economy": "1-action",

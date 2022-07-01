@@ -28,5 +28,6 @@
     "range": "varies",
     "target": "1 willing living creature or 1 undead",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

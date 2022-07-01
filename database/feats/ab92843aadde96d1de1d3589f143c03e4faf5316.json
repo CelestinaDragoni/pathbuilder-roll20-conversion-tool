@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your ranged attacks can shoot an unprepared foe right out of the air.",
     "description": "Your ranged attacks can shoot an unprepared foe right out of the air. Make a Strike with a ranged weapon or a thrown weapon against a flat-footed creature. If the Strike is a success and deals damage, the target must attempt a Reflex save against your class DC with the following effects.\n\nSuccess The target is unaffected.\nFailure The target falls up to 120 feet. If it hits the ground, it takes no damage from the fall.\nCritical Failure As failure, and the target can’t fiy, jump, levitate, or otherwise leave the ground until the end of your next turn.",
     "economy": "2-action",

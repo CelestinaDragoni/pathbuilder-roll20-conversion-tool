@@ -7,7 +7,7 @@
         "Champion"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You call out to your deity in a plea for their aid.",
     "description": "You call out to your deity in a plea for their aid. You instantly recover 1 Focus Point.",
     "economy": "free_action",

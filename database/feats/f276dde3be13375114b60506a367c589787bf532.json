@@ -7,7 +7,7 @@
         "Champion"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can block with your shield instinctively.",
     "description": "You can block with your shield instinctively. At the start of each of your turns, you gain an additional reaction that you can use only to perform a Shield Block.",
     "economy": "none",

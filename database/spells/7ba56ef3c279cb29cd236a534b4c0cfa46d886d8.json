@@ -29,5 +29,6 @@
     "range": "30 feet",
     "target": "1 creature that isn't on its home plane",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

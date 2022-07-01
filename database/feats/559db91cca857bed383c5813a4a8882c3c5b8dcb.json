@@ -8,7 +8,7 @@
         "Rage"
     ],
     "level": 16,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your forceful blows shatter objects with ease.",
     "description": "Your forceful blows shatter objects with ease. While you are raging, your melee Strikes ignore 5 points of an object's Hardness. If you have the devastator class feature, you instead ignore 10 points of an object's Hardness.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "none",

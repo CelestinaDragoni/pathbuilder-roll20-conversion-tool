@@ -28,5 +28,6 @@
     "range": "60 feet",
     "target": "one living creature",
     "duration": "3 rounds",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Necromancy"
 }

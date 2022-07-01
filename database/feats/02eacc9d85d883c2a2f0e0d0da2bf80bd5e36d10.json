@@ -7,7 +7,7 @@
         "Conrasu"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have learned how to master the power contained within sunlight, just like the trees that form your body.",
     "description": "You have learned how to master the power contained within sunlight, just like the trees that form your body. Your Sunlight Healing recovers 1d8 Hit Points per level.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
     "economy": "none",

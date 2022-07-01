@@ -7,7 +7,7 @@
         "Android"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements.",
     "description": "Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements. You can cast true strike once per day as a 1st-level arcane innate spell.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
     "economy": "none",

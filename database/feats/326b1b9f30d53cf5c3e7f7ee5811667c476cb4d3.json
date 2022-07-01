@@ -10,7 +10,7 @@
         "Shadow"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You draw shadows close to create a shroud.",
     "description": "You draw shadows close to create a shroud. Increase the DC of the flat check by 2.Traits\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.\n\nIllusion: Effects and magic items with this trait are associated with the illusion school of magic, typically involving false sensory stimuli.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.Shadow: Magic with this trait involves shadows or the energy of the Shadow Plane. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.",
     "economy": "reaction",

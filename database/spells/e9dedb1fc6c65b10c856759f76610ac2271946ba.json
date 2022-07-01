@@ -24,5 +24,6 @@
     "range": "40 feet",
     "target": "",
     "duration": "varies",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Evocation"
 }

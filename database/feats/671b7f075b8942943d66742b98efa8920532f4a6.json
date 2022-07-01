@@ -7,7 +7,7 @@
         "Kitsune"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You gain a claw unarmed attack that deals 1d4 slashing damage.",
     "description": "You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
     "economy": "none",

@@ -28,5 +28,6 @@
     "range": "1 mile",
     "target": "1 willing creature that is your animal companion or familiar",
     "duration": "sustained",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

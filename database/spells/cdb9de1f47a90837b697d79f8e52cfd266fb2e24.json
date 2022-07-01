@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "your companion or eidolon",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

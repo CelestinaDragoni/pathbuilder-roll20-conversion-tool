@@ -24,5 +24,6 @@
     "range": "60 feet",
     "target": "1 falling creature",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

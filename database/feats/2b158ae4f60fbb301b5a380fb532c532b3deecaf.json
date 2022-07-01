@@ -7,7 +7,7 @@
         "Grippli"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You are well versed in grippli culture and tactics.",
     "description": "You are well versed in grippli culture and tactics. You gain the trained proficiency in Nature and Stealth. If you would automatically become trained in one of those skills, you instead become trained in a skill of your choice. You also become trained in Grippli Lore.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
     "economy": "none",

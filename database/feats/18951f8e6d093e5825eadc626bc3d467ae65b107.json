@@ -9,7 +9,7 @@
         "Witch"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You forge a magical link with another creature, granting you awareness of that creature's condition and creating a conduit for spellcasting.",
     "description": "You forge a magical link with another creature, granting you awareness of that creature's condition and creating a conduit for spellcasting. During your daily preparations, you can designate one willing creature as your charge. You are always aware of your charge's direction from you, its distance from you, and any conditions affecting it. In addition, you can cast spells with a range of touch on your charge from a range of 30 feet. These effects persist until your next daily preparations.\n\nSpecial This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, occult, or primal).Witch's Charge Leads To...\n\nWitch's CommunionTraitsDetection: Effects with this trait attempt to determine the presence or location of a person, object, or aura.\n\nDivination: The divination school of magic typically involves obtaining or transferring information, or predicting events.",
     "economy": "none",

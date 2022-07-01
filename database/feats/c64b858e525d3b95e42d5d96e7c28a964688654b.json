@@ -7,7 +7,7 @@
         "Aphorite"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings.",
     "description": "You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see invisible creatures and objects, and you gain the effects of a 9th-level true seeing.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
     "economy": "2-action",

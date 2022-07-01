@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 creature (see text)",
     "duration": "8 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

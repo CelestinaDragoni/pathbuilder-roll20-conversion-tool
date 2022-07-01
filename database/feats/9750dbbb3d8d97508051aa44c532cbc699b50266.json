@@ -7,7 +7,7 @@
         "Ganzi"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your body is supremely flexible.",
     "description": "Your body is supremely flexible. You gain a +1 circumstance bonus on checks to Escape or Squeeze, and when you critically fail when Squeezing, you get a failure instead.Traits\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a protean",
     "economy": "none",

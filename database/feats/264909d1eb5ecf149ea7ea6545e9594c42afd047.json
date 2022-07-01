@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious.",
     "description": "Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious. You take half damage from the triggering attack.",
     "economy": "free_action",

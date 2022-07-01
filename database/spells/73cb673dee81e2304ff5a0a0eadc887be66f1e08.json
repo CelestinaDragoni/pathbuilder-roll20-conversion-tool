@@ -28,5 +28,6 @@
     "range": "unlimited",
     "target": "1 creature or object",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

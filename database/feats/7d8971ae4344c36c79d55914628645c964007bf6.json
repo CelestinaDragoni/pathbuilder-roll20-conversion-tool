@@ -7,7 +7,7 @@
         "Cleric"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You siphon residual spell energy into a weapon you’re wielding.",
     "description": "You siphon residual spell energy into a weapon you’re wielding. Until the end of your turn, the weapon deals an additional 1d4 force damage. You can instead deal an additional 1d6 damage of an alignment type that matches one of your deity’s alignment components. As usual for aligned damage, this can damage only creatures of the opposite alignment.",
     "economy": "free_action",

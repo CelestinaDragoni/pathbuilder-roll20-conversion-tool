@@ -25,5 +25,6 @@
     "range": "120 feet",
     "target": "the triggering creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You make a quick attack and rob your foe in the process.",
     "description": "You make a quick attack and rob your foe in the process. Make a melee Strike against an adjacent foe. If you hit and deal sneak attack damage, you can also attempt to Steal from the target, even if the target is in combat.",
     "economy": "2-action",

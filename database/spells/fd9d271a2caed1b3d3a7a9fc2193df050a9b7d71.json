@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 animal",
     "duration": "1 day",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

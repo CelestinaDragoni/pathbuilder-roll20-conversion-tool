@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 weapon",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

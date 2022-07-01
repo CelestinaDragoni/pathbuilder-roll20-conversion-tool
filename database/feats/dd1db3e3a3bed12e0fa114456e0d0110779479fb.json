@@ -7,7 +7,7 @@
         "Android"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your body can internally synthesize oxygen for limited periods of time.",
     "description": "Your body can internally synthesize oxygen for limited periods of time. When you hold your breath, you can do so for an additional hour due to your internal air reservoirs. At the end of this hour, your air reservoirs are expended. Refilling your empty air reservoirs takes 10 minutes of exposure to breathable air.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
     "economy": "none",

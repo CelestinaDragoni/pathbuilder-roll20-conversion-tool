@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "you or the triggering ally",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

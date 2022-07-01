@@ -9,7 +9,7 @@
         "Wizard"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "An animal serves you and assists your spellcasting.",
     "description": "You make a pact with a creature that serves you and assists your spellcasting. You gain a familiar.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Familiar Leads To...Elemental Familiar",
     "economy": "none",

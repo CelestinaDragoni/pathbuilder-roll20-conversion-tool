@@ -7,7 +7,7 @@
         "Aphorite"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can enhance your senses and mental state to consider every aspect of an attack.",
     "description": "You can enhance your senses and mental state to consider every aspect of an attack. You can cast true strike as a divine innate spell once per day.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
     "economy": "none",

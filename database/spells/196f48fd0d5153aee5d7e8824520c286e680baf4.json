@@ -28,5 +28,6 @@
     "range": "120 feet",
     "target": "1 creature with the minion trait that you summoned or permanently control",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

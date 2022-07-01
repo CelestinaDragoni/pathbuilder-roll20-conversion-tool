@@ -8,7 +8,7 @@
         "Gunslinger"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Once you've locked on to a target, little can obscure your aim.",
     "description": "Once you've locked on to a target, little can obscure your aim. Make a ranged weapon Strike against the required target. This Strike ignores the target's concealed condition and reduces the flat check for the hidden condition from 11 to 5.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
     "economy": "1-action",

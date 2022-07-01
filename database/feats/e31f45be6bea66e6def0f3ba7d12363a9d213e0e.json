@@ -7,7 +7,7 @@
         "Oread"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can transform your body into a pure primal manifestation of earth, an elemental.",
     "description": "You can transform your body into a pure primal manifestation of earth, an elemental. Once per day, you can cast elemental form as a 7th-level primal innate spell, but you can only choose the earth elemental form.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
     "economy": "none",

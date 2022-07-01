@@ -7,7 +7,7 @@
         "Poppet"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You're used to slipping out of a bigger creature's grasp or escaping a child's overly enthusiastic hug.",
     "description": "You're used to slipping out of a bigger creature's grasp or escaping a child's overly enthusiastic hug. You attempt to Escape.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
     "economy": "reaction",

@@ -27,5 +27,6 @@
     "range": "30-foot cone",
     "target": "1 or more creatures",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

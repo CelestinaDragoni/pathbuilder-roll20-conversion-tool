@@ -7,7 +7,7 @@
         "Cleric"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You work quickly and efficiently in times of danger to deliver needed assistance.",
     "description": "You work quickly and efficiently in times of danger to deliver needed assistance. You Stride towards the triggering ally. You gain a +10-foot circumstance bonus to your Speed during this movement.",
     "economy": "reaction",

@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "you and up to five creatures touched",
     "duration": "8 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "1 willing sleeping creature",
     "duration": "8 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

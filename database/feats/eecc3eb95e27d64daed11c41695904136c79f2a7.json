@@ -8,7 +8,7 @@
         "Gunslinger"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Sometimes taking the shortest distance between two points involves removing an obstacle or two.",
     "description": "Sometimes taking the shortest distance between two points involves removing an obstacle or two. You shoot your firearm at a lock within 10 feet. Make an attack roll against the DC required to Pick the Lock.\n\nCritical Success You open the lock, or you achieve two successes toward opening a complex lock.\nSuccess You open the lock, or you achieve one success toward opening a complex lock.\nFailure You fail to open the lock, and your shot makes it harder to open. Future attempts to Pick the Lock or Blast the Lock take a –2 circumstance penalty.\nCritical Failure You fail to open the lock, and your shot makes it much harder to open. Future attempts to Pick the Lock or Blast the Lock take a –4 circumstance penalty.Traits\n\nAttack: An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty.",
     "economy": "1-action",

@@ -25,5 +25,6 @@
     "range": "60 feet",
     "target": "1 corporeal creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

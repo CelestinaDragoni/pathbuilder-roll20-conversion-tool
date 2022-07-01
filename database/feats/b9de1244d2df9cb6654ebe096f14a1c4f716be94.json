@@ -7,7 +7,7 @@
         "Druid"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have entwined yourself with the natural world, and its full power flows through you.",
     "description": "You have entwined yourself with the natural world, and its full power flows through you. You gain an additional 10th-level spell slot.",
     "economy": "none",

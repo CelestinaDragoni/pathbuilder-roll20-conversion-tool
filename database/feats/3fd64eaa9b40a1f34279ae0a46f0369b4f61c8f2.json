@@ -7,7 +7,7 @@
         "Poppet"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've reinforced your interior parts with sealant or other flame-retardant materials, protecting you from fire.",
     "description": "You've reinforced your interior parts with sealant or other flame-retardant materials, protecting you from fire. You no longer have the weakness to fire from the flammable ability.\n\nSpecial You can't take this feat if you're a stuffed poppet.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
     "economy": "none",

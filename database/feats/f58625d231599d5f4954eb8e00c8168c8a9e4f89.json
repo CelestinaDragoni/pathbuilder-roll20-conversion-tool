@@ -7,7 +7,7 @@
         "Aphorite"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your ordered physiology rejects unwelcome elements.",
     "description": "Your ordered physiology rejects unwelcome elements. Choose one. \n\nDisease or Poison Attempt a saving throw against the affliction at its current stage. On a failure, the affliction's stage doesn't increase, but you suffer the effects of the stage you were already on. On a critical failure, the stage only increases by 1. \n\nPersistent Damage Attempt a DC 10 flat check to recover from the persistent damage.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
     "economy": "1-action",

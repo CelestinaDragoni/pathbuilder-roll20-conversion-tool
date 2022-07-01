@@ -7,7 +7,7 @@
         "Sorcerer"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The magic of your bloodline mixes with that of your ancestry.",
     "description": "The magic of your bloodline mixes with that of your ancestry. You gain your blood magic effect when you cast a non-cantrip spell you gained from a heritage or an ancestry feat, in addition to the normal circumstances that trigger your blood magic.Ancestral Blood Magic Leads To...\n\nAncestral Mage",
     "economy": "none",

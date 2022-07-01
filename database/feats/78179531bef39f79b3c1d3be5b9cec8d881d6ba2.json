@@ -7,7 +7,7 @@
         "Automaton"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've greatly improved your abilities and your core can support further augmentations.",
     "description": "You've greatly improved your abilities and your core can support further augmentations. You gain the enhancement benefits of one of your 1st-, 5th-, 9th-, or 13th-level automaton ancestry feats.\n\n You are also capable of reconfiguring your augmentations to meet your needs. You can spend one week of downtime to change the enhancement you gain with this feat.Traits\n\nAutomaton: Automatons are living constructs sustained by a magical core.",
     "economy": "none",

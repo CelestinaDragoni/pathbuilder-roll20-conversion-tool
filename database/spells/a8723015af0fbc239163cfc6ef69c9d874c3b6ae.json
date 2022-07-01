@@ -24,5 +24,6 @@
     "range": "120 feet",
     "target": "",
     "duration": "",
-    "saving": "FortitudeYou can channel the fury of your deity against foes of opposed alignment. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. You deal 4d10 damage of the alignment you chose"
+    "saving": "Fortitude",
+    "school": "Evocation"
 }

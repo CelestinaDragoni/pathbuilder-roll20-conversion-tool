@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "24 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

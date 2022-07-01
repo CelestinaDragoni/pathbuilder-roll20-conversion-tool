@@ -7,7 +7,7 @@
         "Cleric"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your positive energy sets undead alight.",
     "description": "Your positive energy sets undead alight. When you use a heal spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell’s level.",
     "economy": "none",

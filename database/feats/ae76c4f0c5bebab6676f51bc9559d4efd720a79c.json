@@ -7,7 +7,7 @@
         "Cleric"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your deity grants you limited foresight, warning you of dangers an instant before they occur.",
     "description": "Your deity grants you limited foresight, warning you of dangers an instant before they occur. You gain a +2 circumstance bonus to the triggering saving throw.Premonition of Avoidance Leads To...\n\nShared Avoidance",
     "economy": "reaction",

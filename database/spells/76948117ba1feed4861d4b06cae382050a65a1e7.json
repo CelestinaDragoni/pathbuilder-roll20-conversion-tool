@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 or 2 willing creatures",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

@@ -9,7 +9,7 @@
         "Ranger"
     ],
     "level": 18,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You forgo precision to attack at an impossible speed.",
     "description": "You forgo precision to attack at an impossible speed. Make three melee Strikes with each of the required weapons. All of these Strikes take the maximum multiple attack penalty, as if you had already made two or more attacks this turn.Impossible Flurry Leads To...\n\nAccurate FlurryTraitsFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
     "economy": "3-action",

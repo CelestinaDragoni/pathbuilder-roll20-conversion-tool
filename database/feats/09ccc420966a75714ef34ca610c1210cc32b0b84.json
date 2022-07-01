@@ -10,7 +10,7 @@
         "Transmutation"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You awaken a spirit of creation within the hazard.",
     "description": "You awaken a spirit of creation within the hazard. You learn the hazard's effects. Once in the next 10 minutes, when you observe a creature take an action that would trigger one of the hazard's reactions or free actions if you hadn't Disabled it, you can use a reaction to rearm the hazard, causing the observed creature to trigger it immediately.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
     "economy": "reaction",

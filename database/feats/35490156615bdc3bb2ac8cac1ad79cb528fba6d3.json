@@ -7,7 +7,7 @@
         "Fighter"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You jump back and fire a quick shot that catches your opponent off guard.",
     "description": "You jump back and fire a quick shot that catches your opponent off guard. You Step and then make a ranged Strike with the required weapon. Your target is flat-footed against the attack.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
     "economy": "2-action",

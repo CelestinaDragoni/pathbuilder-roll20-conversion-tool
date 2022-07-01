@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "1 non-magical weapon that is either unattended or wielded by you or a willing ally",
     "duration": "5 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

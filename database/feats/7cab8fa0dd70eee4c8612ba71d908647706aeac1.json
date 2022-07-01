@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn to frighten your enemies with your performance.",
     "description": "You learn the dirge of doom composition cantrip, which frightens your enemies.",
     "economy": "none",

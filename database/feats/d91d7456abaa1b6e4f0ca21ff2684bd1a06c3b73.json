@@ -11,7 +11,7 @@
         "Undine"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You were born with a tail, and with practice you've learned how to perform simple Interact actions with it, such as opening an unlocked door.",
     "description": "You were born with a tail, and with practice you've learned how to perform simple Interact actions with it, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.\n\nOread: Oreads are planar scions descended from shaitans.Suli: Sulis are planar scions descended from jann.Sylph: Sylphs are planar scions descended from djinn.Undine: Undines are planar scions descended from marids.",
     "economy": "none",

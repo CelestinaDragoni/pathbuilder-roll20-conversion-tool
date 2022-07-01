@@ -11,7 +11,7 @@
         "Undine"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've devoted yourself to researching the secrets of the Inner Sphere.",
     "description": "You've devoted yourself to researching the secrets of the Inner Sphere. You gain the trained proficiency in your choice of Survival and either Arcana or Nature. If you would automatically become trained in Survival (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in the Lore associated with your Elemental Plane of origin (such as Plane of Fire Lore).Traits\n\nIfrit: Ifrits are planar scions descended from efreet.\n\nOread: Oreads are planar scions descended from shaitans.Suli: Sulis are planar scions descended from jann.Sylph: Sylphs are planar scions descended from djinn.Undine: Undines are planar scions descended from marids.",
     "economy": "none",

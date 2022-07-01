@@ -7,7 +7,7 @@
         "Goloma"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You are quick at recognizing broad details about people and things around you.",
     "description": "You are quick at recognizing broad details about people and things around you. You are trained in Society and gain the Eye for Numbers skill feat. If you would automatically become trained in Society (from your background or class, for example), you instead become trained in a skill of your choice.Traits\n\nGoloma: Insular humanoids that bear countless eyes.",
     "economy": "none",

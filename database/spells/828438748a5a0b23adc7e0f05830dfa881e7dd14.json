@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "1 creature or object",
     "duration": "unlimited (see below)",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

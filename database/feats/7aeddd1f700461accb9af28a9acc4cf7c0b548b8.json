@@ -7,7 +7,7 @@
         "Champion"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You use your shield to harry your enemies, preventing them from stepping away from or around you.",
     "description": "You use your shield to harry your enemies, preventing them from stepping away from or around you. All spaces adjacent to you are difficult terrain for your enemies.",
     "economy": "none",

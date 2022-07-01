@@ -23,5 +23,6 @@
     "range": "touch",
     "target": "up to 3 creatures",
     "duration": "10 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

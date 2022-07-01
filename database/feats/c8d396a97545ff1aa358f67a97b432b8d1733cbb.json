@@ -7,7 +7,7 @@
         "Gnoll"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You carry the bones of your ancestors with you, and you can ask them for counsel.",
     "description": "You carry the bones of your ancestors with you, and you can ask them for counsel. You can cast augury twice per day as a 2nd-level occult innate spell.Traits\n\nGnoll: Gnolls are humanoids that resemble hyenas.",
     "economy": "none",

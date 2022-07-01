@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "you and 1 willing creature",
     "duration": "sustained up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

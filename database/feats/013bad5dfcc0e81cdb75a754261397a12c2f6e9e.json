@@ -8,7 +8,7 @@
         "Rage"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Ignoring your pain, you reach out and grab the creature or weapon that caused you harm.",
     "description": "Ignoring your pain, you reach out and grab the creature or weapon that caused you harm. Attempt an Athletics check to Grapple the triggering creature or to Disarm the creature of the triggering weapon.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "reaction",

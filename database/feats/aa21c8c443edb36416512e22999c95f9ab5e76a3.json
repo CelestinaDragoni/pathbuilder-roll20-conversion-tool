@@ -7,7 +7,7 @@
         "Summoner"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned how to transmogrify your eidolon to suit the circumstances of the day.",
     "description": "You've learned how to transmogrify your eidolon to suit the circumstances of the day. Each day, choose one evolution feat of 6th level or lower during your daily preparations. Your eidolon gains that feat until your next daily preparations.",
     "economy": "none",

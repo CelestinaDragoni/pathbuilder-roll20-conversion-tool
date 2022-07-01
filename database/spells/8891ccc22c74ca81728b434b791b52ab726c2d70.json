@@ -24,5 +24,6 @@
     "range": "touch",
     "target": "1 living creature",
     "duration": "",
-    "saving": "FortitudeYour hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living. The target must attempt a Fortitude save"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

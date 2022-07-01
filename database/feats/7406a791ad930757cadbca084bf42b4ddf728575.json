@@ -7,7 +7,7 @@
         "Conrasu"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have come to know conrasu weapons as you know yourself.",
     "description": "You have come to know conrasu weapons as you know yourself. Whenever you critically hit using a composite shortbow, glaive, longspear, longsword, shortbow, spear, or a conrasu weapon, you apply the weapon's critical specialization effect.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
     "economy": "none",

@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn to speed up yourself and your allies with your performance.",
     "description": "You learn the triple time composition cantrip, which speeds up you and your allies for a round.",
     "economy": "none",

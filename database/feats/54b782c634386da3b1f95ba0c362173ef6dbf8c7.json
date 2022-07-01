@@ -7,7 +7,7 @@
         "Strix"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can fly through the air in short bursts at half your land Speed.",
     "description": "You can fly through the air in short bursts at half your land Speed. If you don't end your movement on solid ground, you fall at the end of your turn.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
     "economy": "1-action",

@@ -7,7 +7,7 @@
         "Shisk"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You constantly remember details about the world.",
     "description": "You constantly remember details about the world. You attempt a check to Recall Knowledge. If you succeed, you gain additional information or context. If you critically succeed, at the GM's discretion you might gain even more additional information or context than normal. Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
     "economy": "free_action",

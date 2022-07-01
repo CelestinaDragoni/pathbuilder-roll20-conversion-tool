@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You aren’t bothered by tricky footing.",
     "description": "You aren’t bothered by tricky footing. When you Stride or Step, you can ignore difficult terrain.",
     "economy": "none",

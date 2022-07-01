@@ -7,7 +7,7 @@
         "Kitsune"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You excel at navigating social situations and keeping secrets.",
     "description": "You excel at navigating social situations and keeping secrets. You gain the trained proficiency rank in Diplomacy and Deception. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Kitsune Lore.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
     "economy": "none",

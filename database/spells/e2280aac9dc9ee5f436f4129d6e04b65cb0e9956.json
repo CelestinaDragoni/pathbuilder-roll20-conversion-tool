@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

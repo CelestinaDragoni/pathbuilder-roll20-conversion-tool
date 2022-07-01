@@ -9,7 +9,7 @@
         "Rage"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You stomp the ground with such force that it creates a minor earthquake.",
     "description": "You stomp the ground with such force that it creates a minor earthquake, with the effects of the earthquake spell.Traits\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "1-action",

@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 evil creature",
     "duration": "1 round",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Evocation"
 }

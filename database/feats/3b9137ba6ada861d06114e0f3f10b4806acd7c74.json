@@ -7,7 +7,7 @@
         "Conrasu"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can alter your exoskeleton's size.",
     "description": "You can alter your exoskeleton's size. You constantly gain the effects of enlarge. You can dismiss or resume these effects as an action, which has the concentrate trait.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
     "economy": "none",

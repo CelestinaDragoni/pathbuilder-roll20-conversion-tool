@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "up to 5 willing creatures",
     "duration": "24 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

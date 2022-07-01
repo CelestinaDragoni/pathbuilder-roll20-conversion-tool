@@ -27,5 +27,6 @@
     "range": "100 feet",
     "target": "1 creature with a skeleton",
     "duration": "",
-    "saving": "FortitudeYou reach out a hand and seize a creature's skeleton from afar, harming their body and potentially wrenching them by the bones to move them against their will. The number of actions you spend when Casting this Spell determines the spell's effects. Regardless of the number of actions spent to Cast this Spell, the target must attempt a Fortitude save.    (somatic, verbal) You clench your fist, painfully compressing the target's bones and dealing 3d8 bludgeoning damage.     (material, somatic, verbal) As the 2-action version, plus you pull the target's body by their bones, moving them around like an awkward marionette. This movement follows the rules for forced movement.Critical Success The target is unaffected.Success The target takes half damage. If you cast the 3-action version, you can move the target up to 5 feet"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

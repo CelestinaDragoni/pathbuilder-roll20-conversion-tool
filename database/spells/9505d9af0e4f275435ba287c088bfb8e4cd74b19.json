@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "1 weapon without an unholy rune that is unattended or wielded by you or a willing ally",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

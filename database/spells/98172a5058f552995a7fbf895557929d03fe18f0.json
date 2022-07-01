@@ -24,5 +24,6 @@
     "range": "60 feet",
     "target": "the creature that would take fire damage",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

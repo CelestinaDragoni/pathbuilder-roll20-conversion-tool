@@ -7,7 +7,7 @@
         "Catfolk"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You slip through your foe's opening.",
     "description": "You slip through your foe's opening. Stride up to your Speed. This movement doesn't trigger movement-based reactions from the creature that missed you.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
     "economy": "reaction",

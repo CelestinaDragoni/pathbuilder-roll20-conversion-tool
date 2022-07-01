@@ -25,5 +25,6 @@
     "range": "",
     "target": "",
     "duration": "",
-    "saving": "FortitudeA swirling torrent of water manifests along a straight line, battering creatures and unattended objects in its path and possibly pushing them away from you. The torrent deals 8d6 bludgeoning damage. Each creature in the area must attempt a basic Fortitude save"
+    "saving": "Fortitude",
+    "school": "Evocation"
 }

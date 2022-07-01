@@ -7,7 +7,7 @@
         "Cleric"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "When an ally you can see falls in battle, your fight or flight response triggers a surge in your deity's might within you.",
     "description": "When an ally you can see falls in battle, your fight or flight response triggers a surge in your deity's might within you. You instantly regain 1 Focus Point.",
     "economy": "free_action",

@@ -8,7 +8,7 @@
         "Summoner"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon knocks enemies down.",
     "description": "Your eidolon knocks enemies down. Choose one of the eidolon's unarmed attacks with the trip trait. It gains the Knockdown action for that attack.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
     "economy": "none",

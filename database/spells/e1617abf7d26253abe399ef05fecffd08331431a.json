@@ -24,5 +24,6 @@
     "range": "30 feet",
     "target": "unattended written materials of up to 1 Bulk or less",
     "duration": "1 day",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "1 unattended object or willing creature",
     "duration": "5 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

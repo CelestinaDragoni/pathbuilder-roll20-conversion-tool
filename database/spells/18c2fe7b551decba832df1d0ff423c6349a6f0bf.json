@@ -24,5 +24,6 @@
     "range": "",
     "target": "the creature you hit",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

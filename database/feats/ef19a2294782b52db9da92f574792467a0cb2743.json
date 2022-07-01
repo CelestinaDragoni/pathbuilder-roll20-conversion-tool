@@ -7,7 +7,7 @@
         "Sylph"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You are at home in tempestuous weather and accustomed to even the harshest winds.",
     "description": "You are at home in tempestuous weather and accustomed to even the harshest winds. You gain a +1 circumstance bonus to saves against air and electricity effects. If you roll a success on a save against an air effect, you get a critical success instead.Traits\n\nSylph: Sylphs are planar scions descended from djinn.",
     "economy": "none",

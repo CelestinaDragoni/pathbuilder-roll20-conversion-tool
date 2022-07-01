@@ -26,5 +26,6 @@
     "range": "500 feet",
     "target": "",
     "duration": "1 round",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

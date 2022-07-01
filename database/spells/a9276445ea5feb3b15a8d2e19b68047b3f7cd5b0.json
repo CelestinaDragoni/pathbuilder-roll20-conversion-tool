@@ -29,5 +29,6 @@
     "range": "touch",
     "target": "1 Large or smaller object, construct, or living creature",
     "duration": "varies",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Transmutation"
 }

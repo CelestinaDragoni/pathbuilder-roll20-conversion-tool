@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn the hymn of healing composition spell (page 228), which imbues your music with rich melodies that help your allies recover from harm.",
     "description": "You learn the hymn of healing composition spell, which imbues your music with rich melodies that help your allies recover from harm.",
     "economy": "none",

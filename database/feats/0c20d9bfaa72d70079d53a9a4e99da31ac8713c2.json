@@ -7,7 +7,7 @@
         "Lizardfolk"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You tap into the unstoppable, primeval strength of your ancient kin.",
     "description": "You tap into the unstoppable, primeval strength of your ancient kin. You gain freedom of movement and stoneskin as 4th-level primal innate spells that you can cast once per day. As a 3-action activity, you can Cast a Spell twice to cast both of these innate spells, as long as they are both still available for the day.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
     "economy": "none",

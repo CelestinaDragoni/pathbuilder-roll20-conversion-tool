@@ -7,7 +7,7 @@
         "Duskwalker"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You feel a connection to shokis, the rambling collectors of wayward souls, and might have found old texts written by one.",
     "description": "You feel a connection to shokis, the rambling collectors of wayward souls, and might have found old texts written by one. You are trained in Diplomacy. If you were already trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice. You can also cast disrupt undead as a divine innate cantrip at will. A cantrip is heightened to a spell level equal to half your level rounded up.Traits\n\nDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
     "economy": "none",

@@ -10,7 +10,7 @@
         "Goloma"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "When you focus your eyes carefully, your gaze can pierce through all obfuscations, even magical ones.",
     "description": "When you focus your eyes carefully, your gaze can pierce through all obfuscations, even magical ones. When you use True Gaze, you gain the effects of a 6th-level true seeing spell, using your Perception modifier for the counteract check.Traits\n\nArcane: This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is magical.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Divination: The divination school of magic typically involves obtaining or transferring information, or predicting events.Goloma: Insular humanoids that bear countless eyes.",
     "economy": "1-action",

@@ -7,7 +7,7 @@
         "Orc"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have an impressive innate ability to tame and command ferocious beasts.",
     "description": "You have an impressive innate ability to tame and command ferocious beasts. You become trained in the Nature skill and gain the Train Animal skill feat.Beast Trainer Leads To...\n\nDragon Grip, Ferocious BeastsTraitsOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
     "economy": "none",

@@ -8,7 +8,7 @@
         "Monk"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You focus your strength into a blow powerful enough to push an enemy away from you.",
     "description": "You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an Athletics check to Shove the target. This attack uses the same multiple attack penalty as your Strike, and doesn’t count toward your multiple attack penalty.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
     "economy": "2-action",

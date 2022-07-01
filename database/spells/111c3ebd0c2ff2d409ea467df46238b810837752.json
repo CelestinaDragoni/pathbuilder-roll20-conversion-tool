@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "1 living humanoid",
     "duration": "varies",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Transmutation"
 }

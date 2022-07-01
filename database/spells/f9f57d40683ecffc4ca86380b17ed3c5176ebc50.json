@@ -27,5 +27,6 @@
     "range": "100 miles",
     "target": "you and up to 4 targets touched, either willing creatures or objects roughly the size of a creature.",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

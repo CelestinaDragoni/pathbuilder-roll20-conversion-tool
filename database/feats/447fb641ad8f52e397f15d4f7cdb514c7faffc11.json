@@ -7,7 +7,7 @@
         "Conrasu"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your patron aeon has allowed you to call upon their gifts to serve their ends.",
     "description": "Your patron aeon has allowed you to call upon their gifts to serve their ends. You can cast augury and calm emotions each once per day as 2nd-level divine innate spells.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
     "economy": "none",

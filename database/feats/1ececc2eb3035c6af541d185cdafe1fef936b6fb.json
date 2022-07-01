@@ -7,7 +7,7 @@
         "Android"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The nanites in your ocular processors have adapted to darkness, enhancing your ability to see in the dark.",
     "description": "The nanites in your ocular processors have adapted to darkness, enhancing your ability to see in the dark. You gain darkvision.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
     "economy": "none",

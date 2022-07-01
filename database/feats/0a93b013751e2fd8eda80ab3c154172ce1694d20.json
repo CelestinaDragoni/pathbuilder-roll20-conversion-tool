@@ -8,7 +8,7 @@
         "Rage"
     ],
     "level": 18,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You make a vicious attack that maims your enemy.",
     "description": "You make a vicious attack that maims your enemy. Make a melee Strike. If the Strike hits and deals damage, the target is drained 1, or drained 2 on a critical success.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "2-action",

@@ -25,5 +25,6 @@
     "range": "15 feet",
     "target": "up to 8 creatures",
     "duration": "10 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Illusion"
 }

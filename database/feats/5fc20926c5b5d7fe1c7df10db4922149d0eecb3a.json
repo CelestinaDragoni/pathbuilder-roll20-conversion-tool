@@ -7,7 +7,7 @@
         "Barbarian"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your rage is a frenzy of rapid movements.",
     "description": "Your rage is a frenzy of rapid movements. While you are raging, you gain a +10-foot status bonus to your Speed.",
     "economy": "none",

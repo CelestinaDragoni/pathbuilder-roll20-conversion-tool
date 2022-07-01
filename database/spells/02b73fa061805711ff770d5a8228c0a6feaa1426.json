@@ -26,5 +26,6 @@
     "range": "60 feet",
     "target": "1 creature adjacent to a flat surface",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

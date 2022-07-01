@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 willing living creature",
     "duration": "1 day",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

@@ -29,5 +29,6 @@
     "range": "60 feet",
     "target": "1 ally",
     "duration": "1 round",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

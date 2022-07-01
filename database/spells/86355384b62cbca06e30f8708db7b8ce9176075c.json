@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 unattended object up to 1 Bulk",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

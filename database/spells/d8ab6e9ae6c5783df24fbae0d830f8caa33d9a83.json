@@ -28,5 +28,6 @@
     "range": "30 feet",
     "target": "1 living creature",
     "duration": "1 week",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

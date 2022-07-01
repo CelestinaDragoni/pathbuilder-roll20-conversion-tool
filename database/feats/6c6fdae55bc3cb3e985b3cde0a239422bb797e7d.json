@@ -7,7 +7,7 @@
         "Shisk"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You curl into a posture that splays out your bone spines.",
     "description": "You curl into a posture that splays out your bone spines. You gain a +1 circumstance to AC until the start of your next turn.\n\nSpecial If you have the Barbed Quills reaction or a quills unarmed attack, each gains a +1 circumstance bonus to damage rolls until the start of your next turn.Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
     "economy": "1-action",

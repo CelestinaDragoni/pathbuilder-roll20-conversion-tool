@@ -8,7 +8,7 @@
         "Gunslinger"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Seeing your ally's attack about to go astray, you fire your weapon to right its course.",
     "description": "Seeing your ally's attack about to go astray, you fire your weapon to right its course. Discharge your firearm and roll a d20. Your ally uses this roll instead of their own, and the attack ignores bonuses the target would gain against the attack from lesser or standard cover.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
     "economy": "reaction",

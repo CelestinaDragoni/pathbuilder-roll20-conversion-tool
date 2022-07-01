@@ -7,7 +7,7 @@
         "Shoony"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Growing up in shoony society, you learned the value of honesty, friendship, and hard work, even during trying times.",
     "description": "Growing up in shoony society, you learned the value of honesty, friendship, and hard work, even during trying times. You gain the trained proficiency rank in Diplomacy and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Shoony Lore.Traits\n\nShoony: Note from Nethys: no description was provided for this trait",
     "economy": "none",

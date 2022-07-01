@@ -7,7 +7,7 @@
         "Elf"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your people used powerful magic to travel between distant worlds, and the remnants of that magic make such transportation easier for you.",
     "description": "Your people used powerful magic to travel between distant worlds, and the remnants of that magic make such transportation easier for you. When you are the target of a teleportation spell that transports more than one person, it can affect an additional person beyond the normal limit, chosen by the caster. Additionally, when you're the target of a teleport spell, you and the other targets arrive no farther than 1 mile off target, regardless of distance traveled.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
     "economy": "none",

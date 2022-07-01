@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "one willing creature of lower level than you",
     "duration": "until your next daily preparations",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

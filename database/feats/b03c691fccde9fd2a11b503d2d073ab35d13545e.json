@@ -7,7 +7,7 @@
         "Fetchling"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You wrap yourself in shadow to change your appearance.",
     "description": "You wrap yourself in shadow to change your appearance. You can cast illusory disguise as a 1st-level occult innate spell once per day. This spell gains the shadow trait.Traits\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.",
     "economy": "none",

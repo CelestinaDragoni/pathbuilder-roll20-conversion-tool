@@ -8,7 +8,7 @@
         "Rage"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe.",
     "description": "Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe. Attempt to Grapple the triggering enemy.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "reaction",

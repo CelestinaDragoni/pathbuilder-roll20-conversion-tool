@@ -8,7 +8,7 @@
         "Summoner"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon grabs enemies.",
     "description": "Your eidolon grabs enemies. Choose one of the eidolon's unarmed attacks with the grapple trait. It gains the Grab action on that unarmed attack.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
     "economy": "none",

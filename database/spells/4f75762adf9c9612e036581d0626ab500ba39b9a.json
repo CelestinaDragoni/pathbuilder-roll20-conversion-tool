@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "you and 1 other humanoid",
     "duration": "varies",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Illusion"
 }

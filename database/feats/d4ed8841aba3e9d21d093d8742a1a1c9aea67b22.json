@@ -7,7 +7,7 @@
         "Leshy"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You wield primal magic.",
     "description": "You wield primal magic. You can cast barkskin and entangle as 2nd-level primal innate spells once per day each.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
     "economy": "none",

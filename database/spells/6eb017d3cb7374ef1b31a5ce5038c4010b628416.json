@@ -31,5 +31,6 @@
     "range": "30 feet",
     "target": "1 creature whose true name you know",
     "duration": "varies",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

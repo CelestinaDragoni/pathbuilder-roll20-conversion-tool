@@ -8,7 +8,7 @@
         "Monk"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your ability to control your own ki empowers you to pressure other creatures into resuming their true forms.",
     "description": "Your ability to control your own ki empowers you to pressure other creatures into resuming their true forms. Attempt an Athletics check to counteract a polymorph effect currently affecting your target. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.Traits\n\nAttack: An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty.",
     "economy": "1-action",

@@ -7,7 +7,7 @@
         "Fetchling"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned obscure lessons about your fellow fetchlings.",
     "description": "You've learned obscure lessons about your fellow fetchlings. You're trained in Occultism and Stealth. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Shadow Plane Lore.Traits\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.",
     "economy": "none",

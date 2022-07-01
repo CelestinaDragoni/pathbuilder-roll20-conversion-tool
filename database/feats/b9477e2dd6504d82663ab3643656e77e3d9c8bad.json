@@ -9,7 +9,7 @@
         "Manipulate"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You vent a jet of supercooled fluid from your innovation, damaging a foe and slowing it down.",
     "description": "You vent a jet of supercooled fluid from your innovation, damaging a foe and slowing it down. Target one creature within 60 feet. That creature takes cold damage equal to your level, with effects depending on its Reflex save.\n \nCritical Success The target is unaffected.\nSuccess The target takes half damage and takes a –5-foot status penalty to its Speeds for 1 round.\nFailure The target takes full damage and takes a –10-foot status penalty to its Speeds for 1 round.\nCritical Failure The target takes double damage, is slowed 1 for 1 round, and takes a –15-foot status penalty to its Speeds for 1 round. \nUnstable Function Your innovation discharges an enormous cone of supercooled fluid, potentially causing cascading failures. Add the unstable trait to Deep Freeze. The ability affects all creatures within a 60-foot cone instead of a single target, and it deals cold damage equal to double your level instead of equal to your level.\n\n If you have the revolutionary innovation class feature, you can choose a 60-foot or 90-foot cone when you use an unstable Deep Freeze.\n\nSpecial If your innovation is a minion, it can take this action rather than you.Traits\n\nCold: Effects with this trait deal cold damage. Creatures with this trait have a connection to magical cold.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
     "economy": "2-action",

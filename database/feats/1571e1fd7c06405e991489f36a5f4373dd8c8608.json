@@ -7,7 +7,7 @@
         "Sprite"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can disguise yourself with magical illusions.",
     "description": "You can disguise yourself with magical illusions. You can cast illusory disguise once per day as a 1st-level primal innate spell. At 7th level, the spell is heightened to 2nd level, and every 2 levels thereafter, the spell is heightened an additional spell level.Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
     "economy": "none",

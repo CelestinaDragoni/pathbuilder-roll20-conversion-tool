@@ -7,7 +7,7 @@
         "General"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Become trained in a weapon type.",
     "description": "You become trained in all simple weapons. If you were already trained in all simple weapons, you become trained in all martial weapons. If you were already trained in all martial weapons, you become trained in one advanced weapon of your choice.\n\nSpecial You can select this feat more than once. Each time you do, you become trained in additional weapons as appropriate, following the above progression.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
     "economy": "none",

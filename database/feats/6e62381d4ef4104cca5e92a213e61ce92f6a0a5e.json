@@ -7,7 +7,7 @@
         "Oread"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "When in danger, you can harden the stone in your skin into armor, much like a shaitan.",
     "description": "When in danger, you can harden the stone in your skin into armor, much like a shaitan. You can cast stoneskin on yourself only, 3 times per day as a 4th-level arcane innate spell.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
     "economy": "none",

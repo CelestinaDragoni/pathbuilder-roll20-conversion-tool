@@ -7,7 +7,7 @@
         "Sprite"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can use faerie magic to hide yourself and expose hidden foes.",
     "description": "You can use faerie magic to hide yourself and expose hidden foes. You can cast faerie fire and invisibility each once per day as primal innate spells.Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
     "economy": "none",

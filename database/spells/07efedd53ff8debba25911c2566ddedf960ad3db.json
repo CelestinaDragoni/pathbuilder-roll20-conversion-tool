@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "6 rounds;",
-    "saving": "FortitudeYou reproduce an imp's evil, poisonous sting, stabbing at an enemy and possibly affecting them with the devil's benumbing venom. You deal 1d4 piercing damage to the touched creature and afflict the creature with imp venom. If the target takes piercing damage, they also take 1d6 evil damage and must attempt a Fortitude save.Critical Success The target is unaffected.Success The target takes 1d6 poison damage.Failure The target is afflicted with imp venom at stage 1.Critical Failure The target is afflicted with imp venom at stage 2. Imp Venom (poison) Level 3"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

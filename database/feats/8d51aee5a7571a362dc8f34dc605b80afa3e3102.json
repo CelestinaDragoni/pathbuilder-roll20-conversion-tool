@@ -7,7 +7,7 @@
         "Hobgoblin"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You are adept at working with your allies to surround a foe.",
     "description": "You are adept at working with your allies to surround a foe. If an enemy is within reach of you and at least two of your allies, that enemy is flat-footed against you.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
     "economy": "none",

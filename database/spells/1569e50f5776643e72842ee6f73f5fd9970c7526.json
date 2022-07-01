@@ -26,5 +26,6 @@
     "range": "",
     "target": "enemies in the area",
     "duration": "sustained up to 1 minute",
-    "saving": "Reflex"
+    "saving": "Reflex",
+    "school": "Evocation"
 }

@@ -8,7 +8,7 @@
         "Fortune"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You instinctively twist away from danger.",
     "description": "You instinctively twist away from danger. You can reroll the triggering saving throw and use the better result.Cat's Luck Leads To...\n\nExpanded Luck, Lucky Break, Reliable Luck, Sense for Trouble, Shared Luck (Catfolk)TraitsCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
     "economy": "free_action",

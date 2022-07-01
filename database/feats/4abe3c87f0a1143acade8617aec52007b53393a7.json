@@ -8,7 +8,7 @@
         "Summoner"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon grows substantially.",
     "description": "Your eidolon grows substantially. Your eidolon becomes Large, instead of its previous size, and its reach increases to 10 feet. This doesn't change any of its other statistics.Hulking Size Leads To...\n\nTowering SizeTraitsEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
     "economy": "none",

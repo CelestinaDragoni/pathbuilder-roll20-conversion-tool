@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 creature",
     "duration": "until the next time you make your daily preparations",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

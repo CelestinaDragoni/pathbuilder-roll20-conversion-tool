@@ -7,7 +7,7 @@
         "Lizardfolk"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can take advantage of the terrain to bypass foes’ defenses.",
     "description": "You can take advantage of the terrain to bypass foes’ defenses. Non-lizardfolk creatures in difficult terrain are flat-footed to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also flat-footed to you.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
     "economy": "none",

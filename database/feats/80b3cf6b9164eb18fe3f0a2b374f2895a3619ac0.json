@@ -9,7 +9,7 @@
         "Oracle"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.",
     "description": "You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects. Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a –1 circumstance penalty to saves against divine effects.Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.",
     "economy": "reaction",

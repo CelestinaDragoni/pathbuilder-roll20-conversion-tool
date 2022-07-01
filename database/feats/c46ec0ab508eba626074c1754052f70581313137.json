@@ -7,7 +7,7 @@
         "Hobgoblin"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You’re skilled at beating a foe when their morale is already breaking.",
     "description": "You’re skilled at beating a foe when their morale is already breaking. When you succeed at a melee weapon Strike against a frightened foe, that foe can’t reduce their frightened condition below 1 until the beginning of your next turn.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
     "economy": "none",

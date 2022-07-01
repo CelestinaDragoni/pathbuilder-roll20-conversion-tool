@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn the pied piping composition spell, which enables you to control the actions of weak-minded individuals.",
     "description": "You learn the pied piping composition spell, which enables you to control the actions of weak-minded individuals.",
     "economy": "none",

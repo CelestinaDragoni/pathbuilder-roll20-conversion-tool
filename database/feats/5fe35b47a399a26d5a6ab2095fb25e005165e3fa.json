@@ -7,7 +7,7 @@
         "Ranger"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You scan the battlefield quickly, remembering critical details about multiple opponents you face.",
     "description": "You scan the battlefield quickly, remembering critical details about multiple opponents you face. You immediately attempt a check to Recall Knowledge about a different creature you can perceive.",
     "economy": "free_action",

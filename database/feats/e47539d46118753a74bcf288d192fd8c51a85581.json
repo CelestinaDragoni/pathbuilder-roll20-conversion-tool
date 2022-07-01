@@ -8,7 +8,7 @@
         "Rage"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You impale your enemy and hold them in place with your weapon.",
     "description": "You impale your enemy and hold them in place with your weapon. Make a melee Strike with the required weapon. If the Strike hits and deals damage, your target is grabbed until they successfully Escape, you attack with the required weapon, or you Release the required weapon, whichever comes first. When the target is no longer grabbed, they take persistent bleed damage equal to the number of weapon damage dice.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
     "economy": "2-action",

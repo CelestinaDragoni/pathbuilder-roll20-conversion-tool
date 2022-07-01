@@ -24,5 +24,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "sustained up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

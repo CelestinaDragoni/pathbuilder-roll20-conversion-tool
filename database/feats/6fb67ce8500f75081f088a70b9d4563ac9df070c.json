@@ -8,7 +8,7 @@
         "Rogue"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You subtly damage others’ equipment.",
     "description": "You subtly damage others’ equipment. Choose one item that a creature within your reach wields or carries. The item must have moving parts that you could possibly sabotage (a shortbow could be sabotaged, but a longsword could not). Attempt a Thievery check against the Reflex DC of the creature. Damage dealt by Sabotage can’t take the item below its Break Threshold.\n\nCritical Success You deal damage equal to four times your Thievery proficiency bonus.\nSuccess You deal damage equal to double your Thievery proficiency bonus.\nCritical Failure Temporarily immune to your Sabotage for 1 day.Traits\n\nIncapacitation: An ability with this trait can take a character completely out of the fight or even kill them, and it’s harder to use on a more powerful character. If a spell has the incapacitation trait, any creature of more than twice the spell’s level treats the result of their check to prevent being incapacitated by the spell as one degree of success better, or the result of any check the spellcaster made to incapacitate them as one degree of success worse. If any other effect has the incapacitation trait, a creature of higher level than the item, creature, or hazard generating the effect gains the same benefits.",
     "economy": "1-action",

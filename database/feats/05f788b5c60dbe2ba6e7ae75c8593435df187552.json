@@ -7,7 +7,7 @@
         "Witch"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You find it easy to attract a powerful and unusual familiar to your side.",
     "description": "You find it easy to attract a powerful and unusual familiar to your side. The number of abilities required to make your familiar a specific familiar is two lower than normal.",
     "economy": "none",

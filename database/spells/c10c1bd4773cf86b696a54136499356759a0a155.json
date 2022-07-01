@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 creature other than you",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

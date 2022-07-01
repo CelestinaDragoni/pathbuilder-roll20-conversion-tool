@@ -7,7 +7,7 @@
         "Halfling"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Whether you are climbing a ship’s rigging, a jungle tree, or a clock tower, you have an uncanny knack for finding footholds and handholds where larger creatures can’t.",
     "description": "Whether you are climbing a ship's rigging, a jungle tree, or a clock tower, you have an uncanny knack for finding footholds and handholds where larger creatures can't. You gain a climb Speed of 10 feet.Traits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
     "economy": "none",

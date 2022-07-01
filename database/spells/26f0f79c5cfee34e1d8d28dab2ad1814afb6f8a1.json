@@ -28,5 +28,6 @@
     "range": "10 feet",
     "target": "1 non-hostile domesticated animal",
     "duration": "1 minute",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

@@ -7,7 +7,7 @@
         "Monk"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have fortified your body and mind against eldritch effects.",
     "description": "You have fortified your body and mind against eldritch effects. You gain a +1 status bonus to saving throws against magic.",
     "economy": "none",

@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "1 willing creature",
     "duration": "1 hour",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

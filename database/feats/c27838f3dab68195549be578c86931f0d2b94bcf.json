@@ -7,7 +7,7 @@
         "Dwarf"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms.",
     "description": "Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms. You are trained with the battle axe, pick, and warhammer.\n\n You also gain access to all uncommon dwarf weapons. For the purpose of determining your proficiency, martial dwarf weapons are simple weapons and advanced dwarf weapons are martial weapons.\nDwarven Weapon Familiarity Leads To...\n\nDwarven Weapon Cunning, Dwarven Weapon ExpertiseTraitsDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
     "economy": "none",

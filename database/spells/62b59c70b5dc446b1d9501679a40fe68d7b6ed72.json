@@ -26,5 +26,6 @@
     "range": "60 feet",
     "target": "up to 4 creatures",
     "duration": "10 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

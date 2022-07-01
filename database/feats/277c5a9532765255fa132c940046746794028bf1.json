@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn the song of marching composition cantrip, which enables you and your allies to cross vast distances without strain.",
     "description": "You learn the song of marching composition cantrip, which enables you and your allies to cross vast distances without strain.",
     "economy": "none",

@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "up to 6 willing creatures",
     "duration": "10 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

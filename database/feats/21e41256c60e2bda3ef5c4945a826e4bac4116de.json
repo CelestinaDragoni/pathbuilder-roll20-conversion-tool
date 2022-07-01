@@ -7,7 +7,7 @@
         "Poppet"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your fins, flippers, or other accessories assist with steering you through water.",
     "description": "Your fins, flippers, or other accessories assist with steering you through water. You gain a swim Speed of 15 feet.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
     "economy": "none",

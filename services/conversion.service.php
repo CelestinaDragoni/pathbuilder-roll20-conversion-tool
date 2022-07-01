@@ -611,6 +611,7 @@ class Conversion {
                     $attrs[] = $this->_createStruct("repeating_spellinnate_{$id}_target", $spell['target']);
                     $attrs[] = $this->_createStruct("repeating_spellinnate_{$id}_duration", $spell['duration']);
                     $attrs[] = $this->_createStruct("repeating_spellinnate_{$id}_range", $spell['range']);
+                    $attrs[] = $this->_createStruct("repeating_spellinnate_{$id}_school", strtolower($spell['school']));
                     $attrs[] = $this->_createStruct("repeating_spellinnate_{$id}_cast_actions", $spell['economy']);
                     $attrs[] = $this->_createStruct("repeating_spellinnate_{$id}_description", $spell['description']."\n\n".$spell['url']);
                     $attrs[] = $this->_createStruct("repeating_spellinnate_{$id}_uses", 1, 1);
@@ -639,6 +640,7 @@ class Conversion {
                     $attrs[] = $this->_createStruct("repeating_spellfocus_{$id}_target", $spell['target']);
                     $attrs[] = $this->_createStruct("repeating_spellfocus_{$id}_duration", $spell['duration']);
                     $attrs[] = $this->_createStruct("repeating_spellfocus_{$id}_range", $spell['range']);
+                    $attrs[] = $this->_createStruct("repeating_spellfocus_{$id}_school", strtolower($spell['school']));
                     $attrs[] = $this->_createStruct("repeating_spellfocus_{$id}_cast_actions", $spell['economy']);
                     $attrs[] = $this->_createStruct("repeating_spellfocus_{$id}_description", $spell['description']."\n\n".$spell['url']);
                     $attrs[] = $this->_createStruct("repeating_spellfocus_{$id}_uses", 1, 1);
@@ -667,6 +669,7 @@ class Conversion {
                     $attrs[] = $this->_createStruct("repeating_cantrip_{$id}_target", $spell['target']);
                     $attrs[] = $this->_createStruct("repeating_cantrip_{$id}_duration", $spell['duration']);
                     $attrs[] = $this->_createStruct("repeating_cantrip_{$id}_range", $spell['range']);
+                    $attrs[] = $this->_createStruct("repeating_cantrip_{$id}_school", strtolower($spell['school']));
                     $attrs[] = $this->_createStruct("repeating_cantrip_{$id}_cast_actions", $spell['economy']);
                     $attrs[] = $this->_createStruct("repeating_cantrip_{$id}_description", $spell['description']."\n\n".$spell['url']);
                     $attrs[] = $this->_createStruct("repeating_cantrip_{$id}_uses", 1, 1);
@@ -701,6 +704,7 @@ class Conversion {
                             $attrs[] = $this->_createStruct("repeating_normalspells_{$id}_target", $spell['target']);
                             $attrs[] = $this->_createStruct("repeating_normalspells_{$id}_duration", $spell['duration']);
                             $attrs[] = $this->_createStruct("repeating_normalspells_{$id}_range", $spell['range']);
+                            $attrs[] = $this->_createStruct("repeating_normalspells_{$id}_school", strtolower($spell['school']));
                             $attrs[] = $this->_createStruct("repeating_normalspells_{$id}_cast_actions", $spell['economy']);
                             $attrs[] = $this->_createStruct("repeating_normalspells_{$id}_description", $spell['description']."\n\n".$spell['url']);
                             $attrs[] = $this->_createStruct("repeating_normalspells_{$id}_uses", 1, 1);

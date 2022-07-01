@@ -7,7 +7,7 @@
         "Tengu"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You move quickly, snatching a shiny item that catches your eye.",
     "description": "You move quickly, snatching a shiny item that catches your eye. Stride twice, and you can Interact to grab an unattended object at any point during your movement.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
     "economy": "2-action",

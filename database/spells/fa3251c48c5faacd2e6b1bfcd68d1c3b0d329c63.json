@@ -25,5 +25,6 @@
     "range": "",
     "target": "",
     "duration": "",
-    "saving": "ReflexYou swing a weapon you're holding, and the weapon magically multiplies into duplicates that swipe at all creatures in either a cone or an emanation. This flurry deals four dice of damage to creatures in the area. This damage has the same type as the weapon and uses the same die size. Determine the die size as if you were attacking with the weapon"
+    "saving": "Reflex",
+    "school": "Evocation"
 }

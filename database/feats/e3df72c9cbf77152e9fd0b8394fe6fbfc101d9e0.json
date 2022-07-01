@@ -7,7 +7,7 @@
         "Shisk"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Even magical means have a hard time prying information from you.",
     "description": "Even magical means have a hard time prying information from you. You gain nondetection as an innate occult spell once per day, which can only be cast on yourself and is automatically heightened to half your level rounded up.Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
     "economy": "none",

@@ -7,7 +7,7 @@
         "Monk"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You enter a stance without a thought.",
     "description": "You enter a stance without a thought. Use an action that has the stance trait.Stance Savant (Monk) Leads To...\n\nMaster of Many Styles",
     "economy": "free_action",

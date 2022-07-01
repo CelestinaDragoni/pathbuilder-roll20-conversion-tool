@@ -26,5 +26,6 @@
     "range": "60 feet",
     "target": "1 creature",
     "duration": "see below",
-    "saving": "Reflex"
+    "saving": "Reflex",
+    "school": "Conjuration"
 }

@@ -7,7 +7,7 @@
         "Anadi"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have plenty of practice navigating webs.",
     "description": "You have plenty of practice navigating webs. You gain a +2 circumstance bonus to saves and AC against the web spell, natural webbing, and effects that entrap you in webbing, as well as a +1 circumstance bonus against other effects that snare and entangle you, like the entangle spell. Whenever you roll a success on a saving throw against an effect involving a web, you get a critical success instead.Traits\n\nAnadi: Anadis are peaceful, reclusive humanoids who live deep within woodlands, jungles, and other untamed areas of wilderness. Their natural forms resemble humanoid spiders covered in beautiful and distinctive markings of varying colors.",
     "economy": "none",

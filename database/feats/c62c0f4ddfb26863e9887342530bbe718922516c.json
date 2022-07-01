@@ -7,7 +7,7 @@
         "Monk"
     ],
     "level": 18,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You flow like water, avoiding all restraints.",
     "description": "You flow like water, avoiding all restraints. End one status penalty to your speed, or end one immobilized or slowed condition affecting you.",
     "economy": "free_action",

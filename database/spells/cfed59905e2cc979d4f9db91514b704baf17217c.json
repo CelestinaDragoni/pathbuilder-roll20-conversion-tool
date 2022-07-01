@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "",
-    "saving": "FortitudeYour touch afflicts the target with Abyssal plague, which siphons fragments of their soul away to empower the Abyss. The effect is based on the target's Fortitude save.Abyssal Plague (disease)"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

@@ -7,7 +7,7 @@
         "Beastkin"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You gain one of the following senses available to your inherent animal: darkvision, low-light vision, or scent (imprecise) 30 feet.",
     "description": "You gain one of the following senses available to your inherent animal: darkvision, low-light vision, or scent (imprecise) 30 feet. You must have low-light vision before you can gain darkvision with this feat. If your inherent animal doesn't typically have a specific type of sense, you can't gain that sense with this feat.\n\nSpecial You can select this feat multiple times, choosing a different sense each time.Traits\n\nBeastkin: Humanoids that can partially or fully transform into animal forms.",
     "economy": "none",

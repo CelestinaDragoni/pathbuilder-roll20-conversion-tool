@@ -7,7 +7,7 @@
         "Oread"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The magic of shaitans runs through your blood.",
     "description": "The magic of shaitans runs through your blood. You can cast glitterdust and resist energy once per day each as 2nd-level arcane innate spells.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
     "economy": "none",

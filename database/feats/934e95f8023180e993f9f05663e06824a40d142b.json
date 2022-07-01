@@ -8,7 +8,7 @@
         "Investigator"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You perceive every possible way your foe's attack could land and attempt to avoid them all.",
     "description": "You perceive every possible way your foe's attack could land and attempt to avoid them all. The triggering attack roll targets your Perception DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being flat-footed, even though you wouldn't take the –2 circumstance penalty when defending against the attack.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
     "economy": "reaction",

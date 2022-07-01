@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "non-magical object of light Bulk or less",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

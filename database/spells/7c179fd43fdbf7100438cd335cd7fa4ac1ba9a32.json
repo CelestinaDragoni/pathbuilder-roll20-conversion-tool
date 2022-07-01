@@ -28,5 +28,6 @@
     "range": "1 mile",
     "target": "1 destroyed undead",
     "duration": "sustained",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

@@ -7,7 +7,7 @@
         "Catfolk"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can elude supernatural disaster.",
     "description": "You can elude supernatural disaster. When you would gain the doomed condition, you can attempt a DC 17 flat check. On a success, you don't gain the doomed condition.Evade Doom Leads To...\n\nTen LivesTraitsCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
     "economy": "none",

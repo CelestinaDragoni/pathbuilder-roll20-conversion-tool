@@ -9,7 +9,7 @@
         "Oracle"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned to forestall the effects of your curse somewhat.",
     "description": "You've learned to forestall the effects of your curse somewhat. If the next action you use is to cast a revelation spell, the severity of your curse doesn't increase.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
     "economy": "1-action",

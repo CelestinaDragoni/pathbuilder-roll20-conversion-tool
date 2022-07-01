@@ -7,7 +7,7 @@
         "Automaton"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The magic powering you makes it difficult for outside magic to affect you.",
     "description": "The magic powering you makes it difficult for outside magic to affect you. You gain the Resist Magic reaction.Resist Magic    Source Guns &amp; Gears pg. 41\nTrigger You attempt a saving throw against a harmful magical effect but haven't rolled yet.\n\n------\n\nYour innate magic protects you. You gain a +1 circumstance bonus to the triggering saving throw. Additionally, if the triggering effect is arcane, if you roll a success, you get a critical success instead.\n\n------\n\nEnhancement Your safeguards improve. When you Resist Magic, you gain a number of temporary Hit Points equal to the spell level of the triggering effect.Traits\n\nAutomaton: Automatons are living constructs sustained by a magical core.",
     "economy": "reaction",

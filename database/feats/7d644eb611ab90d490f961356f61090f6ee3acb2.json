@@ -7,7 +7,7 @@
         "Gnoll"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You were taught to be a hunter and a raider.",
     "description": "You were taught to be a hunter and a raider. You are trained with flails, khopeshes, mambeles, spears, and war flails.Gnoll Weapon Familiarity Leads To...\n\nGnoll Weapon PracticalityTraitsGnoll: Gnolls are humanoids that resemble hyenas.",
     "economy": "none",

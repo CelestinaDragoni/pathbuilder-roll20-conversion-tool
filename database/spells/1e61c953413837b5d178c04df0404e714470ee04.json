@@ -26,5 +26,6 @@
     "range": "120 feet",
     "target": "1 living creature",
     "duration": "1 minute",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Transmutation"
 }

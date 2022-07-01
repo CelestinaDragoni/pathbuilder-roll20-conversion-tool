@@ -7,7 +7,7 @@
         "Summoner"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can increase the duration of your eidolon's boosts.",
     "description": "You can increase the duration of your eidolon's boosts. You learn the extend boost link spell. Increase the number of Focus Points in your focus pool by 1.",
     "economy": "none",

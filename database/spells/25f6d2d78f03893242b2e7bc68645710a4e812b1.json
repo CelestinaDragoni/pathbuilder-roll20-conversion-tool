@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "dead creatures and living creatures of your choice within range",
     "duration": "sustained up to 1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

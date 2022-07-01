@@ -7,7 +7,7 @@
         "Ganzi"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have unusual sensory abilities passed down from your chaotic forebears.",
     "description": "You have unusual sensory abilities passed down from your chaotic forebears. You gain low-light vision. If you already have low-light vision, you gain darkvision instead.\n\nSpecial You can select this feat a second time to gain darkvision in addition to low-light vision.Traits\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a protean",
     "economy": "none",

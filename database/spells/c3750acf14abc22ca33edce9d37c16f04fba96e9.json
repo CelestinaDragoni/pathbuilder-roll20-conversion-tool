@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "the target of the triggering attack or skill check",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

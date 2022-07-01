@@ -7,7 +7,7 @@
         "Conrasu"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your connection to the sun has become an unbreakable bond.",
     "description": "Your connection to the sun has become an unbreakable bond. You don't become temporarily immune to the effects of your Sunlight Healing, and instead of rolling to recover Hit Points, you gain the maximum number of HP possible (for example, 64 HP instead of 8d8).Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
     "economy": "none",

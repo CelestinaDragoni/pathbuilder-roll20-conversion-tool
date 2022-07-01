@@ -26,5 +26,6 @@
     "range": "120 feet",
     "target": "1 creature that is either taller than you or higher In the air than you",
     "duration": "1 minute",
-    "saving": "Reflex"
+    "saving": "Reflex",
+    "school": "Evocation"
 }

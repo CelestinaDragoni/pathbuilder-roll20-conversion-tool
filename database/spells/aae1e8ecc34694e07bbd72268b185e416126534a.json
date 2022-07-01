@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 mindless undead creature with a level no greater than bind undead's spell level",
     "duration": "1 day",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

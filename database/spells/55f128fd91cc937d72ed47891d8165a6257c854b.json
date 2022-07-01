@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 Large or smaller creature",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

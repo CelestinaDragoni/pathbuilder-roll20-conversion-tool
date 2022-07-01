@@ -25,5 +25,6 @@
     "range": "120 feet",
     "target": "1 magic item",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

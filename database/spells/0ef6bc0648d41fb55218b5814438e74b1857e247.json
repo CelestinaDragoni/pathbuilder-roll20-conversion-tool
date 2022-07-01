@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "1 creature",
     "duration": "",
-    "saving": "WillYou assault the target's faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. The effects are determined by its Will save.Critical Success The target is unaffected.Success The target takes half damage.Failure The target takes full damage"
+    "saving": "Will",
+    "school": "Enchantment"
 }

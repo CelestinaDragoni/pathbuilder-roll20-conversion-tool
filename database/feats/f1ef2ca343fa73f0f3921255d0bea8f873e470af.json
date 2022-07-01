@@ -7,7 +7,7 @@
         "Poppet"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned how to sew even the most terrible tears and wounds together.",
     "description": "You've learned how to sew even the most terrible tears and wounds together. You can cast regenerate as a 7th-level arcane innate spell once per day.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
     "economy": "none",

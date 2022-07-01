@@ -7,7 +7,7 @@
         "Alchemist"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Unsuspecting targets are especially vulnerable to your poisons.",
     "description": "Unsuspecting targets are especially vulnerable to your poisons. When you successfully Strike a flat-footed creature with a poisoned weapon or expose a flat-footed creature to an inhaled poison, the flat-footed condition also gives that creature a –2 circumstance penalty to its initial save against that poison.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
     "economy": "none",

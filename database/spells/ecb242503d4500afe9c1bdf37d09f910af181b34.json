@@ -24,5 +24,6 @@
     "range": "120 feet",
     "target": "the spell cast by the triggering creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

@@ -8,7 +8,7 @@
         "Ratfolk"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You're adept at making contact with other ysoki.",
     "description": "You're adept at making contact with other ysoki. When you arrive at a new settlement, you automatically find the nearest ratfolk enclave by spending 1 day of downtime searching, provided one exists and its members aren't actively hiding from you. Once you've made contact, you gain a +1 circumstance bonus to Gather Information and Earn Income in the settlement.Traits\n\nDowntime: An activity with this trait takes a day or more, and can be used only during downtime.\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
     "economy": "none",

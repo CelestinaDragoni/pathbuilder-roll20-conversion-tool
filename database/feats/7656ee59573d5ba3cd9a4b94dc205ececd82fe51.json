@@ -7,7 +7,7 @@
         "Tengu"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Wind and lightning have always been close friends to you.",
     "description": "Wind and lightning have always been close friends to you. You can cast the electric arc cantrip as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.Storm's Lash Leads To...\n\nHurricane SwingTraitsTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
     "economy": "none",

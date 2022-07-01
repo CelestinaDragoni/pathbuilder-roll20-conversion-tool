@@ -7,7 +7,7 @@
         "Summoner"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Augmenting your eidolon extends to creatures you summon.",
     "description": "Augmenting your eidolon extends to creatures you summon. When you cast boost eidolon, in addition to your eidolon, it also targets your summoned creatures within 60 feet.",
     "economy": "none",

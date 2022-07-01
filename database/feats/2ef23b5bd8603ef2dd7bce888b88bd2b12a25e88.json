@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "When your enemy is hit by your ally, you capitalize upon the distraction.",
     "description": "When your enemy is hit by your ally, you capitalize upon the distraction. Make a Strike against the triggering creature.",
     "economy": "reaction",

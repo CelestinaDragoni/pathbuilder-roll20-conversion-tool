@@ -25,5 +25,6 @@
     "range": "60 feet",
     "target": "the triggering creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

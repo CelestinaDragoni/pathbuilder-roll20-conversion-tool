@@ -7,7 +7,7 @@
         "Fighter"
     ],
     "level": 20,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your skill with weapons lets you attack swiftly at all times.",
     "description": "Your skill with weapons lets you attack swiftly at all times. You’re permanently quickened. You can use your extra action only to Strike.",
     "economy": "none",

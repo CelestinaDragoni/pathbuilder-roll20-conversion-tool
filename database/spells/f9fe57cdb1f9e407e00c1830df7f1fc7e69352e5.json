@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 unattended object of light Bulk or less",
     "duration": "sustained",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

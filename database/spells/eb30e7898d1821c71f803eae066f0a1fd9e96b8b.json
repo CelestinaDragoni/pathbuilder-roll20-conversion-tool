@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "1 metal creature, 1 non-magical metal hazard, or 1 non-magical metal item of up to 1 Bulk",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

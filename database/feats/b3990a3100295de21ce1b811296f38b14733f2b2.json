@@ -7,7 +7,7 @@
         "Shisk"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Living underground, you have learned to find your way without landmarks or even solid ground.",
     "description": "Living underground, you have learned to find your way without landmarks or even solid ground. If you roll a success on an Survival check to Sense Direction or an Athletics check to Climb, you get a critical success instead. You're not flat-footed when you attempt to Climb.Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
     "economy": "none",

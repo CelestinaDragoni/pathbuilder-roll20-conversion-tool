@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "",
     "duration": "6 rounds;",
-    "saving": "FortitudeYou manifest a swarm of disembodied wasp stingers that stab creatures in the area, possibly poisoning them. Creatures in the affected area take 1d6 piercing damage. Each creature that takes piercing damage must attempt a Fortitude save.Critical Success The target is unaffected.Success The target takes 2d6 poison damage.Failure The target is afflicted with swarming wasp venom at stage 1.Critical Failure The target is afflicted with swarming wasp venom at stage 2. Swarming Wasp Venom (poison) Level 7"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

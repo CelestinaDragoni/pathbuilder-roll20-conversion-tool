@@ -8,7 +8,7 @@
         "Dedication"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "As a Zephyr Guard, you’re always vigilant against crime and threats to the city’s safety.",
     "description": "As a Zephyr Guard, you’re always vigilant against crime and threats to the city’s safety. You gain a +1 circumstance bonus to Perception checks against attempts to Palm an Object, Steal, or Conceal an Object (including you’re Seeking concealed objects). You become trained in Society and Katapesh Lore; if you were already trained, you become an expert instead.\n\nSpecial You can’t select another dedication feat until you have gained two other feats from the Zephyr Guard archetype.Zephyr Guard Dedication Leads To...Decry Thief, Know the Beat, Relentless Disarm, Unfazed AssessmentTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
     "economy": "none",

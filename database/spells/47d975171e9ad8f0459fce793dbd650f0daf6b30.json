@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 animal companion in your service",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

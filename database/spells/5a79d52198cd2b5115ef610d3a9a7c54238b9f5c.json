@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 willing living creature or 1 undead creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

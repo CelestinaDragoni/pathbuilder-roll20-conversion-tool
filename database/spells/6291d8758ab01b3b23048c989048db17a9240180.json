@@ -26,5 +26,6 @@
     "range": "10 feet",
     "target": "1 dead creature of 13th level or lower",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

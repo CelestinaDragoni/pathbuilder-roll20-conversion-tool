@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 willing creature that is your animal companion or familiar",
     "duration": "8 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

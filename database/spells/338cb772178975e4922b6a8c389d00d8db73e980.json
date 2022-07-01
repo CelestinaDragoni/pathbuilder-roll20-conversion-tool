@@ -28,5 +28,6 @@
     "range": "",
     "target": "",
     "duration": "",
-    "saving": "basic FortitudeYou draw in the blood and life force of other creatures through your outstretched arms. You deal 12d6 negative damage to living creatures in the area. You gain temporary Hit Points equal to half the damage a single creature takes from this spell"
+    "saving": "basic FortitudeYou draw in the blood and life force of other creatures through your outstretched arms. You deal 12d6 negative damage to living creatures in the area. You gain temporary Hit Points equal to half the damage a single creature takes from this spell",
+    "school": "Necromancy"
 }

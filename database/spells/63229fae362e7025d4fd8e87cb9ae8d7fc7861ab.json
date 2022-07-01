@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "1 metal item or metal creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

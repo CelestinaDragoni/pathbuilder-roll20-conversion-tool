@@ -7,7 +7,7 @@
         "Summoner"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn the lifelink surge link spell.",
     "description": "You learn the lifelink surge link spell. Increase the number of Focus Points in your focus pool by 1.",
     "economy": "none",

@@ -7,7 +7,7 @@
         "Beastkin"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your hybrid shape is a hulking beast.",
     "description": "Your hybrid shape is a hulking beast. While in your hybrid shape, you gain the effects of enlarge.Traits\n\nBeastkin: Humanoids that can partially or fully transform into animal forms.",
     "economy": "none",

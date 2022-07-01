@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 touched piece of rope from 5 to 30 feet long",
     "duration": "8 hours",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

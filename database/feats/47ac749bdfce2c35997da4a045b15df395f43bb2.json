@@ -7,7 +7,7 @@
         "Conrasu"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have taken it upon yourself to learn the ways of combat to aid with your tasks, perhaps in a role as a corrector.",
     "description": "You have taken it upon yourself to learn the ways of combat to aid with your tasks, perhaps in a role as a corrector. You are trained with the composite shortbow, glaive, longspear, longsword, shortbow, and spear. You also gain access to all uncommon conrasu weapons. For the purpose of determining your proficiency, martial conrasu weapons are simple weapons and advanced conrasu weapons are martial weapons.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
     "economy": "none",

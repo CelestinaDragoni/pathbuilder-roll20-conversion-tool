@@ -28,5 +28,6 @@
     "range": "30 feet",
     "target": "1 living or undead creature that has organs",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

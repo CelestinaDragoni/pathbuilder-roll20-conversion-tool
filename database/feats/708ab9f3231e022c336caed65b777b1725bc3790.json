@@ -12,7 +12,7 @@
         "Wizard"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have a literal sixth sense for magic.",
     "description": "You have a literal sixth sense for ambient magic in your vicinity. You can sense the presence of magic auras as though you were always using a 1st-level detect magic spell. This detects magic in your field of vision only. When you Seek, you gain the benefits of a 3rd-level detect magic spell on things you see (in addition to the normal benefits of Seeking). You can turn this sense off and on with a free action at the start or the end of your turn.\n\nSpecial This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, natural, or occult).Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsDetection: Effects with this trait attempt to determine the presence or location of a person, object, or aura.\n\nDivination: The divination school of magic typically involves obtaining or transferring information, or predicting events.",
     "economy": "none",

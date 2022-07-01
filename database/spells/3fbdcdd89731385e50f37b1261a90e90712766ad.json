@@ -26,5 +26,6 @@
     "range": "60 feet",
     "target": "the triggering creature",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

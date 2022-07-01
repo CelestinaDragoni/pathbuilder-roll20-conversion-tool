@@ -29,5 +29,6 @@
     "range": "touch",
     "target": "1 object of 1 Bulk or less, either unattended or possessed by you or a willing ally",
     "duration": "until the next time you make your daily preparations",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

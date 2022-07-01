@@ -10,7 +10,7 @@
         "Summoner"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon evolves wings, a buoyant body, or some other means to control descent.",
     "description": "Your eidolon evolves wings, a buoyant body, or some other means to control descent. It glides slowly toward the ground, 5 feet down and up to 25 feet forward through the air. As long as it spends at least 1 action gliding each round and has not yet reached the ground, it remains in the air at the end of your turn.Glider Form Leads To...\n\nAirborne FormTraitsEidolon: A creature with this trait is a summoner's eidolon. An action or spell with this trait can be performed by an eidolon only. An item with this trait can be used or worn by an eidolon only, and an eidolon can't use items that don't have this trait. (An eidolon can have up to two items invested.)\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.Move: An action with this trait involves moving from one space to another.",
     "economy": "1-action",

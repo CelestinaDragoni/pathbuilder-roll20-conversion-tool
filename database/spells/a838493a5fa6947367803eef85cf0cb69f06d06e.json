@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "1 living or undead creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

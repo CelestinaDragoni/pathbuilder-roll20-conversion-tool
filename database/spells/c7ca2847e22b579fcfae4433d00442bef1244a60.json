@@ -23,5 +23,6 @@
     "range": "30 feet",
     "target": "the triggering creature",
     "duration": "1 round",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

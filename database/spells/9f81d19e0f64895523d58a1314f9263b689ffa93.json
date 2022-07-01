@@ -24,5 +24,6 @@
     "range": "30 feet",
     "target": "1 creature you summoned",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

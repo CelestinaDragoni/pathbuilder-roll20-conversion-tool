@@ -7,7 +7,7 @@
         "Witch"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can adapt your patron's power to transform other creatures into forms more befitting their behavior or your whims.",
     "description": "You can adapt your patron's power to transform other creatures into forms more befitting their behavior or your whims. Your familiar learns baleful polymorph, even if baleful polymorph isn't on your tradition's spell list. By spending 10 minutes in communion with your familiar, you can replace one spell of 6th level or higher you've prepared in one of your witch spell slots with a baleful polymorph spell of the same level.",
     "economy": "none",

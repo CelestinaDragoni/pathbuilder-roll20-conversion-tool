@@ -12,7 +12,7 @@
         "Wizard"
     ],
     "level": 16,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can maintain a spell with hardly a thought.",
     "description": "You maintain a spell with hardly a thought. You immediately gain the effects of the Sustain a Spell action, allowing you to extend the duration of one of your active class spells.",
     "economy": "free_action",

@@ -25,5 +25,6 @@
     "range": "60 feet",
     "target": "1 unattended object of light Bulk or less",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

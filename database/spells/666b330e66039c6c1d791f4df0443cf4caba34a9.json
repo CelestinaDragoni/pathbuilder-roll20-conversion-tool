@@ -26,5 +26,6 @@
     "range": "60 feet",
     "target": "the triggering spell",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Illusion"
 }

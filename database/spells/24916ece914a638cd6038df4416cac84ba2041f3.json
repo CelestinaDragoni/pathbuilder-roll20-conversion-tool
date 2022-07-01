@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "up to 1 gallon of non-magical water or up to 5 pounds of food",
     "duration": "1 hour",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

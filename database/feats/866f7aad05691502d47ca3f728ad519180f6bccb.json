@@ -7,7 +7,7 @@
         "Bard"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You learn the symphony of the unfettered heart composition spell, which enables you to protect an ally against incapacitating conditions.",
     "description": "You learn the symphony of the unfettered heart composition spell, which enables you to protect an ally against incapacitating conditions.",
     "economy": "none",

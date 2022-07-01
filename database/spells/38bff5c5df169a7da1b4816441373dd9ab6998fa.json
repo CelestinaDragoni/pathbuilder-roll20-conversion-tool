@@ -27,5 +27,6 @@
     "range": "30 feet",
     "target": "the triggering foe",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Enchantment"
 }

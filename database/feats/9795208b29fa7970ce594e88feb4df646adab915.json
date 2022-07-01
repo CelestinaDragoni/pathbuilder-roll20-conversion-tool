@@ -8,7 +8,7 @@
         "Dedication"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have trained to use your fists as deadly weapons.",
     "description": "You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes 1d6 instead of 1d4. You don't take the –2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all unarmed attacks.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the martial artist archetype.Martial Artist Dedication Leads To...\n\nFollow-Up Strike, Grievous Blow, Path of Iron, Powder Punch StanceTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
     "economy": "none",

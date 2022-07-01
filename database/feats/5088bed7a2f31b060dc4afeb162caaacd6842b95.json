@@ -7,7 +7,7 @@
         "Ratfolk"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have a pet rat that has become magically bonded to you.",
     "description": "You have a pet rat that has become magically bonded to you. You gain a familiar using the rules here, and this familiar must be a rat. It still gets the benefits of familiar abilities, but its base form remains a rat.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
     "economy": "none",

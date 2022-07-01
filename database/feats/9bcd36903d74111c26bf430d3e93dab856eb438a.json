@@ -10,7 +10,7 @@
         "Positive"
     ],
     "level": 17,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The energy that flows in your blood can save a life in the direst of times.",
     "description": "The energy that flows in your blood can save a life in the direst of times. The triggering creature receives the effects of breath of life, except they recover a number of Hit Points equal to 6d8 plus your Constitution modifier.Traits\n\nHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic orderNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Positive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
     "economy": "reaction",

@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "1 creature",
     "duration": "varies",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Abjuration"
 }

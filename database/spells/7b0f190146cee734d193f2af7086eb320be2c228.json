@@ -26,5 +26,6 @@
     "range": "150 feet",
     "target": "",
     "duration": "1 minute",
-    "saving": "basic Reflex"
+    "saving": "basic Reflex",
+    "school": "Evocation"
 }

@@ -26,5 +26,6 @@
     "range": "100 feet",
     "target": "your eidolon",
     "duration": "1 minute",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

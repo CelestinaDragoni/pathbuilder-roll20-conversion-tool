@@ -7,7 +7,7 @@
         "Kobold"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your inborn arcane power manifests as your exemplar's most time-honored spells.",
     "description": "Your inborn arcane power manifests as your exemplar's most time-honored spells. Choose one 1st-level spell and one 2nd-level spell from those listed for a dragon spellcaster of your draconic exemplar's type (such as alarm, blur, invisibility, and true strike for a black dragon exemplar). Links to all types of dragons can be found here. You can cast each of these spells once per day as arcane innate spells. You gain the trained proficiency rank in arcane spell attack rolls and spell DCs, and your key spellcasting ability is Charisma.Dracomancer Leads To...\n\nDragonblood Paragon, Elite DracomancerTraitsKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
     "economy": "none",

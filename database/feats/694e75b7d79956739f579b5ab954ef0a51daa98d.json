@@ -8,7 +8,7 @@
         "Swashbuckler"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You deftly dodge out of the way.",
     "description": "You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.Nimble Dodge Leads To...\n\nNimble Roll",
     "economy": "reaction",

@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "1 corpse",
     "duration": "10 minutes",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Necromancy"
 }

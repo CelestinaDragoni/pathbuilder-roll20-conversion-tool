@@ -28,5 +28,6 @@
     "range": "touch",
     "target": "1 piece of clothing currently worn by you or an ally",
     "duration": "unlimited",
-    "saving": ""
+    "saving": "",
+    "school": "Transmutation"
 }

@@ -29,5 +29,6 @@
     "range": "touch",
     "target": "1 willing creature, or up to 8 willing creatures joining hands",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

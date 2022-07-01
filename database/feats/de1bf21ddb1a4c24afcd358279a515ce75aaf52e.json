@@ -7,7 +7,7 @@
         "General"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Become trained in a type of armor.",
     "description": "You become trained in light armor. If you already were trained in light armor, you gain training in medium armor. If you were trained in both, you become trained in heavy armor.\n\nSpecial You can select this feat more than once. Each time, you become trained in the next type of armor above.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
     "economy": "none",

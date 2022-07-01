@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 door no more than 10 feet tall and 5 feet wide",
     "duration": "1 hour",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

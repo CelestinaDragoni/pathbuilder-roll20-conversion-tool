@@ -7,7 +7,7 @@
         "Fighter"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You are particularly swift at punishing foes who leave you openings.",
     "description": "You are particularly swift at punishing foes who leave you openings. At the start of each of your turns when you regain your actions, you gain an additional reaction that can be used only to make an Attack of Opportunity.",
     "economy": "none",

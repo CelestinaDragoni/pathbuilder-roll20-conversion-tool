@@ -27,5 +27,6 @@
     "range": "touch",
     "target": "1 creature or object",
     "duration": "unlimited",
-    "saving": ""
+    "saving": "",
+    "school": "Illusion"
 }

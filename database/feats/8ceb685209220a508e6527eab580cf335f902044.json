@@ -7,7 +7,7 @@
         "Kitsune"
     ],
     "level": 9,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You always have time for a joke or prank.",
     "description": "You always have time for a joke or prank. You Create a Diversion, Conceal an Object, or Hide. All creatures who witnessed your Fox Trick then wise up to it, becoming temporarily immune to your Fox Trick for 24 hours.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
     "economy": "free_action",

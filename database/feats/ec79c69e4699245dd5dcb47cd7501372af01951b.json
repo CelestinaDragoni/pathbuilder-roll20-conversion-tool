@@ -7,7 +7,7 @@
         "Ratfolk"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You've learned to put your sturdy claws to work digging through the earth.",
     "description": "You've learned to put your sturdy claws to work digging through the earth. You gain a burrow Speed of 15 feet.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
     "economy": "none",

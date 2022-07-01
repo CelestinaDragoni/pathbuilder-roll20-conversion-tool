@@ -27,5 +27,6 @@
     "range": "60 feet",
     "target": "1 willing or unconscious creature of 8th level or lower",
     "duration": "sustained",
-    "saving": ""
+    "saving": "",
+    "school": "Illusion"
 }

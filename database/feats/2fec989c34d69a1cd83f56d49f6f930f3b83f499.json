@@ -8,7 +8,7 @@
         "Poison"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You secrete a cloak of concentrated poison that harms any who dare attack you.",
     "description": "You secrete a cloak of concentrated poison that harms any who dare attack you. For 1 minute, any creature that touches you or damages you with an unarmed attack or melee weapon without the reach trait takes 3d6 poison damage.Traits\n\nLeshy: Leshies are living plants animated by primal magic.\n\nPoison: An effect with this trait delivers a poison or deals poison damage. An item with this trait is poisonous and might cause an affliction.",
     "economy": "2-action",

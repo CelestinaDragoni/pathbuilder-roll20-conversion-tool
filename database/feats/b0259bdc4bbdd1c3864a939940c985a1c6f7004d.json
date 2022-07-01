@@ -8,7 +8,7 @@
         "Gunslinger"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your steps echo with the thunderous retort of exploding black powder as you dance a dance of death.",
     "description": "Your steps echo with the thunderous retort of exploding black powder as you dance a dance of death. Take any of the following actions you choose in any order: Step, Strike against a target within your firearm's first range increment, and Interact to reload. If you attempted a Strike and it succeeded, you can repeat these three actions again in any order. If you attempted a Strike in the second set and succeeded, you can repeat the actions one last time.\n\n After using Dance of Thunder, you become fatigued for 1 minute.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
     "economy": "3-action",

@@ -26,5 +26,6 @@
     "range": "100 feet",
     "target": "A creature you dealt damage to on your most recent action.",
     "duration": "until the end of your target's next turn",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

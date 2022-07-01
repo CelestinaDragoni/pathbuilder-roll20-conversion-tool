@@ -7,7 +7,7 @@
         "Champion"
     ],
     "level": 14,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You can use your champion's reaction more.",
     "description": "At the start of each of your turns, you gain an additional reaction that you can use only for your champion’s reaction.",
     "economy": "none",

@@ -7,7 +7,7 @@
         "Monk"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Any journey consists of more than simply reaching your destination.",
     "description": "Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can’t use the same action twice.",
     "economy": "1-action",

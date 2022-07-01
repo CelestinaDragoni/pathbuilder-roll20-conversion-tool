@@ -28,14 +28,13 @@ You must have the following installed:
 This application is sorta set up for a web application (minus a few parts), I'm just lazy and I've spent too much work on this already. Might come back to it later.
 
 ## Known Limitations
-- Even though Max HP is being set it still  needs a level up/down to recalculate
+- Even though Max HP is being set it still  needs a level up/down to recalculate.
 - Spell Attack and Spell DC are not included.
-- Weapons/Armor/Inventory/Gold do not port over (**On purpose**)
+- Weapons/Armor/Inventory/Gold do not port over on purpose.
 - Because Pathbuilder does some non-standard things, some spells might not have any details.
   - **Example**: Fiend's Door (Feat) is listed as a Feat and Innate spell, but it's actually just Dimension Door.
 - There are some missing feats descriptions despite the large database.
 - No spell attack calculations are done (you must do this yourself if you even use them).
-- Spell School and some data might be incorrect.
 
 **TL;DR this tool saves you a bunch of input and calculations but you're still gonna have to do some work, espc. if you're a heavy spell caster.**
 

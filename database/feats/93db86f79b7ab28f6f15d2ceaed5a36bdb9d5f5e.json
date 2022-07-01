@@ -9,7 +9,7 @@
         "Summoner"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your eidolon rends its foes.",
     "description": "Your eidolon rends its foes. It automatically deals the damage from its secondary attack to the enemy.Traits\n\nEidolon: A creature with this trait is a summoner's eidolon. An action or spell with this trait can be performed by an eidolon only. An item with this trait can be used or worn by an eidolon only, and an eidolon can't use items that don't have this trait. (An eidolon can have up to two items invested.)\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
     "economy": "1-action",

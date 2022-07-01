@@ -7,7 +7,7 @@
         "Dhampir"
     ],
     "level": 5,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The powers of domination employed by your progenitors have manifested in you as well.",
     "description": "The powers of domination employed by your progenitors have manifested in you as well. Once per day, you can cast charm as a 1st-level divine innate spell.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
     "economy": "none",

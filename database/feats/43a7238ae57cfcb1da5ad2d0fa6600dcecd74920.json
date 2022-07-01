@@ -7,7 +7,7 @@
         "Catfolk"
     ],
     "level": 1,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You have seen people from so many walks of life in your travels that you naturally adopt a pleasant and affable demeanor when meeting others.",
     "description": "You have seen people from so many walks of life in your travels that you naturally adopt a pleasant and affable demeanor when meeting others. You are trained in Diplomacy. If you would automatically become trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice.\n\n In addition, you gain the Hobnobber skill feat.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
     "economy": "none",

@@ -7,7 +7,7 @@
         "Undine"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your body is translucent while underwater.",
     "description": "Your body is translucent while underwater. Whenever you are fully submerged in water, you can Hide from other creatures even if you don't have cover against them and aren't concealed from them.Traits\n\nUndine: Undines are planar scions descended from marids.",
     "economy": "none",

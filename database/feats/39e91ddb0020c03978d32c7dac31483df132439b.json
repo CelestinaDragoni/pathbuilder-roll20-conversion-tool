@@ -7,7 +7,7 @@
         "Swashbuckler"
     ],
     "level": 8,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your ego swells, granting you a temporary reprieve from your pain.",
     "description": "Your ego swells, granting you a temporary reprieve from your pain. You gain temporary Hit Points equal to your level plus your Charisma modifier that last until the start of your next turn.",
     "economy": "1-action",

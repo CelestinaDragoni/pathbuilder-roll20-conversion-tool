@@ -11,7 +11,7 @@
         "Teleportation"
     ],
     "level": 10,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You switch places with your eidolon.",
     "description": "You switch places with your eidolon. You each teleport to the other's position.\n\nSpecial This feat has the trait matching your eidolon's tradition (arcane, divine, occult, or primal).Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nConjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.Manipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.Teleportation: Teleportation effects allow you to instantaneously move from one point in space to another. Teleportation does not usually trigger reactions based on movement.",
     "economy": "1-action",

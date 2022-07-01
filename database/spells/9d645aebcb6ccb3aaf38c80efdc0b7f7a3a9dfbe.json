@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "1 living creature touched",
     "duration": "1 minute",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Necromancy"
 }

@@ -26,5 +26,6 @@
     "range": "touch",
     "target": "1 corpse of a Gargantuan or smaller creature that has a level no greater than your level – 4 and has died since the last sunrise",
     "duration": "10 minutes",
-    "saving": ""
+    "saving": "",
+    "school": "Necromancy"
 }

@@ -27,5 +27,6 @@
     "range": "500 feet",
     "target": "one creature",
     "duration": "varies",
-    "saving": ""
+    "saving": "",
+    "school": "Illusion"
 }

@@ -7,7 +7,7 @@
         "Rogue"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "After stabbing your opponent in a weak spot, you tear the wound open.",
     "description": "After stabbing your opponent in a weak spot, you tear the wound open. You deal persistent bleed damage to the target equal to your number of sneak attack damage dice.",
     "economy": "1-action",

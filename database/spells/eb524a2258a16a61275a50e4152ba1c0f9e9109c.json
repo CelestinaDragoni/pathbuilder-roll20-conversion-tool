@@ -27,5 +27,6 @@
     "range": "60 feet",
     "target": "1 living creature",
     "duration": "varies",
-    "saving": "Fortitude"
+    "saving": "Fortitude",
+    "school": "Necromancy"
 }

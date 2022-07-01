@@ -7,7 +7,7 @@
         "Summoner"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "During daily preparations, you can designate one of your spell slots to become two summoning slots of the same spell level, from which you can cast only summoning or incarnate spells.",
     "description": "During daily preparations, you can designate one of your spell slots to become two summoning slots of the same spell level, from which you can cast only summoning or incarnate spells.Master Summoner Leads To...\n\nLegendary Summoner",
     "economy": "none",

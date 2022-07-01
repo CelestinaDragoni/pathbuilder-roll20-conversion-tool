@@ -28,5 +28,6 @@
     "range": "planetary",
     "target": "1 creature with whom you are familiar",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Divination"
 }

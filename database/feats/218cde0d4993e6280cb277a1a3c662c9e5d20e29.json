@@ -7,7 +7,7 @@
         "Alchemist"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "The fortifying additives you brew into your mutagens make your juggernaut form impervious.",
     "description": "The fortifying additives you brew into your mutagens make your juggernaut form impervious. Whenever you’re affected by a juggernaut mutagen, you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).",
     "economy": "none",

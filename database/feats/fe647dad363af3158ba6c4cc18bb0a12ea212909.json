@@ -7,7 +7,7 @@
         "Gunslinger"
     ],
     "level": 6,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You pack your weapon with additional shot and powder, creating a risky but devastating wave of destruction.",
     "description": "You pack your weapon with additional shot and powder, creating a risky but devastating wave of destruction. Make a ranged Strike with the firearm. The firearm's range increment increases by 20 feet and the radius of its scatter increases by 20 feet. The Strike gains the following failure conditions.\n\nFailure The firearm misfires, but it doesn't cause the other critical failure effects listed below.\nCritical Failure The firearm misfires and also explodes. It becomes broken, and it deals its normal weapon damage to all creatures in a 20-foot burst centered on the firearm, with a basic Reflex save against your class DC. This damage includes any from the weapon's fundamental and property runes.",
     "economy": "2-action",

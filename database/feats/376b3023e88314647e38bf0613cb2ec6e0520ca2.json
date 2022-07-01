@@ -7,7 +7,7 @@
         "Halfling"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You know how to take advantage of foes thrown off-balance by unstable flooring, loose cobblestones, or similar impediments.",
     "description": "You know how to take advantage of foes thrown off-balance by unstable flooring, loose cobblestones, or similar impediments. While in an outdoor urban environment, you can Step into difficult terrain and enemies in difficult terrain are flat-footed to you.Traits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
     "economy": "none",

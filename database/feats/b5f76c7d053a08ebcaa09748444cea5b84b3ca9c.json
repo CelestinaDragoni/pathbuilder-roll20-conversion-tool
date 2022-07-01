@@ -7,7 +7,7 @@
         "Ranger"
     ],
     "level": 4,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Make a melee Strike against your prey.",
     "description": "Make a melee Strike against your prey. If the attack is a critical hit, you disrupt the triggering action.",
     "economy": "reaction",

@@ -26,5 +26,6 @@
     "range": "120 feet",
     "target": "one magically sealed or warded doorway or chest",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

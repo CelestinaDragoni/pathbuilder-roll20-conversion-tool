@@ -26,5 +26,6 @@
     "range": "30 feet",
     "target": "1 good creature",
     "duration": "1 round",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

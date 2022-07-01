@@ -26,5 +26,6 @@
     "range": "120 feet",
     "target": "1 willing creature",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

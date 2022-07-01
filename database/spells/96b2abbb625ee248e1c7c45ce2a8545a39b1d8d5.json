@@ -29,5 +29,6 @@
     "range": "10 feet",
     "target": "1 object (cook, lift, or tidy only)",
     "duration": "sustained",
-    "saving": ""
+    "saving": "",
+    "school": "Evocation"
 }

@@ -26,5 +26,6 @@
     "range": "100 feet",
     "target": "",
     "duration": "until the end of your next turn",
-    "saving": ""
+    "saving": "",
+    "school": "Conjuration"
 }

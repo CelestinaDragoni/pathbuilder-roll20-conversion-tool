@@ -7,7 +7,7 @@
         "Druid"
     ],
     "level": 18,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You surround yourself with a thick field of protective primal energy.",
     "description": "You surround yourself with a thick field of protective primal energy. You and allies within 30 feet of you gain resistance equal to your Wisdom modifier to acid, cold, electricity, fire, negative, and positive damage.",
     "economy": "none",

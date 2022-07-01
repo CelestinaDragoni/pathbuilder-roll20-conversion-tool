@@ -26,5 +26,6 @@
     "range": "10 feet",
     "target": "you and any number of willing allies",
     "duration": "1 hour",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

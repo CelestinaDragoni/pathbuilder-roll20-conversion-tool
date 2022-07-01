@@ -25,5 +25,6 @@
     "range": "30 feet",
     "target": "1 creature",
     "duration": "until the next time you make your daily preparations",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

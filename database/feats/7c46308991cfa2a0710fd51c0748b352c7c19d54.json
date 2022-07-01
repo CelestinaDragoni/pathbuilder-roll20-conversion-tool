@@ -7,7 +7,7 @@
         "Gunslinger"
     ],
     "level": 18,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You jam a triple charge of black powder into your weapon to unleash a devastating but risky and inaccurate attack.",
     "description": "You jam a triple charge of black powder into your weapon to unleash a devastating but risky and inaccurate attack. Interact to reload, expending three doses of black powder in addition to your normal black powder or ammunition, then Strike with your firearm against a creature within the weapon's first range increment. If you roll a success, the attack is instead a critical success, but if you roll a failure, the weapon misfires. Regardless of your roll, after the attack you're flat-footed until the start of your next turn and stunned 1.",
     "economy": "3-action",

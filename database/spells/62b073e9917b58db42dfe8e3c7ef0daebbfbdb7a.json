@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "1 living creature",
     "duration": "varies",
-    "saving": "Will"
+    "saving": "Will",
+    "school": "Enchantment"
 }

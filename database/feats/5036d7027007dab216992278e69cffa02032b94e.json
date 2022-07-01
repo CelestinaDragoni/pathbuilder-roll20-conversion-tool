@@ -7,7 +7,7 @@
         "Tiefling"
     ],
     "level": 13,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your festering connection to the forces of evil infuses your weapons with debilitating malevolence, tearing down creatures of good with every attack.",
     "description": "Your festering connection to the forces of evil infuses your weapons with debilitating malevolence, tearing down creatures of good with every attack. All your weapon and unarmed Strikes deal 1 additional evil damage and have the evil and magical traits.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
     "economy": "none",

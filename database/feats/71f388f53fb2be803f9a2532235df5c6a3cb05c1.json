@@ -7,7 +7,7 @@
         "Witch"
     ],
     "level": 12,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "Your patron's teachings have allowed you to achieve a deeper focus.",
     "description": "Your patron's teachings have allowed you to achieve a deeper focus. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.Hex Focus Leads To...\n\nHex Wellspring",
     "economy": "none",

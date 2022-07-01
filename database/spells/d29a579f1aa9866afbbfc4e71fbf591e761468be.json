@@ -24,5 +24,6 @@
     "range": "30 feet",
     "target": "1 ally",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

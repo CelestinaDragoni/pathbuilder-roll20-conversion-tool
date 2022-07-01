@@ -25,5 +25,6 @@
     "range": "touch",
     "target": "1 poison on or in an object",
     "duration": "",
-    "saving": ""
+    "saving": "",
+    "school": "Abjuration"
 }

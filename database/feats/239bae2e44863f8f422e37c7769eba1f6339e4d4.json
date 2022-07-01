@@ -9,7 +9,7 @@
         "Rogue"
     ],
     "level": 2,
-    "prereq": "&Mdash;",
+    "prereq": "",
     "summary": "You draw your weapon and attack with the same motion.",
     "description": "You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Quick Draw Leads To...Subtle Shank",
     "economy": "1-action",
