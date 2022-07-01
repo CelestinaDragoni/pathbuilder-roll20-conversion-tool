@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1720",
+    "name": "Primal Aegis",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "You surround yourself with a thick field of protective primal energy.",
+    "description": "You surround yourself with a thick field of protective primal energy. You and allies within 30 feet of you gain resistance equal to your Wisdom modifier to acid, cold, electricity, fire, negative, and positive damage.",
+    "economy": "none",
+    "trigger": ""
+}

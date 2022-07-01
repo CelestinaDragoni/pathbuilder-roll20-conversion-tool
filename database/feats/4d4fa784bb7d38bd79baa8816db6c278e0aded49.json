@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=324",
+    "name": "Thousand Faces",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 4,
+    "prereq": "Wild Shape",
+    "summary": "Your form is as mutable as the weather, changing to meet your whim.",
+    "description": "Your form is as mutable as the weather, changing to meet your whim. You add the forms listed in humanoid form to your wild shape list.",
+    "economy": "none",
+    "trigger": ""
+}

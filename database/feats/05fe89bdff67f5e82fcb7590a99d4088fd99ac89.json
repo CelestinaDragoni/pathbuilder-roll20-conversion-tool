@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2639",
+    "name": "Energize Wings",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Morph",
+        "Primal",
+        "Sprite",
+        "Transmutation"
+    ],
+    "level": 9,
+    "prereq": "Evanescent Wings",
+    "summary": "You stoke your magic to energize your wings, temporarily transforming them into glowing, majestic forms.",
+    "description": "You stoke your magic to energize your wings, temporarily transforming them into glowing, majestic forms. For 1 minute, you gain a fly Speed of 30 feet.Energize Wings Leads To...\n\nHero's WingsTraitsConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMorph: Effects that slightly alter a creature's form have the morph trait. Any Strikes specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to counteract the first (in the same manner as two polymorph effects, described in that trait).\n\nYour morph effects might also end if you are polymorphed and the polymorph effect invalidates or overrides your morph effect. The GM determines which morph effects can be used together and which can't.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.Sprite: A family of diminutive winged fey with a strong connection to primal magic.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "1-action",
+    "trigger": ""
+}

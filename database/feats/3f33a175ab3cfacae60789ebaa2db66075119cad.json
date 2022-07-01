@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=869",
+    "name": "Godless Healing",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 2,
+    "prereq": "Battle Medicine; Can't Have A Patron Deity",
+    "summary": "With limited access to divine healing magic, Rahadoumi often become adept at using ordinary medicine for when dangerous situations arise.",
+    "description": "You recover an additional 5 Hit Points from a successful attempt to Treat your Wounds or use Battle Medicine on you. After you or an ally use Battle Medicine on you, you become temporarily immune to that Battle Medicine for only 1 hour, instead of 1 day.Godless Healing Leads To...\n\nMortal HealingTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

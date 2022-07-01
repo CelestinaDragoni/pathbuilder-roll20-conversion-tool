@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=125",
+    "name": "Fly",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Cause the target creature to gain a fly Speed.",
+    "heightenable": true,
+    "description": "The target can soar through the air, gaining a fly Speed equal to its Speed or 20 feet, whichever is greater.\n\n------\n\nHeightened (7th) The duration increases to 1 hour.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "5 minutes",
+    "saving": ""
+}

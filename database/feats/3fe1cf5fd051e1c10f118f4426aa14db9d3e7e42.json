@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=729",
+    "name": "Sneak Attacker",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Rogue Dedication",
+    "summary": "You gain the sneak attack class feature.",
+    "description": "You gain the sneak attack class feature, except it deals 1d4 damage, increasing to 1d6 at 6th level. You don’t increase the number of dice as you gain levels.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1010",
+    "name": "Scalding Spit",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 9,
+    "prereq": "Torch Goblin",
+    "summary": "Your bodily fluids burn with surprising volatility, as if you ran on oil instead of blood.",
+    "description": "Your bodily fluids burn with surprising volatility, as if you ran on oil instead of blood. As long as you are taking persistent fire damage, you gain a boiling spit ranged unarmed attack with a range of 30 feet that deals 1d6 fire damage.Traits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

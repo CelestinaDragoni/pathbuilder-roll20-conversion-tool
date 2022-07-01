@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3031",
+    "name": "Urgent Upwelling",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Wellspring Mage Dedication",
+    "summary": "Defeat lets you to tap into your wellspring.",
+    "description": "Defeat lets you to tap into your wellspring. Attempt the flat check for wellspring magic. If you critically succeed, you can choose to forgo gaining a temporary spell slot to instead have the triggering enemy undergo a wellspring surge. This surge functions just as it would for you, the only difference being that it emits from the enemy.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An enemy reduces you to 0 HP, an enemy critically hits you, or you critically fail a saving throw against an enemy's effect."
+}

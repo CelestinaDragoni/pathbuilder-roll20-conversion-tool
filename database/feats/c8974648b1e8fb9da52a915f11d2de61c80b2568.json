@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=703",
+    "name": "Basic Wilding",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Druid Dedication",
+    "summary": "You gain a 1st- or 2nd-level druid feat.",
+    "description": "You gain a 1st- or 2nd-level druid feat.Basic Wilding Leads To...\n\nAdvanced WildingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

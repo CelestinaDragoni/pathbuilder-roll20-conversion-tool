@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1321",
+    "name": "Tengu Weapon Expertise",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 13,
+    "prereq": "Tengu Weapon Familiarity",
+    "summary": "Study has made you an expert with tengu weapons.",
+    "description": "Study has made you an expert with tengu weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency for the weapons from your Tengu Weapon Familiarity.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

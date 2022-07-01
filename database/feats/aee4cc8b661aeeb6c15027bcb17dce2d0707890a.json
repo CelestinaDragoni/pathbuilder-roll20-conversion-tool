@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=522",
+    "name": "Penetrating Shot",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Open",
+        "Ranger"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You shoot clear through an intervening creature to hit your prey.",
+    "description": "You shoot clear through an intervening creature to hit your prey. Choose a target that is giving lesser cover to your hunted prey. Make a single ranged Strike with the required weapon against the chosen target and your hunted prey. This attack ignores any lesser cover the chosen target provides your hunted prey. Roll damage only once, and apply it to each creature you hit. A Penetrating Shot counts as two attacks for your multiple attack penalty.Traits\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

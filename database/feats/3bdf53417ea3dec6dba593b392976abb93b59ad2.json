@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3330",
+    "name": "Harsh Judgment",
+    "source": "Night of the Gray Death",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Vigilante"
+    ],
+    "level": 4,
+    "prereq": "Vigilante Dedication; Member Of The Gray Gardeners",
+    "summary": "You loudly declare the creature's life forfeit by your judgment",
+    "description": "Choose one creature you can see, and loudly declare the creature's life forfeit by your judgment. That creature becomes your condemned foe until they are defeated, you use Harsh Judgment  on a diferent creature, or the encounter ends. You gain a +2 circumstance bonus to Perception checks to Seek your condemned foe and on Intimidation checks to Demoralize them. You have a –1 circumstance penalty to Perception checks to Seek creatures other than your condemned foe and on Intimidation checks to Demoralize anyone other than your condemned foe. You typically can use Harsh Judgment only during an encounter, and if you try to use it to declare someone's life forfeit during exploration or downtime, you are likely to start an encounter.Harsh Judgment Leads To...\n\nAccurate Swing, Execution, Frightful CondemnationTraitsArchetype: This feat belongs to an archetype.\n\nVigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "1-action",
+    "trigger": ""
+}

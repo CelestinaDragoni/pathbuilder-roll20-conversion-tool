@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1923",
+    "name": "Quick Mount",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Cavalier Dedication; Expert In Nature",
+    "summary": "You and your mount can spring into action at a moment's notice.",
+    "description": "You and your mount can spring into action at a moment's notice. You Mount the creature and Command an Animal to issue it an order of your choice.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

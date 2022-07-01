@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=451",
+    "name": "Shared Nightmare",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Emotion",
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Merging minds with the target, you swap disorienting visions from one another’s nightmares.",
+    "heightenable": false,
+    "description": "Merging minds with the target, you swap disorienting visions from one another's nightmares. One of you will become confused, but which it'll be depends on the target's Will save.\n\nCritical Success You are confused for 1 round.\nSuccess At the start of your next turn, you spend your first action with the confused condition, then act normally.\nFailure As success, but the target is affected instead of you, spending its first action each turn confused. The duration is 1 minute.\nCritical Failure The target is confused for 1 minute.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

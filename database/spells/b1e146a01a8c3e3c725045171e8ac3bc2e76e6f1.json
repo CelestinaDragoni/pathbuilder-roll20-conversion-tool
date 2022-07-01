@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=347",
+    "name": "Uncontrollable Dance",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Overcome a target with an all-consuming urge to dance.",
+    "heightenable": false,
+    "description": "The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is flat-footed and can't use reactions. While affected, the creature can't use actions with the move trait except to dance, using the Stride action to move up to half its Speed.\n\nCritical Success The target is unaffected.\nSuccess The spell's duration is 3 rounds, and the target must spend at least 1 action each turn dancing.\nFailure The spell's duration is 1 minute, and the target must spend at least 2 actions each turn dancing.\nCritical Failure The spell's duration is 1 minute, and the target must spend all its actions each turn dancing.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

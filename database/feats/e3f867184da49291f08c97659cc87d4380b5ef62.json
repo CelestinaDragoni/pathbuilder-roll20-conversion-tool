@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2765",
+    "name": "Studious Magic",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Anadi"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've taken an interest in anadi arcane traditions.",
+    "description": "You've taken an interest in anadi arcane traditions. Choose one cantrip from the arcane spell list. You can cast this spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.Studious Magic Leads To...\n\nStudious AdeptTraitsAnadi: Anadis are peaceful, reclusive humanoids who live deep within woodlands, jungles, and other untamed areas of wilderness. Their natural forms resemble humanoid spiders covered in beautiful and distinctive markings of varying colors.",
+    "economy": "none",
+    "trigger": ""
+}

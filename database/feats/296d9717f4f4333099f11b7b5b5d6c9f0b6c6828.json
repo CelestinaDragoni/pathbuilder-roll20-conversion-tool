@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2735",
+    "name": "Beneath Notice",
+    "source": "Pathfinder #167",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Golden League Xun Dedication; Expert In Deception",
+    "summary": "You are skilled at hiding from your foes and targets among the common populace.",
+    "description": "You are skilled at hiding from your foes and targets among the common populace. You gain the Quick Disguise and Slippery Secrets skill feats. In addition, while in a crowd, you can Impersonate a nondescript member of the crowd as a three action activity (one action if you are legendary in Deception).Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2993",
+    "name": "Wind-Tossed Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Air",
+        "Archetype",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 14,
+    "prereq": "Elementalist Dedication",
+    "summary": "You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover.",
+    "description": "You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's concealed condition and any cover they have from you. The spell gains the air trait.Traits\n\nAir: Effects with the air trait either manipulate or conjure air. Those that manipulate air have no effect in a vacuum or an area without air. Creatures with this trait consist primarily of air or have a magical connection to that element. Planes with this trait consist mostly of open spaces and air with various degrees of turbulence, though they also contain rare islands of floating stone and other elements and energies.\n\nArchetype: This feat belongs to an archetype.Concentrate: An action with this trait requires a degree of mental concentration and discipline.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

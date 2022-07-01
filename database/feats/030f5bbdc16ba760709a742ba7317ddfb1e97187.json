@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2016",
+    "name": "Tactical Cadence",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Cadence Call",
+    "summary": "Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively.",
+    "description": "Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the quickened condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't slowed 1 on their following turn if they use the extra action.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

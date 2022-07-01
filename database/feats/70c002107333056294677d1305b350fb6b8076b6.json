@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1319",
+    "name": "Eclectic Sword Training",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 9,
+    "prereq": "Tengu Weapon Familiarity",
+    "summary": "You were always taught that you needed to be able to use whatever weapon came your way.",
+    "description": "You were always taught that you needed to be able to use whatever weapon came your way. You can change any of the swords designated in your Tengu Weapon Familiarity to different swords that meet the same specifications. You have to practice with a sword during your daily preparations to designate it, and the designation only lasts until your next daily preparations. This changes only your proficiency; it doesn't change your access.Eclectic Sword Training Leads To...\n\nEclectic Sword MasteryTraitsTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

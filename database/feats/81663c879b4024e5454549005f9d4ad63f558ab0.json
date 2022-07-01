@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2661",
+    "name": "Scholarly Defense",
+    "source": "Pathfinder #164",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Eldritch Researcher Dedication",
+    "summary": "Your knowledge of strange creatures and their bizarre anatomy allows you to anticipate their physical attacks and reduce the damage you take from them.",
+    "description": "Your knowledge of strange creatures and their bizarre anatomy allows you to anticipate their physical attacks and reduce the damage you take from them. You gain resistance to physical damage from melee attacks made by aberrations and oozes. This resistance is equal to one-third your level.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

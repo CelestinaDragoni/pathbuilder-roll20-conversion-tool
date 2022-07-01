@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=432",
+    "name": "Malignant Sustenance",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You embed a seed of negative energy in an undead creature, restoring its unnatural vigor.",
+    "heightenable": true,
+    "description": "You embed a seed of negative energy in an undead creature, restoring its unnatural vigor. The target gains fast healing 7. This healing comes from negative energy, so it heals the undead rather than damaging it.\n\n------\n\nHeightened (+1) The fast healing increases by 2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing undead creature",
+    "duration": "1 minute",
+    "saving": ""
+}

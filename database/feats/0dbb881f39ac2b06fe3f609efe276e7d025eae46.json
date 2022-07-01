@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1703",
+    "name": "Shared Avoidance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 10,
+    "prereq": "Premonition Of Avoidance",
+    "summary": "You can project your premonitions of danger to your allies.",
+    "description": "You can project your premonitions of danger to your allies. When you use Premonition of Avoidance, allies within 15 feet of you who are rolling the same saving throw against the same hazard also gain a +2 circumstance bonus to their saving throws.",
+    "economy": "none",
+    "trigger": ""
+}

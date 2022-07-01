@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2964",
+    "name": "Basic Cathartic Spellcasting",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Cathartic Mage Dedication",
+    "summary": "You gain the basic spellcasting benefits.",
+    "description": "You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from this archetype, add a spell of that spell level from your chosen tradition to your repertoire—either a common spell or another spell you've learned or discovered.Basic Cathartic Spellcasting Leads To...\n\nExpert Cathartic SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

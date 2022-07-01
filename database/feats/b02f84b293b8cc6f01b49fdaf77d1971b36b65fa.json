@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1662",
+    "name": "Pied Piping",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "You learn the pied piping composition spell, which enables you to control the actions of weak-minded individuals.",
+    "description": "You learn the pied piping composition spell, which enables you to control the actions of weak-minded individuals.",
+    "economy": "none",
+    "trigger": ""
+}

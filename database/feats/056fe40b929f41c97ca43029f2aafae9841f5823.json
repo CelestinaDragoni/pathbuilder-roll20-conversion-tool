@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2220",
+    "name": "Environmental Explorer",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Pathfinder Agent Dedication",
+    "summary": "You've traversed enough untamed wilderness to gain an intuitive understanding of the dangers that exist in such places.",
+    "description": "You've traversed enough untamed wilderness to gain an intuitive understanding of the dangers that exist in such places. Your extensive familiarity means you sometimes notice perils even when you're not trying to. Even if you aren't Searching in exploration mode, you can attempt a check to find environmental hazards that normally require you to Search for them. You still need to meet any other requirements to find a particular hazard.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

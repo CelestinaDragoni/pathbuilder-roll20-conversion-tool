@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=459",
+    "name": "Ironblood Stance",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk",
+        "Stance"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You enter the stance of impenetrable iron, refusing to yield to any blow.",
+    "description": "You enter the stance of impenetrable iron, refusing to yield to any blow. You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the nonlethal, parry, sweep, and unarmed traits.\n\nWhile in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.Ironblood Stance Leads To...\n\nIronblood SurgeTraitsStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

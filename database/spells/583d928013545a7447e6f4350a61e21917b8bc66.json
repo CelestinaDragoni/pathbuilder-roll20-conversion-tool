@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=528",
+    "name": "Energy Absorption",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You quickly gain resistance to an energy type of your choice.",
+    "heightenable": true,
+    "description": "You gain resistance 15 to acid, cold, electricity, or fire damage from the triggering effect (one type of your choice). The resistance applies only to the triggering effect's initial damage.\n\n------\n\nHeightened (+1) The resistance increases by 5.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

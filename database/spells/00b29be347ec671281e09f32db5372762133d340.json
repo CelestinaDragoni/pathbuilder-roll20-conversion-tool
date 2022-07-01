@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=513",
+    "name": "Hellfire Plume",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evil",
+        "Evocation",
+        "Fire",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You call forth a plume of hellfire that erupts from below.",
+    "heightenable": true,
+    "description": "You call forth a plume of hellfire that erupts from below, dealing 4d6 fire damage and 4d6 evil damage.\n\n------\n\nHeightened (+1) The fire damage increases by 1d6, and the evil damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

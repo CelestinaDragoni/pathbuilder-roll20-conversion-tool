@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=243",
+    "name": "Aura of Faith",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 12,
+    "prereq": "Tenets Of Good",
+    "summary": "You radiate an aura of pure belief that imbues your attacks and those of nearby allies with holy power.",
+    "description": "You radiate an aura of pure belief that imbues your attacks and those of nearby allies with holy power. Your Strikes deal an extra 1 good damage against evil creatures. Also, each good-aligned ally within 15 feet gains this benefit on their first Strike that hits an evil creature each round.",
+    "economy": "none",
+    "trigger": ""
+}

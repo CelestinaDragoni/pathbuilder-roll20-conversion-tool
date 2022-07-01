@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=73",
+    "name": "Disappearance",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Make a creature invisible, silent, and undetectable by any and all senses.",
+    "heightenable": false,
+    "description": "You shroud a creature from others' senses. The target becomes undetected, not just to sight but to all senses, allowing the target to count as invisible no matter what precise and imprecise senses an observer might have. It's still possible for a creature to find the target by Seeking, looking for disturbed dust, hearing gaps in the sound spectrum, or finding some other way to discover the presence of an otherwise-undetectable creature.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=299",
+    "name": "Spider Climb",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Give a creature a climb Speed.",
+    "heightenable": true,
+    "description": "Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface. The target gains a climb Speed equal to its Speed.\n\n------\n\nHeightened (5th) The duration increases to 1 hour.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

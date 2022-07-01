@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2137",
+    "name": "Lead Climber",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 2,
+    "prereq": "Expert In Athletics",
+    "summary": "Make Climbing safer for allies who Follow the Expert.",
+    "description": "When climbing, you can prepare routes for others to follow, and you can pull your allies up to avoid disaster. When your allies attempt to Climb a route you set using the Follow the Expert exploration activity, if any of them critically fail their checks to Climb, you can attempt an Athletics check against the same DC. If you succeed, your ally fails instead of critically failing. If you also critically fail, you both experience the consequences of the critical failure.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

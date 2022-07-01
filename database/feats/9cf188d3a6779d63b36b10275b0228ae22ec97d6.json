@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3533",
+    "name": "Collapse",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Skeleton"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You collapse into a pile of bones, mitigating the worst of the damage you would have taken, and the triggering attack deals only the amount it would deal on a hit (typically full damage instead of double damage).",
+    "description": "You collapse into a pile of bones, mitigating the worst of the damage you would have taken, and the triggering attack deals only the amount it would deal on a hit (typically full damage instead of double damage). Any other effects caused by a critical hit still occur. While collapsed, you're flat-footed and can't act except to Stand, which re-forms you into a skeleton in a standing position.Traits\n\nSkeleton: This undead is made by animating a dead creature’s skeleton with negative energy.",
+    "economy": "reaction",
+    "trigger": "An enemy's Strike against you is a critical hit."
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=753",
+    "name": "Flaming Fusillade",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cursebound",
+        "Evocation",
+        "Fire",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 6,
+    "summary": "You call upon an endless barrage of flames, producing miniature fireballs in your hands to hurl at foes.",
+    "heightenable": true,
+    "description": "You call upon an endless barrage of flames, producing miniature fireballs in your hands to hurl at foes. You cast produce flame as part of casting flaming fusillade. For the duration of flaming fusillade, produce flame's casting time is reduced from 2 actions to 1.\n\n------\n\nHeightened (9th) For the duration, you also gain a status bonus to the damage dealt by produce flame equal to flaming fusillade's spell level.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=547",
+    "name": "Magic Warrior Aspect",
+    "source": "World Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Morph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "Gain the speed and senses of your totem animal.",
+    "heightenable": false,
+    "description": "You call upon the aspect of the animal from your mask, gaining physical features reminiscent of that animal. You morph slightly into that creature, gaining the Speeds and senses you would gain from using animal form to turn into the type of animal your mask represents; these special Speeds can’t be increased by status bonuses or item bonuses.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "5 minutes",
+    "saving": ""
+}

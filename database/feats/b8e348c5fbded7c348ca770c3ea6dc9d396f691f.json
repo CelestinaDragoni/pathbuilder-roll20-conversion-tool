@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2299",
+    "name": "Hydraulic Deflection",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Azarketi",
+        "Concentrate",
+        "Primal",
+        "Water"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Drawing moisture from the atmosphere, you create a disc of hovering water that deflects attacks.",
+    "description": "Drawing moisture from the atmosphere, you create a disc of hovering water that deflects attacks. You gain a +1 circumstance bonus to AC until the start of your next turn.Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.Concentrate: An action with this trait requires a degree of mental concentration and discipline.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.Water: Effects with the water trait either manipulate or conjure water. Those that manipulate water have no effect in an area without water. Creatures with this trait consist primarily of water or have a magical connection to the element. Planes with this trait are mostly liquid, perhaps with pockets of breathable air.",
+    "economy": "1-action",
+    "trigger": ""
+}

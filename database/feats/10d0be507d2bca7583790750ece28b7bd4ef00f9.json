@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1459",
+    "name": "Ongoing Investigation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You're always investigating what's around you, even as you perform other activities.",
+    "description": "You're always investigating what's around you, even as you perform other activities. You can move at full Speed while using the Investigate exploration activity, and you can use another exploration activity while Investigating.",
+    "economy": "none",
+    "trigger": ""
+}

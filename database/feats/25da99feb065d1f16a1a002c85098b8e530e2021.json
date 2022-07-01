@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2141",
+    "name": "Pilgrim's Token",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 1,
+    "prereq": "Trained In Religion",
+    "summary": "A religious token lets you act ﬁrst on a tie for initiative.",
+    "description": "You carry a small token of protection from a site holy to your faith, or you touched your religious symbol to a relic or altar at such a site. So long as this token is in your possession, when you tie an adversary's initiative roll, you go first.\n\nSpecial If you select this feat at 1st level, you receive your pilgrim's token for free. Alternately, if you have a religious symbol, it is already attuned, as described above.\n\n If you select this feat at a later level, or if you lose your pilgrim's token, you must purchase or Craft a replacement and attune it at a holy site. Such a token usually costs at least 2 sp, and the attunement takes 10 minutes of prayer and requires a successful DC 20 Religion check. Your GM might adjust the price and DC depending on the token's material and quality and the religious significance of the site; the more significant the location, the easier the attunement.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

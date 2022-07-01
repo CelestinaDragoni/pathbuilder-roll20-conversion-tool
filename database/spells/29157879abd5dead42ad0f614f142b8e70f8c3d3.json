@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=794",
+    "name": "Curse of Death",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Curse",
+        "Death",
+        "Hex",
+        "Necromancy",
+        "Witch"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You focus your malevolent gaze on a target, causing their heart to seize in dread.",
+    "heightenable": true,
+    "description": "You focus your malevolent gaze on a target, causing their heart to seize in dread. The target must attempt a Fortitude saving throw. Regardless of the result, the target is temporarily immune to further castings of curse of death for 1 day.\nCritical Success The target is unaffected.\nSuccess The target is afflicted with the curse of death at stage 1, and the stage of the curse can't increase beyond stage 1.\nFailure The target is afflicted with the curse of death at stage 1.\nCritical Failure The target is afflicted with the curse of death at stage 2.\n\nCurse of Death (curse) This curse ends immediately when the spell ends; Stage 1 4d6 negative damage and fatigued (1 round); Stage 2 8d6 negative damage and fatigued (1 round); Stage 3 12d6 negative damage and fatigued (1 round); Stage 4 death\n\n------\n\nHeightened (+1) Increase the negative damage taken on a success and during the first three stages of the curse by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Fortitude"
+}

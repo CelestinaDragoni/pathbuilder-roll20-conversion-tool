@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1633",
+    "name": "Martial Performance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 1,
+    "prereq": "Warrior Muse",
+    "summary": "Your muse has taught you how to handle a wider variety of weapons than most bards, empowering you to effortlessly blend your performance into combat even with the most inelegant tools.",
+    "description": "Your muse has taught you how to handle a wider variety of weapons than most bards, empowering you to effortlessly blend your performance into combat even with the most inelegant tools. You become trained with all martial weapons. If you gain the bard weapon expertise class feature, your proficiency rank with martial weapons increases to expert.",
+    "economy": "none",
+    "trigger": ""
+}

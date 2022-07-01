@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2099",
+    "name": "Weapon Improviser Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In All Martial Weapons",
+    "summary": "You don't take the normal –2 penalty to attack rolls with improvised weapons.",
+    "description": "You don't take the normal –2 penalty to attack rolls with improvised weapons. Additionally, whenever you gain a class feature that grants you expert or greater proficiency with any weapon, you also gain that proficiency with improvised weapons.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the weapon improviser archetype.Weapon Improviser Dedication Leads To...\n\nImprovised Critical, Improvised Pummel, Makeshift Strike, Surprise StrikeTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2686",
+    "name": "Lethargy Poisoner",
+    "source": "Pathfinder #165",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Drow Shootist Dedication; Trained In Crafting",
+    "summary": "You've learned more than the use of hand crossbows from drow lore.",
+    "description": "You've learned more than the use of hand crossbows from drow lore. During your daily preparations, you can prepare a dose of lethargy poison from ordinary materials in a wilderness or urban area. If you're an expert in Crafting, you can instead craft a dose of stupor poison. You can prepare two doses (of either poison) if you're a master in Crafting and three doses if you're legendary in Crafting. The save DC for this poison is equal to your class DC. Only you can use these poisons, and they expire the next time you make your daily preparations. The GM might decide that the area you're in is too barren to provide the materials you need for this feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

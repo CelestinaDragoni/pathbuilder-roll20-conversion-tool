@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2470",
+    "name": "Protective Subroutine",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Android"
+    ],
+    "level": 5,
+    "prereq": "Nanite Surge",
+    "summary": "Your nanites can augment your defenses.",
+    "description": "Your nanites can augment your defenses. You can choose to activate Nanite Surge when you attempt a saving throw, instead of when you attempt a skill check. If you do, you gain a +2 status bonus to the triggering saving throw.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
+    "economy": "none",
+    "trigger": ""
+}

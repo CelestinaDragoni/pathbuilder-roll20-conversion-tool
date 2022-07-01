@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3561",
+    "name": "Brains!",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Feast",
+    "summary": "You consume the brains of your foe, causing synapses long rotten to fire and enabling you to shake off your mental torpor.",
+    "description": "You consume the brains of your foe, causing synapses long rotten to fire and enabling you to shake off your mental torpor. You gain a +1 status bonus on skill checks to Recall Knowledge for 1 hour. If the humanoid had a higher modifier to the skill check you're using to Recall Knowledge than you do, the status bonus increases to +2.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": "You Feast upon a humanoid's brain. The humanoid can't be mindless (or, if you're Feasting on a corpse, can't have been mindless while alive)."
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3143",
+    "name": "Power Slide",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Move",
+        "Reckless",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Trick Driver Dedication",
+    "summary": "You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear.",
+    "description": "You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You Drive with a –2 penalty to your piloting check, gaining the effects of the Drive action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.Traits\n\nArchetype: This feat belongs to an archetype.\n\nMove: An action with this trait involves moving from one space to another.Reckless: Actions with the reckless trait run the risk of the pilot losing control of a vehicle. When performing a reckless action, the pilot must first attempt an appropriate piloting check to keep control of the vehicle.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-to-3-actions",
+    "trigger": ""
+}

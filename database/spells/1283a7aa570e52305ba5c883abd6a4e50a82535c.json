@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=222",
+    "name": "Plane Shift",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Transport creatures to another plane of existence.",
+    "heightenable": false,
+    "description": "You and your allies traverse the barriers between planes of existence. The targets move to another plane, such as the Plane of Fire, the Shadow Plane, or the Abyss. You must have specific knowledge of the destination plane and use a magic tuning fork created from material from that plane as a focus for the spell. While the tuning forks for most prominent planes are uncommon, just like the spell plane shift, more obscure planes and demiplanes often have rare tuning forks.\n\n The spell is highly imprecise, and you appear 1d20x25 miles from the last place one of the targets (of your choice) was located the last time that target traveled to the plane. If it's the first time traveling to a particular plane for all targets, you appear at a random location on the plane. Plane shift doesn't provide a means of return travel, though casting plane shift again allows you to return to your previous plane unless there are extenuating circumstances.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature, or up to 8 willing creatures joining hands",
+    "duration": "",
+    "saving": ""
+}

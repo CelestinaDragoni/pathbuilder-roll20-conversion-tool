@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=632",
+    "name": "Metamagic Mastery",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "Altering your spells doesn’t take any longer than casting them normally.",
+    "description": "Altering your spells doesn’t take any longer than casting them normally. You can use metamagic single actions as free actions.",
+    "economy": "none",
+    "trigger": ""
+}

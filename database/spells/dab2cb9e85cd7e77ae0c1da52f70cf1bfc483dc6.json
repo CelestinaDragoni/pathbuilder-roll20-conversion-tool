@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=285",
+    "name": "Shrink Item",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Polymorph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Reduce an object to the size of a coin.",
+    "heightenable": false,
+    "description": "You shrink the target to roughly the size of a coin. This reduces it to negligible Bulk. You can Dismiss the spell, and the spell ends if you toss the object onto a solid surface. The object can't be used to attack or cause damage during the process of it returning to normal size. If there isn't room for the object to return to normal size when the spell ends, the spell's duration continues until the object is in a location large enough to accommodate its normal size.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk",
+    "duration": "1 day",
+    "saving": ""
+}

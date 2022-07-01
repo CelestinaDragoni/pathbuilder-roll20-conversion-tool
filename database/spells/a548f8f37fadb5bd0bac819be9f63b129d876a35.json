@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=396",
+    "name": "Litany against Sloth",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion",
+        "Evocation",
+        "Good",
+        "Litany"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "Your litany rails against the sin of sloth, interfering with the target’s ability to react.",
+    "heightenable": false,
+    "description": "Your litany rails against the sin of sloth, interfering with the target's ability to react. The target must attempt a Will save. A particularly slothful creature, such as a sloth demon, uses the outcome one degree of success worse than the result of its saving throw. The target becomes temporarily immune to all of your litanies for 1 minute.\n\nCritical Success The target is unaffected.\nSuccess The target can't use reactions.\nFailure The target can't use reactions and is slowed 1.\nCritical Failure The target can't use reactions and is slowed 2.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 evil creature",
+    "duration": "1 round",
+    "saving": "Will"
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=219",
+    "name": "Dragonslayer Oath",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion",
+        "Oath"
+    ],
+    "level": 2,
+    "prereq": "Tenets Of Good",
+    "summary": "You’ve sworn to slay evil dragons.",
+    "description": "You’ve sworn to slay evil dragons. Add the following tenet to your code after the others: “You must slay evil dragons you encounter as long as you have a reasonable chance of success.” \n\nYour Retributive Strike gains a +4 circumstance bonus to damage against an evil dragon, or +6 if you have master proficiency with the weapon you used. Your Glimpse of Redemption’s resistance against damage from an evil dragon is 7 + your level. If you use Liberating Step triggered by an evil dragon, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.\n\n You don’t consider evil dragons to be legitimate authorities, even in nations they rule.Dragonslayer Oath Leads To...\n\nWyrmbane AuraTraitsOath: Oaths add an additional tenet to your code. You can usually have only one feat with this trait.",
+    "economy": "none",
+    "trigger": ""
+}

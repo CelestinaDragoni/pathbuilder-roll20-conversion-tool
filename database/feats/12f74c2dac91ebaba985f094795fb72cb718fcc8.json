@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=348",
+    "name": "Impaling Briars",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 16,
+    "prereq": "Leaf Order",
+    "summary": "You can fill an area with devastating briars that impale and impede your foes.",
+    "description": "You can fill an area with devastating briars that impale and impede your foes. You gain the impaling briars order spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

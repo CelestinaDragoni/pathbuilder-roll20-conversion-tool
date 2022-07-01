@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=253",
+    "name": "Divine Reflexes",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "You can use your champion's reaction more.",
+    "description": "At the start of each of your turns, you gain an additional reaction that you can use only for your champion’s reaction.",
+    "economy": "none",
+    "trigger": ""
+}

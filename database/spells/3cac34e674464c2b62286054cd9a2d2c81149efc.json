@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=288",
+    "name": "Sleep",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Incapacitation",
+        "Mental",
+        "Sleep"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Cause creatures in a small area to fall asleep.",
+    "heightenable": true,
+    "description": "Each creature in the area becomes drowsy and might fall asleep. A creature that falls unconscious from this spell doesn't fall prone or release what it's holding. This spell doesn't prevent creatures from waking up due to a successful Perception check, limiting its utility in combat.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes a –1 status penalty to Perception checks for 1 round.\nFailure The creature falls unconscious. If it's still unconscious after 1 minute, it wakes up automatically.\nCritical Failure The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically.\n\n------\n\nHeightened (4th) The creatures fall unconscious for 1 round on a failure or 1 minute on a critical failure. They fall prone and release what they're holding, and they can't attempt Perception checks to wake up. When the duration ends, the creature is sleeping normally instead of automatically waking up.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

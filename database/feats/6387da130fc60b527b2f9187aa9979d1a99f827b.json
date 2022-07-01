@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1556",
+    "name": "Incredible Luck",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fortune",
+        "Swashbuckler"
+    ],
+    "level": 18,
+    "prereq": "Charmed Life",
+    "summary": "You always seem to bounce back from the worst.",
+    "description": "You always seem to bounce back from the worst. When you use Charmed Life, roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.Traits\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "none",
+    "trigger": ""
+}

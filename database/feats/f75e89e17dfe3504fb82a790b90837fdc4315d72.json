@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1024",
+    "name": "Alchemical Scholar",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You learn formulas more easily.",
+    "description": "You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need Alchemical Crafting to Craft alchemical items.\n\nSpecial You can take this feat only at 1st level, and you can’t retrain into or out of this feat.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

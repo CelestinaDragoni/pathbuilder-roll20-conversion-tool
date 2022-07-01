@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2400",
+    "name": "Regrowth",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "Your command over your vital essence allows you or an ally to recover from grievous wounds.",
+    "description": "Your command over your vital essence allows you or an ally to recover from grievous wounds. You can cast regenerate as a 7th-level primal innate spell once per day.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

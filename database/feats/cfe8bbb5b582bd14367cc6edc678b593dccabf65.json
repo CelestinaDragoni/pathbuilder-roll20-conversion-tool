@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2966",
+    "name": "Work Yourself Up",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate"
+    ],
+    "level": 8,
+    "prereq": "Cathartic Mage Dedication",
+    "summary": "You concentrate on your mental state, tapping into that raw emotional energy.",
+    "description": "You concentrate on your mental state, tapping into that raw emotional energy. Take your Catharsis reaction, causing the catharsis activation and entering your emotional fervor as normal. The fervor lasts only until the end of your turn. At the end of your emotional fervor, you experience the effects of your emotional fallout, as normal.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "2-action",
+    "trigger": ""
+}

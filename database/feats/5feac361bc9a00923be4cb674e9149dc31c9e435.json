@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2287",
+    "name": "Healer's Halo",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 5,
+    "prereq": "Halo",
+    "summary": "Your halo can enhance positive energy.",
+    "description": "Your halo can enhance positive energy. Creatures who have recovered Hit Points from a positive healing effect recover an additional 1d6 Hit Points. Creatures who benefit from this power become temporarily immune to its effect for the next 10 minutes.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "reaction",
+    "trigger": "You or allies within 30 feet recover Hit Points while your halo is active."
+}

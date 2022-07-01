@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2215",
+    "name": "Pin to the Spot",
+    "source": "Pathfinder #159",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Provocator Dedication",
+    "summary": "Strike a foe and restrain them.",
+    "description": "You Strike a target within reach. If you hit and deal damage, the target is also restrained as if you had critically succeeded at an Athletics check to Grapple.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

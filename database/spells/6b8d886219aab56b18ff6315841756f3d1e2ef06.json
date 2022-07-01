@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=397",
+    "name": "Litany Against Wrath",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion",
+        "Evocation",
+        "Good",
+        "Litany"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "Your litany rails against the sin of wrath, punishing the target for attacking good creatures.",
+    "heightenable": true,
+    "description": "Your litany rails against the sin of wrath, punishing the target for attacking good creatures. The target must attempt a Will save. A particularly wrathful creature, such as a wrath demon, uses the outcome one degree of success worse than the result of its saving throw. The target then becomes temporarily immune to all of your litanies for 1 minute.\n\nCritical Success The target is unaffected.\nSuccess The first time the target uses an action that deals damage to at least one good creature, the target takes 3d6 good damage.\nFailure Each time the target uses an action that deals damage to at least one good creature, the target takes 3d6 good damage.\nCritical Failure The target is enfeebled 2. Each time it uses an action that deals damage to at least one good creature, the target takes 3d6 good damage.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 evil creature",
+    "duration": "1 round",
+    "saving": "Will"
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2884",
+    "name": "Supreme Spellstrike",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 20,
+    "prereq": "Spellstrike",
+    "summary": "You've made it almost effortless to combine spells and attacks.",
+    "description": "You've made it almost effortless to combine spells and attacks. You're permanently quickened. You can use your extra action only to Strike or to recharge Spellstrike.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2971",
+    "name": "Shore Step",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 1,
+    "prereq": "Wave Order",
+    "summary": "The shallows and tide pools have always called to you and let you pass unhindered.",
+    "description": "The shallows and tide pools have always called to you and let you pass unhindered. You ignore difficult terrain resulting from shallow water. In addition, if you roll a success on an Acrobatics check to Balance on a slippery or wet surface, or on an Athletics check to Swim, you get a critical success instead.",
+    "economy": "none",
+    "trigger": ""
+}

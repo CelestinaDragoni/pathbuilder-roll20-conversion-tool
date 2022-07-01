@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=627",
+    "name": "Greater Vital Evolution",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 16,
+    "prereq": "Divine Evolution Or Primal Evolution",
+    "summary": "Vital power surges through you like a font of energy.",
+    "description": "Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you’ve run out of spell slots of the appropriate spell level; the two spells you cast with this feat must be of different spell levels.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3460",
+    "name": "Hallowed Initiate",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Hallowed Necromancer Dedication",
+    "summary": "You've expanded your focus spellcasting to techniques used by clerics and wizards.",
+    "description": "You've expanded your focus spellcasting to techniques used by clerics and wizards. You gain an additional focus spell, either the necromancer school spell call of the grave or the initial domain spell of the death domain, death's call. Increase the number of Focus Points in your focus pool by 1.\n\nSpecial You can select this feat a second time, choosing the other initial focus spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=765",
+    "name": "Vision of Weakness",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cursebound",
+        "Divination",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "You focus your gaze on a creature and gain a flash of divine insight into its nature.",
+    "heightenable": false,
+    "description": "You focus your gaze on a creature and gain a flash of divine insight into its nature. If the creature has any weaknesses, you learn them, as well as which of its three saving throw modifiers is lowest. You also learn an inherent understanding of its movements and gain a +2 status bonus to your next attack roll (or skill check made as part of an attack action) against that foe before the end of your turn. The target is then temporarily immune to vision of weakness for 1 day.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

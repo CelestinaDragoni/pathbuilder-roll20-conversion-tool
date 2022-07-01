@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=538",
+    "name": "Specialized Companion (Ranger)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 16,
+    "prereq": "Incredible Companion (Ranger)",
+    "summary": "Your animal companion has become cunning enough to become specialized.",
+    "description": "Your animal companion has become cunning enough to become specialized. Your animal companion gains one specialization of your choice.",
+    "economy": "none",
+    "trigger": ""
+}

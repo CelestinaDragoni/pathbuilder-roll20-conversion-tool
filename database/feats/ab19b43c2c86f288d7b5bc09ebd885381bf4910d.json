@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=250",
+    "name": "Aura of Life",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 14,
+    "prereq": "Shining Oath",
+    "summary": "Your aura protects against necromantic effects.",
+    "description": "Your aura protects against necromantic effects. You and all allies within 15 feet gain resistance 5 to negative energy and a +1 status bonus to saves against necromancy effects.",
+    "economy": "none",
+    "trigger": ""
+}

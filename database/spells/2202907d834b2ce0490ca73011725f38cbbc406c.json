@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=187",
+    "name": "Maze",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Extradimensional",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Trap a creature in an extradimensional maze.",
+    "heightenable": false,
+    "description": "You transport the target into an extradimensional maze of eldritch origin and trap it there. Once each turn, the target can spend 1 action to attempt a Survival check or Perception check against your spell DC to escape the maze. The possible outcomes are as follows.\nCritical Success The target escapes and the spell ends.\nSuccess The target is on the right path to the exit. If the target was already on the right path, it escapes the maze and the spell ends.\nFailure The target makes no progress toward escape.\nCritical Failure The target makes no progress toward escape, and if it was on the right path, it no longer is.\n\nTeleportation magic doesn't help the creature escape unless the magic can transport across planes, such as plane shift. When the spell ends, either because the target escaped or the duration ran out, the target returns to the space it occupied when it was banished, or to the nearest space if the original is now filled.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained",
+    "saving": ""
+}

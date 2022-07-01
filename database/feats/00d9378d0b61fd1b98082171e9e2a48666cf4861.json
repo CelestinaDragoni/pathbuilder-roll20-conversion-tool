@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1809",
+    "name": "Implausible Purchase (Rogue)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 18,
+    "prereq": "Predictive Purchase (Rogue)",
+    "summary": "Even when impossible, you always have exactly what you need.",
+    "description": "Even when impossible, you always have exactly what you need. You can use Prescient Planner even if you have already used it after purchasing goods, and you can Interact to draw the item as a single action instead of a 2-action activity. In addition, five times per day, you can use Prescient Planner to pull out a common consumable item up to 6 levels lower than your level.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1110",
+    "name": "Cascade Bearer's Spellcasting",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Magaambyan Attendant Dedication; Cascade Bearers Affiliation",
+    "summary": "Your Cascade Bearer training allows you to broaden the horizons of your halcyon spells further than most Magaambyans, weaving in spiritual magic.",
+    "description": "Your Cascade Bearer training allows you to broaden the horizons of your halcyon spells further than most Magaambyans, weaving in spiritual magic. You can select halcyon spells from the divine or occult spell lists in additional to the arcane or primal spell lists, though they are still halcyon spells (so you choose when casting if they are arcane or primal spells). You gain a halcyon cantrip and a halcyon 1st-level spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

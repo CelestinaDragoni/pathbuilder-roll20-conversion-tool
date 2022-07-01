@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=317",
+    "name": "Summon Celestial",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Conjure a celestial to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure a celestial to fight on your behalf. This works like summon animal, except you summon a common creature that has the celestial trait and whose level is 5 or lower, such as those below. You can't summon a creature unless its alignment is one of your deity's preferred alignments (or, if you don't have a deity, is within one step of your alignment). At the GM's discretion, some deities might restrict specific types of celestials, even if their alignments match.\n\n------\n\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel 1 CelestialsCassisian (NG), Lantern Archon (LG), Lyrakien (CG), Silvanshee (NG)Level 4 CelestialsGancanagh (CG), Horned Archon (LG), Hound Archon (LG)Level 6 CelestialsBralani (CG), Choral (NG), Vulpinal (NG)Level 7 CelestialsLegion Archon (LG), Lillend (CG)Level 8 CelestialsBalisse (NG), Procyal (NG)Level 9 CelestialsGaruda (CG)Level 10 CelestialsMovanic Deva (NG), Shield Archon (LG)Level 12 CelestialsMonadic Deva (NG)Level 13 CelestialsGhaele (CG)Level 14 CelestialsAstral Deva (NG), Peri (CG), Trumpet Archon (LG)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

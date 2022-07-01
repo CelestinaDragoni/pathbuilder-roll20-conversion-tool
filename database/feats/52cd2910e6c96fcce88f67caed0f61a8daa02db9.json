@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1535",
+    "name": "Combination Finisher",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You combine a series of attacks with a powerful finishing blow.",
+    "description": "You combine a series of attacks with a powerful finishing blow. Your finishers' Strikes have a lower multiple attack penalty: –4 (or –3 with an agile weapon) if it's the second attack on your turn, or –8 (or –6 with an agile weapon) if it's the third or subsequent attack on your turn, instead of –5 and –10, respectively.",
+    "economy": "none",
+    "trigger": ""
+}

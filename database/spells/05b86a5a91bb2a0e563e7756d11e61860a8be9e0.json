@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=116",
+    "name": "Finger of Death",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Point at a creature to deal negative damage and possibly kill it instantly.",
+    "heightenable": true,
+    "description": "You point your finger toward the target and speak a word of slaying. You deal 70 negative damage to the target. If the damage from finger of death reduces the target to 0 Hit Points, the target dies instantly.\n\n------\n\nHeightened (+1) The damage increases by 10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 living creature",
+    "duration": "",
+    "saving": ""
+}

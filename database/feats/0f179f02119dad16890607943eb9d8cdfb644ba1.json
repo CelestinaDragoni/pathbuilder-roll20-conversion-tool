@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1053",
+    "name": "Razor Claws",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your have honed your claws to be deadly.",
+    "description": "Your have honed your claws to be deadly. Your claw attack deals 1d6 slashing damage instead of 1d4 and gains the versatile (piercing) trait.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=810",
+    "name": "Lengthy Diversion",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 1,
+    "prereq": "Trained In Deception",
+    "summary": "Remain hidden after you Create a Diversion.",
+    "description": "When you critically succeed to Create a Diversion, you continue to remain hidden after the end of your turn. This effect lasts for an amount of time that depends on the diversion and situation, as determined by the GM (minimum 1 additional round).Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

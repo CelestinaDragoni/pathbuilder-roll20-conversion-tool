@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2324",
+    "name": "Predator's Growl",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 9,
+    "prereq": "Expert In Intimidation",
+    "summary": "You give a throaty growl to attempt to Demoralize a creature you just found.",
+    "description": "You give a throaty growl to attempt to Demoralize a creature you just found. You don't take the –4 penalty for not sharing a language with the creature.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "reaction",
+    "trigger": "You successfully Seek a hidden or undetected creature."
+}

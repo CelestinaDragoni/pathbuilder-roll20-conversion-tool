@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3162",
+    "name": "Pistol Twirl",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 2,
+    "prereq": "Trained In Deception",
+    "summary": "Your quick gestures and flair for performance distract your opponent, leaving it vulnerable to your follow-up attacks.",
+    "description": "Your quick gestures and flair for performance distract your opponent, leaving it vulnerable to your follow-up attacks. You Feint against an opponent within the required weapon's first range increment, rather than an opponent within melee reach. If you succeed, the foe is flat-footed against your melee and ranged attacks, rather than only your melee attacks. On a critical failure, you're flat-footed against the target's melee and ranged attacks, rather than only its melee attacks.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Pistol Twirl Leads To...Showstopper",
+    "economy": "1-action",
+    "trigger": ""
+}

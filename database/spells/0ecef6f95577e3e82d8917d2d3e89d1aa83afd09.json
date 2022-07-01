@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=876",
+    "name": "Breadcrumbs",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Make a trail behind a creature.",
+    "heightenable": true,
+    "description": "You protect your target from going astray in hostile territory by tracking where it's already been, helping it deduce where it still needs to go. The target leaves a glittering trail behind it that lasts for the spell's duration. This trail doesn't denote the direction or the order of its path—it merely indicates where the target has moved during the spell's duration.\n\n------\n\nHeightened (2nd) The duration increases to 8 hours.\nHeightened (3rd) The duration increases to last until your next daily preparations.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "1 hour",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1945",
+    "name": "Breath of the Dragon",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Dragon Disciple Dedication",
+    "summary": "You can use a powerful breath weapon, much like the dragon you emulate.",
+    "description": "You can use a powerful breath weapon, much like the dragon you emulate. You gain the dragon breath sorcerer bloodline spell and a focus pool of 1 Focus Point. If you already have a focus pool, increase your number of Focus Points by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

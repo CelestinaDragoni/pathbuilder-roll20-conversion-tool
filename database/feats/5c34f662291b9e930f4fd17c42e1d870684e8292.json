@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1358",
+    "name": "Archon Magic",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 9,
+    "prereq": "Lawbringer",
+    "summary": "You can tap into the heavenly magic that is your birthright.",
+    "description": "You can tap into the heavenly magic that is your birthright. You can cast continual flame and shield other each once per day as 2nd-level divine innate spells.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "none",
+    "trigger": ""
+}

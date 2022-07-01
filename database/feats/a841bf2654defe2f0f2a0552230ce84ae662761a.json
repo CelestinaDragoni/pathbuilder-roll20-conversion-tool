@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2987",
+    "name": "Dousing Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Metamagic",
+        "Water"
+    ],
+    "level": 4,
+    "prereq": "Elementalist Dedication",
+    "summary": "You enhance your spell with elemental water, soaking the target.",
+    "description": "You enhance your spell with elemental water, soaking the target. If the next action you use is to Cast a Spell targeting a single creature, you soak the target of the spell with water. If the target has persistent acid or fire damage, the DC to end those conditions is reduced to 10, and the creature can attempt a flat check to end those types of persistent damage immediately. The spell gains the water trait (causing it to deal extra damage to creatures with weakness to water).Traits\n\nArchetype: This feat belongs to an archetype.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.Water: Effects with the water trait either manipulate or conjure water. Those that manipulate water have no effect in an area without water. Creatures with this trait consist primarily of water or have a magical connection to the element. Planes with this trait are mostly liquid, perhaps with pockets of breathable air.",
+    "economy": "1-action",
+    "trigger": ""
+}

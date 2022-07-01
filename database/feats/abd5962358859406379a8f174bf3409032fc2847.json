@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=209",
+    "name": "Eternal Composition",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 18,
+    "prereq": "Maestro Muse",
+    "summary": "The world is a stage upon which you are always playing.",
+    "description": "The world is a stage upon which you are always playing. You are permanently quickened; you can use your extra action only to cast a composition cantrip that requires 1 action to cast. While in exploration mode, you can declare that you are performing an eligible composition cantrip while using any exploration tactic. Even before your first turn in a combat encounter, that cantrip is active as if you had cast it on your previous turn.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1379",
+    "name": "Form of the Fiend",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Part of your body has an obvious, fiendish appearance.",
+    "description": "Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine. You gain your choice of one of the following unarmed attacks. The attack is in the brawling group and has the listed damage die and traits.\n\n Claw 1d4 slashing (agile, finesse, unarmed, versatile piercing) \nHoof 1d6 bludgeoning (finesse, unarmed) \nJaws 1d6 piercing (finesse, unarmed) \nTail 1d4 bludgeoning (agile, finesse, unarmed)\n\nSpecial You can select this feat only at 1st level, and you can't retrain into or out of this feat, nor can you change the type of attack you gained.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

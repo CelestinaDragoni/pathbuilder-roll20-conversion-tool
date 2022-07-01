@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=90",
+    "name": "Incredible Ferocity",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 13,
+    "prereq": "Orc Ferocity",
+    "summary": "Given time to collect yourself after a near-death scrape, you can rebuild your ferocity and withstand additional finishing blows.",
+    "description": "Given time to collect yourself after a near-death scrape, you can rebuild your ferocity and withstand additional finishing blows. You can use Orc Ferocity with a frequency of once per hour, rather than once per day.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

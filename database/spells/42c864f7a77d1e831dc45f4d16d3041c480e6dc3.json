@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=824",
+    "name": "Speaking Sky",
+    "source": "Pathfinder #158",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Air",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 6,
+    "summary": "The air speaks to you.",
+    "heightenable": false,
+    "description": "The air speaks to you. You can precisely sense any motion within 60 feet through vibration and air movement.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 round",
+    "saving": ""
+}

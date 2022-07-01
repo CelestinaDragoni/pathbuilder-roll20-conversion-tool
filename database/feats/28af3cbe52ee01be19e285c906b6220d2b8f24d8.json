@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1085",
+    "name": "Signifer's Sight",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Hellknight Signifer Dedication",
+    "summary": "The magic flowing through your signifer’s mask allows you to see in the dark, and the mask dampens the distraction caused by sudden flashes of bright light.",
+    "description": "The magic flowing through your signifer’s mask allows you to see in the dark, and the mask dampens the distraction caused by sudden flashes of bright light. While wearing your signifer’s mask, you gain darkvision. Additionally, if you are dazzled while wearing your signifer’s mask and the target is concealed only because you are dazzled, you reduce the flat check DC to target that creature from 5 to 3.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

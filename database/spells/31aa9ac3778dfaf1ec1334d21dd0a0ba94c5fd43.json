@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=645",
+    "name": "Pyrotechnics",
+    "source": "Pathfinder #152",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Fire",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "You turn a fire into either a burst of blinding fireworks or a thick cloud of choking smoke",
+    "heightenable": false,
+    "description": "You turn a fire into either a burst of blinding fireworks or a thick cloud of choking smoke, chosen when you Cast the Spell. The spell targets one fire source, which is immediately extinguished if it is a non-magical fire the size of a campfire or smaller. If the fire source is a creature, the creature takes 1d6 points of cold damage and is not extinguished.\nFireworks  The targeted fire explodes into a colorful array of flashy, fiery, glowing aerial fireworks in a 20-foot-radius burst. The first time you Sustain the Spell each round, you can cause the area of fireworks to ascend up to 20 feet, but you cannot move the area laterally. Creatures that start their turn within the area of the fireworks must attempt a Fortitude save, and are then temporarily immune for 1 minute. \nCritical Success The creature is unaffected\nSuccess The creature is dazzled until the end of its next turn.\nFailure The creature is blinded until the end of its next turn.\nCritical Failure The creature is blinded for 1 minute.Smoke Cloud  Thick smoke billows out from the fire and coalesces into a cloud that spreads to fill a 20-foot-radius burst centered on the targeted fire. Creatures within the smoke cloud take a –4 circumstance penalty to visual Perception checks, and creatures outside the smoke cloud take a –4 circumstance penalty to visual Perception checks to detect creatures or objects within it. The first time you Sustain the Spell each round, you can cause the smoke cloud to descend up to 20 feet, but you cannot move the area laterally. Creatures that start their turn within the smoke cloud must attempt a Fortitude save, and are then temporarily immune for 1 minute. \nSuccess The creature is unaffected.\nFailure The creature is sickened 1.\nCritical Failure The creature is sickened 1 and cannot recover from the sickened condition while in the area of the smoke cloud.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

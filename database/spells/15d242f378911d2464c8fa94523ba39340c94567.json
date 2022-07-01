@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=674",
+    "name": "Blistering Invective",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Light a creature on fire with the sheer viciousness of your words.",
+    "heightenable": true,
+    "description": "A heap of insults and invectives spew from your mouth— words so devastating your foes burn from the intensity of your diatribe. Your words deal 2d6 persistent fire damage, and the target must attempt a Will save. If the target doesn't understand the language or you're not speaking a language, it gains a +4 circumstance bonus to its save.\n\nCritical Success The target is unaffected.\nSuccess The target takes half the persistent fire damage.\nFailure The target becomes frightened 1 and takes the full persistent fire damage.\nCritical Failure The target becomes frightened 2 and takes double the persistent fire damage.\n\n------\n\nHeightened (+2) You can target two additional creatures, and the persistent damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

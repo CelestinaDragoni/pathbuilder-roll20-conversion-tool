@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=312",
+    "name": "Stoneskin",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Earth"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Harden a creature's skin into durable stone.",
+    "heightenable": true,
+    "description": "The target's skin hardens like stone. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, stoneskin's duration decreases by 1 minute.\n\n------\n\nHeightened (6th) The resistance increases to 10.\nHeightened (8th) The resistance increases to 15.\nHeightened (10th) The resistance increases to 20.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "20 minutes",
+    "saving": ""
+}

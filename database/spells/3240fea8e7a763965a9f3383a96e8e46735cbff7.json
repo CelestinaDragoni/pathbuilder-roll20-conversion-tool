@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=371",
+    "name": "Water Walk",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Buoy a creature so it can walk on water.",
+    "heightenable": true,
+    "description": "The target can walk on the surface of water and other liquids without falling through. It can go underwater if it wishes, but in that case it must Swim normally. This spell doesn't grant the ability to breathe underwater.\n\n------\n\nHeightened (4th) The spell's range increases to 30 feet, the duration increases to 1 hour, and you can target up to 10 creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

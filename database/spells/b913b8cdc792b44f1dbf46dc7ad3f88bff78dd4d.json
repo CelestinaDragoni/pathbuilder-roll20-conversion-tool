@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1096",
+    "name": "Painted Scout",
+    "source": "Pathfinder #175",
+    "traditions": [
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Scrying"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "You press your hand to the stone, causing hand-drawn scouts to spread out from your fingers.",
+    "heightenable": true,
+    "description": "You press your hand to the stone, causing hand-drawn scouts to spread out from your fingers. As long as you keep your hand on the wall and Sustain the Spell, you can see, hear, and smell through the painted scout using whatever senses you have (including natural senses like scent or darkvision, or magical effects like see invisibility). You can move the scout up to your Speed along the wall each time you Sustain the Spell. The scout can move anywhere along the wall to a range of 120 feet as long as its path is unbroken; it treats sharp corners and particularly craggy spots on the wall as difficult terrain. The painted scout is bonded to the wall on which you created it and can't move onto another surface or material.\n\n You can spend an action to make the scout Hide or Sneak, and you can roll a Nature or Occultism check in place of the usual Stealth check. The painted scout must be near a suitably obscured nook or cranny to Hide; it can't Hide or Sneak along a flat, featureless wall. If the painted scout is smeared or doused in water, the scout is destroyed and the spell ends.\n\n------\n\nHeightened (6th) You create up to five separate painted scouts, and the range to which the scouts can move along the wall increases to 500 feet. Each time you Sustain the Spell, you can move one scout up to your Speed, and you can see, hear, and smell through all five scouts simultaneously. A destroyed scout can't be replaced, and the spell ends if all the scouts are destroyed.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "a cave wall or other stone surface",
+    "duration": "sustained",
+    "saving": ""
+}

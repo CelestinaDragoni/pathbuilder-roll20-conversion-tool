@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1106",
+    "name": "Emerald Boughs Accustomation",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 6,
+    "prereq": "Magaambyan Attendant Dedication; Emerald Boughs Affiliation; Expert In Society",
+    "summary": "You are comfortable and socially capable in almost any cultural context.",
+    "description": "You are comfortable and socially capable in almost any cultural context. When you use the Society skill to Subsist, if you roll a critical failure, you get a failure instead; if you roll a success, you get a critical success instead; and if you roll a critical success, you can provide for another additional creature. Furthermore, when you attempt a Society check to Recall Knowledge about cultural practices and roll a critical failure, you get a failure instead.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

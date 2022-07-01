@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=64",
+    "name": "Ceaseless Shadows",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 13,
+    "prereq": "Distracting Shadows",
+    "summary": "You excel at going unnoticed, especially among a crowd.",
+    "description": "You excel at going unnoticed, especially among a crowd. You no longer need to have cover or be concealed to Hide or Sneak. If you would have lesser cover from creatures, you gain cover and can Take Cover, and if you would have cover from creatures, you gain greater cover.\nTraits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

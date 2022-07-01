@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3566",
+    "name": "Festering Wound",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Disease",
+        "Divine",
+        "Necromancy"
+    ],
+    "level": 12,
+    "prereq": "Zombie Dedication",
+    "summary": "Wounds you inflict with your unarmed attacks fester and rot, becoming infected and difficult to heal.",
+    "description": "Wounds you inflict with your unarmed attacks fester and rot, becoming infected and difficult to heal. The DC to Treat these Wounds using Medicine increases by 5, and magically or alchemically healing these wounds requires a counteract check against your class DC or spell DC, whichever is higher. Succeeding at any of these removes the disease. The effect also ends if the creature is healed to full Hit Points by any means.Traits\n\nArchetype: This feat belongs to an archetype.\n\nDisease: An effect with this trait applies one or more diseases. A disease is typically an affliction.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.",
+    "economy": "none",
+    "trigger": ""
+}

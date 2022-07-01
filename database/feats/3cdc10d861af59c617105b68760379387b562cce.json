@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1333",
+    "name": "Occult Resistance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling"
+    ],
+    "level": 9,
+    "prereq": "Expert In Occultism",
+    "summary": "Your study of occult practices has shown you how to best defend against them.",
+    "description": "Your study of occult practices has shown you how to best defend against them. You gain a +1 circumstance bonus to all saving throws against occult effects.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.",
+    "economy": "none",
+    "trigger": ""
+}

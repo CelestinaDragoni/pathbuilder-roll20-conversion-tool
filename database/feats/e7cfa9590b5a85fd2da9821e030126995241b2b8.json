@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2055",
+    "name": "Skim Scroll",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Scroll Trickster Dedication",
+    "summary": "You can activate the magic of a scroll with a cursory read as you draw it from your belt.",
+    "description": "You can activate the magic of a scroll with a cursory read as you draw it from your belt. You Interact to draw forth a scroll, then use Trick Magic Item on the scroll.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3571",
+    "name": "Flash your Badge",
+    "source": "Pathfinder #178",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Alkenstar Agent Dedication; Master In Intimidation",
+    "summary": "You make a fearsome show of your authority.",
+    "description": "You make a fearsome show of your authority. Roll Intimidation checks to Demoralize each creature in a 30-foot cone. When you do so, Demoralize gains the visual trait, and creatures are affected if they can see you. If a target creature hasn't broken a law in the past week (as determined by the GM), the result of your check against that creature is one degree of success worse than the result you rolled.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

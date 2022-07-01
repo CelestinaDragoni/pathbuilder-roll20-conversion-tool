@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=335",
+    "name": "Elemental Shape",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 10,
+    "prereq": "Wild Shape",
+    "summary": "You understand the fundamental elements of nature such that you can imbue them into your body.",
+    "description": "You understand the fundamental elements of nature such that you can imbue them into your body and manifest as a living embodiment of those elements. Add the forms in elemental form to your wild shape list. Whenever you’re polymorphed into another form using wild shape, you gain resistance 5 to fire.Elemental Shape Leads To...\n\nReactive Transformation",
+    "economy": "none",
+    "trigger": ""
+}

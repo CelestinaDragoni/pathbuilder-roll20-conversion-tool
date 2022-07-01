@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2383",
+    "name": "Kobold Weapon Innovator",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 5,
+    "prereq": "Kobold Weapon Familiarity",
+    "summary": "You've learned devious tactics with your kobold weapons.",
+    "description": "You've learned devious tactics with your kobold weapons. Whenever you critically hit with a crossbow, greatpick, light pick, pick, spear, or kobold weapon, you apply the weapon's critical specialization effect.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

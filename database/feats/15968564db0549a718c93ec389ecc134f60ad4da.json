@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=903",
+    "name": "Magic Warrior Dedication",
+    "source": "World Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Ability To Cast Focus Spells",
+    "summary": "You have taken up a nameless mask and sworn the oath of the magic warriors.",
+    "description": "You have taken up a nameless mask and sworn the oath of the magic warriors. You become trained in your choice of Arcana or Nature and in Magic Warrior Lore; if you were already trained in the skill, you become an expert instead.\n\n You hide your identity behind a mask representing an animal of your choice, corresponding to one of the general animal types in the animal form spell. You gain a +1 circumstance bonus to saves against divination effects, though sometimes refusing to remove your mask can cause issues in areas that don't respect or understand the magic warrior tradition.\n\n Once you take this feat, if another creature ever learns your true face or name, you lose your abilities from this archetype. Close allies who knew of your decision to take the mask before your dedication don't break this taboo unless they tell someone else. To regain your abilities, you must discard your mask and obtain a new one of a different animal, then retrain Magic Warrior Dedication into a new Magic Warrior Dedication with your new mask. Your focus spells from the magic warrior archetype are the same tradition as your other spells (choose one if you have spells from multiple traditions).\n\nSpecial You cannot select another dedication feat until you have gained two other feats from the magic warrior archetype.Magic Warrior Dedication Leads To...\n\nMagic Warrior Aspect, Magic Warrior Transformation, Nameless AnonymityTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

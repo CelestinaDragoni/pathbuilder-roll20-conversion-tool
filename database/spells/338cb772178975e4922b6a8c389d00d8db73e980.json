@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=353",
+    "name": "Vampiric Exsanguination",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Draw blood and life force from creatures in a cone.",
+    "heightenable": true,
+    "description": "You draw in the blood and life force of other creatures through your outstretched arms. You deal 12d6 negative damage to living creatures in the area.\n\n You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": "basic FortitudeYou draw in the blood and life force of other creatures through your outstretched arms. You deal 12d6 negative damage to living creatures in the area. You gain temporary Hit Points equal to half the damage a single creature takes from this spell"
+}

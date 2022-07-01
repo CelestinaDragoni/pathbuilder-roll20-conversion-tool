@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=316",
+    "name": "Summon Animal",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Conjure an animal to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure an animal to fight for you. You summon a common creature that has the animal trait and whose level is –1, such as those below. Heightening the spell increases the maximum level of creature you can summon.\n\n------\n\nHeightened (2nd) Level 1.\nHeightened (3rd) Level 2.\nHeightened (4th) Level 3.\nHeightened (5th) Level 5.\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel -1 AnimalsBeaver (N), Bloodseeker (N), Common Eurypterid (N), Compsognathus (N), Eagle (N), Flash Beetle (N), Giant Centipede (N), Giant Rat (N), Guard Dog (N), Monkey (N), Pufferfish (N), Raven (N), Red Fox (N), Skunk (N), Snapping Turtle (N), Three-Toed Sloth (N), Trilobite (N), Viper (N), Weasel (N)Level 0 AnimalsBadger (N), Blue-Ringed Octopus (N), Bottlenose Dolphin (N), Dream Spider (N), Giant Maggot (N), Giant Worker Bee (N), Kangaroo (N), Riding Pony (N), Ringhorn Ram (N), Sea Snake (N), Spear Frog (N), Spider Swarm (N), Stingray (N), Vampire Squid (N)Level 1 AnimalsBall Python (N), Camel (N), Cave Scorpion (N), Electric Eel (N), Elk (N), Giant Cockroach (N), Giant Fly (N), Giant Frog (N), Giant Gecko (N), Giant Skunk (N), Giant Solifugid (N), Giant Tick (N), Goblin Dog (N), Hippocampus (N), Hunting Spider (N), Hyena (N), Manta Ray (N), Rat Swarm (N), Reef Octopus (N), Riding Dog (N), Riding Horse (N), Squirrel Swarm (N), Vampire Bat Swarm (N), Velociraptor (N), War Pony (N), Wolf (N), Yzobu (N)Level 2 AnimalsBlack Bear (N), Blindheim (N), Boar (N), Cave Fisher (N), Cockroach Swarm (N), Crocodile (N), Deinonychus (N), Fading Fox (N), Giant Ant (N), Giant Badger (N), Giant Bat (N), Giant Crab (N), Giant Flying Squirrel (N), Giant Leech (N), Giant Mining Bee (N), Giant Monitor Lizard (N), Giant Opossum (N), Giant Porcupine (N), Giant Tapir (N), Giant Toad (N), Giant Tsetse Fly (N), Giant Viper (N), Hippogriff (N), Leopard (N), Monkey Swarm (N), Pteranodon (N), Rat Snake Swarm (N), Rosethorn (N), Shocker Lizard (N), Slurk (N), Terror Bird (N), War Horse (N), Wolverine (N)Level 3 AnimalsAnkhrav (N), Bunyip (N), Castoroides (N), Centipede Swarm (N), Chimpanzee Visitant (NE), Dire Wolf (N), Fen Mosquito Swarm (N), Giant Chameleon (N), Giant Dragonfly Nymph (N), Giant Flea (N), Giant Mantis (N), Giant Scorpion (N), Giant Seahorse (N), Giant Vulture (N), Giant Wasp (N), Giant Whiptail Centipede (N), Gorilla (N), Grizzly Bear (N), Hyaenodon (N), Lion (N), Megalictis (N), Moose (N), Narwhal (N), Pachycephalosaurus (N), Piranha Swarm (N), Platecarpus (N), Raven Swarm (N), Trilobite Swarm (N), Wolliped (N)Level 4 AnimalsAmphisbaena (N), Bison (N), Brood Leech Swarm (N), Daeodon (N), Damibwa (N), Giant Dragonfly (N), Giant Pangolin (N), Giant Stag Beetle (N), Giant Wolverine (N), Great White Shark (N), Griffon (N), Hadrosaurid (N), Hermit Crab Swarm (N), Owlbear (N), Rhinoceros (N), Scorpion Swarm (N), Terror Shrike (N), Tiger (N), Viper Swarm (N), Wasp Swarm (N)Level 5 AnimalsArmy Ant Swarm (N), Bore Worm Swarm (N), Emperor Cobra (N), Flea Swarm (N), Giant Frilled Lizard (N), Giant Hermit Crab (N), Giant Moray Eel (N), Glyptodon (N), Hippopotamus (N), Lion Visitant (NE), Megatherium (N), Ogre Spider (N), Orca (N), Polar Bear (N), Spiny Eurypterid (N)Level 6 AnimalsAnkylosaurus (N), Blood Boar (NE), Cave Bear (N), Fire Jellyfish Swarm (N), Giant Mosquito (N), Giant Tarantula (N), Iguanodon (N), Long-Horned Bison (N), Smilodon (N), Wooly Rhinoceros (N)Level 7 AnimalsElasmosaurus (N), Elephant (N), Empress Bore Worm (N), Giant Jellyfish (N), Megalania (N), Quetzalcoatlus (N), Sportlebore Swarm (N), Stegosaurus (N), Zetogeki (N)Level 8 AnimalsAnancus (N), Bulette (N), Giant Anaconda (N), Giant Octopus (N), Krooth (N), Megaprimatus (N), Slug (N), Triceratops (N), Tylosaurus (N)Level 9 AnimalsAurumvorax (N), Deinosuchus (N), Giant Snapping Turtle (N), Giant Squid (N), Khravgodon (N), Mastodon (N), Roc (N), Tick Swarm (N), Titan Centipede (N)Level 10 AnimalsBehemoth Hippopotamus (N), Brontosaurus (N), Mammoth (N), Tyrannosaurus (N)Level 11 AnimalsDeadly Mantis (N), Goliath Spider (N), Spinosaurus (N)Level 12 AnimalsFrost Worm (N)Level 13 AnimalsPurple Worm (N)Level 15 AnimalsBlack Scorpion (N)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

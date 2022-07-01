@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3607",
+    "name": "Grave Sight",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Lastwall Sentry Dedication; Grave Sense",
+    "summary": "Your ability to sense undead has improved.",
+    "description": "Your ability to sense undead has improved. You sense undead as an imprecise sense with a range of 60 feet: an uncomfortable sensation brushes against your spirit and stinks of rot. When in proximity to an undead, you can sense its presence, but it has the hidden condition instead of the observed condition. An undead using a disguise or otherwise trying to hide its presence must attempt a Deception or Stealth check against your Perception DC to hide its presence from you. If the creature succeeds, it's undetected, and you have to use the Seek basic action to detect the creature. As with hearing and other imprecise senses, you still need to Seek to locate an undetected creature.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

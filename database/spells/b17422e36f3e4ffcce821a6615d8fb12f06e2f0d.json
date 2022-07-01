@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=157",
+    "name": "Hypnotic Pattern",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Shifting colors dazzle and fascinate creatures.",
+    "heightenable": false,
+    "description": "You create a pattern of shifting colors that hovers in the air in a geometric cloud. Creatures are dazzled while inside the pattern. In addition, a creature must attempt a Will saving throw if it is inside the pattern when you cast it, when it enters the pattern, when it ends its turn within the pattern, or if it uses a Seek or Interact action on the pattern. A creature currently fascinated by the pattern doesn't attempt new saves.\n\nSuccess The target is unaffected.\nFailure The target is fascinated by the pattern.\nCritical Failure The target is fascinated by the pattern. While it remains fascinated, it can't use reactions.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

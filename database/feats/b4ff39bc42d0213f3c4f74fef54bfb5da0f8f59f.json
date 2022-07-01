@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1964",
+    "name": "Precious Arrow",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Magical",
+        "Transmutation"
+    ],
+    "level": 8,
+    "prereq": "Eldritch Archer Dedication",
+    "summary": "You enchant a piece of ammunition with the magical essence of a precious material, allowing you to leverage certain creatures' weaknesses.",
+    "description": "You enchant a piece of ammunition with the magical essence of a precious material, allowing you to leverage certain creatures' weaknesses. Choose cold iron or silver; if you shoot the arrow before the end of your turn, it counts as that material. At 14th level, add adamantine to the list of materials you can choose from.Traits\n\nArchetype: This feat belongs to an archetype.\n\nMagical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "1-action",
+    "trigger": ""
+}

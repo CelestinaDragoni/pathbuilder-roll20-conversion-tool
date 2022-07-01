@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=389",
+    "name": "Dueling Riposte",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 8,
+    "prereq": "Dueling Parry (Fighter)",
+    "summary": "You riposte against your flailing enemy.",
+    "description": "You riposte against your flailing enemy. Make a melee Strike against or attempt to Disarm the triggering creature.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Dueling Riposte Leads To...Guiding Riposte, Improved Dueling Riposte, Reflecting Riposte",
+    "economy": "reaction",
+    "trigger": "A creature within your reach critically fails a Strike against you."
+}

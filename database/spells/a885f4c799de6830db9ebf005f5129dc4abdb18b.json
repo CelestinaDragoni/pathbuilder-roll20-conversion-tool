@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=207",
+    "name": "Neutralize Poison",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Cure a poison afflicting a creature.",
+    "heightenable": false,
+    "description": "You pour healing magic through the target in an attempt to cure one poison afflicting it. Attempt a counteract check against the poison.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

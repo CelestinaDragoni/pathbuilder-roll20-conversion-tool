@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=38",
+    "name": "Burn It!",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Fire fascinates you.",
+    "description": "Fire fascinates you. Your spells and alchemical items that deal fire damage gain a status bonus to damage equal to half the spell's level or one-quarter the item's level (minimum 1). You also gain a +1 status bonus to any persistent fire damage you deal.Traits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1869",
+    "name": "Advanced Witchcraft",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Basic Witchcraft",
+    "summary": "You gain one witch feat.",
+    "description": "You gain one witch feat. For the purpose of meeting its prerequisites, your witch level is equal to half your character level.\n\nSpecial You can select this feat more than once. Each time you select it, you gain another witch feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

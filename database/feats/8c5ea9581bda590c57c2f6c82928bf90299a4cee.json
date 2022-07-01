@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=578",
+    "name": "Precise Debilitation",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 10,
+    "prereq": "Thief Racket; Debilitating Strike",
+    "summary": "You carefully aim and gracefully deliver your debilitations.",
+    "description": "You carefully aim and gracefully deliver your debilitations. Add the following debilitations to the list you can choose from when you use Debilitating Strike. Debilitation The target takes an additional 2d6 precision damage from your attacks. Debilitation The target becomes flat-footed.",
+    "economy": "none",
+    "trigger": ""
+}

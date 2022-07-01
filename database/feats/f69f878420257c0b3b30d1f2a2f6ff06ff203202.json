@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1912",
+    "name": "Blessed Spell",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 8,
+    "prereq": "Blessed One Dedication; Ability To Cast Spells From Spell Slots; Mercy",
+    "summary": "When you focus your magic on an ally, you can remove harmful conditions.",
+    "description": "When you focus your magic on an ally, you can remove harmful conditions. If your next action is to Cast a Spell from a spell slot, and that spell targets only a single ally, you can also attempt to remove a harmful condition from that ally. The condition must be one that could be removed by your Mercy feat, including those granted by later feats such as Greater Mercy. Attempt a counteract check based on the spell's DC and level. This effect is in addition to the normal effects of your spell.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

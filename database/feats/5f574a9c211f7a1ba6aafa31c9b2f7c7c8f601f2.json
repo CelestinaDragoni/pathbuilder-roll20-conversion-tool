@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2049",
+    "name": "Terrain Scout",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Scout Dedication",
+    "summary": "You gain the Terrain Stalker skill feat twice, choosing a different terrain each time.",
+    "description": "You gain the Terrain Stalker skill feat twice, choosing a different terrain each time. If you Avoid Notice while exploring and any allies use Follow the Expert to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

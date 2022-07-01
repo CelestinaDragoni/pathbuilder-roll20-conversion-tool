@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2455",
+    "name": "Rakshasa Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 9,
+    "prereq": "Beastbrood",
+    "summary": "You remember the secrets of your rakshasa forebears and know how to apply those memories to get results.",
+    "description": "You remember the secrets of your rakshasa forebears and know how to apply those memories to get results. You can cast humanoid form and illusory creature once per day each as 2nd-level divine innate spells.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

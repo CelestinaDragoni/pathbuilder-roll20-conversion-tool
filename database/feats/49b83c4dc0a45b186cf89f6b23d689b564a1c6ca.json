@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2566",
+    "name": "Elemental Trade",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oread"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have a strong connection with stone and metal.",
+    "description": "You have a strong connection with stone and metal. You gain the trained proficiency rank in Crafting. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You gain the Specialty Crafting skill feat for both Stonemasonry and Blacksmithing.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
+    "economy": "none",
+    "trigger": ""
+}

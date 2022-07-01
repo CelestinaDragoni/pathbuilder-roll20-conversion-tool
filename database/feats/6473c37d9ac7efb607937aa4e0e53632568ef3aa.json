@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1960",
+    "name": "Eldritch Archer Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication",
+        "Magical"
+    ],
+    "level": 6,
+    "prereq": "Expert In At Least One Type Of Bow",
+    "summary": "You blend magic with your archery, leading to powerful results.",
+    "description": "You blend magic with your archery, leading to powerful results.\n\n If you don't already cast spells from spell slots, you learn to cast spontaneous spells and gain the Cast a Spell activity. You gain a spell repertoire with one cantrip of your choice, from a spell list of your choice. You choose this cantrip from the common spells on your chosen spell list or from other spells to which you have access on that list. This cantrip must require a spell attack roll. You're trained in spell attack rolls and spell DCs for that tradition. Your key spellcasting ability for these spells is Charisma.\n\n You also gain Eldritch Shot.\n\nActivate     Eldritch Shot; Requirements You are wielding a bow; Effect You Cast a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the bow you're wielding. Make a Strike with that bow. Your spell flies with the ammunition, using your attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for your multiple attack penalty, but you don't apply the penalty until after you've completed both attacks.\n\n------\n\nSpecial You can't select another dedication feat until you have gained two other feats from the eldritch archer archetype.Eldritch Archer Dedication Leads To...\n\nArrow of Death, Basic Eldritch Archer Spellcasting, Enchanting Arrow, Magic Arrow, Phase Arrow, Precious Arrow, Seeker ArrowTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Magical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.",
+    "economy": "3-action",
+    "trigger": ""
+}

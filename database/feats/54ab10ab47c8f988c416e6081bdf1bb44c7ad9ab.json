@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=466",
+    "name": "Wind Jump",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 10,
+    "prereq": "Ki Spells",
+    "summary": "You gather the wind beneath you, allowing you to soar as you jump.",
+    "description": "You gather the wind beneath you, allowing you to soar as you jump. You gain the wind jump ki spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

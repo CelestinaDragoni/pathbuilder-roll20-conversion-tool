@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1126",
+    "name": "Synchronize Steps",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Enchantment"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You link the minds of two targets, enabling them to move in tandem.",
+    "heightenable": true,
+    "description": "You link the minds of two targets, enabling them to move in tandem. When one of the targets Steps, the other target can use a reaction to Step. When one of the targets Strides, the other target can use a reaction to Stride.\n\n------\n\nHeightened (5th)  The range increases to 60 feet, and you can target up to 10 willing creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "2 willing creatures",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

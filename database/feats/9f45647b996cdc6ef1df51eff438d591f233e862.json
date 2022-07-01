@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1811",
+    "name": "Anoint Ally",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Manipulate",
+        "Sorcerer"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You forge a mystical connection with an ally using your body as a focus, allowing them to benefit from your magic.",
+    "description": "You forge a mystical connection with an ally using your body as a focus, allowing them to benefit from your magic. You place a blood rune on an adjacent ally that lasts for 1 minute. When you would gain a blood magic effect, you can forgo it, granting it to your ally instead. You can anoint only one ally at a time; if you place another rune, your previous designation ends.Traits\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "1-action",
+    "trigger": ""
+}

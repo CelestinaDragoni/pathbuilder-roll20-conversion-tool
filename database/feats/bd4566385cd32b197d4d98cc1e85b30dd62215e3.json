@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1289",
+    "name": "Hold Mark",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You bear scars or tattoos enhanced by the mark of your community's prowess.",
+    "description": "You bear scars or tattoos enhanced by the mark of your community's prowess. When you select this feat, choose one of the options on the following page. When you critically hit using a weapon of the listed group, you apply the weapon's critical specialization effect. You gain a large brand or tattoo in the shape of the chosen emblem or a similar image (for example, the axe could be a bear or other symbol of ferocious strength, while the shield might be a turtle or another symbol associated with a strong defense) and gain the listed benefit. Axe axe or pickShield hammer or shieldTorch bomb or knife Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

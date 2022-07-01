@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1801",
+    "name": "Eldritch Debilitations",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 10,
+    "prereq": "Eldritch Trickster Racket; Debilitating Strike",
+    "summary": "You know how to apply debilitations that are particularly troublesome for spellcasters.",
+    "description": "You know how to apply debilitations that are particularly troublesome for spellcasters. Add the following debilitations to the list you can choose from when you use Debilitating Strike. Debilitation The target is stupefied 1.Debilitation The target can't Step.",
+    "economy": "none",
+    "trigger": ""
+}

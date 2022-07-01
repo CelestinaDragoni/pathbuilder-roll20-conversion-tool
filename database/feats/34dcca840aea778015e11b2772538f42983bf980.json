@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3100",
+    "name": "Arcane Propulsion",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Arcane",
+        "Automaton",
+        "Transmutation"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You redirect energy from your core to ports on your back or feet, allowing you to fly for a short time.",
+    "description": "You redirect energy from your core to ports on your back or feet, allowing you to fly for a short time. You can maintain this redirected energy for 5 minutes. You gain a fly Speed equal to your Speed while redirecting the energy.\n\nEnhancement You can maintain your flight for longer. You can redirect your energy at all times, allowing you to fly whenever you want, rather than just once per day for 5 minutes.Traits\n\nArcane: This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is magical.\n\nAutomaton: Automatons are living constructs sustained by a magical core.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "2-action",
+    "trigger": ""
+}

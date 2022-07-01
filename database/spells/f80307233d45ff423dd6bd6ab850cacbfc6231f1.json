@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=591",
+    "name": "Tether",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You use magical chains, vines, or other tethers to bind your target to you.",
+    "heightenable": true,
+    "description": "You use magical chains, vines, or other tethers to bind your target to you. The creature can still try to Escape, and it or others can break the tethers by attacking them (the tethers have AC 15 and 10 Hit Points). You must stay within 30 feet of the target while it is tethered; moving more than 30 feet away from your target ends the spell. The target must attempt a Reflex save.\n\nCritical Success The target is unaffected.\nSuccess The target takes a –5-foot circumstance penalty to its Speed as long as it is within 30 feet of you.\nFailure The target takes a –10-foot circumstance penalty to its Speed and cannot move more than 30 feet away from you until it Escapes or the spell ends.\nCritical Failure The target is immobilized until it Escapes or the spell ends.\n\n------\n\nHeightened (+1) The tethers’ AC increases by 3 and their Hit Points increase by 10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 minute or until dismissed; see text",
+    "saving": "Reflex"
+}

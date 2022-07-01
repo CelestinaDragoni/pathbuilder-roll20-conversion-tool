@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1775",
+    "name": "Terrain Transposition",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 10,
+    "prereq": "Warden Spells",
+    "summary": "You are so connected to the wilderness that you can magically jump from place to place within it.",
+    "description": "You are so connected to the wilderness that you can magically jump from place to place within it. You gain the terrain transposition warden spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1327",
+    "name": "Hag Claws",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "When you came of age, your fingernails grew long and sharp.",
+    "description": "When you came of age, your fingernails grew long and sharp. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.\n\nSpecial claws can develop at any point in a changeling's life, allowing you to select this feat anytime you would gain an ancestry feat, but once you've selected it, you can't retrain out of it.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.",
+    "economy": "none",
+    "trigger": ""
+}

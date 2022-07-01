@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=79",
+    "name": "Disrupt Undead",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Damage undead with positive energy.",
+    "heightenable": true,
+    "description": "You lance the target with energy. You deal 1d6 positive damage plus your spellcasting ability modifier. The target must attempt a basic Fortitude save. If the creature critically fails the save, it is also enfeebled 1 for 1 round.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 undead creature",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1905",
+    "name": "Incredible Beastmaster Companion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Mature Beastmaster Companion",
+    "summary": "Your mature animal companions continue to grow and develop.",
+    "description": "Your mature animal companions continue to grow and develop. They each become nimble or savage animal companions (your choice, choose for each companion, including those that become mature after you take this feat), gaining additional capabilities determined by the type of companion.Incredible Beastmaster Companion Leads To...\n\nSpecialized Beastmaster CompanionTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=150",
+    "name": "Spirits' Interference",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Divine",
+        "Instinct",
+        "Necromancy",
+        "Rage"
+    ],
+    "level": 6,
+    "prereq": "Spirit Instinct",
+    "summary": "You call forth protective spirits to ward off ranged attacks.",
+    "description": "You call forth protective spirits to ward off ranged attacks. Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 flat check or the attack misses with no effect.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nInstinct: Instinct abilities require a specific instinct; you lose access if you perform acts anathema to your instinct.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Rage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

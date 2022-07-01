@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=508",
+    "name": "Faerie Dust",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Enchantment",
+        "Mental",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You sprinkle magical dust in the spell’s area, making those within easier to trick.",
+    "heightenable": true,
+    "description": "You sprinkle magical dust in the spell's area, making those within easier to trick. Each creature in the area must attempt a Will save. For each additional action you use Casting the Spell, the burst's radius increases by 5 feet.\n\nSuccess The creature is unaffected.\nFailure The creature can't use reactions and takes a –2 status penalty to Perception checks and Will saves.\nCritical Failure As failure, and the creature also takes a –1 status penalty to Perception checks and Will saves for 1 minute.\n\n------\n\nHeightened (+3) The initial radius increases by 5 feet.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "1 round",
+    "saving": "Will"
+}

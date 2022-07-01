@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=587",
+    "name": "Defensive Roll",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious.",
+    "description": "Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious. You take half damage from the triggering attack.",
+    "economy": "free_action",
+    "trigger": "A physical attack would reduce you to 0 Hit Points."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3393",
+    "name": "Directed Poison",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Cloudkill",
+    "summary": "When you cast cloudkill, you can modify it to be under your control.",
+    "description": "When you cast cloudkill, modify its duration to be sustained up to 1 minute, and modify its standard effect to include the following: The cloud doesn't move away from you each round. Once per round when you Sustain the Spell, you can move the cloud 10 feet in the direction of your choice.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

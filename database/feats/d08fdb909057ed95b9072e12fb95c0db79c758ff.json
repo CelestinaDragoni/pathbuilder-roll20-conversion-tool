@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2585",
+    "name": "Janni Hospitality",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Suli"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You can use magic to show others desert hospitality.",
+    "description": "You can use magic to show others desert hospitality. You can cast 2nd-level create food once per day and create water twice per day as arcane innate spells.Traits\n\nSuli: Sulis are planar scions descended from jann.",
+    "economy": "none",
+    "trigger": ""
+}

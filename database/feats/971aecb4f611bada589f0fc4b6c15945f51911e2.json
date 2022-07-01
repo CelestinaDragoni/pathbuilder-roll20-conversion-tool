@@ -1,0 +1,20 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3485",
+    "name": "Sepulchral Sublimation",
+    "source": "Book of the Dead",
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Concentrate",
+        "Metamagic",
+        "Necromancy",
+        "Oracle",
+        "Wizard"
+    ],
+    "level": 14,
+    "prereq": "Ability To Create Or Control Undead; Cleric With A Negative Font, Oracle Of Bones, Or Necromancer Wizard",
+    "summary": "You repurpose the negative energy that flows through your minions at a moment's notice.",
+    "description": "You repurpose the negative energy that flows through your minions at a moment's notice. Instantly destroy one undead minion within 60 feet that is permanently under your control. If your next action is to cast a necromancy spell from a spell slot, you don't expend the slot. The spell's level must be half the destroyed minion's level or lower and the spell can't have a duration.\n\nSpecial This feat has the trait matching your spellcasting tradition.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "1-action",
+    "trigger": ""
+}

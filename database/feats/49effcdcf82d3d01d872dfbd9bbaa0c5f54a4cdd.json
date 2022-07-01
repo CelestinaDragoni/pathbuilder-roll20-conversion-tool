@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1678",
+    "name": "Sacrifice Armor",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "With divine awareness, you twist your body to lessen the impact of an attack.",
+    "description": "With divine awareness, you twist your body to lessen the impact of an attack. Reduce the damage you take by an amount equal to twice your armor's level. Your armor becomes broken, reducing its Hit Points to its Broken Threshold. If your armor was already damaged, it is destroyed instead.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Sacrifice Armor Leads To...Greater Interpose",
+    "economy": "reaction",
+    "trigger": "You are hit by a Strike that deals physical damage."
+}

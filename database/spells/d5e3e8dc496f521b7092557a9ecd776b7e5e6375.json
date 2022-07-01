@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=134",
+    "name": "Ghoulish Cravings",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Disease",
+        "Evil",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Infect a creature with ghoul fever.",
+    "heightenable": false,
+    "description": "You touch the target to afflict it with ghoul fever, infesting it with hunger and a steadily decreasing connection to positive energy; the target must attempt a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target is afflicted with ghoul fever at stage 1.\nFailure The target is afflicted with ghoul fever at stage 2.\nCritical Failure The target is afflicted with ghoul fever at stage 3.\n\nGhoul Fever (disease); Level 3; Stage 1 carrier with no ill effects (1 day); Stage 2 3d8 negative damage and the creature regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 3d8 negative damage and the creature gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 the creature dies and rises as a ghoul at the next midnight",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": "FortitudeYou touch the target to afflict it with ghoul fever, infesting it with hunger and a steadily decreasing connection to positive energy"
+}

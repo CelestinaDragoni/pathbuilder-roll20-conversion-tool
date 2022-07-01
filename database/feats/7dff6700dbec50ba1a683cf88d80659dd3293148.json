@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1997",
+    "name": "Analyze Idiolect",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 6,
+    "prereq": "Linguist Dedication; Expert In Deception And Expert In Society",
+    "summary": "You break down a specific individual's idiolect, memorizing their speech mannerisms and habits.",
+    "description": "You break down a specific individual's idiolect, memorizing their speech mannerisms and habits. If you interact with someone for at least 10 minutes, when you later attempt to Impersonate that individual, you gain a +4 circumstance bonus to your Deception checks and DCs. Due to the intense character study required, you can't remember more than one idiolect at a time.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

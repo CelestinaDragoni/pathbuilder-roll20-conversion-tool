@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1329",
+    "name": "Slag May",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling",
+        "Lineage"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your mother was an annis hag, known for physical prowess, and you have one violet or steel-gray eye.",
+    "description": "Your mother was an annis hag, known for physical prowess, and you have one violet or steel-gray eye. You have thick, sturdy claws made of cold iron that grow naturally from your body. You gain a claw unarmed attack that deals 1d6 slashing damage. Your claws are in the brawling group, have the unarmed and grapple traits, and are cold iron.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.\n\nLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.",
+    "economy": "none",
+    "trigger": ""
+}

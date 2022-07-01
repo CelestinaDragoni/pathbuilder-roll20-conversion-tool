@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2838",
+    "name": "Dig Up Secrets",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Shisk"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You are an endless well of knowledge and can remember several vital pieces of information at once.",
+    "description": "You are an endless well of knowledge and can remember several vital pieces of information at once. You can cast hypercognition as an innate occult spell once per day.Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
+    "economy": "none",
+    "trigger": ""
+}

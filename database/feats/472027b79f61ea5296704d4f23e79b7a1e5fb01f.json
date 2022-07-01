@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=78",
+    "name": "Unconventional Expertise",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 13,
+    "prereq": "Unconventional Weaponry; Trained In The Weapon You Chose For Unconventional Weaponry",
+    "summary": "You’ve continued to advance your powers using your unconventional weapon.",
+    "description": "You’ve continued to advance your powers using your unconventional weapon. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in the weapon you chose for Unconventional Weaponry.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

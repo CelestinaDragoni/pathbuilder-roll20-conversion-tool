@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=306",
+    "name": "Echoing Channel",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "When you pull forth positive or negative energy, you also create a smaller pocket of that energy.",
+    "description": "When you pull forth positive or negative energy, you also create a smaller pocket of that energy. If the next action you use is to cast a 2-action harm or heal to heal or damage a single creature, choose one additional creature adjacent to either you or the target. Target that creature with a 1-action version of the same spell. This spell is the same level as the 2-action harm or heal you cast and doesn’t cost another spell slot.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3354",
+    "name": "Reanimating Spark",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "The magic that animates you strains to keep you alive.",
+    "description": "The magic that animates you strains to keep you alive. You're restored to 1 Hit Point, lose the dying and unconscious conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "none",
+    "trigger": "You have the dying condition and are about to attempt a recovery check."
+}

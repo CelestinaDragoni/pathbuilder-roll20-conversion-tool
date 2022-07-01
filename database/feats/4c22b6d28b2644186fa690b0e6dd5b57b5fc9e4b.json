@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=35",
+    "name": "First World Adept",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 9,
+    "prereq": "At Least One Primal Innate Spell",
+    "summary": "Over time your fey magic has grown stronger.",
+    "description": "Over time your fey magic has grown stronger. You gain faerie fire and invisibility as 2nd-level primal innate spells. You can cast each of these primal innate spells once per day.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "none",
+    "trigger": ""
+}

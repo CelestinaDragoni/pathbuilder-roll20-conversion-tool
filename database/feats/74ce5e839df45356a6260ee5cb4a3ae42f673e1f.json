@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1965",
+    "name": "Expert Eldritch Archer Spellcasting",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Basic Eldritch Archer Spellcasting",
+    "summary": "You gain the expert spellcasting benefits.",
+    "description": "You gain the expert spellcasting benefits.Expert Eldritch Archer Spellcasting Leads To...\n\nMaster Eldritch Archer SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

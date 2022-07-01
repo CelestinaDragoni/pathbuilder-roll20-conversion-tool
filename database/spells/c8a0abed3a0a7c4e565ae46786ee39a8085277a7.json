@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1108",
+    "name": "For Love, For Lightning",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "When you Cast the Spell, you plunge the required weapon into the ground, where it crackles with crimson lightning.",
+    "heightenable": true,
+    "description": "When you Cast the Spell, you plunge the required weapon into the ground, where it crackles with crimson lightning. When you Cast the Spell, and the first time during each of your subsequent turns that you Sustain the spell, the crimson lightning arcs. When the weapon arcs, one enemy of your choice within 30 feet of the weapon takes 3d12 electricity damage (basic Reflex save). If you Interact to draw the weapon from the ground, the spell ends.\n\n------\n\nHeightened (+2)  The damage increases by 1d12.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained for up to 1 minute",
+    "saving": ""
+}

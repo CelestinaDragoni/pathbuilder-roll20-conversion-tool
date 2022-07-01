@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=808",
+    "name": "Veil of Dreams",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Enchantment",
+        "Hex",
+        "Mental",
+        "Witch"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You draw the target into a drowsy state, causing daydreams and sluggishness.",
+    "heightenable": false,
+    "description": "You draw the target into a drowsy state, causing daydreams and sluggishness. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target takes a –1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to –2 for Will saves against sleep effects.\nFailure As success, and any time the target uses a concentrate action, it must succeed at a DC 5 flat check or the action is disrupted.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

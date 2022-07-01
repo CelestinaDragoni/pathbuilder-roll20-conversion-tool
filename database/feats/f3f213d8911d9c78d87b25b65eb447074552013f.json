@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3164",
+    "name": "Warning Shot",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 2,
+    "prereq": "Trained In Intimidation",
+    "summary": "Who needs words when the roar of a gun is so much more succinct?",
+    "description": "Who needs words when the roar of a gun is so much more succinct? You attempt to Demoralize a foe by firing your weapon into the air, using the firearm's maximum range rather than the usual range of 30 feet. This check doesn't take the –4 circumstance penalty if the target doesn't share a language with you.",
+    "economy": "1-action",
+    "trigger": ""
+}

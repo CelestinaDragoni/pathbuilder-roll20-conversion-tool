@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=570",
+    "name": "Brand the Impenitent",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Curse"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You brand the target with an ethereal copy of your deity’s religious symbol.",
+    "heightenable": false,
+    "description": "You brand the target with an ethereal copy of your deity’s religious symbol. This brand can’t be hidden, but it is visible only to followers of your faith, who see it as clearly as a lit torch. Followers of your faith ignore the target’s concealed condition, if any, and the target gains a –1 status penalty to AC against attacks by followers of your faith. If the target is a follower of your deity in good standing, the spell fails.\n\nCritical Success The target is unaffected.\nSuccess The spell lasts for 1 round.\nFailure The spell lasts for 1 minute.\nCritical Failure The spell has an unlimited duration.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Fortitude"
+}

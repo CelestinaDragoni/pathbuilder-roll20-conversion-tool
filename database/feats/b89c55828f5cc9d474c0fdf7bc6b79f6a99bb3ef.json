@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=436",
+    "name": "Tiger Stance",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk",
+        "Stance"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You enter the stance of a tiger and can make tiger claw attacks.",
+    "description": "You enter the stance of a tiger and can make tiger claw attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits. On a critical success with your tiger claws, if you deal damage, the target takes 1d4 persistent bleed damage.\n\n As long as your Speed is at least 20 feet while in Tiger Stance, you can Step 10 feet.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Tiger Stance Leads To...Tiger SlashTraitsStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

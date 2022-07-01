@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=453",
+    "name": "Splash of Art",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "A deluge of colorful illusory paint, tools, or other symbols of art and artisanship drift down in the area.",
+    "heightenable": false,
+    "description": "A deluge of colorful illusory paint, tools, or other symbols of art and artisanship drift down in the area. Roll 1d4 to determine the color of the illusion. Each creature in the area must attempt a Will save. A creature is unaffected on a success. On a failure or critical failure, the creature takes the results listed on the table relevant to the color.Splash of Art1d4ColorFailureCritical Failure1WhiteDazzled 1 roundDazzled 1 minute2RedEnfeebled 1 for 1 roundEnfeebled 2 for 1 round3YellowFrightened 1Frightened 24BlueClumsy 1 for 1 roundClumsy 2 for 1 round",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "varies",
+    "saving": "Will"
+}

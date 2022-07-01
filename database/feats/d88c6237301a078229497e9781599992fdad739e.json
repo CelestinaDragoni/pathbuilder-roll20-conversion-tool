@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3493",
+    "name": "Guardian Ghosts",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Divine",
+        "Necromancy"
+    ],
+    "level": 8,
+    "prereq": "Undead Master Dedication",
+    "summary": "You magically divert some of the harm from an incoming attack away from yourself, forcing your undead companion to take it in your stead.",
+    "description": "You magically divert some of the harm from an incoming attack away from yourself, forcing your undead companion to take it in your stead. Reduce the damage you take from the triggering Strike by 2 + your level. Your adjacent undead companion loses a number of Hit Points equal to the amount of damage reduced. If you have more than one adjacent undead companion, you choose which one loses Hit Points. You can't divert the damage to a temporary fragment from Their Master's Call.Traits\n\nArchetype: This feat belongs to an archetype.\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.",
+    "economy": "reaction",
+    "trigger": "You would take damage from a Strike while one of your undead companions is adjacent to you."
+}

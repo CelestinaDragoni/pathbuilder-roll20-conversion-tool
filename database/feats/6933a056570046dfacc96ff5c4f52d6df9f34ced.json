@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1878",
+    "name": "Tumbling Opportunist",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Attack"
+    ],
+    "level": 10,
+    "prereq": "Acrobat Dedication",
+    "summary": "You use a burst of stamina to perform a breathtaking feat of Acrobatics as you speed through a foe's space, leaving your foe lying flat on their back.",
+    "description": "You use a burst of stamina to perform a breathtaking feat of Acrobatics as you speed through a foe's space, leaving your foe lying flat on their back. You attempt to Trip the enemy whose space you moved through. You can use Acrobatics instead of Athletics for this check.Traits\n\nArchetype: This feat belongs to an archetype.\n\nAttack: An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty.",
+    "economy": "free_action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1955",
+    "name": "Dual Onslaught",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Dual-weapon Warrior Dedication",
+    "summary": "When you lash out with both weapons, you leave no room for the target to escape your attack.",
+    "description": "When you lash out with both weapons, you leave no room for the target to escape your attack. When you use Double Slice, if you miss with both Strikes, choose one of the two weapons and apply the effects of a hit with that weapon. You can't choose a weapon if your attack roll with that weapon was a critical failure, meaning you still miss entirely if both attack rolls were critical failures.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

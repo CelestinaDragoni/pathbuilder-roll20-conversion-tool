@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2306",
+    "name": "Water Dancer",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You glide through the water with graceful ease.",
+    "description": "You glide through the water with graceful ease. When in an aquatic or swamp environment, you ignore the effects of non-magical difficult terrain. In addition, swimming up or down isn't difficult terrain for you.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

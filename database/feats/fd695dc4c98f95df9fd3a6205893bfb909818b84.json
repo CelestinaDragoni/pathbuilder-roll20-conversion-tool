@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3506",
+    "name": "Swift Leap",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Ghoul Dedication",
+    "summary": "Your undead physiology allows you to leap quickly toward or away from your opponent.",
+    "description": "Your undead physiology allows you to leap quickly toward or away from your opponent. You Leap. This movement doesn't trigger reactions.\n\n If you are satiated, you can choose to end your satiation to instead High Jump or Long Jump without triggering reactions, as you take a quick, enormous jump before any foe can react to your movement.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

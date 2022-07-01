@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2336",
+    "name": "Favorable Winds",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Air",
+        "Changeling",
+        "Concentrate",
+        "Occult"
+    ],
+    "level": 5,
+    "prereq": "Virga May",
+    "summary": "You wrap a shell of favorable wind around a weapon you wield.",
+    "description": "You wrap a shell of favorable wind around a weapon you wield. On your next Strike with a ranged weapon before the start of your next turn, you don't take circumstance penalties on the attack roll due to wind. In addition, if that weapon has a range increment of 10 feet or less, increase its range increment by 10 feet for that Strike.Traits\n\nAir: Effects with the air trait either manipulate or conjure air. Those that manipulate air have no effect in a vacuum or an area without air. Creatures with this trait consist primarily of air or have a magical connection to that element. Planes with this trait consist mostly of open spaces and air with various degrees of turbulence, though they also contain rare islands of floating stone and other elements and energies.\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.Concentrate: An action with this trait requires a degree of mental concentration and discipline.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.",
+    "economy": "1-action",
+    "trigger": ""
+}

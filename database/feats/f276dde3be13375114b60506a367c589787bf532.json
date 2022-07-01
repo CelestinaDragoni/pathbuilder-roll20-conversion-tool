@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=234",
+    "name": "Quick Block",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You can block with your shield instinctively.",
+    "description": "You can block with your shield instinctively. At the start of each of your turns, you gain an additional reaction that you can use only to perform a Shield Block.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=152",
+    "name": "Horrid Wilting",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Pull moisture from creatures, damaging them.",
+    "heightenable": true,
+    "description": "You pull the moisture from the targets' bodies, dealing 10d10 negative damage. Creatures made of water (such as water elementals) and plant creatures use the outcome for one degree of success worse than the result of their saving throw. Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to horrid wilting.\n\n------\n\nHeightened (+1) The damage increases by 1d10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "any number of living creatures",
+    "duration": "",
+    "saving": ""
+}

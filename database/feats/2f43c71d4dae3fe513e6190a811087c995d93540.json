@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=345",
+    "name": "Timeless Nature",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "With primal magic sustaining you, you cease aging.",
+    "description": "With primal magic sustaining you, you cease aging. The overflowing primal energy gives you a +2 status bonus to saves against diseases and primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

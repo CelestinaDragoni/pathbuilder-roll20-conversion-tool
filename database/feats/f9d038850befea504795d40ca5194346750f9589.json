@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2440",
+    "name": "Wind God's Fan",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 9,
+    "prereq": "Tengu Feather Fan",
+    "summary": "Your fan can stir up even more powerful winds.",
+    "description": "Your fan can stir up even more powerful winds. You can Activate your tengu feather fan one additional time per day. Add the 3rd-level wall of wind spell to the spells contained within your fan.Wind God's Fan Leads To...\n\nThunder God's FanTraitsTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

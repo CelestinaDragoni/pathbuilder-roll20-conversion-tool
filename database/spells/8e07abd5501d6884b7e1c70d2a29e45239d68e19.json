@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=291",
+    "name": "Soothe",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Healing",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Heal the target and bolster them against mental attacks.",
+    "heightenable": true,
+    "description": "You grace the target's mind, boosting its mental defenses and healing its wounds. The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against mental effects for the duration.\n\n------\n\nHeightened (+1) The amount of healing increases by 1d10+4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 willing living creature",
+    "duration": "1 minute",
+    "saving": ""
+}

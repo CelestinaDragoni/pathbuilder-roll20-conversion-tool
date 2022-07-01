@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2877",
+    "name": "Arcane Shroud",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 14,
+    "prereq": "Arcane Cascade, Spellstrike",
+    "summary": "Your spell has a powerful aftereffect, briefly granting you a certain spell depending on the spell you cast.",
+    "description": "Your spell has a powerful aftereffect, briefly granting you a certain spell depending on the spell you cast. You use Arcane Cascade and are subject to an additional aftereffect spell depending on the school of your most recent spell. This aftereffect spell's duration lasts until the end of your next turn or its normal duration, whichever is longer. Using Arcane Shroud again ends any existing spell you gained from Arcane Shroud. Abjuration stoneskinConjuration blinkDivination see invisibilityEnchantment heroismEvocation fire shieldIllusion invisibility (ends after a hostile action, as normal)Necromancy false lifeTransmutation fleet step",
+    "economy": "1-action",
+    "trigger": ""
+}

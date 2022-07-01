@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=690",
+    "name": "Advanced Devotion",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Basic Devotion",
+    "summary": "You gain one champion feat.",
+    "description": "You gain one champion feat. For the purpose of meeting its prerequisites, your champion level is equal to half your character level.\n\nSpecial You can select this feat more than once. Each time you select it, you gain another champion feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

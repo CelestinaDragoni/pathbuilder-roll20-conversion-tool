@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=385",
+    "name": "Shatter Defenses",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Press"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "Your offense exploits your enemy’s fear. Make a melee Strike against a frightened creature.",
+    "description": "Your offense exploits your enemy's fear. Make a melee Strike against a frightened creature. If you hit and deal damage, the target becomes flat-footed until its frightened condition ends. If the target was already flat-footed to you when you damaged it with this Strike, it can't reduce its frightened value below 1 until the start of your next turn.Traits\n\nPress: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the Ready activity.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=71",
+    "name": "Dimensional Lock",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Prevent teleportation and planar travel.",
+    "heightenable": false,
+    "description": "You create a shimmering barrier that attempts to counteract teleportation effects and planar travel into or out of the area, including items that allow access to extradimensional spaces (such as a bag of holding). Dimensional lock tries to counteract any attempt to summon a creature into the area but doesn't stop the creature from departing when the summoning ends.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 day",
+    "saving": ""
+}

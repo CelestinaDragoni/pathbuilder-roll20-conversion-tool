@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1988",
+    "name": "Acclimatization",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Horizon Walker Dedication",
+    "summary": "Your time spent in the hostile parts of the world has inured you to extreme climates.",
+    "description": "Your time spent in the hostile parts of the world has inured you to extreme climates. In your favored terrain, you gain resistance equal to half your level to all environmental damage and are affected by temperature effects as though they were one step less severe (incredible heat or cold becomes extreme, extreme heat or cold becomes severe, and so on). When other creatures Follow the Expert with you as a guide in your favored terrain, they too treat temperature effects as one step less severe.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

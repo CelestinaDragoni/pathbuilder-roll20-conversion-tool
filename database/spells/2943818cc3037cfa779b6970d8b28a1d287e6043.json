@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=277",
+    "name": "Shape Wood",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Plant",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Reshape unworked wood as you choose.",
+    "heightenable": false,
+    "description": "You shape the wood into a rough shape of your choice. The shaping power is too crude to produce with intricate parts, fine details, moving pieces, or the like. You cannot use this spell to enhance the value of the wooden object you are shaping.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "an unworked piece of wood up to 20 cubic feet in volume",
+    "duration": "",
+    "saving": ""
+}

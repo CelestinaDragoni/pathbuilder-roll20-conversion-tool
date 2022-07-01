@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2475",
+    "name": "Revivification Protocal",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Android"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "Your nanites are programmed to automatically revive you.",
+    "description": "Your nanites are programmed to automatically revive you. You're restored to 1 Hit Point, lose the dying and unconscious conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
+    "economy": "free_action",
+    "trigger": "You have the dying condition and are about to attempt a recovery check."
+}

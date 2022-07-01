@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=37",
+    "name": "Gnome Weapon Expertise",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 13,
+    "prereq": "Gnome Weapon Familiarity",
+    "summary": "Your gnome affinity blends with your class training, granting you great skill with gnome weapons.",
+    "description": "Your gnome affinity blends with your class training, granting you great skill with gnome weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the glaive, kukri, and all gnome weapons in which you are trained.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "none",
+    "trigger": ""
+}

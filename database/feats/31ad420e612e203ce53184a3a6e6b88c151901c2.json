@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1818",
+    "name": "Safeguarded Spell",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Metamagic",
+        "Sorcerer"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You bring the magical wavelengths of your spell into sync with the ones produced by your own body.",
+    "description": "You bring the magical wavelengths of your spell into sync with the ones produced by your own body. If the next action you take is to Cast a Spell with an area, you aren't affected by the spell even if you are within the area.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1225",
+    "name": "Steadfast Ally",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Shoony"
+    ],
+    "level": 13,
+    "prereq": "Loyal Empath",
+    "summary": "Your presence alone is enough to provide your allies with emotional support.",
+    "description": "Your presence alone is enough to provide your allies with emotional support. You can use the Aid reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.Traits\n\nShoony: Note from Nethys: no description was provided for this trait",
+    "economy": "none",
+    "trigger": ""
+}

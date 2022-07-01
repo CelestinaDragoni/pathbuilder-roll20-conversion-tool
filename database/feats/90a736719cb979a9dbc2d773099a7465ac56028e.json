@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2575",
+    "name": "One with Earth",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oread"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You've learned to harness your connection to the earth to travel through it.",
+    "description": "You've learned to harness your connection to the earth to travel through it. You gain a burrow Speed of 15 feet.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3603",
+    "name": "Repulse the Wicken",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Lastwall Sentry Dedication",
+    "summary": "You use your foe's failure as an opening to push them away.",
+    "description": "You use your foe's failure as an opening to push them away. You attempt to Shove the undead.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An undead within your reach critically fails an attack roll targeting you."
+}

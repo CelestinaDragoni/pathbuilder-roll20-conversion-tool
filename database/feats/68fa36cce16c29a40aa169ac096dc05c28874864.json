@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1084",
+    "name": "Gaze of Veracity",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Hellknight Signifer Dedication; Ability To Cast Focus Spells",
+    "summary": "You can channel your mask’s power to pierce through lies and see the truth in any situation.",
+    "description": "You can channel your mask’s power to pierce through lies and see the truth in any situation. Increase the number of Focus Points in your focus pool by 1. While wearing your mask, you can cast the glimpse the truth cleric domain spell as a divine focus spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

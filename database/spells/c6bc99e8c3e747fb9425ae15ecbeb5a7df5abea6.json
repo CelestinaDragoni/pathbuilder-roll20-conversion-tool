@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=348",
+    "name": "Undetectable Alignment",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Make a creature or object appear neutral to alignment detection.",
+    "heightenable": false,
+    "description": "You shroud a creature or object in wards that hide its alignment. The target appears to be neutral to all effects that would detect its alignment.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature or object",
+    "duration": "until the next time you make your daily preparations",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3002",
+    "name": "Terrain Shield",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Geomancer Dedication; Master In Nature",
+    "summary": "You're so attuned to the land that it rises up to protect you from a potentially fatal blow in a seeming coincidence.",
+    "description": "You're so attuned to the land that it rises up to protect you from a potentially fatal blow in a seeming coincidence. For instance, a branch suddenly falls from a nearby tree to take the brunt of a sword swing or a surprising change of current disrupts an enemy's attack. You gain resistance to physical damage equal to double your level against the triggering Strike.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": "A Strike would damage you."
+}

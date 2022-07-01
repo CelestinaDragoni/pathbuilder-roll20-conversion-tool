@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=526",
+    "name": "Double Prey",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You can focus on two foes at once, hunting both of them down.",
+    "description": "You can focus on two foes at once, hunting both of them down. When you use the Hunt Prey action, you can pick two creatures as your prey.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Double Prey Leads To...Shared Prey",
+    "economy": "none",
+    "trigger": ""
+}

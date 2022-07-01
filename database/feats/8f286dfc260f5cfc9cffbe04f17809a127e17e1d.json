@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3445",
+    "name": "Mature Megafauna Companion",
+    "source": "Pathfinder #177",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Mammoth Lord Dedication",
+    "summary": "You've raised your megafauna companion to be a more powerful force on the battlefield than most of its kind.",
+    "description": "You've raised your megafauna companion to be a more powerful force on the battlefield than most of its kind. The companion you gained through the Mammoth Lord Dedication feat becomes a mature animal companion, granting it additional capabilities. During an encounter, even if you don't use the Command an Animal action, your megafauna animal companion can still use 1 action on your turn to Stride or Strike. Mature Megafauna Companion Leads To...\n\nIncredible Megafauna CompanionTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

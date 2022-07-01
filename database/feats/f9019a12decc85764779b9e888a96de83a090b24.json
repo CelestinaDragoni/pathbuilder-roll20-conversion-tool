@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=174",
+    "name": "Brutal Critical",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "Your critical hits are particularly devastating.",
+    "description": "Your critical hits are particularly devastating. On a critical hit with a melee Strike, add one extra damage die. This is in addition to any extra dice you gain if the weapon is deadly or fatal. The target also takes persistent bleed damage equal to two damage dice.",
+    "economy": "none",
+    "trigger": ""
+}

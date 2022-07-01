@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2191",
+    "name": "Uncanny Suction",
+    "source": "The Slithering",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Oozemorph Dedication",
+    "summary": "Your limbs produce strange, sucker-like growths that allow you to adhere to walls, objects, and most other surfaces.",
+    "description": "Your limbs produce strange, sucker-like growths that allow you to adhere to walls, objects, and most other surfaces. You gain a climb Speed equal to your half your land Speed (minimum 5 feet). If you have the Quick Climber feat, your climb Speed is equal to your land Speed. In addition, you gain a +2 circumstance bonus to your Reflex DC to avoid being Disarmed.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

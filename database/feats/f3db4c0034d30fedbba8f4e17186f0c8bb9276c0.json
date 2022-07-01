@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1693",
+    "name": "Rejuvenating Touch",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 18,
+    "prereq": "Devotion Spell (Lay On Hands)",
+    "summary": "Your healing energies linger after you cast, providing continual benefits.",
+    "description": "Your healing energies linger after you cast, providing continual benefits. An ally that recovers Hit Points from your lay on hands gains 10 temporary Hit Points at the start of their turn during each of the next 10 rounds. This effect ends if the ally is knocked unconscious.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

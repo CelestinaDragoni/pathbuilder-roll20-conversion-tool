@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=410",
+    "name": "Incredible Ricochet",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Fighter",
+        "Press"
+    ],
+    "level": 12,
+    "prereq": "Incredible Aim",
+    "summary": "After your first shot singles out your opponent's position, you direct another that ricochets around obstacles and strikes unerringly.",
+    "description": "After your first shot singles out your opponent's position, you direct another that ricochets around obstacles and strikes unerringly. Make a ranged weapon Strike against a creature you previously attacked this turn. You ignore the target's concealed condition and all cover.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nPress: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the Ready activity.",
+    "economy": "1-action",
+    "trigger": ""
+}

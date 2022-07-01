@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=188",
+    "name": "Inspire Defense",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 4,
+    "prereq": "Maestro Muse",
+    "summary": "You learn to protect yourself and your allies with your performance.",
+    "description": "You learn the inspire defense composition cantrip, which protects you and allies.Inspire Defense Leads To...\n\nDefensive Coordination",
+    "economy": "none",
+    "trigger": ""
+}

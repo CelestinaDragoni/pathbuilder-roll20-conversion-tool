@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2187",
+    "name": "Hideous Ululation",
+    "source": "The Slithering",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Oozemorph Dedication; Trained In Performance",
+    "summary": "Your throat has multiple separate chambers that can give your voice an eerie echo.",
+    "description": "Your throat has multiple separate chambers that can give your voice an eerie echo. You can be clearly heard at distances of up to 300 feet regardless of ambient sound, although your voice doesn't penetrate a magical silence effect.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

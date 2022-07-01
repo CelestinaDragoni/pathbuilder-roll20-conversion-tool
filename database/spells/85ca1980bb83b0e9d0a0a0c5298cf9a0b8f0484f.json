@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=713",
+    "name": "Scintillating Safeguard",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Reactively protect multiple creatures from harm with a magic barrier.",
+    "heightenable": true,
+    "description": "A sparkling magical barrier envelops each target, shielding them against the triggering effect. Choose one type of physical or energy damage the triggering effect deals. Each target gains resistance 10 against that damage type for the triggering effect. The resistance applies only against the initial damage, not against any persistent damage or other lingering effects of the effect.\n\n------\n\nHeightened (+1) The resistance increases by 1.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "An effect would deal physical or energy damage to you or a creature in range.",
+    "range": "30 feet",
+    "target": "up to 5 willing creatures who would be harmed by the triggering effect",
+    "duration": "",
+    "saving": ""
+}

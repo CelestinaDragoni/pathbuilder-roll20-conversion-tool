@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=70",
+    "name": "Dimensional Anchor",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Keep a creature from teleporting or traveling to other planes.",
+    "heightenable": false,
+    "description": "You interfere with the target's ability to teleport and travel between dimensions. Dimensional anchor attempts to counteract any teleportation effect, or any effect that would move the target to a different plane. The duration is determined by the target's Will save.\n\nCritical Success The target is unaffected.\nSuccess The effect's duration is 1 minute.\nFailure The effect's duration is 10 minutes.\nCritical Failure The effect's duration is 1 hour.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

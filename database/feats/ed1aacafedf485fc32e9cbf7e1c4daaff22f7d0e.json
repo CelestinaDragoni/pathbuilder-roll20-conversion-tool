@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3464",
+    "name": "Positive Luminance",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Hallowed Necromancer Dedication",
+    "summary": "You learn how to create a luminous reservoir of positive energy that you can use to punish undead who dare attack you.",
+    "description": "You learn how to create a luminous reservoir of positive energy that you can use to punish undead who dare attack you. You gain the domain spell positive luminance. It costs 1 Focus Point to cast a focus spell. This feat grants a focus pool of 1 Focus Point that you can recover using the Refocus activity.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

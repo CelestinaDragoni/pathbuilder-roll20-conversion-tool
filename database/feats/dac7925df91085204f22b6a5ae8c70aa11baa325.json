@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3478",
+    "name": "Slayer's Strike",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish",
+        "Necromancy",
+        "Occult",
+        "Positive"
+    ],
+    "level": 4,
+    "prereq": "Undead Slayer Dedication",
+    "summary": "You've dedicated yourself to studying ancient techniques and memorized minor prayers against undead to swiftly dispatch them.",
+    "description": "You've dedicated yourself to studying ancient techniques and memorized minor prayers against undead to swiftly dispatch them. Make a Strike against a creature you know is undead. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal one extra die of positive damage, with the same die size as the weapon or unarmed attack you used. Any further Strikes you make against the same creature before the start of your next turn using the same weapon or unarmed attack deal extra positive damage equal to the number of weapon dice. As normal, the positive damage harms only undead and creatures with negative healing.\n\n If you're at least 10th level, increase this to two extra dice, and if you're at least 18th level, increase it to three extra dice.Slayer's Strike Leads To...\n\nSlayer's BlessingTraitsArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.Positive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
+    "economy": "2-action",
+    "trigger": ""
+}

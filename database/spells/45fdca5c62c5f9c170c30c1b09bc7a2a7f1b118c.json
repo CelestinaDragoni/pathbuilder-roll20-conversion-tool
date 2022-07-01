@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=350",
+    "name": "Unfettered Pack",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Let creatures avoid environmental hindrances.",
+    "heightenable": true,
+    "description": "You free those who travel alongside you from environmental hindrances. Targets don't take circumstance penalties to Speed from vegetation, rubble, winds, or other properties of the environment, whether or not the environment is magical, and they ignore difficult terrain from such environmental properties.\n\n------\n\nHeightened (9th) The targets also ignore greater difficult terrain from environmental properties.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "up to 10 creatures",
+    "duration": "1 hour",
+    "saving": ""
+}

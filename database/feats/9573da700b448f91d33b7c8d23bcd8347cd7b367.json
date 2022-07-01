@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2507",
+    "name": "Extinguish Light",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Darkness",
+        "Evocation",
+        "Fetchling",
+        "Occult"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You wrap shadow around a single unattended light source within 120 feet that's no larger than a torch.",
+    "description": "You wrap shadow around a single unattended light source within 120 feet that's no larger than a torch. Any non-magical light source you target is automatically extinguished. For magical light sources, attempt a counteract check using your Fortitude or Thievery modifier against the target's DC. Your counteract level is equal to half your level rounded up. Successfully counteracting the light source suppresses its ability to produce light for 1 minute, but not any other effects. If you're in dim light or darkness when you Extinguish Light, its range is 240 feet.Traits\n\nDarkness: Darkness effects extinguish non-magical light in the area, and can counteract less powerful magical light. You must usually target light magic with your darkness magic directly to counteract the light, but some darkness spells automatically attempt to counteract light.\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Fetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.",
+    "economy": "2-action",
+    "trigger": ""
+}

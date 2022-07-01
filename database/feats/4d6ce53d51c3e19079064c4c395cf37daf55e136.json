@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3205",
+    "name": "Hair Trigger",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 16,
+    "prereq": "Initial Deed That Allows You To Interact To Draw A Weapon",
+    "summary": "No one can react faster than you can pull your trigger.",
+    "description": "No one can react faster than you can pull your trigger. When using your initial deed, instead of Interacting to draw a weapon, you can Strike with a firearm or crossbow you're already wielding. If this Strike hits, the target is also flat-footed until the end of your first turn of the encounter.\n\nSpecial If your initial deed allows you to Interact to draw a weapon more than once, this feat allows you to replace one of these Interact actions and use the other one to draw a weapon. You can't replace both Interact actions with Strikes, but you can draw a loaded firearm or crossbow with one of the actions and immediately shoot it with the other.",
+    "economy": "none",
+    "trigger": ""
+}

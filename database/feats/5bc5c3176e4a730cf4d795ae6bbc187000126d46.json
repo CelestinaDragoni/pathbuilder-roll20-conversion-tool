@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2022",
+    "name": "Mauler Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Strength 14",
+    "summary": "You specialize in weapons that require two hands.",
+    "description": "You specialize in weapons that require two hands. You become trained in all simple and martial melee weapons that require two hands to wield or have the two-hand trait. Whenever you gain a class feature that grants you expert or greater proficiency in weapons, you also gain that proficiency rank in these weapons. If you are at least an expert in such a weapon, you gain access to the critical specialization effect with that weapon.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the mauler archetype.Mauler Dedication Leads To...\n\nAvalanche Strike, Clear the Way, Hammer Quake, Shoving SweepTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

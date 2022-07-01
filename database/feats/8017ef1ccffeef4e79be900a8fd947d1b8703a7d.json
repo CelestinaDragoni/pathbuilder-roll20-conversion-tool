@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=972",
+    "name": "Energy Blessed",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 9,
+    "prereq": "Elemental Heart Dwarf Heritage",
+    "summary": "Energy runs through your blood more powerfully.",
+    "description": "Energy runs through your blood more powerfully. When you use Energy Emanation, you can create an emanation of 5 feet, 10 feet, or 15 feet. The damage increases to 6d6 plus an additional 1d6 for every level you have above 9th, instead of 1d6 plus an additional 1d6 for every 2 levels above 1st.Traits\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "none",
+    "trigger": ""
+}

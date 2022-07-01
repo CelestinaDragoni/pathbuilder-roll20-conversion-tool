@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1715",
+    "name": "Deimatic Display",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 8,
+    "prereq": "Trained In Intimidation",
+    "summary": "Imitating animal threat displays, you make yourself appear larger and more imposing.",
+    "description": "Imitating animal threat displays, you make yourself appear larger and more imposing. Roll one Intimidation check to Demoralize and compare the result to the Will DC of each animal, fungus, and plant creature in a 15-foot cone. When you do, Demoralize gains the visual trait, and creatures are affected if they can see you. You don't take a penalty if the creature doesn't understand your language.",
+    "economy": "1-action",
+    "trigger": ""
+}

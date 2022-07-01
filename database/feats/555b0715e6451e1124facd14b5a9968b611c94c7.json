@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=950",
+    "name": "Darkseer",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 5,
+    "prereq": "Gloomseer",
+    "summary": "Zon-Kuthon smiles upon you—even if you curse his name—granting you pitch-black eyes that allow you to see in shadows and darkness.",
+    "description": "Zon-Kuthon smiles upon you—even if you curse his name—granting you pitch-black eyes that allow you to see in shadows and darkness. You gain darkvision.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

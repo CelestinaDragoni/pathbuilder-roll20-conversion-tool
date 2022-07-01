@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=168",
+    "name": "Giant's Lunge",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Concentrate",
+        "Instinct",
+        "Rage"
+    ],
+    "level": 14,
+    "prereq": "Giant Instinct",
+    "summary": "You extend your body and prepare to attack foes outside your normal reach.",
+    "description": "You extend your body and prepare to attack foes outside your normal reach. Until your rage ends, all your melee weapons and unarmed attacks gain reach 10. This doesn’t increase the reach of any weapon or unarmed attack that already has the reach trait, but it does combine with abilities that increase your reach due to increased size, such as Giant’s Stature.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nInstinct: Instinct abilities require a specific instinct; you lose access if you perform acts anathema to your instinct.Rage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

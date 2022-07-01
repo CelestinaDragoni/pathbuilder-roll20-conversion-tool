@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3068",
+    "name": "Ubiquitous Gadgets",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 8,
+    "prereq": "Gadget Specialist",
+    "summary": "They thought you had used up all your devices, but they thought wrong! You have a few more gadgets up your sleeve than others expect.",
+    "description": "They thought you had used up all your devices, but they thought wrong! You have a few more gadgets up your sleeve than others expect. Increase the number of temporary gadgets you can create each day by 2.\n\nSpecial You can select this feat a second time if you are 14th level or higher.",
+    "economy": "none",
+    "trigger": ""
+}

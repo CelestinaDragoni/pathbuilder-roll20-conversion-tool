@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1294",
+    "name": "Rampaging Ferocity",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 17,
+    "prereq": "Orc Ferocity",
+    "summary": "You lash out viciously even as you fend off death.",
+    "description": "You lash out viciously even as you fend off death. Make a single melee Strike. If this Strike brings a foe to 0 Hit Points, this activation of Orc Ferocity doesn't count against its frequency.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "free_action",
+    "trigger": "You use Orc Ferocity"
+}

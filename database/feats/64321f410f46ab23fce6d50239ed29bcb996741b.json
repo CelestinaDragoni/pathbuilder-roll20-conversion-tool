@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3063",
+    "name": "Visual Fidelity",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You've found a way to use a hodgepodge combination of devices to enhance your visual abilities in every situation.",
+    "description": "You've found a way to use a hodgepodge combination of devices to enhance your visual abilities in every situation. You gain darkvision and low-light vision, and you can see invisible creatures and objects as translucent shapes, though these shapes are indistinct enough to be concealed to you.\n\n If an effect would give you the blinded condition, the effect must attempt a counteract check against your class DC, with your counteract level equaling half your level, rounded up. On a failed counteract check, you aren't blinded—your various devices are able to compensate.",
+    "economy": "none",
+    "trigger": ""
+}

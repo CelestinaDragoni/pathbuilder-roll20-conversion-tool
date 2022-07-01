@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=599",
+    "name": "Fallow Field",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "A sickly yellow light fills the area as entropic forces prevent healing.",
+    "heightenable": false,
+    "description": "A sickly yellow light fills the area as entropic forces prevent healing. When a creature within the area would regain Hit Points, such as from a healing effect or an ability like fast healing or regeneration, it must attempt a Will save.\n\nCritical Success The creature regains the full number of Hit Points that would be restored by the healing effect, and is temporarily immune for 1 minute.\nSuccess The creature regains the full number of Hit Points that would be restored.\nFailure The creature regains only half the number of Hit Points that would be restored.\nCritical Failure The creature does not regain Hit Points from the healing effect.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=604",
+    "name": "Oathkeeper's Insignia",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "A magical indicator assures a creature that you’ve upheld your end of a bargain.",
+    "heightenable": true,
+    "description": "A magical indicator assures a creature that you’ve upheld your end of a bargain. When you Cast the Spell, you create a bracelet, flower, or other such trinket. If, while the spell persists, you complete the terms of the promise or deal you made, the trinket fades away with a pleasant chime; if you violate the terms instead, the trinket breaks with a dissonant crash.\n\n------\n\nHeightened (3rd) The duration becomes 1 day.\nHeightened (5th) The duration becomes 1 week.\nHeightened (7th) The duration becomes 1 month.\nHeightened (9th) The duration becomes 1 year.",
+    "economy": "free_action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "You make a promise or deal.",
+    "range": "",
+    "target": "",
+    "duration": "1 hour",
+    "saving": ""
+}

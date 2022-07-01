@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1017",
+    "name": "Thicket of Knives",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Illusory copies of your weapon arm improve your ability to feint.",
+    "heightenable": false,
+    "description": "You create numerous phantom copies of your weapon arm, hiding your true movements and rendering your attacks unpredictable. You gain a +2 status bonus to Deception checks. If you're untrained in Deception, you can use the Feint action anyway, and add your level as your proficiency bonus despite being untrained.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=612",
+    "name": "Occult Evolution",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Occult",
+        "Sorcerer"
+    ],
+    "level": 4,
+    "prereq": "Bloodline That Grants Occult Spells",
+    "summary": "Glimpses of the obscure secrets of the universe loan you power.",
+    "description": "Glimpses of the obscure secrets of the universe loan you power. You become trained in one skill of your choice. Additionally, once per day, you can spend 1 minute to choose one mental occult spell you don’t know and add it to your spell repertoire. You lose this temporary spell the next time you make your daily preparations (though you can use this ability to add it again later).Occult Evolution Leads To...\n\nGreater Mental Evolution, Greater Spiritual EvolutionTraitsOccult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.",
+    "economy": "none",
+    "trigger": ""
+}

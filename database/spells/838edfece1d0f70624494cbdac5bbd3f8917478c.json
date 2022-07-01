@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=294",
+    "name": "Speak with Plants",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Plant"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Communicate with plants and plant creatures.",
+    "heightenable": false,
+    "description": "You can ask questions of and receive answers from plants, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "10 minutes",
+    "saving": ""
+}

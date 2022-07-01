@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=731",
+    "name": "Skill Mastery (Rogue)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Rogue Dedication; Trained In At Least One Skill And Expert In At Least One Skill",
+    "summary": "Increase your proficiency rank in one of your skills from expert to master.",
+    "description": "Increase your proficiency rank in one of your skills from expert to master and in another of your skills from trained to expert. You gain a skill feat associated with one of the skills you chose.\n\nSpecial You can select this feat up to five times.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

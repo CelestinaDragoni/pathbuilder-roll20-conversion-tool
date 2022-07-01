@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1514",
+    "name": "Dueling Parry (Swashbuckler)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You can parry attacks against you with your weapon.",
+    "description": "You can parry attacks against you with your weapon. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirements.Dueling Parry (Swashbuckler) Leads To...\n\nDueling Dance (Swashbuckler)",
+    "economy": "1-action",
+    "trigger": ""
+}

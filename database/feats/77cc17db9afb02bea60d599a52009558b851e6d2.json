@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1995",
+    "name": "Phonetic Training",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Linguist Dedication; Expert In Society",
+    "summary": "You can pronounce and repeat words with near-perfect accuracy even if you don't understand their meaning.",
+    "description": "You can pronounce and repeat words with near-perfect accuracy even if you don't understand their meaning, and you can write them down in a phonetic script that allows you or another creature with Phonetic Training to read it later. Even if the words are in a language with sound you can't pronounce, you can faithfully transcribe them. Memorizing long sequences of words remains just as difficult as it is normally.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

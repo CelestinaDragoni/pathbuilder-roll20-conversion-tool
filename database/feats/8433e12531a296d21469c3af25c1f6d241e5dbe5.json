@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2904",
+    "name": "Reactive Dismissal",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You abruptly dismiss your eidolon to reduce the damage it takes, though this makes summoning it again more difficult.",
+    "description": "You abruptly dismiss your eidolon to reduce the damage it takes, though this makes summoning it again more difficult. Reduce the triggering damage to your eidolon by double your level, and your eidolon unmanifests. You can't Manifest your Eidolon again until after the end of your next turn.",
+    "economy": "reaction",
+    "trigger": "Your eidolon would take damage."
+}

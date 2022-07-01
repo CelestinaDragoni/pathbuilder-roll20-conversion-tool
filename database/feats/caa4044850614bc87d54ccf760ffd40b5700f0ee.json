@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2836",
+    "name": "Inured to the Heat",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Shisk"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your have a love for extreme heat.",
+    "description": "Your have a love for extreme heat. You gain resistance 4 to fire. You treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
+    "economy": "none",
+    "trigger": ""
+}

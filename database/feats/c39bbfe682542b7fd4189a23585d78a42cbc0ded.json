@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=271",
+    "name": "Communal Healing",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Healing",
+        "Positive"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You’re a conduit for positive energy, and as you channel it through you, it heals some of your minor injuries.",
+    "description": "You’re a conduit for positive energy, and as you channel it through you, it heals some of your minor injuries. When you cast the heal spell to heal a single creature other than yourself, you regain Hit Points equal to the spell level of the heal spell.Communal Healing Leads To...\n\nImproved Communal HealingTraitsHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.\n\nPositive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
+    "economy": "none",
+    "trigger": ""
+}

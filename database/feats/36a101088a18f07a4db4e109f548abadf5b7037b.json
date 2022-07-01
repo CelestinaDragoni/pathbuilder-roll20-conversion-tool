@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3417",
+    "name": "Frostbite Runes",
+    "source": "Monsters of Myth",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Evocation",
+        "Primal"
+    ],
+    "level": 12,
+    "prereq": "Pactbound Dedication",
+    "summary": "Thick tattoos, each one a rune fragment from the saumen kar's long-lost language spelling out their pact with their equally lost deity, cover your body and stretch across your limbs, torso, and face.",
+    "description": "Thick tattoos, each one a rune fragment from the saumen kar's long-lost language spelling out their pact with their equally lost deity, cover your body and stretch across your limbs, torso, and face. You gain a +1 status bonus to saving throws against evil and necromancy spells and effects. You can sense the presence of evil undead as a pervasive taste of oily corruption in the air; this is a vague sense that allows you to know when such a creature is within 60 feet of you, though you can't precisely pinpoint their location with this sense. As normal for a vague sense, it can be fooled, but undead might not realize they need to take precautions against it. This sense also extends to living creatures who have the negative healing ability, like dhampir.\n\n You deal an additional 1 cold damage with all Strikes made with an ice-crafted weapon. If you have the Crown of the Saumen Kar feat, you deal an additional 1 cold damage with your unarmed horns Strikes.Frostbite Runes Leads To...\n\nBound in Ice, Curse of the Saumen KarTraitsArchetype: This feat belongs to an archetype.\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,24 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-N57nEGjcUjvQp0M5e6c",
+        "name": "Celestina",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/291904511/ZRgnl3D6j-XwEe0h7j7dFA/med.png?1656361374",
+        "bio": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[]",
+        "controlledby": "-N4y3iwLupsmK2-y9nfZ",
+        "inplayerjournals": "-N4y3iwLupsmK2-y9nfZ",
+        "attribs": [
+            {
+                "name": "version_character",
+                "current": 4.5,
+                "max": "",
+                "id": "-N57nLiEYSLAgWA13OTV"
+            }
+        ],
+        "abilities": []
+    }
+}

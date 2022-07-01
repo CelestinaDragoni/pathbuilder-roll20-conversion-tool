@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2548",
+    "name": "Genie Weapon Flourish",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ifrit",
+        "Oread",
+        "Suli",
+        "Sylph",
+        "Undine"
+    ],
+    "level": 5,
+    "prereq": "Genie Weapon Familiarity",
+    "summary": "Whenever you critically hit using a falchion, ranseur, scimitar, trident, or a geniekin weapon, you apply the weapon's critical specialization effect.",
+    "description": "Whenever you critically hit using a falchion, ranseur, scimitar, trident, or a geniekin weapon, you apply the weapon's critical specialization effect.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.\n\nOread: Oreads are planar scions descended from shaitans.Suli: Sulis are planar scions descended from jann.Sylph: Sylphs are planar scions descended from djinn.Undine: Undines are planar scions descended from marids.",
+    "economy": "none",
+    "trigger": ""
+}

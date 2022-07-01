@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1277",
+    "name": "Grovel",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Concentrate",
+        "Emotion",
+        "Kobold",
+        "Mental"
+    ],
+    "level": 5,
+    "prereq": "Trained In Deception",
+    "summary": "With obsequious words and begging gestures, you convince your foe you're less of a threat.",
+    "description": "With obsequious words and begging gestures, you convince your foe you're less of a threat. You attempt to Feint against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Emotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Kobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "1-action",
+    "trigger": ""
+}

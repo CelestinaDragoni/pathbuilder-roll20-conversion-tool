@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1794",
+    "name": "Watch Your Back",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Fear",
+        "Mental",
+        "Rogue"
+    ],
+    "level": 6,
+    "prereq": "Trained In Intimidation",
+    "summary": "You menace the target, stoking their fears and drawing their attention.",
+    "description": "You menace the target, stoking their fears and drawing their attention. Attempt an Intimidation check against the Will DC of a target within 30 feet. If you succeed, for 1 minute, that target gains a +2 status bonus to Perception checks against you, but they take a –2 status penalty to Will saves against fear effects.Traits\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.\n\nFear: Fear effects evoke the emotion of fear. Effects with this trait always have the mental and emotion traits as well.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "1-action",
+    "trigger": ""
+}

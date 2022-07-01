@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1783",
+    "name": "Strong Arm",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "When you Strike with a thrown weapon, the weapon's range increment increases 10 feet.",
+    "description": "When you Strike with a thrown weapon, the weapon's range increment increases 10 feet.",
+    "economy": "none",
+    "trigger": ""
+}

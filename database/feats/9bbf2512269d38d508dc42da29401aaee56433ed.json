@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1123",
+    "name": "Fulminating Synergy",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 16,
+    "prereq": "Dualistic Synergy",
+    "summary": "When you draw upon your spells’ synergy, you create a physical manifestation of their magical resonance and invoke it to harm a foe.",
+    "description": "When you draw upon your spells’ synergy, you create a physical manifestation of their magical resonance and invoke it to harm a foe. When you use Dualistic Synergy, choose a damage type: acid, cold, electricity, or fire. In addition to Dualistic Synergy’s normal effect, a foe within 30 feet of you takes an amount of damage of the chosen type equal to the spell’s level. If the spell already deals damage of the chosen type, combine the damage before applying weaknesses and resistances.Fulminating Synergy Leads To...\n\nSynergistic SpellTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

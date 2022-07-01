@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=120",
+    "name": "Flame Strike",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Call divine fire from the sky.",
+    "heightenable": true,
+    "description": "You call a rain of divine fire that plummets down from above, dealing 8d6 fire damage. Because the flame is infused with divine energy, creatures in the area apply only half their usual fire resistance. Creatures that are immune to fire, instead of gaining the usual benefit of immunity, treat the results of their saving throws as one degree of success better.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

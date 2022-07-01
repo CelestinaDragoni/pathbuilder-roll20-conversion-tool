@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=713",
+    "name": "Advanced Maneuver",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Basic Maneuver",
+    "summary": "You gain a fighter feat.",
+    "description": "You gain a fighter feat. For the purpose of meeting its prerequisites, your fighter level is equal to half your character level.\n\nSpecial You can select this feat more than once. Each time you select it, you gain another fighter feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

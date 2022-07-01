@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1311",
+    "name": "Squawk!",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You let out an awkward squawk, ruffle your feathers, or fake some other birdlike tic to cover up a social misstep or faux pas.",
+    "description": "You let out an awkward squawk, ruffle your feathers, or fake some other birdlike tic to cover up a social misstep or faux pas. You get a failure on the triggering check, rather than a critical failure. All creatures that witnessed you Squawk are temporarily immune for 24 hours.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "reaction",
+    "trigger": "You critically fail a Deception, Diplomacy, or Intimidation check against a creature that doesn't have the tengu trait."
+}

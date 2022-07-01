@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=776",
+    "name": "Snare Hopping",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Ranger",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You may not have placed your snare in the right place, but you can magically move it there.",
+    "heightenable": true,
+    "description": "You may not have placed your snare in the right place, but you can magically move it there. You teleport the target snare to another unoccupied location in range.\n\n------\n\nHeightened (+1) The range of the spell increases by 10 feet.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "10 feet",
+    "target": "one snare you built",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3455",
+    "name": "Cast Out",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Archetype",
+        "Concentrate",
+        "Manipulate"
+    ],
+    "level": 6,
+    "prereq": "Exorcist Dedication",
+    "summary": "You attempt to cast a malevolent entity out of the creature or object it's possessing.",
+    "description": "You attempt to cast a malevolent entity out of the creature or object it's possessing. Roll a counteract check against the possession effect; you must be within 30 feet of the possessed creature or object to do so. Your counteract level is half your level rounded up, and your counteract modifier is your Occultism modifier, Religion modifier, or spell DC – 10, whichever is highest. If you succeed, the entity is driven out and can't attempt to possess that creature or object for 1 week. If you fail, the possessing creature is immune to your Cast Out for a year and a day.Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nArchetype: This feat belongs to an archetype.Concentrate: An action with this trait requires a degree of mental concentration and discipline.Manipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "2-action",
+    "trigger": ""
+}

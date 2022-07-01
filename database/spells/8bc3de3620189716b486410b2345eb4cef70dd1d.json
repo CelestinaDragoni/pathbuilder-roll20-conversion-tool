@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=185",
+    "name": "Mask of Terror",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Fear",
+        "Illusion",
+        "Mental",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "A creature’s fearsome illusory appearance frightens observers.",
+    "heightenable": true,
+    "description": "The target appears to be a gruesome and terrifying creature. The effect is unique to each observer, so a human viewing the target might see a demon with bloody fangs, but a demon observing the target might see a glowing angelic visage.\n\n When any creature attempts a hostile action against the target, the creature must attempt a Will save. It is then temporarily immune until the end of its next turn.\n\nSuccess The creature is unaffected.\nFailure The creature becomes frightened 2 before using its action.\nCritical Failure The creature becomes frightened 2, and its action fails and is wasted.\n\n------\n\nHeightened (8th) You can target up to 5 creatures. If a creature uses a hostile action or reaction that affects multiple targets simultaneously, it needs to attempt only one save against mask of terror.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": ""
+}

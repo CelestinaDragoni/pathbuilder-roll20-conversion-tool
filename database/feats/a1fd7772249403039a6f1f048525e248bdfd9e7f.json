@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1961",
+    "name": "Basic Eldritch Archer Spellcasting",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Eldritch Archer Dedication",
+    "summary": "You gain the basic spellcasting benefits.",
+    "description": "You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from this archetype, add a spell of the appropriate spell level to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you have learned or discovered.Basic Eldritch Archer Spellcasting Leads To...\n\nExpert Eldritch Archer SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

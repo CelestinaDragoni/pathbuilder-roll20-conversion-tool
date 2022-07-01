@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2115",
+    "name": "Caravan Leader",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 11,
+    "prereq": "Pick Up The Pace; Constitution 18",
+    "summary": "Your group can Hustle for much longer.",
+    "description": "You know how to get the most effort out of your allies on the road. When Hustling in a group during exploration mode, your group can Hustle for as long as the member who could Hustle longest on their own, plus an additional 20 minutes beyond that.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

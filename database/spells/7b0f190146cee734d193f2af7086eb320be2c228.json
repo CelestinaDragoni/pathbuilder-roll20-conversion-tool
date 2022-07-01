@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=619",
+    "name": "Asterism",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Lines of burning starlight form a constellation around you.",
+    "heightenable": true,
+    "description": "Lines of burning starlight form a constellation around you. Draw five lines, one at a time; each line must anchor at you or a creature or object already connected to a previous line, and it must end at a creature or object within 30 feet of its anchor (possibly allowing the asterism to extend to its full 150-foot range). A creature that begins its turn in one of these lines or enters one of these lines on its turn takes 4d6 fire damage (basic Reflex save). A creature can take this damage only once per turn, even if it moves through several lines. Targets that are part of the asterism do not take damage from it. If the distance between two targets (or you and a target) ever exceeds 30 feet, the line of starlight between the two breaks, and any lines that now no longer have a direct path back to you also break. You can Dismiss the spell.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "150 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "basic Reflex"
+}

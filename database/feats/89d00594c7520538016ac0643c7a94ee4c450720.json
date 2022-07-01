@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2636",
+    "name": "Animal Speaker",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sprite"
+    ],
+    "level": 5,
+    "prereq": "Ability To Communicate With Some Type Of Animals (Such As Bats Or Arthropods)",
+    "summary": "You can speak to all animals, not just a particular subset.",
+    "description": "You can speak to all animals, not just a particular subset. You gain a +1 circumstance bonus to Make an Impression on animals (which usually uses the Diplomacy skill).Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

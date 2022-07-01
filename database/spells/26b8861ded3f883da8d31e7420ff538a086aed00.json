@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=708",
+    "name": "Pummeling Rubble",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Earth",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Hurl a cone of rocks to batter creatures.",
+    "heightenable": true,
+    "description": "A spray of heavy rocks flies through the air in front of you. The rubble deals 2d4 bludgeoning damage to each creature in the area. Each creature must attempt a Reflex save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and is pushed 5 feet away from you.\nCritical Failure The creature takes double damage and is pushed 10 feet away from you.\n\n------\n\nHeightened (+1) Increase the damage by 2d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

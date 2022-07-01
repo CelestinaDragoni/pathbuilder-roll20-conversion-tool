@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3238",
+    "name": "Bullet Dancer Reload",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 12,
+    "prereq": "Bullet Dancer Burn",
+    "summary": "You've learned to reload your simple firearms with uncanny grace, the ammunition simply falling into place as though part of a well-practiced kata.",
+    "description": "You've learned to reload your simple firearms with uncanny grace, the ammunition simply falling into place as though part of a well-practiced kata. You Strike with a simple firearm, and then Interact to reload that same firearm. You don't need a free hand to reload your simple firearm in this way.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

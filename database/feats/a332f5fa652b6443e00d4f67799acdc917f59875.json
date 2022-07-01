@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3558",
+    "name": "Ankle Biter",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Zombie Dedication",
+    "summary": "You fight just as well on the ground as you do standing up.",
+    "description": "You fight just as well on the ground as you do standing up. While you are prone, you are always Taking Cover against ranged attacks, you ignore the status penalty on your attack rolls from being prone, and you gain a +1 circumstance bonus to Athletics checks to Trip.\n\n  You can choose to move up to half your Speed when you Crawl. You can instead move up to your full Speed when you Crawl, but if you do, you must succeed at a DC 6 flat check or your body deteriorates.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

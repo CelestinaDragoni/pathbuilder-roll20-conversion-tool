@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3500",
+    "name": "Ghost Flight",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Ghost Dedication",
+    "summary": "You can suppress your tether to the ground, overcoming your resistance to fly free.",
+    "description": "You can suppress your tether to the ground, overcoming your resistance to fly free. For 10 minutes, your fly Speed doesn't restrict you to only a few inches off the ground, allowing you to travel to any height you choose.Ghost Flight Leads To...\n\nUnlimited Ghost FlightTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

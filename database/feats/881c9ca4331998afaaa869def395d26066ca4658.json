@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3198",
+    "name": "Come at Me!",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 14,
+    "prereq": "Pistolero's Challenge",
+    "summary": "You're a legendary duelist, welcoming all challengers, enabling you to challenge many foes even while other challenges are active.",
+    "description": "You're a legendary duelist, welcoming all challengers, enabling you to challenge many foes even while other challenges are active. There is no longer a limit to the number of Pistolero's Challenges you can have in effect at one time.",
+    "economy": "none",
+    "trigger": ""
+}

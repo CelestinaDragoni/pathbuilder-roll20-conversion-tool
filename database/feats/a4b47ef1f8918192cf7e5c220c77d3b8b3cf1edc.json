@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=894",
+    "name": "Stone Communion",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Ka Stone Ritual",
+    "summary": "You can speak Terran and speak with stones.",
+    "description": "You gain a unique communion with the earth and stones. You learn the Terran language and you can Activate your ka stone with a 10-minute activation (envision) to cast stone tell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=409",
+    "name": "Improved Dueling Riposte",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 12,
+    "prereq": "Dueling Riposte",
+    "summary": "Your weapon whirls and darts, striking foes whenever the opportunity presents itself.",
+    "description": "Your weapon whirls and darts, striking foes whenever the opportunity presents itself. At the start of each of your turns, you gain an additional reaction that you can use only to make a Dueling Riposte. You can use this extra reaction even if you are not benefiting from Dueling Parry.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

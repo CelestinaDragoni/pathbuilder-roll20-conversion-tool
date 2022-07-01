@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=145",
+    "name": "Hallucinatory Terrain",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "A natural environment appears to be another kind of terrain.",
+    "heightenable": true,
+    "description": "You create an illusion that causes natural terrain to look, sound, feel, and smell like a different kind of terrain. This doesn't disguise any structures or creatures in the area.\n\n Any creature that touches the illusion or uses the Seek action to examine it can attempt to disbelieve your illusion.\n\n------\n\nHeightened (5th) Your image can also disguise structures or create illusory structures (but still doesn't disguise creatures).",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "until the next time you make your daily preparations",
+    "saving": ""
+}

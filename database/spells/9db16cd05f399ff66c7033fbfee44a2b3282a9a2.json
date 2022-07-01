@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=968",
+    "name": "Phantom Crowd",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Create an illusory crowd that loudly agrees with you.",
+    "heightenable": true,
+    "description": "A tightly packed crowd of humanoids appropriate to the area appear, facing you and agreeing loudly with anything you say. A creature that touches a member of the crowd or makes a Seek action to examine the crowd can attempt to disbelieve your illusion. The crowd is difficult terrain for anyone who hasn't disbelieved the illusion.\n\n When you spend 1 or more actions to cast a composition spell or to perform an activity that includes a Performance check, you can also Sustain this Spell as part of that action.\n\n------\n\nHeightened (+1) The crowd occupies an additional 10-foot square in range. The additional square doesn't need to be adjacent to any other square created by the spell. It can overlap, but there's no additional effect in the overlapped squares.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "",
+    "duration": "sustained up to 10 minutes",
+    "saving": ""
+}

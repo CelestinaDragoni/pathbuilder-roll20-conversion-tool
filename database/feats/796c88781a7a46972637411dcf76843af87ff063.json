@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1884",
+    "name": "Greater Magical Scholastics",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Archaeologist Dedication; Magical Scholastics",
+    "summary": "You broaden your magical studies, allowing you to find the right path, detect objects, and conceal those objects from unscrupulous rivals.",
+    "description": "You broaden your magical studies, allowing you to find the right path, detect objects, and conceal those objects from unscrupulous rivals. You can cast augury, locate, and nondetection as occult innate spells, each once per day. You can cast this nondetection spell only on an object, and it is automatically heightened to the same spell level as your cantrips from Magical Scholastics.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

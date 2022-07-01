@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=405",
+    "name": "Captivating Adoration",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Emotion",
+        "Enchantment",
+        "Mental",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You become intensely entrancing, and creatures are distracted by you as long as they remain within the area.",
+    "heightenable": true,
+    "description": "You become intensely entrancing, and creatures are distracted by you as long as they remain within the area. You can exclude any creatures you choose from the effects.\n\n When a creature enters the area for the first time, it must attempt a Will saving throw. If a creature leaves and reenters, it uses the results of its original save.\n\nCritical Success The creature is unaffected and temporarily immune for 1 hour.\nSuccess The creature is fascinated with you for its next action, then is temporarily immune for 1 hour.\nFailure The creature is fascinated with you.\nCritical Failure The creature is fascinated with you, and its attitude toward you improves by one step.\n\n------\n\nHeightened (+1) Increase the size of the emanation by 15 feet.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "Will"
+}

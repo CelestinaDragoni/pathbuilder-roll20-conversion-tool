@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2340",
+    "name": "Crone's Cruelty",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "Filled with rancor and hate, you rend the minds of those who displease you.",
+    "description": "Filled with rancor and hate, you rend the minds of those who displease you. You can cast warp mind once per day as an occult innate spell.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.",
+    "economy": "none",
+    "trigger": ""
+}

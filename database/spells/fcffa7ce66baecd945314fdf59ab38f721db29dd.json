@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=176",
+    "name": "Mage Armor",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Ward yourself with magical armor.",
+    "heightenable": true,
+    "description": "You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC and a maximum Dexterity modifier of +5. While wearing mage armor, you use your unarmored proficiency to calculate your AC.\n\n------\n\nHeightened (4th) You gain a +1 item bonus to saving throws.\nHeightened (6th) The item bonus to AC increases to +2, and you gain a +1 item bonus to saving throws.\nHeightened (8th) The item bonus to AC increases to +2, and you gain a +2 item bonus to saving throws.\nHeightened (10th) The item bonus to AC increases to +3, and you gain a +3 item bonus to saving throws.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "until the next time you make your daily preparations",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1257",
+    "name": "Catfolk Weapon Rake",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 5,
+    "prereq": "Catfolk Weapon Familiarity",
+    "summary": "You know how to efficiently use weapons that rake across your enemies.",
+    "description": "You know how to efficiently use weapons that rake across your enemies. Whenever you critically hit using a catfolk weapon or one of the weapons listed in Catfolk Weapon Familiarity, you apply the weapon's critical specialization effect.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

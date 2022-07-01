@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3047",
+    "name": "No! No! I Created You!",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Concentrate",
+        "Inventor"
+    ],
+    "level": 1,
+    "prereq": "Construct Companion",
+    "summary": "You appeal to your construct companion's bond with its creator to have it break free of a controlling effect.",
+    "description": "You appeal to your construct companion's bond with its creator to have it break free of a controlling effect. Attempt to counteract the effect that confused or controlled your construct companion, using your Crafting modifier for the counteract check and half your level rounded up for the counteract level.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "reaction",
+    "trigger": "Your construct companion would become confused or controlled."
+}

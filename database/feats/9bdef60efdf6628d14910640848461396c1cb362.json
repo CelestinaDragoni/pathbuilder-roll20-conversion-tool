@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2020",
+    "name": "Grievous Blow",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 8,
+    "prereq": "Martial Artist Dedication",
+    "summary": "You know how to deliver focused, powerful blows that bypass your enemies' resistances.",
+    "description": "You know how to deliver focused, powerful blows that bypass your enemies' resistances. Make an unarmed melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal two extra weapon damage dice. If you are at least 18th level, increase this to three extra weapon damage dice.\n\n This attack also ignores an amount of resistance to physical damage, or to a specific physical damage type, equal to your level.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=92",
+    "name": "Drop Dead",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "The target appears to die but actually turns invisible.",
+    "heightenable": true,
+    "description": "The target appears to fall down dead, though it actually turns invisible. Its illusory corpse remains where it fell, complete with a believable fatal wound. This illusion looks and feels like a dead body. If the target's death seems absurd—for instance, a barbarian at full health appears to be slain by 2 damage—the GM can grant the attacker an immediate Perception check to disbelieve the illusion. If the target uses hostile actions, the spell ends. This ends the entire spell, so the illusory corpse disappears too.\n\n------\n\nHeightened (7th) The spell doesn't end if the target uses hostile actions.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "a creature within range is hit by an attack from an enemy",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

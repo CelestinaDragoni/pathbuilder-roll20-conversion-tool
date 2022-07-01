@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=430",
+    "name": "Lucky Break",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Divination",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Reroll a failed saving throw and use the better result.",
+    "heightenable": false,
+    "description": "Reroll the saving throw and use the better result. You then become temporarily immune for 10 minutes.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

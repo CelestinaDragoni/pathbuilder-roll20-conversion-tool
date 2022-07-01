@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2419",
+    "name": "Scar-Thick Skin",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Glorious, storied scars cover and protect much of your body.",
+    "description": "Glorious, storied scars cover and protect much of your body. Your DC on flat checks to end persistent bleed damage is reduced from 15 to 10, or from 10 to 5 after receiving especially appropriate assistance.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

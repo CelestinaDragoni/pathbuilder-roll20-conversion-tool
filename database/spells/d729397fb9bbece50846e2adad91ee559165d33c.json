@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=879",
+    "name": "Canticle of Everlasting Grief",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Curse",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Mournful dirge frightens and mentally damages a foe, preventing its bonuses.",
+    "heightenable": false,
+    "description": "You create a melody distilled from pure grief, conveying the inevitable loss of everything your target cherishes, audible only to them. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target takes 5d6 mental damage, is frightened 1, and can't benefit from circumstance or status bonuses for 1 round.\nFailure The target takes 10d6 mental damage, is frightened 3, and can't benefit from circumstance or status bonuses for 1 week.\nCritical Failure The target takes 20d6 mental damage and is frightened 4. It can't benefit from circumstance or status bonuses until the curse is broken. While the curse remains, the target's allies are also unable to benefit from circumstance or status bonuses while within 15 feet of it.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

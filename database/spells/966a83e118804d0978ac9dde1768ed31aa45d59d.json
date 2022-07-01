@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=132",
+    "name": "Ghost Sound",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Cantrip",
+        "Illusion"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Make false sounds.",
+    "heightenable": true,
+    "description": "You create an auditory illusion of simple sounds that has a maximum volume equal to four normal humans shouting. The sounds emanate from a square you designate within range. You can't create intelligible words or other intricate sounds (such as music).\n\n------\n\nHeightened (3rd) The range increases to 60 feet.\nHeightened (5th) The range increases to 120 feet.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained",
+    "saving": ""
+}

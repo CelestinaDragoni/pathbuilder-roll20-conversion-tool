@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=756",
+    "name": "Interstellar Void",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cold",
+        "Cursebound",
+        "Evocation",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You call upon the frigid depths of outer space to bring a terrible chill to your enemy.",
+    "heightenable": true,
+    "description": "You call upon the frigid depths of outer space to bring a terrible chill to your enemy. The target is cloaked in the freezing void, which deals 3d6 cold damage immediately and the first time each round you Sustain the Spell on future turns, with a basic Fortitude save. The target is fatigued for as long as the effect persists.\n\n------\n\nHeightened (+1) The cold damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Fortitude"
+}

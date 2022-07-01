@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=909",
+    "name": "Diabolic Certitude",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Hellknight Armiger Dedication",
+    "summary": "Your Hellknight training drilled details of Hell’s denizens deep into your mind.",
+    "description": "Your Hellknight training drilled details of Hell’s denizens deep into your mind. Make an attempt to Recall Knowledge about a devil you’re observing. If you roll a critical failure on this check, you get a failure instead.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "free_action",
+    "trigger": "Your turn begins and you can observe a devil."
+}

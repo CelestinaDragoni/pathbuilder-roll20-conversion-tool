@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1917",
+    "name": "Keep Pace",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Bounty Hunter Dedication",
+    "summary": "Your prey can't escape.",
+    "description": "Your prey can't escape. Stride up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you've moved your full Speed. You can use Keep Pace to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "Your prey is within reach and attempts to move away from you."
+}

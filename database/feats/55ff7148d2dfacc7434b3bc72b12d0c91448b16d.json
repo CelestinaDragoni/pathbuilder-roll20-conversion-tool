@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2640",
+    "name": "Fey Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sprite"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You can use faerie magic to hide yourself and expose hidden foes.",
+    "description": "You can use faerie magic to hide yourself and expose hidden foes. You can cast faerie fire and invisibility each once per day as primal innate spells.Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

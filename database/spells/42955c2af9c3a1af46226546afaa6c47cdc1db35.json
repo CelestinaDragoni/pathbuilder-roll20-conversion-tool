@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=17",
+    "name": "Baleful Polymorph",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Incapacitation",
+        "Polymorph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Transform a creature into a harmless animal.",
+    "heightenable": false,
+    "description": "You transform the target creature into a harmless animal appropriate to the area, with effects based on its Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target's body gains minor features of the harmless animal. Its insides churn as they partially transform, causing it to be sickened 1. When it recovers from the sickened condition, its features revert to normal.\nFailure The target transforms for 1 minute but keeps its mind. If it spends all its actions on its turn concentrating on its original form, it can attempt a Will save to end the effect immediately.\nCritical Failure The target is transformed into the chosen harmless animal, body and mind, for an unlimited duration.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Fortitude"
+}

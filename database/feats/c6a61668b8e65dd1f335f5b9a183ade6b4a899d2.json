@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=954",
+    "name": "Heir of the Saoc",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 9,
+    "prereq": "Saoc Astrology",
+    "summary": "In the past, you would have been a proud initiate of the Saoc Brethren.",
+    "description": "In the past, you would have been a proud initiate of the Saoc Brethren. Today, you carry on their legacy. When you use Saoc Astrology, roll 1d4 instead; on a 1, you take a –1 penalty to the skill check. On any other result, you gain a circumstance bonus of that value (for instance, a +3 circumstance bonus on a 3).Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

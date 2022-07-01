@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2133",
+    "name": "Incredible Scout",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 11,
+    "prereq": "Master In Perception",
+    "summary": "Grant allies +2 to initiative rolls when Scouting.",
+    "description": "When you scout, you are particularly alert for danger, granting your allies precious moments to prepare to fight. When using the Scout exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2875",
+    "name": "Conflux Focus",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 12,
+    "prereq": "Conflux Spells",
+    "summary": "You imagine how you'll weave magic and combat into future battles, improving your focus.",
+    "description": "You imagine how you'll weave magic and combat into future battles, improving your focus. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.Conflux Focus Leads To...\n\nConflux Wellspring",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1601",
+    "name": "Chemical Contagion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "With carefully engineered enzymes, you coax some of your poison to infect another target, using the original victim as a carrier.",
+    "description": "With carefully engineered enzymes, you coax some of your poison to infect another target, using the original victim as a carrier. A creature adjacent to the triggering creature is exposed to the triggering poison.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "reaction",
+    "trigger": "A creature within 30 feet critically fails its initial saving throw against a poison you created."
+}

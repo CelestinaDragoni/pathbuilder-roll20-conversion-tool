@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1496",
+    "name": "Read Disaster",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Exploration",
+        "Oracle",
+        "Prediction"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You spend 10 minutes and open yourself to the divine mysteries of the world, peering into the most sinister portents of the future.",
+    "description": "You spend 10 minutes and open yourself to the divine mysteries of the world, peering into the most sinister portents of the future. You gain the effects of augury, except you learn only about the dangers ahead; any results of “weal” are instead “nothing,” and results of “weal and woe” are instead “woe.” If you are legendary in Religion, you take only 1 minute to Read Disaster.Traits\n\nDivination: The divination school of magic typically involves obtaining or transferring information, or predicting events.\n\nExploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.Prediction: Effects with this trait determine what is likely to happen in the near future. Most predictions are divinations.",
+    "economy": "none",
+    "trigger": ""
+}

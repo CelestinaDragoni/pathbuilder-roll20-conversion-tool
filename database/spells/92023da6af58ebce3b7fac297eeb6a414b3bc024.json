@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=495",
+    "name": "Angelic Wings",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Light",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed.",
+    "heightenable": true,
+    "description": "Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as feather fall.\n\n------\n\nHeightened (5th) The duration increases to 1 minute.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "3 rounds",
+    "saving": ""
+}

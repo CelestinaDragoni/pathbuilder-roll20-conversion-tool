@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=278",
+    "name": "Shapechange",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Polymorph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "Transform into a form of your choice repeatedly.",
+    "heightenable": false,
+    "description": "Harnessing your mastery of transformative magic, you take on a mutable form. You transform yourself into any form you could choose with a polymorph spell in your spell repertoire or that you could prepare of 8th level or lower (including any 8th-level or lower heightened versions of spells you know). You choose the type of creature as you Cast the Spell rather than when you prepare it. You can change your form to any other form you could choose with this spell by using a single action, which has the concentrate trait. You can Dismiss this spell.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

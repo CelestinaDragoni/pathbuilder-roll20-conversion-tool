@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=839",
+    "name": "Shield Block",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Ward off a blow with your shield.",
+    "description": "You snap your shield in place to ward off a blow. Your shield prevents you from taking an amount of damage up to the shield’s Hardness. You and the shield each take any remaining damage, possibly breaking or destroying the shield.Shield Block Leads To...\n\nAegis of Arnisant, Bastion Dedication, Fortify Shield, Lastwall Sentry Dedication, Quick Shield Block, Shield WardenTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "reaction",
+    "trigger": "While you have your shield raised, you would take damage from a physical attack."
+}

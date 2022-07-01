@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1492",
+    "name": "Advanced Revelation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oracle"
+    ],
+    "level": 6,
+    "prereq": "Initial Revelation Spell",
+    "summary": "You learn an advanced revelation spell associated with your mystery.",
+    "description": "You learn an advanced revelation spell associated with your mystery. Increase the number of Focus Points in your focus pool by 1.Advanced Revelation Leads To...\n\nDiverse Mystery",
+    "economy": "none",
+    "trigger": ""
+}

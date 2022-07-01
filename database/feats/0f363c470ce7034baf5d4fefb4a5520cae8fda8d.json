@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3038",
+    "name": "Communal Tale",
+    "source": "Pathfinder #170",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Folklorist Dedication",
+    "summary": "Stories are an experience meant to be shared as a group.",
+    "description": "Stories are an experience meant to be shared as a group. When you Spin a Tale, you can designate up to six non-minion allies as the heroes of your story. Each hero, once during the tale, can continue the story in your stead by spending an action to Spin the Tale; if they do, the story continues for another round, as if you had Spun the Tale at the start of your turn. This could allow the story to continue for up to 6 additional rounds, if all possible allies Spin the Tale, though you can continue to Spin the Tale on your own as normal.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

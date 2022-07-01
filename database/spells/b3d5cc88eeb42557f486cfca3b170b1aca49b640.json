@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=774",
+    "name": "Magic Hide",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Ranger"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Your animal companion grows a thicker hide, matted fur, or a harder shell, granting it a +1 status bonus to AC.",
+    "heightenable": false,
+    "description": "Your animal companion grows a thicker hide, matted fur, or a harder shell, granting it a +1 status bonus to AC.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "your animal companion",
+    "duration": "1 minute",
+    "saving": ""
+}

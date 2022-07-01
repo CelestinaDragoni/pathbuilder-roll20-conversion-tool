@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3070",
+    "name": "Electrify Armor",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor",
+        "Manipulate"
+    ],
+    "level": 10,
+    "prereq": "Armor Innovation",
+    "summary": "You electrify your armor to punish foes who dare to attack you.",
+    "description": "You electrify your armor to punish foes who dare to attack you. For 1 round, any creature that touches you, or that hits you with a melee unarmed attack or a non-reach melee weapon attack, takes 1d4 electricity damage. The effect ends if you cease wearing your armor innovation.\n\n If you have the revolutionary innovation class feature, the damage increases to 2d4.\n\n Unstable Function You create an unstable chain reaction, sending countless sparks dancing across your armor. Add the unstable trait to Electrify Armor. The effects last for 1 minute instead of 1 round, and the damage dice increase from d4s to d12s.Traits\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "1-action",
+    "trigger": ""
+}

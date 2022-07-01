@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2736",
+    "name": "Menacing Prowess",
+    "source": "Pathfinder #167",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Golden League Xun Dedication; Expert In Intimidation",
+    "summary": "Scaring off multiple people at once is your specialty.",
+    "description": "Scaring off multiple people at once is your specialty. When you Demoralize, you can target up to 2 creatures within 30 feet of you at once. If you are a master of Intimidation, you can Demoralize up to 4 creatures at once; if you're legendary, you can Demoralize up to 8 creatures at once.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

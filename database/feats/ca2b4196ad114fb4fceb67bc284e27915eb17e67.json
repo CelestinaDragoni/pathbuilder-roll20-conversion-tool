@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2474",
+    "name": "Consistent Surge",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Android"
+    ],
+    "level": 13,
+    "prereq": "Nanite Surge",
+    "summary": "Your nanites are incredibly effective, capable of improving your body's efficiency regularly.",
+    "description": "Your nanites are incredibly effective, capable of improving your body's efficiency regularly. You can use Nanite Surge with a frequency of once per 10 minutes, rather than once per hour.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
+    "economy": "none",
+    "trigger": ""
+}

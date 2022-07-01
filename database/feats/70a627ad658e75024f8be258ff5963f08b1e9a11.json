@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2526",
+    "name": "Coating of Slime",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fleshwarp"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "An acidic ooze coats your limbs.",
+    "description": "An acidic ooze coats your limbs. Your unarmed attacks deal an additional 1d4 persistent acid damage on a critical hit.Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1479",
+    "name": "Lead Investigator",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Exploration",
+        "Investigator"
+    ],
+    "level": 18,
+    "prereq": "Clue Them All In",
+    "summary": "You spend 1 minute briefing up to four allies about one lead you're pursuing.",
+    "description": "You spend 1 minute briefing up to four allies about one lead you're pursuing. Those allies gain the same circumstance bonus you do from Pursue a Lead to checks to investigate that lead. This bonus lasts until you cease pursing that lead or for 1 day, whichever comes first. This doesn't confer any other benefits of pursuing a lead, such as adding the circumstance bonus to your saves with Detective's Readiness.Traits\n\nExploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.",
+    "economy": "none",
+    "trigger": ""
+}

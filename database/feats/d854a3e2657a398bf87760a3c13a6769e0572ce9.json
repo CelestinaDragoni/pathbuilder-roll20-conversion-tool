@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2214",
+    "name": "Murderer's Circle",
+    "source": "Pathfinder #159",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Provocator Dedication",
+    "summary": "Circle your foe while you beat on them.",
+    "description": "You Strike a target within reach and then Step to any other open space adjacent to that target. Your target is then flat-footed against your next Strike this turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

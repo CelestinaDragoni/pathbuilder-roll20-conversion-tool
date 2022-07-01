@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2668",
+    "name": "Incredible Recollection",
+    "source": "Pathfinder #164",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Eldritch Researcher Dedication",
+    "summary": "You can sift through knowledge locked within your mind at an incredible pace.",
+    "description": "You can sift through knowledge locked within your mind at an incredible pace. You instantly use up to 5 Recall Knowledge actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can't use them for these actions.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

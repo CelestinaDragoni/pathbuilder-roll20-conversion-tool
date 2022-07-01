@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=503",
+    "name": "Elemental Blast",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You gather elemental energy and blast your foes.",
+    "heightenable": true,
+    "description": "You gather elemental energy and blast your foes in one of the various listed shapes of your choosing, dealing 8d6 bludgeoning damage (or fire damage if your element is fire). This spell has your element's trait.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet (burst only)",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

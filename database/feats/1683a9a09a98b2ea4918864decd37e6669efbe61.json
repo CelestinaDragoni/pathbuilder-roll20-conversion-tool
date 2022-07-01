@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=920",
+    "name": "Expeditious Advance",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Lion Blade Dedication",
+    "summary": "You advance and retreat quickly.",
+    "description": "You advance and retreat quickly. You gain a +10-foot status bonus to your speed.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

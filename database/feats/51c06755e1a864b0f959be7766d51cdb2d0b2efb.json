@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=403",
+    "name": "Improved Knockdown",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 10,
+    "prereq": "Knockdown",
+    "summary": "You can dash your foe to the ground with a single blow.",
+    "description": "You can dash your foe to the ground with a single blow. When you use Knockdown, instead of making a Strike followed by a Trip, you can attempt a single Strike. If you do and your Strike hits, you also apply the critical success effect of a Trip. If you used a two-handed melee weapon for the Strike, you can use the weapon’s damage die size instead of the regular die size for the damage from a critical Trip.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

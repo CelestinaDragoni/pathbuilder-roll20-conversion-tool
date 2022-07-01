@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3181",
+    "name": "Stab and Blast",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Flourish",
+        "Gunslinger"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You slice or smash your opponent with the melee portion of your weapon before pulling the trigger at point-blank range.",
+    "description": "You slice or smash your opponent with the melee portion of your weapon before pulling the trigger at point-blank range. Make a melee Strike with the required weapon. If the Strike is successful, you can immediately make a ranged Strike against the same target with a +2 circumstance bonus to the attack roll. This counts as two attacks toward your multiple attack penalty, but you don't apply the multiple attack penalty until after making both attacks.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

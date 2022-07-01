@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=561",
+    "name": "Electrified Crystal Ward",
+    "source": "Pathfinder #148",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You create an electric latch rune hazard on the target, creating a special crystalline lock on the object.",
+    "heightenable": true,
+    "description": "You create an electric latch rune hazard on the target, creating a special crystalline lock on the object. You can also substitute your spell DC for any of the hazard’s listed DCs. You can have only one such hazard active at a time, and if you cast this spell while a previous electric latch rune is active, the older hazard discharges harmlessly.\n\n------\n\nHeightened (+2) The hazard’s damage increases by 1d12.",
+    "economy": "2-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 hinge or latch",
+    "duration": "",
+    "saving": ""
+}

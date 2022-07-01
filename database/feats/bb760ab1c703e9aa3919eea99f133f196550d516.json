@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=487",
+    "name": "Enduring Quickness",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "You move as fast and as high as the wind itself.",
+    "description": "You move as fast and as high as the wind itself. You’re permanently quickened. You can use your extra action to Stride or Leap, or to provide one of the actions needed for a High Jump or Long Jump.",
+    "economy": "none",
+    "trigger": ""
+}

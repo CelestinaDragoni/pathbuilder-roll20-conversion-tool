@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2423",
+    "name": "Mask of Fear",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 13,
+    "prereq": "Orc Warmask",
+    "summary": "Your warmask burns off of your face, releasing your apprehension.",
+    "description": "Your warmask burns off of your face, releasing your apprehension. You remove the frightened condition. Your warmask is destroyed, and you can't reapply it until your next daily preparations.\n\nSpecial You can use this free action even if you have a condition tied to the frightened condition that would normally prevent you from using a free action, such as “fleeing as long as you're frightened” or “paralyzed as long as you're frightened.”Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "free_action",
+    "trigger": "You start your turn with the frightened condition."
+}

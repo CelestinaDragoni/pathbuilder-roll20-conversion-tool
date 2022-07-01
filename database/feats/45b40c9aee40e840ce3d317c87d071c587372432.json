@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3469",
+    "name": "Liberate Soul",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Divine",
+        "Necromancy"
+    ],
+    "level": 6,
+    "prereq": "Soul Warden Dedication",
+    "summary": "The light flows from your sigil of Pharasma to shatter the bonds imprisoning a soul.",
+    "description": "The light flows from your sigil of Pharasma to shatter the bonds imprisoning a soul. You attempt to counteract a possession effect, or an effect, object, or spell that is imprisoning a soul (such as bind soul, a soul gem, or a devourer's devoured souls). You must be within 60 feet of the possessed creature or object, or of the receptacle imprisoning the soul. Your counteract level is half your level rounded up, and your counteract modifier is your divine spell DC – 10. If the attempt fails, you can't use Liberate Soul against that particular effect again unless circumstances have changed drastically, as determined by the GM.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.",
+    "economy": "2-action",
+    "trigger": ""
+}

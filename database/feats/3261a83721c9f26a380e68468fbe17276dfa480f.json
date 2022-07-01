@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2713",
+    "name": "Cross the Threshold",
+    "source": "Pathfinder #166",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 16,
+    "prereq": "Ghost Eater Dedication",
+    "summary": "You can cast ethereal jaunt as an occult innate spell once per day.",
+    "description": "You can cast ethereal jaunt as an occult innate spell once per day. You don't need to Sustain the Spell; instead, it lasts for 10 minutes or until you choose to return to your material form as a free action.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

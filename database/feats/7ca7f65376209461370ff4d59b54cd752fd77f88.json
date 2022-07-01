@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=439",
+    "name": "Crushing Grab",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Like a powerful constrictor, you crush targets in your unyielding grasp.",
+    "description": "Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully Grapple a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack nonlethal with no penalty.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

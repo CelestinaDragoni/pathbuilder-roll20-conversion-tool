@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=69",
+    "name": "Haughty Obstinacy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your powerful ego makes it harder for others to order you around.",
+    "description": "Your powerful ego makes it harder for others to order you around. If you roll a success on a saving throw against a mental effect that attempts to directly control your actions, you critically succeed instead. If a creature rolls a failure on a check to Coerce you using Intimidation, it gets a critical failure instead (so it can't try to Coerce you again for 1 week).\nTraits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

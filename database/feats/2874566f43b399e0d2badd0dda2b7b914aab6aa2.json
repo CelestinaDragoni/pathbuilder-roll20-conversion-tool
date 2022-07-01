@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2251",
+    "name": "Physical Training",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Swordmaster Dedication; Expert In Acrobatics And Athletics",
+    "summary": "You spend a lot of time focusing on your physical fitness.",
+    "description": "You spend a lot of time focusing on your physical fitness. You increase your proficiency rank in Acrobatics and Athletics from expert to master.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

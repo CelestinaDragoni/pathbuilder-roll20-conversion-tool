@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2485",
+    "name": "Crystalline Cloud",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aphorite"
+    ],
+    "level": 9,
+    "prereq": "Crystalline Dust",
+    "summary": "When you use Crystalline Dust, you can spend one additional action to disperse the motes as a 10-foot-radius cloud centered on you instead of as haze; the activity gains the concentrate trait.",
+    "description": "When you use Crystalline Dust, you can spend one additional action to disperse the motes as a 10-foot-radius cloud centered on you instead of as haze; the activity gains the concentrate trait. All creatures within the cloud become concealed, and all creatures outside the cloud become concealed to creatures within it.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
+    "economy": "none",
+    "trigger": ""
+}

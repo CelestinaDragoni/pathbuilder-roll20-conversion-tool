@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=321",
+    "name": "Form Control",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid",
+        "Manipulate",
+        "Metamagic"
+    ],
+    "level": 4,
+    "prereq": "Wild Shape; Strength 14",
+    "summary": "With additional care and effort, you can take on an alternate form for a longer period of time.",
+    "description": "With additional care and effort, you can take on an alternate form for a longer period of time. If your next action is to cast wild shape, wild shape’s spell level is 2 lower than normal (minimum 1st level), but you can remain transformed for up to 1 hour or the listed duration (whichever is longer). You can still Dismiss the form at any time, as permitted by the spell.Form Control Leads To...\n\nPerfect Form ControlTraitsManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

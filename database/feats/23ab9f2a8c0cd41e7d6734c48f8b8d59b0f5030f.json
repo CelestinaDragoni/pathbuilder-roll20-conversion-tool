@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=970",
+    "name": "Tomb-Watcher's Glare",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Divine",
+        "Dwarf"
+    ],
+    "level": 5,
+    "prereq": "Death Warden Dwarf Heritage",
+    "summary": "When you critically hit an undead creature, or an undead creature critically fails a saving throw against one of your abilities, you drive your divine wrath home in your enemy’s heart.",
+    "description": "When you critically hit an undead creature, or an undead creature critically fails a saving throw against one of your abilities, you drive your divine wrath home in your enemy’s heart. The undead is enfeebled 1 for 1 round.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=192",
+    "name": "Dirge of Doom",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You learn to frighten your enemies with your performance.",
+    "description": "You learn the dirge of doom composition cantrip, which frightens your enemies.",
+    "economy": "none",
+    "trigger": ""
+}

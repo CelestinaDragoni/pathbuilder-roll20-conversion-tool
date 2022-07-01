@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=380",
+    "name": "Allegro",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Cantrip",
+        "Composition",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 7,
+    "summary": "You perform rapidly, speeding up your ally.",
+    "heightenable": false,
+    "description": "You perform rapidly, speeding up your ally. The ally becomes quickened and can use the additional action to Strike, Stride, or Step.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 ally",
+    "duration": "1 round",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2623",
+    "name": "Hybrid Form",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kitsune"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "When you Change Shape, you retain elements of your kitsune form, allowing you to speak in a fox form, use kitsune unarmed attacks in a tailless form, or gain a tail in your tailless form to use abilities that require one.",
+    "description": "When you Change Shape, you retain elements of your kitsune form, allowing you to speak in a fox form, use kitsune unarmed attacks in a tailless form, or gain a tail in your tailless form to use abilities that require one. You can Change Shape to alter the details of your hybrid form without fully changing into your true form or your alternate form. While in hybrid form, your foxlike features make it obvious that you aren't a normal humanoid.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2962",
+    "name": "Tattoo Artist",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 2,
+    "prereq": "Trained In Crafting",
+    "summary": "You can craft tattoos, including magical tattoos.",
+    "description": "You can craft tattoos, including magical tattoos. When you select this feat, you gain the formulas for four common magical tattoos of 2nd level or lower. You gain a +1 circumstance bonus to Crafting checks to Craft tattoos. If you're a master in Crafting, this bonus increases to +2.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

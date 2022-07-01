@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3339",
+    "name": "Terrifying Countenance",
+    "source": "Night of the Gray Death",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Vigilante"
+    ],
+    "level": 18,
+    "prereq": "Vigilante Dedication; Member Of The Gray Gardeners",
+    "summary": "You can erect a magical cowl that terrorizes your enemies.",
+    "description": "You can erect a magical cowl that terrorizes your enemies. Once per day, you can cast mask of terror as an innate occult spell, targeting yourself. If you critically hit a creature that's temporarily immune to the spell, the creature's temporary immunity ends.Traits\n\nArchetype: This feat belongs to an archetype.\n\nVigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "free_action",
+    "trigger": ""
+}

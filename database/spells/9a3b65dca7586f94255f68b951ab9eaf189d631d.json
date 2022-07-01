@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=42",
+    "name": "Cloudkill",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Necromancy",
+        "Poison"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Poison creatures in a cloud that moves away from you.",
+    "heightenable": true,
+    "description": "You conjure a poisonous fog. This functions as obscuring mist, except the area moves 10 feet away from you each round. You deal 6d8 poison damage to each breathing creature that starts its turn in the spell's area. You can Dismiss the spell.\n\n------\n\nHeightened (+1) The damage increases by 1d8.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "basic Fortitude"
+}

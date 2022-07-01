@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=448",
+    "name": "Wholeness of Body",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 4,
+    "prereq": "Ki Spells",
+    "summary": "You can restore your health by tapping into your ki.",
+    "description": "You can restore your health by tapping into your ki. You gain the wholeness of body ki spell. Increase the number of Focus Points in your focus pool by 1.Wholeness of Body Leads To...\n\nEndurance of the Rooted Tree",
+    "economy": "none",
+    "trigger": ""
+}

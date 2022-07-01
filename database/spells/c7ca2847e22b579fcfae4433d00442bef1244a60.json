@@ -1,0 +1,27 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=622",
+    "name": "Delay Consequence",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You transpose the moment that the target would be injured to later in its timestream.",
+    "heightenable": false,
+    "description": "You transpose the moment that the target would be injured to later in its timestream. Roll damage normally, but do not reduce Hit Points or apply any other effects of the attack until the spell’s duration has elapsed. When the spell ends, the target is immediately affected by the attack, taking damage and being affected by any additional effects. You can Dismiss this spell.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "A creature or object within range is hit by an attack.",
+    "range": "30 feet",
+    "target": "the triggering creature",
+    "duration": "1 round",
+    "saving": ""
+}

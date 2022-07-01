@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=247",
+    "name": "Read Omens",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Prediction"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Get a piece of advice about an upcoming event.",
+    "heightenable": false,
+    "description": "You peek into the future. Choose a particular goal or activity you plan to engage in within 1 week, or an event you expect might happen within 1 week. You learn a cryptic clue or piece of advice that could help with the chosen event, often in the form of a rhyme or omen.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

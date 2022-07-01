@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2665",
+    "name": "Advanced Seeker of Truths",
+    "source": "Pathfinder #164",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Eldritch Researcher Dedication; Seeker Of Truths",
+    "summary": "You have unlocked deeper secrets to uncovering and hoarding lore.",
+    "description": "You have unlocked deeper secrets to uncovering and hoarding lore. You gain an advanced domain spell from one domain you selected with Seeker of Truths. Increase the number of Focus Points in your focus pool by 1.\n\nSpecial You can take this feat up to three times, each time selecting a different advanced domain spell from a domain you selected with Seeker of Truths.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

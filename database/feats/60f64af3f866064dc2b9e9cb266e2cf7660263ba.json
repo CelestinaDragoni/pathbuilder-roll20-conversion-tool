@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2521",
+    "name": "Gaping Flesh",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fleshwarp"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your wound yawns open, appalling your attacker.",
+    "description": "Your wound yawns open, appalling your attacker. The attacker must succeed at a Fortitude saving throw against your class DC or spell DC, whichever is higher, or become sickened 1 (sickened 2 on a critical failure). It can't recover from the sickened condition while it's adjacent to you.Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
+    "economy": "reaction",
+    "trigger": "A creature you are aware of damages you with a melee Strike."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3218",
+    "name": "Slinger's Readiness",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Gunslinger Dedication",
+    "summary": "You've learned a gunslinger's tricks for staking out your territory in a fight.",
+    "description": "You've learned a gunslinger's tricks for staking out your territory in a fight. You gain the initial deed for the way you selected with Gunslinger's Dedication.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

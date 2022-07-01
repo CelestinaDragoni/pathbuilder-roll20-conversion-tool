@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1095",
+    "name": "Pack Attack",
+    "source": "Pathfinder #175",
+    "traditions": [
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You and one other target gain an uncanny coordination that helps you take down foes.",
+    "heightenable": true,
+    "description": "You and one other target gain an uncanny coordination that helps you take down foes. You and the other target flank any enemy to which you are both adjacent, whether or not you are on opposite sides of the enemy's space.\n\n------\n\nHeightened (5th) The spell can target you and up to 4 willing creatures touched.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "you and 1 willing creature",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

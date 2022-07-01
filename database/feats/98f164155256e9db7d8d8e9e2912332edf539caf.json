@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=470",
+    "name": "Improved Knockback",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 12,
+    "prereq": "Master In Athletics",
+    "summary": "Your shoves cause the target to go farther.",
+    "description": "When you successfully Shove a creature, increase both the distance you can push the creature and the distance you can move to follow along with the target by 5 feet on a success or 10 feet on a critical success. If you push the target into an obstacle, it takes bludgeoning damage equal to 6 plus your Strength modifier, or 8 plus your Strength modifier if you have legendary proficiency in Athletics.",
+    "economy": "none",
+    "trigger": ""
+}

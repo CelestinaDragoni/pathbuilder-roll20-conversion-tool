@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3467",
+    "name": "Cycle Spell",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Soul Warden Dedication",
+    "summary": "Your devotion to the cycle of souls grants you an additional divine spell.",
+    "description": "Your devotion to the cycle of souls grants you an additional divine spell. Choose from bless, disrupting weapons, or heal. You must make this selection when you take this feat and it can't be changed. Once per day, while your spiral is glowing, you can cast the selected spell as a divine innate spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=382",
+    "name": "Dirge of Doom",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Cantrip",
+        "Composition",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 3,
+    "summary": "Frighten nearby enemies.",
+    "heightenable": false,
+    "description": "Foes within the area are frightened 1. They can't reduce their frightened value below 1 while they remain in the area.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 round",
+    "saving": ""
+}

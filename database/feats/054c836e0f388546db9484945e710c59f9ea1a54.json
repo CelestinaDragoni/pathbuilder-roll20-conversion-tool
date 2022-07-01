@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1456",
+    "name": "Alchemical Discoveries",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 4,
+    "prereq": "Alchemical Sciences Methodology",
+    "summary": "You've devoted extra time in the lab to improve your knowledge of alchemy.",
+    "description": "You've devoted extra time in the lab to improve your knowledge of alchemy. You learn the formulas for two alchemical items each time you level up instead of one; these must still be elixirs or tools. The number of versatile vials you can create each day increases by 1 if you're an expert in Crafting, 2 if you're a master, or 3 if you're legendary.",
+    "economy": "none",
+    "trigger": ""
+}

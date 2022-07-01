@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=483",
+    "name": "Empty Body",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Monk",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 9,
+    "summary": "You turn ethereal, with the effects of ethereal jaunt, but you don’t need to concentrate.",
+    "heightenable": false,
+    "description": "You turn ethereal, with the effects of ethereal jaunt, but you don't need to concentrate.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=806",
+    "name": "Shroud of Night",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cantrip",
+        "Darkness",
+        "Evocation",
+        "Hex",
+        "Witch"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "Drawing your hand in a sweeping gesture, you shroud the target in a veil of night.",
+    "heightenable": false,
+    "description": "Drawing your hand in a sweeping gesture, you shroud the target in a veil of night. The target's eyes are blanketed in darkness. If you cast this hex on a willing ally (for instance, one with light blindness), the ally can choose which result it gets without rolling. Regardless of the outcome, the target is then temporarily immune for 1 minute.\n\nSuccess The target is unaffected.\nFailure The target is shrouded in murky darkness. Unless the target has darkvision, other creatures are concealed to it.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

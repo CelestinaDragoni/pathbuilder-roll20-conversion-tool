@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1424",
+    "name": "Twitchy",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You are naturally suspicious and wary of danger, especially when you suspect someone might be leading you into an ambush.",
+    "description": "You are naturally suspicious and wary of danger, especially when you suspect someone might be leading you into an ambush. You gain a +1 circumstance bonus to AC and saves against hazards, and to all of your initiative rolls. If at least one of your opponents is using Deception or Diplomacy to determine their initiative, your bonus to initiative from this feat increases to +4.Traits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

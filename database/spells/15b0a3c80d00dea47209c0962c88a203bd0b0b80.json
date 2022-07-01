@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=740",
+    "name": "Shadow's Web",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Monk"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 7,
+    "summary": "Grasping darkness surges from you, dealing 14d4 negative damage.",
+    "heightenable": true,
+    "description": "Grasping darkness surges from you, dealing 14d4 negative damage. Each creature in the area must attempt a Fortitude save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage and is enfeebled 1 for 1 round.\nFailure The creature takes full damage and is enfeebled 2 for 1 round.\nCritical Failure The creature takes double damage and is stunned 1, enfeebled 2 for 1 round, and immobilized for 1 round or until it Escapes, whichever comes first.\n\n------\n\nHeightened (+1) The negative damage increases by 2d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

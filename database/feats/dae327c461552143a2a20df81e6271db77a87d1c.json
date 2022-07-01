@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3216",
+    "name": "Basic Shooting",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Gunslinger Dedication",
+    "summary": "You gain a 1st- or 2nd-level gunslinger feat of your choice.",
+    "description": "You gain a 1st- or 2nd-level gunslinger feat of your choice.Basic Shooting Leads To...\n\nAdvanced ShootingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

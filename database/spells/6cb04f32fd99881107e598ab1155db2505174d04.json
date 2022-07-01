@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=959",
+    "name": "Ocular Overload",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Contingency",
+        "Illusion",
+        "Incapacitation",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Set a contingency to interfere with the vision of a creature attacking you.",
+    "heightenable": false,
+    "description": "Just as a creature is about to attack you, you assault them with jarring illusions, completely surrounding their eyes with blinding flashes of motion and color. When the spell is complete, you gain the Overload Vision reaction; once you use the reaction, the spell ends.\n\n Overload Vision    (concentrate) Trigger A creature within 60 feet would make an attack roll against you; Effects The triggering creature must attempt a Fortitude save.\nCritical Success The target is unaffected.\nSuccess The target is dazzled until the end of the current turn.\nFailure The target is blinded until the end of the current turn.\nCritical Failure The target is blinded until the end of the current turn and dazzled for 1 minute.",
+    "economy": "reaction",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "A creature within 60 feet would make an attack roll against you; Effects The triggering creature must attempt a Fortitude save.",
+    "range": "",
+    "target": "",
+    "duration": "24 hours",
+    "saving": ""
+}

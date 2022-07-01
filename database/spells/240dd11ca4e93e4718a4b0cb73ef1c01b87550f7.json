@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=798",
+    "name": "Evil Eye",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cantrip",
+        "Curse",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Hex",
+        "Mental",
+        "Witch"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "Your fix your eye on the target, imposing a malevolent hex.",
+    "heightenable": false,
+    "description": "Your fix your eye on the target, imposing a malevolent hex. The target becomes frightened based on the results of its Will save. This condition value can't be reduced below 1 while the spell is active and you can see the target. Regardless of the outcome, the target is then temporarily immune for 1 minute.\n\nSuccess The target is unaffected.\nFailure The target is frightened 1.\nCritical Failure The target is frightened 2.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

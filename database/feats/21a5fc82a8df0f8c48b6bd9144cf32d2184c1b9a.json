@@ -1,0 +1,20 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=837",
+    "name": "Scare to Death",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Emotion",
+        "Fear",
+        "General",
+        "Incapacitation",
+        "Skill"
+    ],
+    "level": 15,
+    "prereq": "Legendary In Intimidation",
+    "summary": "Scare a target so much, they might die.",
+    "description": "You can frighten foes so much, they might die. Attempt an Intimidation check against the Will DC of a living creature within 30 feet of you that you sense or observe and who can sense or observe you. If the target can’t hear you or doesn’t understand the language you are speaking, you take a –4 circumstance penalty. The creature is temporarily immune for 1 minute.\n\nCritical Success The target must succeed at a Fortitude save against your Intimidation DC or die. If the target succeeds at its save, it becomes frightened 2 and is fleeing for 1 round; it suffers no effect on a critical success.\nSuccess The target becomes frightened 2.\nFailure The target becomes frightened 1.\nCritical Failure The target is unaffected.Traits\n\nDeath: An effect with the death trait kills you immediately if it reduces you to 0 HP. Some death effects can bring you closer to death or slay you outright without reducing you to 0 HP.\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Fear: Fear effects evoke the emotion of fear. Effects with this trait always have the mental and emotion traits as well.General: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Incapacitation: An ability with this trait can take a character completely out of the fight or even kill them, and it’s harder to use on a more powerful character. If a spell has the incapacitation trait, any creature of more than twice the spell’s level treats the result of their check to prevent being incapacitated by the spell as one degree of success better, or the result of any check the spellcaster made to incapacitate them as one degree of success worse. If any other effect has the incapacitation trait, a creature of higher level than the item, creature, or hazard generating the effect gains the same benefits.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

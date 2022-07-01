@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=260",
+    "name": "Ultimate Mercy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 18,
+    "prereq": "Mercy",
+    "summary": "Your mercy transcends the bounds of life and death.",
+    "description": "Your mercy transcends the bounds of life and death. When you use Mercy, you can cast lay on hands on a creature that died since your last turn to return it to life. The target returns to life with 1 hit point and becomes wounded 1. You can’t use Ultimate Mercy if the triggering effect was disintegrate or a death effect.",
+    "economy": "none",
+    "trigger": ""
+}

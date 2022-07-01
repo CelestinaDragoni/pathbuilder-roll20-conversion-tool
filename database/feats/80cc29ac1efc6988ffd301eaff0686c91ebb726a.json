@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2416",
+    "name": "Defy Death",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 5,
+    "prereq": "Orc Ferocity",
+    "summary": "You're exceptionally difficult to kill.",
+    "description": "You're exceptionally difficult to kill. The DC of your recovery checks is equal to 9 + your dying value, or 8 + your dying value if you have the Toughness general feat. In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as raise dead or the resurrect ritual), you don't suffer that condition.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

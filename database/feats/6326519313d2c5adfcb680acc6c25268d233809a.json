@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1195",
+    "name": "Staff Sweep",
+    "source": "Pathfinder #151",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 6,
+    "prereq": "Staff Acrobat Dedication",
+    "summary": "You sweep your foes away with your staff.",
+    "description": "You sweep your foes away with your staff. Roll an Athletics check to Shove or Trip, and compare the result to the appropriate DCs of up to two foes, each of whom must be within your reach and no more than 5 feet apart.TraitsArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "1-action",
+    "trigger": ""
+}

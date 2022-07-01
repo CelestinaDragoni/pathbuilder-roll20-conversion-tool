@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=581",
+    "name": "Vicious Debilitations",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 10,
+    "prereq": "Ruffian Racket; Debilitating Strike",
+    "summary": "The debilitations you dish out seriously impair your foes.",
+    "description": "The debilitations you dish out seriously impair your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike. Debilitation The target gains weakness 5 to your choice of bludgeoning, piercing, or slashing damage. Debilitation The target becomes clumsy 1.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2391",
+    "name": "Vicious Snares",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 13,
+    "prereq": "Snare Crafting; Expert In Crafting",
+    "summary": "You've learned how to create traps that cause greater injuries.",
+    "description": "You've learned how to create traps that cause greater injuries. You deal an additional 1d6 precision damage with damaging snares you craft. This increases to 2d6 additional precision damage if you're legendary in Crafting.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

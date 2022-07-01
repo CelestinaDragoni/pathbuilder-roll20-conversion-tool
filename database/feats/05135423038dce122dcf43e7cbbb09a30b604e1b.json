@@ -1,0 +1,20 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=162",
+    "name": "Dragon's Rage Wings",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Instinct",
+        "Morph",
+        "Primal",
+        "Rage",
+        "Transmutation"
+    ],
+    "level": 12,
+    "prereq": "Dragon Instinct",
+    "summary": "You sprout dragon wings from your back.",
+    "description": "You sprout dragon wings from your back of the same color as your chosen dragon. While you are raging, you gain a fly Speed equal to your land Speed. If you are flying when your rage ends, you start to fall but the transformation only completes at the last moment, so you take no damage from the fall and land standing up.Dragon's Rage Wings Leads To...\n\nDragon TransformationTraitsInstinct: Instinct abilities require a specific instinct; you lose access if you perform acts anathema to your instinct.\n\nMorph: Effects that slightly alter a creature's form have the morph trait. Any Strikes specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to counteract the first (in the same manner as two polymorph effects, described in that trait).\n\nYour morph effects might also end if you are polymorphed and the polymorph effect invalidates or overrides your morph effect. The GM determines which morph effects can be used together and which can't.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.Rage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "1-action",
+    "trigger": ""
+}

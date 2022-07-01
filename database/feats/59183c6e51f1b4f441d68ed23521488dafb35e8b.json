@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2205",
+    "name": "Cross the Final Horizon",
+    "source": "Pathfinder #158",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Electricity",
+        "Evocation",
+        "Force",
+        "Sonic"
+    ],
+    "level": 20,
+    "prereq": "Sky And Heaven Stance",
+    "summary": "You Stride up to your Speed and your ki enshrouds your limbs in a terrifying stormy energy.",
+    "description": "You Stride up to your Speed and your ki enshrouds your limbs in a terrifying stormy energy, increasing the reach of your Sky and Heaven Stance unarmed attacks by 5 feet.\n\n At the end of your movement, make up to three Strikes against a target you can reach, each at a –2 penalty. Each attack counts toward your multiple attack penalty, but the multiple attack penalty doesn't increase until after you have made all your attacks. Instead of the usual slashing or piercing damage, the damage for these Strikes is either electricity or sonic, as you choose with each Strike. If you successfully hit with all three Strikes, the target is drained 3.Traits\n\nArchetype: This feat belongs to an archetype.\n\nElectricity: Effects with this trait deal electricity damage. A creature with this trait has a magical connection to electricity.Evocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Force: Effects with this trait deal force damage or create objects made of pure magical force.Sonic: An effect with the sonic trait functions only if it makes sound, meaning it has no effect in an area of silence or in a vacuum. This is different from an auditory spell, which is effective only if the target can hear it. A sonic effect might deal sonic damage. A creature with this trait has a magical connection to powerful sound.",
+    "economy": "3-action",
+    "trigger": ""
+}

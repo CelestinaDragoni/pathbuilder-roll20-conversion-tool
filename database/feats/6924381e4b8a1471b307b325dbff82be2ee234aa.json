@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1690",
+    "name": "Expand Aura",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Champion",
+        "Concentrate"
+    ],
+    "level": 16,
+    "prereq": "You Have At Least One Aura From A Champion Feat Or Feature.",
+    "summary": "You focus your divine power to extend your influence.",
+    "description": "You focus your divine power to extend your influence. Select one aura you have from a champion feat or feature, such as Aura of Courage or Aura of Life. The radius of the aura is doubled until the start of your next turn.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "1-action",
+    "trigger": ""
+}

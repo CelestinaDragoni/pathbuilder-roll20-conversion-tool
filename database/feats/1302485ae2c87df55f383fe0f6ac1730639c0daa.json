@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1913",
+    "name": "Blessed Denial",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Blessed One Dedication",
+    "summary": "You exude peace and protection, lessening a harmful condition as it falls upon an ally.",
+    "description": "You exude peace and protection, lessening a harmful condition as it falls upon an ally. Reduce the value of the condition your ally would take by 1 (to a minimum of 0). If the ally takes more than one condition at the same time, choose one to reduce.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An ally within 30 feet would become frightened, drained, enfeebled, sickened, or stupefied."
+}

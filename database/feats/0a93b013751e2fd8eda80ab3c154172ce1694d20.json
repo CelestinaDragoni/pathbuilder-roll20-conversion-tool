@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=176",
+    "name": "Vicious Evisceration",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "You make a vicious attack that maims your enemy.",
+    "description": "You make a vicious attack that maims your enemy. Make a melee Strike. If the Strike hits and deals damage, the target is drained 1, or drained 2 on a critical success.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "2-action",
+    "trigger": ""
+}

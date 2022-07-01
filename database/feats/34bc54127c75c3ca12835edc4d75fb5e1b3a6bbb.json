@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2768",
+    "name": "Friendform",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Anadi"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "The shared bond between you and your allies allows you to act on their behalf.",
+    "description": "The shared bond between you and your allies allows you to act on their behalf. During your daily preparations, you can perform a simple ritual with up to five willing Small or Medium humanoids, where participants exchange minor tokens of personal significance. As long as you hold onto a participant's token, you can assume their form with your Change Shape ability, gaining a +4 status bonus to Deception checks to pass as that person and adding your level to the check even if you're untrained. You lose access to a participant's form if they're not carrying your token or if you use the ritual again.Traits\n\nAnadi: Anadis are peaceful, reclusive humanoids who live deep within woodlands, jungles, and other untamed areas of wilderness. Their natural forms resemble humanoid spiders covered in beautiful and distinctive markings of varying colors.",
+    "economy": "none",
+    "trigger": ""
+}

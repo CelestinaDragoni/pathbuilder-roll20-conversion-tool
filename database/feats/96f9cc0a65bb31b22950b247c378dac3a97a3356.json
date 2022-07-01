@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3080",
+    "name": "Soaring Armor",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor",
+        "Modification"
+    ],
+    "level": 14,
+    "prereq": "Armor Innovation",
+    "summary": "You've managed to free your innovation from the bonds of gravity!",
+    "description": "Whether through a release of jets of flame, propeller blades, sonic bursts, streamlined aerodynamic structure, electromagnetic fields, or some combination of the above, you've managed to free your innovation from the bonds of gravity! While wearing your innovation, you gain a fly Speed equal to your land Speed.Traits\n\nModification: A feat with this trait alters the construction of your innovation. If you have the reconfigure class feature, you can retrain such a feat more easily",
+    "economy": "none",
+    "trigger": ""
+}

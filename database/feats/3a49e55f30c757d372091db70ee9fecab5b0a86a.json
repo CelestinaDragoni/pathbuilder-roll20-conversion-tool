@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=862",
+    "name": "Virtuosic Performer",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 1,
+    "prereq": "Trained In Performance",
+    "summary": "+1 with a certain type of performance.",
+    "description": "You have exceptional talent with one type of performance. You gain a +1 circumstance bonus when making a certain type of performance. If you are a master in Performance, this bonus increases to +2. Select one of the following specialties and apply the bonus when attempting Performance checks of that type. If it’s unclear whether the specialty applies, the GM decides.Virtuosic Performer\n\nSpecialtyExamples ActingDrama, pantomime, puppetry ComedyBuffoonery, joke telling, limericks DanceBallet, huara, jig, macru KeyboardsHarpsichord, organ, piano OratoryEpic, ode, poetry, storytelling PercussionChimes, drum, gong, xylophone SingingBallad, chant, melody, rhyming StringsFiddle, harp, lute, viol WindsBagpipe, flute, recorder, trumpetVirtuosic Performer Leads To...Legendary PerformerTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=488",
+    "name": "Wholeness of Body",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Healing",
+        "Monk",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "You focus your ki to heal yourself.",
+    "heightenable": true,
+    "description": "You heal yourself in one of the following ways, chosen by you when you cast the spell. You regain 8 Hit Points. You attempt to cure one poison or disease afflicting you; attempt to counteract the affliction.\n\n------\n\nHeightened (+1) If you choose to regain Hit Points, the Hit Points regained increase by 8.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

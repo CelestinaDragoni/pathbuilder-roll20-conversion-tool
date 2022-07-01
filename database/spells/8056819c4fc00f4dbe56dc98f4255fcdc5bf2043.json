@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=649",
+    "name": "Entrancing Eyes",
+    "source": "Pathfinder #154",
+    "traditions": [
+        "Arcane"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Enchantment",
+        "Mental",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Your eyes glow with an entrancing radiance that captivates those who meet your gaze.",
+    "heightenable": false,
+    "description": "Your eyes glow with an entrancing radiance that captivates those who meet your gaze. Any creature that ends its turn within the emanation must attempt a Will save.\n\nCritical Success The target is unaffected and becomes immune to this particular casting of the spell.\nSuccess The target is unaffected.\nFailure Until the end of its next turn, the target is stupefied 2 and fascinated.\nCritical Failure Until the end of its next turn, the target is stupefied 4, fascinated, and can't take reactions. In addition, all creatures and objects other than you are concealed from the target.\n\nDuring any round you Sustain the Spell, you can use a single action, which has the manipulate trait, to focus your entrancing eyes on a single creature you can see within 30 feet. This creature must immediately make a Will save against the spell as if it were ending its turn in the emanation. If the creature was already fascinated by your entrancing eyes before its save, a failed save causes it to be paralyzed for 1 round. You can’t use this action to focus on the same creature more than once per round.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

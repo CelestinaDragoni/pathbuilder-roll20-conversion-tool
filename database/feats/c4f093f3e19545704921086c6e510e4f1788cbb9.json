@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2874",
+    "name": "Sustaining Steel",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Arcane",
+        "Healing",
+        "Magus",
+        "Necromancy",
+        "Positive"
+    ],
+    "level": 10,
+    "prereq": "Arcane Cascade, Inexorable Iron Hybrid Study",
+    "summary": "You pull magic into your weapon, using its substance to transform the magic into restorative energy.",
+    "description": "You pull magic into your weapon, using its substance to transform the magic into restorative energy. You regain Hit Points equal to double the spell's level and roll to end any persistent negative damage you have.\n\n If the spell was of the necromancy school, any persistent negative damage you have ends automatically, and you can change the damage type from Arcane Cascade to positive if you wish. (Positive damage typically damages only undead or other creatures with negative healing.)Traits\n\nArcane: This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is magical.\n\nHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Positive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
+    "economy": "free_action",
+    "trigger": "You Cast a Spell using a spell slot."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2501",
+    "name": "Hard to Fool",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fetchling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You're accustomed to seeing through shifting darkness and bewildering magic.",
+    "description": "You're accustomed to seeing through shifting darkness and bewildering magic. You gain a +1 circumstance bonus on Perception checks against illusions as well as to Will saves against illusions and shadow effects.Traits\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.",
+    "economy": "none",
+    "trigger": ""
+}

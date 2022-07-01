@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3276",
+    "name": "Unbelievable Luck",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Unexpected Sharpshooter Dedication",
+    "summary": "While no one, not even you, might appear to understand why, you demonstrate a greater ability to hit your targets regardless of the obstacles in your way.",
+    "description": "While no one, not even you, might appear to understand why, you demonstrate a greater ability to hit your targets regardless of the obstacles in your way. You can use the Accidental Shot activity granted to you by the Unexpected Sharpshooter Dedication once per hour instead of once per day.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

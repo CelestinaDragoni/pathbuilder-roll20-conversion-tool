@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1292",
+    "name": "Ferocious Beasts",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 13,
+    "prereq": "Beast Trainer Or Animal Companion; Orc Ferocity",
+    "summary": "Since ancient times, the mightiest orc beast tamers would draw out the true fighting spirit of their companion beasts by feeding the creatures a draft incorporating the orc's own blood.",
+    "description": "Since ancient times, the mightiest orc beast tamers would draw out the true fighting spirit of their companion beasts by feeding the creatures a draft incorporating the orc's own blood. Animal companions or bonded animals you have gain the Orc Ferocity feat, and they gain a reaction they can use only for Orc Ferocity. If you have the Undying Ferocity ancestry feat, all animal companions or bonded animals you have also gain the benefits of that feat when using the Orc Ferocity reaction.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

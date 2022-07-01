@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2223",
+    "name": "Spiritual Explorer",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Pathfinder Agent Dedication",
+    "summary": "You're familiar with the danger that lingering spirits can pose to an unwary adventurer.",
+    "description": "You're familiar with the danger that lingering spirits can pose to an unwary adventurer, and you're particularly attuned to their presence. Even if you aren't Searching in exploration mode, you can attempt a check to find haunts that normally require you to Search for them. You still need to meet any other requirements to find a particular haunt.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

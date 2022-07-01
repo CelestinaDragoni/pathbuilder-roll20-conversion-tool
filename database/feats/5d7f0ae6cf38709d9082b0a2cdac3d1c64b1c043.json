@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2034",
+    "name": "Rope Runner",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Pirate Dedication; Trained In Acrobatics And Trained In Athletics",
+    "summary": "You run and climb across ropes and rigging almost as easily as on the ground.",
+    "description": "You run and climb across ropes and rigging almost as easily as on the ground. You gain a climb Speed of 15 feet, but only on ship's rigging or similar ropes. Whenever you succeed at an Athletics check to Climb a rope or an Acrobatics check to Balance on a rope, you get a critical success instead. You aren't flat-footed while Climbing or Balancing on a rope.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=691",
+    "name": "Fungal Infestation",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Plant poisonous fungal growths in a creature.",
+    "heightenable": true,
+    "description": "Toxic spores swarm over creatures in the area, causing them to erupt in grotesque fungal growths. These noxious growths deal 2d6 persistent poison damage, and each creature must attempt a Fortitude save.\n\nCritical Success The creature is unaffected.\nSuccess The target takes half the persistent poison damage.\nFailure The target takes the full persistent poison damage. While it is taking this persistent poison damage, it has weakness 1 to fire and weakness 1 to slashing.\nCritical Failure As failure, but double the persistent poison damage. While it is taking this persistent poison damage, it has weakness 2 to fire and weakness 2 to slashing.\n\n------\n\nHeightened (+2) The persistent damage increases by 2d6, and the weakness increases by 1, or by 2 on a critical failure.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

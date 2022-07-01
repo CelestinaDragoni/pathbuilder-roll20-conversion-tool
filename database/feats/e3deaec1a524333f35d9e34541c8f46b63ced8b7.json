@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1141",
+    "name": "Shoulder Catastrophe",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Swordmaster Dedication",
+    "summary": "You’ve trained to protect your allies by diverting the worst attacks to yourself.",
+    "description": "You’ve trained to protect your allies by diverting the worst attacks to yourself. The enemy doesn’t double the damage from the triggering Strike but instead applies the normal damage to both you and your ally. Both of you take any effects that would happen on a hit that dealt damage, such as poison, but neither of you are subject to any effects that would happen only on a critical success.Shoulder Catastrophe Leads To...\n\nStave Off CatastropheTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An enemy critically succeeds at a Strike against an adjacent ally."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3392",
+    "name": "Choking Smoke",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Smoldering Explosion",
+    "summary": "When you cast fireball, you can modify it to create a cloud of smoking smoke.",
+    "description": "When you cast fireball heightened to at least 6th level, you can modify the spell's standard effects as follows: Reduce the spell's damage by 6d6. Your fireball leaves behind a lingering cloud of toxic smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of stinking cloud.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1929",
+    "name": "Specialized Mount",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Incredible Mount",
+    "summary": "You've trained your mount to perform in unusual or even extreme circumstances, granting it abilities far beyond others of its kind.",
+    "description": "You've trained your mount to perform in unusual or even extreme circumstances, granting it abilities far beyond others of its kind. Your mount gains one specialization of your choice.\n\nSpecial You can select this feat up to three times. Each time, add a different specialization to your mount. You mount can't have more than three specializations.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

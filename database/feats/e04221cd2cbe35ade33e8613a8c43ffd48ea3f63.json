@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1632",
+    "name": "Hymn of Healing",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You learn the hymn of healing composition spell (page 228), which imbues your music with rich melodies that help your allies recover from harm.",
+    "description": "You learn the hymn of healing composition spell, which imbues your music with rich melodies that help your allies recover from harm.",
+    "economy": "none",
+    "trigger": ""
+}

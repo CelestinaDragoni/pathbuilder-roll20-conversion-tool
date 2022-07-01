@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1482",
+    "name": "Just the Facts",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 20,
+    "prereq": "Thorough Research",
+    "summary": "You fundamentally understand everything to the point where your research can't possibly be wrong.",
+    "description": "You fundamentally understand everything to the point where your research can't possibly be wrong. You are permanently quickened and can use the extra action to Recall Knowledge. Your checks to Recall Knowledge are no longer secret. When you Recall Knowledge, you use the outcome for one degree of success better than the result of your check, and if an effect (such as Dubious Knowledge) would give you inaccurate information from your Recall Knowledge check, you know which information is inaccurate. When one of your allies Recalls Knowledge and gains false information, you also know that information is inaccurate if they share it with you.",
+    "economy": "none",
+    "trigger": ""
+}

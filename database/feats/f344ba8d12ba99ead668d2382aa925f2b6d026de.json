@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1792",
+    "name": "Far Throw",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "When you Strike with a thrown weapon, you take only a –1 penalty for each additional range increment between you and the target, rather than a –2 penalty.",
+    "description": "When you Strike with a thrown weapon, you take only a –1 penalty for each additional range increment between you and the target, rather than a –2 penalty.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2853",
+    "name": "Devastating Spellstrike",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 4,
+    "prereq": "Arcane Cascade, Inexorable Iron Hybrid Study, Spellstrike",
+    "summary": "Your Spellstrike sweeps are so wide and devastating, they splash onto nearby foes.",
+    "description": "Your Spellstrike sweeps are so wide and devastating, they splash onto nearby foes. Make a Spellstrike. Foes adjacent to the target take splash damage equal to 2 + the extra damage from Arcane Cascade. The damage type is the same as Arcane Cascade; if the spell already deals splash damage of the same type, combine the damage together before applying weaknesses or resistances.",
+    "economy": "2-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2430",
+    "name": "Uncanny Cheeks",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You squirrel away useful objects and seem to retrieve them at just the right time.",
+    "description": "You squirrel away useful objects and seem to retrieve them at just the right time. You gain the Prescient Consumable and Prescient Planner feats, except that you always withdraw the objects from your cheek pouches. This means the object you retrieve must fit in your cheek pouches; this is generally an item of negligible Bulk unless you also have the Cheek Pouches feat.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

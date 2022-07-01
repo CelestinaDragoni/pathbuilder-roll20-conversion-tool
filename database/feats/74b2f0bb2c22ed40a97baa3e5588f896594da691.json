@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=125",
+    "name": "Miracle Worker",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "Your alchemical mastery can resuscitate the recently slain.",
+    "description": "Your alchemical mastery can resuscitate the recently slain. You can administer a true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.",
+    "economy": "none",
+    "trigger": ""
+}

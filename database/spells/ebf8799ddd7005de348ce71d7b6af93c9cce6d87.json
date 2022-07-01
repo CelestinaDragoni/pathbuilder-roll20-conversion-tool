@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=184",
+    "name": "Mariner's Curse",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Curse",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Infect a creature with the curse of the rolling sea.",
+    "heightenable": false,
+    "description": "You afflict the target with the curse of the roiling, unforgiving sea. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target becomes sickened 1. Reducing its sickened condition to 0 ends the curse.\nFailure The target becomes sickened 1 and can't reduce its sickened condition below 1 while the curse remains. The curse can be lifted by remove curse or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also slowed 1.\nCritical Failure As failure, but the target becomes sickened 2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

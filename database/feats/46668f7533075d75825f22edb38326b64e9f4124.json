@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1530",
+    "name": "Leading Dance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Move",
+        "Swashbuckler"
+    ],
+    "level": 4,
+    "prereq": "Trained In Performance",
+    "summary": "You sweep your foe into your dance.",
+    "description": "You sweep your foe into your dance. Attempt a Performance check against an adjacent enemy's Will DC. If your swashbuckler's style is battledancer and you succeed, you gain panache.\n\nCritical Success Your foe is swept up in your dance. You both move up to 10 feet in the same direction, remaining adjacent to one another. Your movement doesn't trigger reactions from the target (and the target's movement doesn't trigger reactions because it's forced movement).\nSuccess As critical success, but you both move only 5 feet.\nFailure The foe doesn't follow your steps. You can move 5 feet if you choose, but this movement triggers reactions normally.\nCritical Failure You stumble, falling prone in your space.Traits\n\nMove: An action with this trait involves moving from one space to another.",
+    "economy": "1-action",
+    "trigger": ""
+}

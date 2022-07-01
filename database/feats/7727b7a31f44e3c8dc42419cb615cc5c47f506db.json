@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1636",
+    "name": "Song of Strength",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 2,
+    "prereq": "Warrior Muse",
+    "summary": "Your performances inspire strength in your allies.",
+    "description": "Your performances inspire strength in your allies. You learn the song of strength composition cantrip.",
+    "economy": "none",
+    "trigger": ""
+}

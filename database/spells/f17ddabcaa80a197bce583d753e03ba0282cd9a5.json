@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=932",
+    "name": "Infectious Enthusiasm",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Encourage yourself and an ally to improve one roll apiece.",
+    "heightenable": false,
+    "description": "With enchanted gusto, you encourage yourself to get things done and share your motivation with your allies. You gain a +1 status bonus to your choice of attack rolls, Will saves, or Charisma-based skill checks. During the spell's duration, an ally who observed you Casting this Spell and was within 30 feet when you did so can take a single action, which has the concentrate trait, to gain the same bonus you chose until the start of its next turn.\n\n Using this spell to influence someone in a social situation is typically considered a faux pas, negating the benefit on Charisma-based skills if the subject of the check observed you casting the spell.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 round",
+    "saving": ""
+}

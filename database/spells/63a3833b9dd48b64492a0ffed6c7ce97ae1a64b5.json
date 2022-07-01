@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=96",
+    "name": "Eclipse Burst",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cold",
+        "Darkness",
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "A globe of freezing darkness explodes in the area.",
+    "heightenable": true,
+    "description": "A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to creatures in the area, plus 8d4 additional negative damage to living creatures. Each creature in the area must attempt a Reflex save.\n\n If the globe overlaps with an area of magical light or affects a creature affected by magical light, eclipse burst attempts to counteract the light effect.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage.\nCritical Failure The creature takes double damage and becomes blinded by the darkness for an unlimited duration.\n\n------\n\nHeightened (+1) The cold damage increases by 1d10 and the negative damage against the living increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=616",
+    "name": "Bloodline Resistance",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "Your magical blood makes you more resistant to magic.",
+    "description": "Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and magical effects.",
+    "economy": "none",
+    "trigger": ""
+}

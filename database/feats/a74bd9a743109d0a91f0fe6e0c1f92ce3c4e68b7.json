@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1661",
+    "name": "Discordant Voice",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard",
+        "Evocation",
+        "Sonic"
+    ],
+    "level": 18,
+    "prereq": "Inspire Courage",
+    "summary": "Your inspire courage lets loose a discordant shriek that imbues your allies' attacks with powerful sonic reverberations.",
+    "description": "Your inspire courage lets loose a discordant shriek that imbues your allies' attacks with powerful sonic reverberations. While your allies are affected by your inspire courage, their weapon Strikes and unarmed attacks deal an additional 1d6 sonic damage.Traits\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.\n\nSonic: An effect with the sonic trait functions only if it makes sound, meaning it has no effect in an area of silence or in a vacuum. This is different from an auditory spell, which is effective only if the target can hear it. A sonic effect might deal sonic damage. A creature with this trait has a magical connection to powerful sound.",
+    "economy": "none",
+    "trigger": ""
+}

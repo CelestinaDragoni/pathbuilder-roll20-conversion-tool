@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=87",
+    "name": "Orc Weapon Carnage",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 5,
+    "prereq": "Orc Weapon Familiarity",
+    "summary": "You are brutally efficient with the weapons of your orc ancestors.",
+    "description": "You are brutally efficient with the weapons of your orc ancestors. Whenever you critically hit using a falchion, a greataxe, or an orc weapon, you apply the weapon's critical specialization effect.\nTraits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

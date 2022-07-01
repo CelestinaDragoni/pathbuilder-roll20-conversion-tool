@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=557",
+    "name": "Light of Revelation",
+    "source": "Character Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Light",
+        "Revelation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "Shed light, granting a bonus to Perception.",
+    "heightenable": false,
+    "description": "You shed a luminous aura, illuminating a 30-foot radius with bright light. You and all allies in this area gain a +1 status bonus to Perception checks to detect hidden or undetected creatures, as well as hidden objects, doors, and other features.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30-foot emanation",
+    "target": "",
+    "duration": "5 minutes",
+    "saving": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=696",
+    "name": "Ill Omen",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Curse",
+        "Divination",
+        "Misfortune"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Curse a creature with misfortune.",
+    "heightenable": false,
+    "description": "The target is struck with misfortune, which throws it off balance. The target must attempt a Will save.\n\nSuccess The target is unaffected.\nFailure The first time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.\nCritical Failure Every time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 round",
+    "saving": ""
+}

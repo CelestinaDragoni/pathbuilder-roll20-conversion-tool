@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1184",
+    "name": "Sacred Ki",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 4,
+    "prereq": "Ki Strike; You Follow A Deity",
+    "summary": "The power of your faith suffuses your ki",
+    "description": "The power of your faith suffuses your ki. When you select this feat, choose chaos, evil, good, or law. Your choice must match one of your deity’s alignment components.\n\n When you cast the ki strike focus spell and damage a creature whose alignment is opposite your chosen alignment, you can choose for the ki strike damage to be of the chosen type. Additionally, you can substitute the damage from ki blast (or other ki spells that deal force damage, at the GM’s discretion) with damage of your chosen alignment.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2584",
+    "name": "Elemental Bulwark",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Suli"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You call upon the corresponding elements of your suli heritage to resist the effect.",
+    "description": "You call upon the corresponding elements of your suli heritage to resist the effect. You gain resistance 5 against the triggering damage.Elemental Bulwark Leads To...\n\nImproved Elemental BulwarkTraitsSuli: Sulis are planar scions descended from jann.",
+    "economy": "reaction",
+    "trigger": "An enemy is about to damage you with cold, electricity, or fire, or with a spell that has the air, earth, fire, or water trait."
+}

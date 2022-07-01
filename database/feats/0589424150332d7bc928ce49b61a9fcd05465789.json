@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=999",
+    "name": "Bouncy Goblin",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 1,
+    "prereq": "Unbreakable Goblin Heritage",
+    "summary": "You have a particular elasticity that makes it easy for you to bounce and squish.",
+    "description": "You have a particular elasticity that makes it easy for you to bounce and squish. You gain the trained proficiency rank in Acrobatics (or another skill of your choice, if you were already trained in Acrobatics). You also gain a +2 circumstance bonus to Acrobatics checks to Tumble Through a foe’s space.Bouncy Goblin Leads To...\n\nRoll with ItTraitsGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

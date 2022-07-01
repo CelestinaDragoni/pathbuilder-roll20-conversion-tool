@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1614",
+    "name": "Follow-Up Assault",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "Even in the face of failure you press the attack, determined to succeed.",
+    "description": "Even in the face of failure you press the attack, determined to succeed. Make a Strike with the same weapon, adding the effects of the backswing and forceful weapon traits.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1344",
+    "name": "Bloodletting Fangs",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 9,
+    "prereq": "Fangs Unarmed Attack",
+    "summary": "You emulate your vampiric parent's techniques for drawing blood from a victim.",
+    "description": "You emulate your vampiric parent's techniques for drawing blood from a victim. Your fangs Strikes deal an additional 1d4 persistent bleed damage on a critical hit.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

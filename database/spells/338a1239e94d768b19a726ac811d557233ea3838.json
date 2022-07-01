@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=836",
+    "name": "Ordained Purpose",
+    "source": "Pathfinder #161",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You call upon the authority of cosmic forces of order, overwhelming creatures with remorse and agony for acting outside of their station and purpose.",
+    "heightenable": true,
+    "description": "You call upon the authority of cosmic forces of order, overwhelming creatures with remorse and agony for acting outside of their station and purpose. Enemies in the area take 4d6 mental damage and must attempt a Will save. A creature that has lost abilities as a result of performing acts anathema to its deity or beliefs (such as a champion who violated their tenets and hasn't atoned) uses the outcome one degree of success worse than the result of its saving throw. At the GM's discretion, a creature currently filling its appointed station and purpose (such as a farmer working in a field or a criminal in the act of committing a crime) uses the outcome one degree of success better than the result of its saving throw.\n\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and must Drop Prone as its first action on its next turn.\nCritical Failure The creature takes double damage, must Drop Prone as its first action on its next turn, and can't Stand during its next turn.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=315",
+    "name": "Widen Spell",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Druid",
+        "Manipulate",
+        "Metamagic",
+        "Oracle",
+        "Sorcerer",
+        "Witch",
+        "Wizard"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You manipulate the energy of your spell, causing it to spread out and affect a wider area.",
+    "description": "You manipulate the energy of your spell, causing it to spread out and affect a wider area. If the next action you use is to Cast a Spell that has an area of a burst, cone, or line and does not have a duration, increase the area of that spell. Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet (a burst with a smaller radius is not affected). Add 5 feet to the length of a cone or line that is normally 15 feet long or smaller, and add 10 feet to the length of a larger cone or line.Traits\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

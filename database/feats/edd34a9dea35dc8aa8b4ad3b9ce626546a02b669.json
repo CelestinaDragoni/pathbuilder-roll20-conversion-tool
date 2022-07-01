@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=91",
+    "name": "Orc Weapon Expertise",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 13,
+    "prereq": "Orc Weapon Familiarity",
+    "summary": "Your orc affinity blends with your class training, granting you great skill with orc weapons.",
+    "description": "Your orc affinity blends with your class training, granting you great skill with orc weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the falchion, the greataxe, and all orc weapons in which you are trained.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

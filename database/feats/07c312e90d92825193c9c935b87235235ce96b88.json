@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=425",
+    "name": "Twinned Defense (Fighter)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Stance"
+    ],
+    "level": 16,
+    "prereq": "Twin Parry",
+    "summary": "You’re always ready to use your off-hand weapon to interfere with attacks against you.",
+    "description": "You’re always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the Twin Parry action.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

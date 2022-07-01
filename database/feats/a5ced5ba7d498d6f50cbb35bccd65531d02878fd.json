@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2031",
+    "name": "Resuscitate",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Healing",
+        "Manipulate"
+    ],
+    "level": 16,
+    "prereq": "Medic Dedication; Legendary In Medicine",
+    "summary": "You can use Medicine to resuscitate the dead.",
+    "description": "You can use Medicine to resuscitate the dead. Attempt a DC 40 Medicine check to revive a dead creature that has been dead for no more than 3 rounds. If you succeed, the target returns to life with the effects of raise dead, except it still has the wounded condition it had before dying, increased by 1 (or wounded 1 if it wasn't wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.Traits\n\nArchetype: This feat belongs to an archetype.\n\nHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.Manipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "3-action",
+    "trigger": ""
+}

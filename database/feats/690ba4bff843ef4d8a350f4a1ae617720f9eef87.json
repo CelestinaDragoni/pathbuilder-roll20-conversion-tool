@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3180",
+    "name": "Smoke Curtain",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You load an extra dose of powder into your shot, causing it to belch a cloud of smoke.",
+    "description": "You load an extra dose of powder into your shot, causing it to belch a cloud of smoke. You make a Strike with your firearm and create a cloud of smoke in a 20-foot emanation centered on your location. Creatures are concealed while within the smoke, and creatures outside the area are concealed to creatures within the smoke. The smoke dissipates at the start of your next turn. If your Strike is a critical failure, your firearm misfires.",
+    "economy": "2-action",
+    "trigger": ""
+}

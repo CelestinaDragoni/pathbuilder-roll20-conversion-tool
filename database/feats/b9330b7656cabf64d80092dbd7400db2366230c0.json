@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1807",
+    "name": "Swift Elusion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 16,
+    "prereq": "Legendary In Acrobatics",
+    "summary": "Attempt an Acrobatics check against the foe's Reflex DC.",
+    "description": "Attempt an Acrobatics check against the foe's Reflex DC. If you succeed, either Stride to a different space adjacent to the foe or move the foe to a different space adjacent to you.",
+    "economy": "reaction",
+    "trigger": "A foe ends its movement adjacent to you."
+}

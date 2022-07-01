@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=336",
+    "name": "Healing Transformation",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid",
+        "Metamagic"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You can take advantage of shapechanging magic to close wounds and patch injuries.",
+    "description": "You can take advantage of shapechanging magic to close wounds and patch injuries. If your next action is to cast a non-cantrip polymorph spell that targets only one creature, your polymorph spell also restores 1d6 Hit Points per spell level to that creature. This is a healing effect.Traits\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

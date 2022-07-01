@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=335",
+    "name": "Telepathic Bond",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Link minds with willing creatures to communicate telepathically at great distances.",
+    "heightenable": false,
+    "description": "The targets can communicate telepathically with any or all of the other targets from any point on the same planet.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "you and up to 4 willing creatures touched",
+    "duration": "8 hours",
+    "saving": ""
+}

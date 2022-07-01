@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3010",
+    "name": "Shadow Spells",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Shadowcaster Dedication",
+    "summary": "Hidden darkness whispers to you, teaching you secrets of shadow beyond other spellcasters of your tradition.",
+    "description": "Hidden darkness whispers to you, teaching you secrets of shadow beyond other spellcasters of your tradition. Add replicate, shadow army,shadow blast, shadow projectile, shadow raid, shadow siphon, and shadow walk to your spell list. You can thus potentially learn these spells even if they aren't normally on your tradition's spell list.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

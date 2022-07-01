@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=427",
+    "name": "Hurtling Stone",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Attack",
+        "Cleric",
+        "Earth",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You evoke a magical stone and throw it, with your god’s presence guiding your aim.",
+    "heightenable": true,
+    "description": "You evoke a magical stone and throw it, with your god's presence guiding your aim. Make a spell attack roll against the target. The stone deals bludgeoning damage equal to 1d6 plus your Strength modifier.\n\nCritical Success The stone deals double damage.\nSuccess The stone deals full damage.\n\n------\n\nHeightened (+1) The stone's damage increases by 1d6.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

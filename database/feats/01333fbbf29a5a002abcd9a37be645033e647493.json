@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1656",
+    "name": "Triumphant Inspiration",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 14,
+    "prereq": "Warrior Muse",
+    "summary": "With a triumphant shout, you inspire your allies.",
+    "description": "With a triumphant shout, you inspire your allies. You cast a composition cantrip you know that normally takes a single action to cast.",
+    "economy": "free_action",
+    "trigger": "You critically hit a foe with a melee weapon Strike or a melee unarmed attack."
+}

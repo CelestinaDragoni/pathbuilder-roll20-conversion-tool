@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1475",
+    "name": "Strategic Bypass",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "Your plans account for your foes' resistances, enabling you to strike a telling blow.",
+    "description": "Your plans account for your foes' resistances, enabling you to strike a telling blow. When you hit with a Strike on which you substituted your attack roll due to Devising a Stratagem, you ignore an amount of resistance equal to your Intelligence modifier for each resistance that applies against your attack.",
+    "economy": "none",
+    "trigger": ""
+}

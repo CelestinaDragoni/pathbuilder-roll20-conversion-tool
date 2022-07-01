@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=107",
+    "name": "Faerie Fire",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Colorful light prevents creatures from being concealed or invisible.",
+    "heightenable": false,
+    "description": "All creatures in the area when you cast the spell are limned in colorful, heatless fire of a color of your choice for the duration. Visible creatures can't be concealed while affected by faerie fire. If the creatures are invisible, they are concealed while affected by faerie fire, rather than being undetected.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "5 minutes",
+    "saving": ""
+}

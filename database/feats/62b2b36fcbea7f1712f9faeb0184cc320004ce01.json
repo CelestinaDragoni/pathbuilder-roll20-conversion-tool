@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=24",
+    "name": "Elven Weapon Expertise",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 13,
+    "prereq": "Elven Weapon Familiarity",
+    "summary": "Your elven affinity blends with your class training, granting you great skill with elven weapons.",
+    "description": "Your elven affinity blends with your class training, granting you great skill with elven weapons. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in longbows, composite longbows, longswords, rapiers, shortbows, composite shortbows, and all elf weapons in which you are trained.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

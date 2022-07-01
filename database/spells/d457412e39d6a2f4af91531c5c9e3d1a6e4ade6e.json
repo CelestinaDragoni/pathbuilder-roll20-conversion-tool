@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=143",
+    "name": "Gust of Wind",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Air",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Wind blows out fires and knocks back objects and creatures.",
+    "heightenable": false,
+    "description": "A violent wind issues forth from your palm, blowing from the point where you are when you cast the spell to the line's opposite end. The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light Bulk or less around, and pushes larger objects. Large or smaller creatures in the area must attempt a Fortitude save. Large or smaller creatures that later move into the gust must attempt the save on entering.\n\nCritical Success The creature is unaffected.\nSuccess The creature can't move against the wind.\nFailure The creature is knocked prone. If it was flying, it suffers the effects of critical failure instead.\nCritical Failure The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "until the start of your next turn",
+    "saving": "Fortitude"
+}

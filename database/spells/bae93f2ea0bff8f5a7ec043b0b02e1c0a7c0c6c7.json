@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=491",
+    "name": "Aberrant Whispers",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Auditory",
+        "Enchantment",
+        "Mental",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You utter phrases in an unknown tongue, assaulting the minds of those nearby.",
+    "heightenable": true,
+    "description": "You utter phrases in an unknown tongue, assaulting the minds of those nearby. Each target must attempt a Will save. Regardless of the result of its save, each target is then temporarily immune for 1 minute. You can increase the number of actions it takes to Cast the Spell (to a maximum of 3 actions total). For each additional action, increase the emanation's radius by 5 feet, to a maximum of 10 extra feet for 3 actions.\n\nSuccess The target is unaffected.\nFailure The target is stupefied 2.\nCritical Failure The target is confused.\n\n------\n\nHeightened (+3) The initial radius increases by 5 feet.",
+    "economy": "1-to-3-actions",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "each foe in the area",
+    "duration": "1 round",
+    "saving": "Will"
+}

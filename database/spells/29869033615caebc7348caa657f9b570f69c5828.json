@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=973",
+    "name": "Prismatic Armor",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Multicolored armor dazzles foes and protects against many damage types.",
+    "heightenable": true,
+    "description": "You wrap the target in armor made of multicolored light. It functions as chromatic armor that is all colors (granting resistance 5 to acid, electricity, fire, force, mental, poison, and sonic). An attacker that critically fails on its saving throw against the spell is blinded rather than dazzled.\n\n------\n\nHeightened (9th) The resistances increase to 10 each.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "1 minute",
+    "saving": ""
+}

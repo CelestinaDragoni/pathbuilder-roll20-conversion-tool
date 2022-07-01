@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=170",
+    "name": "Whirlwind Strike",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Fighter",
+        "Flourish",
+        "Open"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "You attack all nearby adversaries.",
+    "description": "You attack all nearby adversaries. Make a melee Strike against each enemy within your melee reach. Each attack counts toward your multiple attack penalty, but do not increase your penalty until you have made all your attacks.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
+    "economy": "3-action",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=465",
+    "name": "Unity",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You put up a united defense.",
+    "heightenable": false,
+    "description": "You put up a united defense. Each ally can use your saving throw modifier instead of its own against the triggering spell. Each ally decides individually which modifier to use.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "You and 1 or more allies within range are targeted by a spell or ability that allows a saving throw.",
+    "range": "30 feet",
+    "target": "each ally targeted by the triggering spell",
+    "duration": "",
+    "saving": ""
+}

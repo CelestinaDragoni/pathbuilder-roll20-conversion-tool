@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=582",
+    "name": "Penumbral Shroud",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Darkness",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You envelop the target in a shroud of shadow.",
+    "heightenable": false,
+    "description": "You envelop the target in a shroud of shadow. The target perceives light as one step lower than it actually is (bright light becomes dim light, for example), affecting their ability to sense creatures and objects accordingly. The shroud also provides the target a +1 status bonus to saving throws against light effects. While this effect is helpful to creatures sensitive to light, if the creature is unwilling, it can attempt a Reflex save to avoid the shroud and reduce the effect.\n\nCritical Success The target is unaffected.\nSuccess The effect lasts for 1 round\nFailure The effect lasts its normal duration.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

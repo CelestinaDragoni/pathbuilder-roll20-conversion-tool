@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1409",
+    "name": "Know Your Own",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've spent countless hours studying the history of elves on your world and beyond and are a studied expert in your people's ways.",
+    "description": "You've spent countless hours studying the history of elves on your world and beyond and are a studied expert in your people's ways. If you critically fail a check to Recall Knowledge about elves, elven society, or elven history, you get a failure instead.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

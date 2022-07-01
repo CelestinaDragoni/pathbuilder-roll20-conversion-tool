@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=144",
+    "name": "Animal Skin",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Instinct",
+        "Morph",
+        "Primal",
+        "Transmutation"
+    ],
+    "level": 6,
+    "prereq": "Animal Instinct",
+    "summary": "When you are raging and unarmored, your skin transforms into a thick hide.",
+    "description": "Your proficiency in unarmored defense increases to expert. When you are raging and unarmored, your skin transforms into a thick hide. You gain a +2 item bonus to AC (+3 if you have the greater juggernaut class feature). The thickness of your hide gives you a Dexterity modifier cap to your AC of +3. This item bonus to AC is cumulative with armor potency runes on your explorer's clothing, mage armor, and bracers of armor.Traits\n\nInstinct: Instinct abilities require a specific instinct; you lose access if you perform acts anathema to your instinct.\n\nMorph: Effects that slightly alter a creature's form have the morph trait. Any Strikes specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to counteract the first (in the same manner as two polymorph effects, described in that trait).\n\nYour morph effects might also end if you are polymorphed and the polymorph effect invalidates or overrides your morph effect. The GM determines which morph effects can be used together and which can't.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=804",
+    "name": "Phase Familiar",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Hex",
+        "Witch"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You draw upon your patron's power to momentarily shift your familiar from its solid, physical form into an ephemeral version of itself shaped of mist.",
+    "heightenable": true,
+    "description": "You draw upon your patron's power to momentarily shift your familiar from its solid, physical form into an ephemeral version of itself shaped of mist. Your familiar gains resistance 5 to all damage and is immune to precision damage. These apply only against the triggering damage.\n\n------\n\nHeightened (+1) Increase the resistance by 2.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "Your familiar would take damage.",
+    "range": "60 feet",
+    "target": "your familiar",
+    "duration": "",
+    "saving": ""
+}

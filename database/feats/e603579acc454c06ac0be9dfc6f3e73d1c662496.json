@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1180",
+    "name": "Evangelize",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "General",
+        "Linguistic",
+        "Mental",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "You Follow A Deity Or Philosophy; Master In Diplomacy",
+    "summary": "You point out a detail that incontrovertibly supports your faith, causing a listener’s mind to whirl",
+    "description": "You point out a detail that incontrovertibly supports your faith, causing a listener’s mind to whirl. Attempt a Diplomacy check and compare the result to the Will DC of a single target that can hear you and understands your language; that target is then temporarily immune to Evangelize with respect to your deity or philosophy for 1 day. A creature that already agrees with you is unaffected, and at the GM’s discretion, a target that genuinely changes its perspective to support your faith as a result of the argument is also otherwise unaffected.\n\nCritical Success The target is stupefied 2 for 1 round.\nSuccess The target is stupefied 1 for 1 round.\nFailure The target is unaffected.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Linguistic: An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

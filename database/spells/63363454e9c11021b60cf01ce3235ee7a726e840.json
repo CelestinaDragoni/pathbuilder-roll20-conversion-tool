@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=995",
+    "name": "Shadow Projectile",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Shadow",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "React when an ally makes a ranged attack to create a shadow double of the attack, distracting and damaging the foe.",
+    "heightenable": true,
+    "description": "You create an illusory duplicate of your ally's ranged attack to confuse your opponents. You launch an illusory double of your ally's projectile or spell at the same target, leaving the enemy unsure which attack to avoid. The target takes 3d8 mental damage, depending on its Will save. Regardless of the result of its save, it's temporarily immune to shadow projectile spells for 1 hour.\n\nCritical Success The creature is unaffected.\nSuccess The creature is flat-footed against the triggering attack.\nFailure The creature is flat-footed against the triggering attack and takes full damage from your illusory projectile.\nCritical Failure As failure, but double damage.\n\n------\n\nHeightened (+2) The damage increases by 1d8.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "an ally within 20 feet of you makes a ranged attack roll",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

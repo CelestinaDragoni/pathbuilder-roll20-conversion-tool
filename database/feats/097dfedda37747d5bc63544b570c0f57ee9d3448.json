@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2837",
+    "name": "Renewing Quills",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Shisk"
+    ],
+    "level": 5,
+    "prereq": "Quillcoat Shisk Heritage",
+    "summary": "Your spines grow back much faster than other shisks.",
+    "description": "Your spines grow back much faster than other shisks. You can use the Barbed Quills reaction once every 10 minutes.Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
+    "economy": "none",
+    "trigger": ""
+}

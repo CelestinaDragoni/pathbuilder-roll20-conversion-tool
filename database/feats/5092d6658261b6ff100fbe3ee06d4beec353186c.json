@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2364",
+    "name": "Vanth's Weapon Expertise",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Duskwalker"
+    ],
+    "level": 13,
+    "prereq": "Vanth's Weapon Familiarity",
+    "summary": "Vanths themselves recognize you as an honorary reaper.",
+    "description": "Vanths themselves recognize you as an honorary reaper. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in bo staves, longbows, composite longbows, scythes, and staves.Traits\n\nDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+    "economy": "none",
+    "trigger": ""
+}

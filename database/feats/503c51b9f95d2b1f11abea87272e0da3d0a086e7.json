@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1508",
+    "name": "Divine Effusion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oracle"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "The power of your mystery surges through you like a font of divine energy, even when your own magic dwindles.",
+    "description": "The power of your mystery surges through you like a font of divine energy, even when your own magic dwindles. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell level; the two spells you cast with this feat must be of different spell levels.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=435",
+    "name": "Nature's Bounty",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Conjuration",
+        "Plant",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "A palm-sized raw fruit or vegetable appears in your open hand.",
+    "heightenable": true,
+    "description": "A palm-sized raw fruit or vegetable appears in your open hand. You choose the specific type of food. A creature can consume the food with an Interact action to regain 3d10+12 Hit Points and be nourished as if it had eaten a meal. If uneaten, the food rots and crumbles to dust after 1 minute.\n\n------\n\nHeightened (+1) The Hit Points restored increase by 6.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

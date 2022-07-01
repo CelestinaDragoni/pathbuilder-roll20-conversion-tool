@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=784",
+    "name": "Heart's Desire",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Emotion",
+        "Illusion",
+        "Mental",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You surround your target with wondrous illusions of their greatest desires, which distract them from reality.",
+    "heightenable": true,
+    "description": "You surround your target with wondrous illusions of their greatest desires, which distract them from reality. The target must attempt a Will save.\n\nCritical Success The target disbelieves the illusion and is unaffected.\nSuccess For 1 round, the target is stupefied 2 and takes a –2 status penalty to any checks it makes to determine the effects of reactions.\nFailure For 1 minute, the target is stupefied 2 and can't use reactions.\nCritical Failure As failure, and all spaces are difficult terrain for the target.\n\n------\n\nHeightened (+2) You can target one additional creature.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

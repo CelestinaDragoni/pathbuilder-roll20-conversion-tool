@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1370",
+    "name": "Lifesense",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Divine",
+        "Duskwalker"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You have a limited ability to sense life force, like your psychopomp forebears.",
+    "description": "You have a limited ability to sense life force, like your psychopomp forebears. You gain lifesense as an imprecise sense with a range of 10 feet. This allows you to sense the life force within living creatures and its counterforce that animates the undead, though you can't distinguish between the two.Traits\n\nDivination: The divination school of magic typically involves obtaining or transferring information, or predicting events.\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Duskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+    "economy": "none",
+    "trigger": ""
+}

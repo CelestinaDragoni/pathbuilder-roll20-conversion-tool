@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1331",
+    "name": "Mist Child",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You blend in with unnatural subtlety.",
+    "description": "You blend in with unnatural subtlety. When you are concealed or hidden, increase the DC of the flat check to target you to 6 if you're concealed or 12 if you're hidden.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.",
+    "economy": "none",
+    "trigger": ""
+}

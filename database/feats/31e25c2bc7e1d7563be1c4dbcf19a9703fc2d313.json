@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1702",
+    "name": "Surging Focus",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "When an ally you can see falls in battle, your fight or flight response triggers a surge in your deity's might within you.",
+    "description": "When an ally you can see falls in battle, your fight or flight response triggers a surge in your deity's might within you. You instantly regain 1 Focus Point.",
+    "economy": "free_action",
+    "trigger": "An ally you can see falls to 0 Hit Points."
+}

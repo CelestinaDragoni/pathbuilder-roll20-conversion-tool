@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=289",
+    "name": "Emblazon Energy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 8,
+    "prereq": "Emblazon Armament",
+    "summary": "With elemental forces, you make your emblazoned symbols more potent.",
+    "description": "With elemental forces, you make your emblazoned symbols more potent. When you Emblazon an Armament, you can choose from the following effects instead of the effects listed in that feat. These effects have the same restrictions as the base options. Shield Choose acid, cold, electricity, fire, or sonic. The wielder gain the shield’s circumstance bonus to saving throws against that damage type and can use Shield Block against damage of that type. The shield also gains resistance to that damage type equal to half your level if you have a domain spell with a trait matching that type (such as fire). Weapon Choose acid, cold, electricity, fire, or sonic. The weapon deals an extra 1d4 damage of that type. Increase this extra damage to 1d6 if you have a domain spell with a trait matching that type (such as fire).",
+    "economy": "none",
+    "trigger": ""
+}

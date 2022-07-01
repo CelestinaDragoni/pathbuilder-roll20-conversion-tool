@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=470",
+    "name": "Word of Freedom",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You utter a liberating word of power that frees a creature.",
+    "heightenable": false,
+    "description": "You utter a liberating word of power that frees a creature. You suppress one of the following conditions of your choice: confused, frightened, grabbed, or paralyzed. The target isn't affected by the chosen condition, and if you suppress the grabbed condition, the target automatically breaks free from any grab affecting it when you Cast the Spell.\n\n If you don't remove the effect that provided the condition, the condition returns after the spell ends. For example, if a spell was making the target confused for 1 minute, word of freedom would let the target act normally for a round, but the confused condition would return afterward.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 round",
+    "saving": ""
+}

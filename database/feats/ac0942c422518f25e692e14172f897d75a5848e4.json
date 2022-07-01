@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1083",
+    "name": "Masked Casting",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Hellknight Signifer Dedication",
+    "summary": "You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects.",
+    "description": "You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects. You Avert your Gaze.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": "You begin Casting a Spell."
+}

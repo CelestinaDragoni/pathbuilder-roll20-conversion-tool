@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2233",
+    "name": "Innate Magic Intuition",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Scrollmaster Dedication",
+    "summary": "You've spent countless hours learning to recognize and predict a creature's innate magical abilities.",
+    "description": "You've spent countless hours learning to recognize and predict a creature's innate magical abilities. The first time you successfully Recall Knowledge to identify a creature, in addition to any information you learn from your successful check, you learn the names of three of the highest-level innate spells it can cast, and you gain a +2 circumstance bonus on your next save against an innate spell cast by that creature.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

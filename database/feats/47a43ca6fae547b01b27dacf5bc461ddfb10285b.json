@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1124",
+    "name": "Halcyon Spellcasting Sage",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 18,
+    "prereq": "Halcyon Spellcasting Adept; Legendary In Either Arcana Or Nature, Master In The Other",
+    "summary": "Your command over halcyon magic is nearly unmatched.",
+    "description": "Your command over halcyon magic is nearly unmatched. You gain two common 6th-level and 7th-level halcyon spells. You also gain a 6th-level halcyon spell slot and a 7th-level halcyon spell slot. Your proficiency rank in either arcane or primal spell DCs and spell attack rolls advances from expert to master.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

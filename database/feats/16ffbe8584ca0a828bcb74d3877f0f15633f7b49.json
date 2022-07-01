@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3452",
+    "name": "Gigantic Megafauna Companion",
+    "source": "Pathfinder #177",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Mammoth Lord Dedication",
+    "summary": "The mammoths and other megafauna ridden by your people are larger than any ordinary beast.",
+    "description": "The mammoths and other megafauna ridden by your people are larger than any ordinary beast. Your megafauna companion increases in size to Huge but doesn't otherwise change its statistics.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

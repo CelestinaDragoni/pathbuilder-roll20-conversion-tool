@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1634",
+    "name": "Well-Versed",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You're resilient to performative influences that aren't your own.",
+    "description": "You're resilient to performative influences that aren't your own. You gain a +1 circumstance bonus to saving throws against effects with the auditory, illusion, linguistic, sonic, or visual traits.Well-Versed Leads To...\n\nEducate Allies",
+    "economy": "none",
+    "trigger": ""
+}

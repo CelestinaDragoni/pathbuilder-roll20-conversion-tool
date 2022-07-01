@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3531",
+    "name": "Greater Despair",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Mummy's Despair",
+    "summary": "You increase the frequency of Mummy's Despair to once per 10 minutes instead of once per hour.",
+    "description": "You increase the frequency of Mummy's Despair to once per 10 minutes instead of once per hour. A creature that critically fails its Will saving throw is paralyzed for 1 round instead of frightened 2. Mummy's Despair gains the incapacitation trait.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

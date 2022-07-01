@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2155",
+    "name": "True Perception",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Revelation"
+    ],
+    "level": 19,
+    "prereq": "Legendary In Perception",
+    "summary": "Gain constant effects of true seeing.",
+    "description": "Your perceptive abilities and ability to process sensory information are so far beyond the pale that you notice minute discrepancies in all sorts of illusions and transmutations. You are constantly under the effects of a 6th-level true seeing spell, using your Perception modifier for the counteract check.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nRevelation: Effects with this trait see things as they truly are.",
+    "economy": "none",
+    "trigger": ""
+}

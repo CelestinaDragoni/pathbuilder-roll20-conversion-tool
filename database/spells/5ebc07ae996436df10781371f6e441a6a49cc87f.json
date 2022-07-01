@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=391",
+    "name": "Soothing Ballad",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Composition",
+        "Emotion",
+        "Enchantment",
+        "Healing",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 7,
+    "summary": "You draw upon your muse to soothe your allies.",
+    "heightenable": true,
+    "description": "You draw upon your muse to soothe your allies. Choose one of the following three effects: The spell attempts to counteract fear effects on the targets. The spell attempts to counteract effects imposing paralysis on the targets. The spell restores 7d8 Hit Points to the targets.\n\n------\n\nHeightened (+1) When used to heal, soothing ballad restores 1d8 more Hit Points.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "you and up to 9 allies",
+    "duration": "",
+    "saving": ""
+}

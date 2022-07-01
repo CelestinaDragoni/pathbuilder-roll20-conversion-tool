@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2586",
+    "name": "Janni Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Suli"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "The magic of jann runs through your blood.",
+    "description": "The magic of jann runs through your blood. You can cast enlarge and speak with animals once per day each as 2nd-level arcane innate spells.Traits\n\nSuli: Sulis are planar scions descended from jann.",
+    "economy": "none",
+    "trigger": ""
+}

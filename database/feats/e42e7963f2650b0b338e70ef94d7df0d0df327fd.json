@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2446",
+    "name": "Hurricane Swing",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 17,
+    "prereq": "Storm's Lash",
+    "summary": "Choose either lightning bolt or gust of wind.",
+    "description": "Choose either lightning bolt or gust of wind. You Cast the chosen Spell as a 6th-level primal innate spell in the direction of the target of the triggering action.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "reaction",
+    "trigger": "You critically hit a foe with a Strike with a slashing weapon."
+}

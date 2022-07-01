@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1899",
+    "name": "Shield Salvation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Bastion Dedication",
+    "summary": "You can save your shield from total destruction, even after a devastating attack.",
+    "description": "You can save your shield from total destruction, even after a devastating attack. If a shield would be destroyed due to damage taken during your Shield Block, the shield remains intact at 1 Hit Point instead. Its construction is weakened until you take the time to repair it, preventing you from using Shield Salvation to save the same shield until your next preparations.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

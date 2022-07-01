@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2959",
+    "name": "Expert Summoner Spellcasting",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Basic Summoner Spellcasting; Master In The Skill Associated With Your Eidolon's Tradition",
+    "summary": "You gain the expert bounded spellcasting benefits.",
+    "description": "You gain the expert bounded spellcasting benefits.Expert Summoner Spellcasting Leads To...\n\nMaster Summoner SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

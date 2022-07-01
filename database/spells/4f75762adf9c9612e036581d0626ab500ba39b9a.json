@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=549",
+    "name": "Exchange Image",
+    "source": "Pathfinder #147",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Trade appearances with the target.",
+    "heightenable": false,
+    "description": "To mislead pursuers, the Lacunafex developed the means to swap visages. You trade appearances with the target, with the effects depending on the result of the target’s Will saving throw. Willing and unconscious targets automatically critically fail this saving throw.\n\nCritical Success No effect.\nSuccess You take on the target’s appearance, and they take yours. This has the same effects as a 1st-level illusory disguise spell, except that the target can’t Dismiss the disguise. The duration is 1 minute or until Dismissed.\nFailure As success, but the duration is 1 hour or until Dismissed.\nCritical Failure As success, but the duration is 24 hours.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "you and 1 other humanoid",
+    "duration": "varies",
+    "saving": "Will"
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2577",
+    "name": "Summon Earth Elemental",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oread"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You have a connection to the Inner Sphere, allowing you to summon an elemental ally.",
+    "description": "You have a connection to the Inner Sphere, allowing you to summon an elemental ally. Once per day, you can cast summon elemental as a 5th-level primal innate spell, but the elemental summoned must be an earth elemental.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
+    "economy": "none",
+    "trigger": ""
+}

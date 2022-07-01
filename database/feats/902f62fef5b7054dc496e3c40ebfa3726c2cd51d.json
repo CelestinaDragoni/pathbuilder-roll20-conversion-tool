@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2295",
+    "name": "Purge Sins",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar",
+        "Healing"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You call on your celestial forebears to rid your body of all toxins and impurities.",
+    "description": "You call on your celestial forebears to rid your body of all toxins and impurities. For each disease or poison currently affecting you, attempt a Religion check to counteract that disease or poison. As normal, your counteract level is equal to half your level, rounded up.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.\n\nHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.",
+    "economy": "1-action",
+    "trigger": ""
+}

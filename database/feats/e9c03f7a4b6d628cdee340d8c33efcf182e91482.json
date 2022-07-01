@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3572",
+    "name": "Black Powder Flash",
+    "source": "Pathfinder #178",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Visual"
+    ],
+    "level": 10,
+    "prereq": "Powder Punch Stance",
+    "summary": "You ignite a pinch of black powder in a foe's face.",
+    "description": "You ignite a pinch of black powder in a foe's face. Choose an adjacent creature. It must attempt a Fortitude save against your class DC.\n\nCritical Success The creature is unaffected.\nSuccess The creature is dazzled for 1 round.\nFailure The creature is blinded for 1 round and dazzled for 1 minute. The creature can rub its eyes as an Interact action to end this blinded condition.\nCritical Failure The creature is blinded for 1 round and dazzled for 1 hour.Traits\n\nArchetype: This feat belongs to an archetype.\n\nVisual: A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.Black Powder FeatsSource Pathfinder #178: Punks in a Powderkeg pg. 55\nIf the characters agree to Nixbrix's challenge to defeat Bitey or otherwise impress the gang leader, he offers to teach them a few tricks. The characters gain access to the feats in the Black-Powder Berserkers section on page 79, even if they aren't from Alkenstar or the Mana Wastes, though they still must meet the feats' other prerequisites to take them.\n\nRelated Feats: Inured to Alchemy, Pain Tolerance, Powder Punch Stance, Thunder Clap",
+    "economy": "2-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2604",
+    "name": "Storm Form",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sylph"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "You can transform into an elemental.",
+    "description": "You can transform into an elemental. Once per day, you can cast elemental form as a 7th-level primal innate spell, but you can only choose the air elemental form.Traits\n\nSylph: Sylphs are planar scions descended from djinn.",
+    "economy": "none",
+    "trigger": ""
+}

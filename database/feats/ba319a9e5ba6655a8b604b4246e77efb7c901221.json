@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1761",
+    "name": "Triangle Shot",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Flourish",
+        "Monk"
+    ],
+    "level": 18,
+    "prereq": "Monastic Archer Stance; Stunning Fist",
+    "summary": "You string three arrows to your bow and fire them all at once.",
+    "description": "You string three arrows to your bow and fire them all at once. Make three ranged Strikes against a single target with the required weapon, each using your current multiple attack penalty, and you take an additional –2 penalty. This counts as two attacks when calculating your multiple attack penalty, and you combine the attacks' damage for the purpose of resistances and weaknesses. Your Stunning Fist benefit applies to Triangle Shot, even though it isn't a Flurry of Blows. If all three Strikes hit, the target takes 3d6 persistent bleed damage.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

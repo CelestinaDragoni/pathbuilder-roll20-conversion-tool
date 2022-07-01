@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1495",
+    "name": "Debilitating Dichotomy",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oracle"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body.",
+    "description": "You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body. You learn the debilitating dichotomy revelation spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

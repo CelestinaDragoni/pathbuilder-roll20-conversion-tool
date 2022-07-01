@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1933",
+    "name": "Mesmerizing Gaze",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Emotion",
+        "Enchantment",
+        "Mental",
+        "Visual"
+    ],
+    "level": 6,
+    "prereq": "Celebrity Dedication",
+    "summary": "When you meet someone's gaze, they are unable to look away.",
+    "description": "When you meet someone's gaze, they are unable to look away. Choose one target creature. That creature must succeed at a Will save or be fascinated until the end of your next turn; the DC for this save is equal to your class DC or spell DC, whichever is higher. If the creature succeeds at its save or its fascination ends due to a hostile action, it becomes temporarily immune to your Mesmerizing Gaze for 1 day.\n\nWhen you select this feat, it gains either the arcane or occult trait; once you make this choice, you can't change it.Traits\n\nArchetype: This feat belongs to an archetype.\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Enchantment: Effects and magic items with this trait are associated with the enchantment school of magic, typically involving mind control, emotion alteration, and other mental effects.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.Visual: A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.",
+    "economy": "2-action",
+    "trigger": ""
+}

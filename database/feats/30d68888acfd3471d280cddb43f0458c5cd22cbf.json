@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3379",
+    "name": "Drenching Mist",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Obscuring Mist",
+    "summary": "When you cast obscuring mist, you can modify it to extinguish flames.",
+    "description": "When you cast obscuring mist, you can modify it to add the following heightened entry to its effects.\n\n Heightened (3rd) Your mist is particularly laden with moisture. Non-magical fires within the area are automatically extinguished. Choose one magical fire or fire spell in the area and attempt to counteract it.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

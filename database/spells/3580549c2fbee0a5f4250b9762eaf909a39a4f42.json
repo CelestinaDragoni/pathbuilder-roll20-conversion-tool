@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=577",
+    "name": "Gravity Well",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Pull all creatures towards the center of a sphere of altered gravity.",
+    "heightenable": false,
+    "description": "You create a sphere of altered gravity. All creatures and unsecured objects in the area move towards the center, depending on their Reflex saving throws. This follows the rules for forced movement. If there’s not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.\n\nCritical Success The creature is unaffected.\nSuccess The creature moves 5 feet toward the center.\nFailure The creature moves 15 feet toward the center.\nCritical Failure The creature moves 30 feet toward the center.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

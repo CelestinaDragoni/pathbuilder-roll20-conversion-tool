@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=536",
+    "name": "Improved Twin Riposte (Ranger)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 16,
+    "prereq": "Twin Riposte",
+    "summary": "You are able to riposte an additional time per turn.",
+    "description": "At the start of each of your turns, you gain an additional reaction that you can use only to perform a Twin Riposte against your hunted prey. You can use this extra reaction even if you are not benefiting from Twin Parry.",
+    "economy": "none",
+    "trigger": ""
+}

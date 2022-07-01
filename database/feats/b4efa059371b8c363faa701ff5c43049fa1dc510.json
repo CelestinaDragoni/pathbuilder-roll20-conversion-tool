@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2052",
+    "name": "Scout's Pounce",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 10,
+    "prereq": "Scout Dedication",
+    "summary": "You leap from the shadows to strike your foes.",
+    "description": "You leap from the shadows to strike your foes. Stride up to your Speed, then Strike twice. If you were hidden or unnoticed by the target of these Strikes, your foe is flat-footed against both attacks. Your multiple attack penalty applies normally for both attacks.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

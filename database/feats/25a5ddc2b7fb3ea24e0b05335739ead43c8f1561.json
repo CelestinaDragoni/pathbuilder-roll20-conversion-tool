@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=479",
+    "name": "Enlightened Presence",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Mental",
+        "Monk"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "You exude an aura of resolve.",
+    "description": "You exude an aura of resolve. You and allies within 15 feet of you gain a +2 status bonus to Will saving throws against mental effects.Traits\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.\n\nMental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "none",
+    "trigger": ""
+}

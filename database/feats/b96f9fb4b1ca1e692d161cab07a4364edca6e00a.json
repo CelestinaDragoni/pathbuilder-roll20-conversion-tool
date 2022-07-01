@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2472",
+    "name": "Offensive Subroutine",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Android"
+    ],
+    "level": 9,
+    "prereq": "Nanite Surge",
+    "summary": "Nanites augment your attacks.",
+    "description": "Nanites augment your attacks. You can choose to activate Nanite Surge when you attempt an attack roll, instead of when you attempt a skill check. If you do, you gain a +1 status bonus to the triggering attack roll.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
+    "economy": "none",
+    "trigger": ""
+}

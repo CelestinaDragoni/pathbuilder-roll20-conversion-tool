@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=137",
+    "name": "No Escape",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You keep pace with a retreating foe.",
+    "description": "You keep pace with a retreating foe. Stride up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you’ve moved your full Speed. You can use No Escape to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "reaction",
+    "trigger": "A foe within reach attempts to move away from you."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1806",
+    "name": "Stay Down!",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 14,
+    "prereq": "Master In Athletics",
+    "summary": "You have ways of keeping your foes down.",
+    "description": "You have ways of keeping your foes down. Attempt an Athletics check against the triggering foe's Fortitude DC. On a success, they don't stand up and remain prone. On a critical success, they can't Stand until their next turn.",
+    "economy": "reaction",
+    "trigger": "A prone foe within your reach Stands."
+}

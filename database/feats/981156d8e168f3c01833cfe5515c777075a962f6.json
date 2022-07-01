@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3471",
+    "name": "Enhanced Psychopomp Familiar",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Psychopomp Familiar",
+    "summary": "Your psychopomp's continued service in Pharasma's name brings it favor from the goddess.",
+    "description": "Your psychopomp's continued service in Pharasma's name brings it favor from the goddess. It might change appearance to look like a different, more powerful kind of psychopomp. You can select four familiar or master abilities each day, instead of two, but two must be from the Psychopomp Familiar feat or the following ability. Augury Your familiar can glimpse the strands of fate to give you a cryptic clue regarding your future. Your familiar can cast augury once per day using your magical tradition and spell DC. You must be at least 8th level to select this ability.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

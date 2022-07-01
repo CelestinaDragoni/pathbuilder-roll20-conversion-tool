@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3453",
+    "name": "Specialized Megafauna Companion",
+    "source": "Pathfinder #177",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Mammoth Lord Dedication",
+    "summary": "You've trained your mammoth or other megafauna companion to perform in unusual or extreme situations, granting it abilities far beyond others of its kind.",
+    "description": "You've trained your mammoth or other megafauna companion to perform in unusual or extreme situations, granting it abilities far beyond others of its kind. Your megafauna gains your choice of the bully, racer, tracker, or wrecker specialization.\n\nSpecial You can select this feat up to three times. Each time, add a different specialization of the ones listed above to your megafauna companion. Your megafauna can't have more than three specializations.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

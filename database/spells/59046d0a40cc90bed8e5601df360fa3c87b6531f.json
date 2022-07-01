@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=500",
+    "name": "Dragon Claws",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Morph",
+        "Sorcerer",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Vicious claws grow from your fingers.",
+    "heightenable": true,
+    "description": "Vicious claws grow from your fingers. They are finesse unarmed attacks that deal 1d4 slashing damage and 1d6 extra damage of a type determined by the dragon in your bloodline. Dragon Claws Dragon TypeDamage Type Black, brine*, or copperAcid Blue, bronze, cloud*, or sky*Electricity Brass, gold, magma*, red, or underworld*Fire Crystal* or forest*Piercing GreenPoison Sea*Bludgeoning Silver or whiteCold Sovereign*Mental Umbral*Negative  *Source Mwangi Expanse pg. 76\n\n Your scales from blood magic glow with faint energy, giving you resistance 5 to the same damage type.\n\n------\n\nHeightened (5th) The extra damage increases to 2d6, and the resistance increases to 10.\nHeightened (9th) The extra damage increases to 3d6, and the resistance increases to 15.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3239",
+    "name": "Ranged Disarm",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Bullet Dancer Dedication; Trick Shot",
+    "summary": "When using a simple firearm, you can shoot objects right out of your enemy's hands.",
+    "description": "When using a simple firearm, you can shoot objects right out of your enemy's hands. Attempt to Disarm the target using a ranged attack roll with your simple firearm, instead of attempting an Athletics check against the target's Reflex DC.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

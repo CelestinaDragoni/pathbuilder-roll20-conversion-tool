@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1642",
+    "name": "Educate Allies",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Bard",
+        "Concentrate"
+    ],
+    "level": 6,
+    "prereq": "Well-versed",
+    "summary": "You tweak the properties of your composition spell to convey a bit of your defensive knowledge.",
+    "description": "You tweak the properties of your composition spell to convey a bit of your defensive knowledge. All allies affected by your composition spell gain your +1 circumstance bonus from Well-Versed until the start of your next turn. Teaching your allies also bolsters your own skills; your personal circumstance bonus from Well-Versed also increases to +2 until the start of your next turn.Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "reaction",
+    "trigger": "An ally benefiting from one of your composition spells is subject to an effect with the auditory, illusion, linguistic, sonic, or visual trait."
+}

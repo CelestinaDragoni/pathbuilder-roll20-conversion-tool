@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=668",
+    "name": "Animated Assault",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Temporarily animate small objects to attack creatures in an area.",
+    "heightenable": true,
+    "description": "You use your mind to manipulate unattended objects in the area, temporarily animating them to attack. The objects hover in the air, then hurl themselves at nearby creatures in a chaotic flurry of debris. This assault deals 2d10 bludgeoning damage (basic Reflex save) to each creature in the area. On subsequent rounds, the first time each round you Sustain this Spell, it deals 1d10 bludgeoning damage (basic Reflex save) to each creature in the area.\n\n------\n\nHeightened (+2) The initial damage increases by 2d10 and the subsequent damage increases by 1d10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "basic Reflex"
+}

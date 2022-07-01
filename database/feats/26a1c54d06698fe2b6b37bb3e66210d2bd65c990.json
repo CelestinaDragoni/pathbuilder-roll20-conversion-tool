@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1654",
+    "name": "Shared Assault",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 12,
+    "prereq": "Courageous Assault",
+    "summary": "In the triumph of battle, you can share the glory with another ally.",
+    "description": "In the triumph of battle, you can share the glory with another ally. When the ally you chose for Courageous Assault critically succeeds at the Strike granted by that action, another ally affected by your inspire courage composition spell can immediately use a reaction to make a melee Strike. Since the second ally wasn't the ally you chose for Courageous Assault, this effect doesn't continue to a third ally, even if the second ally also critically succeeds at their Strike.",
+    "economy": "none",
+    "trigger": ""
+}

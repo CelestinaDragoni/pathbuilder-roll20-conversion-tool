@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1521",
+    "name": "After You",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You allow your foes to make the first move in a show of incredible confidence.",
+    "description": "You allow your foes to make the first move in a show of incredible confidence. You don't roll initiative; instead you voluntarily go last. You gain panache. If more than one character uses this ability or another ability to go last, use the normal rules for resolving a tie: NPCs and monsters act before PCs, and within those groups, the creatures can choose whichever order they want.",
+    "economy": "free_action",
+    "trigger": "You're about to roll initiative."
+}

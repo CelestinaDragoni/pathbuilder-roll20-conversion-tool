@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3271",
+    "name": "Black Powder Embodiment",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Conjuration",
+        "Teleportation"
+    ],
+    "level": 18,
+    "prereq": "Spellshot Dedication; Master In Arcana",
+    "summary": "You infuse your entire being into a single shot, merging your body into the blast and enabling you to travel the same path as your bolt or bullet.",
+    "description": "You infuse your entire being into a single shot, merging your body into the blast and enabling you to travel the same path as your bolt or bullet. Strike a creature with the required weapon. On a success, if the target was within 120 feet, you and all your gear are teleported to an open space of your choice within 10 feet of the target.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.Teleportation: Teleportation effects allow you to instantaneously move from one point in space to another. Teleportation does not usually trigger reactions based on movement.",
+    "economy": "2-action",
+    "trigger": ""
+}

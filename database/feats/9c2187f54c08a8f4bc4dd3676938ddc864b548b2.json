@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2432",
+    "name": "Skittering Sneak",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You squish, slink, and skitter from cover to cover with great speed and stealth.",
+    "description": "You squish, slink, and skitter from cover to cover with great speed and stealth. You can move up to your full Speed when you Sneak.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

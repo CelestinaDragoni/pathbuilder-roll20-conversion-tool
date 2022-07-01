@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=331",
+    "name": "Tangling Creepers",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Plant"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Entangle creatures in a burst and concentrate to lash out with immobilizing vines.",
+    "heightenable": false,
+    "description": "Dense, twitching creepers sprout from every surface and fill any bodies of water in the area. Any creature moving on the land, or Climbing or Swimming within the creepers, takes a –10-foot circumstance penalty to its Speeds while in the area. Once per round, you can make a vine lash out from any square within the expanse of creepers by using a single action, which has the concentrate trait. This vine has a 15-foot reach. Make a melee spell attack roll against the target; on a success, the vine pulls the target into the creepers and makes it immobilized for 1 round or until the creature Escapes (against your spell DC), whichever comes first.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "10 minutes",
+    "saving": ""
+}

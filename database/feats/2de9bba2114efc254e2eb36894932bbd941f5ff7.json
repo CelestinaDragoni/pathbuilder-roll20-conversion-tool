@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1748",
+    "name": "Peafowl Strut",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Flourish",
+        "Monk"
+    ],
+    "level": 10,
+    "prereq": "Peafowl Stance",
+    "summary": "You slowly move across the battlefield with dangerous grace.",
+    "description": "You slowly move across the battlefield with dangerous grace. Step twice and then Strike. The Strike must be made with the sword required by Peafowl Stance.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

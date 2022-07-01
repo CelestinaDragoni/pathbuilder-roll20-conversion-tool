@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2871",
+    "name": "Lunging Spellstrike",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Arcane",
+        "Magus",
+        "Transmutation"
+    ],
+    "level": 10,
+    "prereq": "Spellstrike, Twisting Tree Hybrid Study",
+    "summary": "Your spell unwinds the structure of your staff to make it exceptionally long, or even separate it into shards held together by magical power.",
+    "description": "Your spell unwinds the structure of your staff to make it exceptionally long, or even separate it into shards held together by magical power. Make a Spellstrike with a staff, with a spell that isn't a cantrip or focus spell. Increase the staff's reach by 5 feet × the spell's level.Traits\n\nArcane: This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is magical.\n\nTransmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "2-action",
+    "trigger": ""
+}

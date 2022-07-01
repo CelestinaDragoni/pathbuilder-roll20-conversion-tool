@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=67",
+    "name": "Cooperative Nature",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness.",
+    "description": "The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to Aid.\nCooperative Nature Leads To...\n\nCooperative SoulTraitsHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

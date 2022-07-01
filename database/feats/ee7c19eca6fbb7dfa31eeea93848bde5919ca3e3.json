@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1676",
+    "name": "Smite Good",
+    "source": "Advanced Player's Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion"
+    ],
+    "level": 6,
+    "prereq": "Divine Ally (Blade); Tenets Of Evil",
+    "summary": "Your blade ally shares your lust for the blood of good creatures.",
+    "description": "Your blade ally shares your lust for the blood of good creatures. Select one enemy you can see. Until the start of your next turn, your Strikes against that foe using the weapon your blade ally inhabits deal an extra 4 evil damage, increasing to 6 if you have master proficiency with this weapon.\n\n If the chosen enemy attacks you before the start of your next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to attack you each turn, the duration continues to extend.Traits\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "1-action",
+    "trigger": ""
+}

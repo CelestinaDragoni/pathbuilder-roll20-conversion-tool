@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=217",
+    "name": "Weight of Guilt",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 1,
+    "prereq": "Redeemer Cause",
+    "summary": "Guilt clouds the minds of those who ignore your Glimpse of Redemption.",
+    "description": "Guilt clouds the minds of those who ignore your Glimpse of Redemption. Instead of making the triggering creature enfeebled 2, you can make it stupefied 2 for the same duration.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2886",
+    "name": "Advanced Weaponry",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon's attack evolves.",
+    "description": "Your eidolon's attack evolves. Choose one of your eidolon's starting melee unarmed attacks. It gains one of the following traits, chosen when you gain the feat: disarm, grapple, nonlethal, shove, trip, or versatile bludgeoning, piercing, or slashing.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

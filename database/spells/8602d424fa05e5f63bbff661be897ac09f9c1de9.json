@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=422",
+    "name": "Fire Ray",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Attack",
+        "Cleric",
+        "Evocation",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "A blazing band of fire arcs through the air.",
+    "heightenable": true,
+    "description": "A blazing band of fire arcs through the air. Make a spell attack roll. The ray deals 2d6 fire damage.\n\nCritical Success The ray deals double damage and 1d4 persistent fire damage.\nSuccess The ray deals full damage.\n\n------\n\nHeightened (+1) The ray's initial damage increases by 2d6, and the persistent fire damage on a critical success increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

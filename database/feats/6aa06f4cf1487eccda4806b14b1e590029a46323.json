@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1932",
+    "name": "Never Tire",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Celebrity Dedication",
+    "summary": "As long as you have an audience, you can continue to perform.",
+    "description": "As long as you have an audience, you can continue to perform. Indeed, you must—you have an obligation to your fans! You delay the effects of the fatigued condition for 1 minute or until you are no longer observed by the required creatures, whichever comes first. If the fatigued condition has a duration, the duration begins to elapse only after the delay. You can't further delay or prevent the fatigued condition after this ability ends.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "You would gain the fatigued condition."
+}

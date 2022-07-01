@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3451",
+    "name": "Unbreakable Bond",
+    "source": "Pathfinder #177",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Necromancy",
+        "Primal"
+    ],
+    "level": 10,
+    "prereq": "Mammoth Lord Dedication",
+    "summary": "You and your megafauna companion are bound together; as long as you live, it's much harder for your companion to die.",
+    "description": "You and your megafauna companion are bound together; as long as you live, it's much harder for your companion to die. If your megafauna companion gains the dying condition, it automatically succeeds at the recovery check to stabilize at 0 Hit Points on its turn. Additionally, your megafauna companion only dies at dying 5 rather than dying 4. Finally, the first time each day your megafauna companion would reach dying 5 and die, as long as you're still alive, your companion's dying value decreases to 0 instead.Traits\n\nArchetype: This feat belongs to an archetype.\n\nNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.",
+    "economy": "none",
+    "trigger": ""
+}

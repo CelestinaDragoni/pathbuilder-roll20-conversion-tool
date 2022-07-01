@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=301",
+    "name": "Swift Banishment",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "The force of your blow sends your victim back to its home plane.",
+    "description": "The force of your blow sends your victim back to its home plane. You expend a banishment spell you have prepared, affecting the creature you critically hit without needing to cast the spell. The creature can attempt to resist the spell as normal.Swift Banishment Leads To...\n\nImproved Swift Banishment",
+    "economy": "reaction",
+    "trigger": "You critically hit a creature that is not on its home plane."
+}

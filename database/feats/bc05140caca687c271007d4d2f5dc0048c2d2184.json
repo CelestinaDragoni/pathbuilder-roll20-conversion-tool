@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2225",
+    "name": "Archaeologist's Warning",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Pathfinder Agent Dedication",
+    "summary": "You visually or audibly warn your companions of danger, granting them a +1 circumstance bonus to their initiative rolls.",
+    "description": "You visually or audibly warn your companions of danger, granting them a +1 circumstance bonus to their initiative rolls. Depending on whether you use gestures or call out, this free action gains either the visual or auditory trait.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": "You are about to roll a Perception, Society, or Thievery check for initiative."
+}

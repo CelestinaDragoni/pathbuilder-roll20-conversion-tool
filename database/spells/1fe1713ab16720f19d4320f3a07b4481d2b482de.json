@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=318",
+    "name": "Summon Construct",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Conjure a construct to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure a construct to fight for you. This works like summon animal, except you summon a common creature that has the construct trait and whose level is –1, such as those below.\n\n------\n\nHeightened (2nd) Level 1.\nHeightened (3rd) Level 2.\nHeightened (4th) Level 3.\nHeightened (5th) Level 5.\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel -1 ConstructsAnimated Broom (N)Level 0 ConstructsHomunculus (N)Level 1 ConstructsAnimated Silverware Swarm (N)Level 2 ConstructsAnimated Armor (N), Mechanical Carny (N), Soulbound Doll (Any)Level 3 ConstructsAnimated Statue (N), Necrophidius (N)Level 4 ConstructsScarecrow (N)Level 5 ConstructsDig-Widget (N)Level 6 ConstructsTerra-Cotta Soldier (N)Level 7 ConstructsGiant Animated Statue (N), Levaloch (LE), Tupilaq (N)Level 9 ConstructsAnimated Furnace (N)Level 10 ConstructsSwordkeeper (N)Level 11 ConstructsSpiral Centurion (N)Level 13 ConstructsAnimated Trebuchet (N), Living-Sun Spire (N)Level 15 ConstructsAnimated Colossus (N), Soulbound Ruin (NE)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

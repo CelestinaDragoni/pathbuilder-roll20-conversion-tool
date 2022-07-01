@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1889",
+    "name": "Archer's Aim",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate"
+    ],
+    "level": 8,
+    "prereq": "Archer Dedication",
+    "summary": "You slow down, focus, and take a careful shot.",
+    "description": "You slow down, focus, and take a careful shot. Make a ranged Strike with a weapon in the bow weapon group. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed condition. If the target is hidden, reduce the flat check from being hidden from 11 to 5.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "2-action",
+    "trigger": ""
+}

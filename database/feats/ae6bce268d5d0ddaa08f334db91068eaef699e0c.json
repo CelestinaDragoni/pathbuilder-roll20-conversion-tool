@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2654",
+    "name": "Rokoan Arts",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Strix"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Ancestral spirits have begun to bond themselves to you, granting you powers characteristic of a rokoa.",
+    "description": "Ancestral spirits have begun to bond themselves to you, granting you powers characteristic of a rokoa. You can cast speak with animals and status as primal innate spells once per day each.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "none",
+    "trigger": ""
+}

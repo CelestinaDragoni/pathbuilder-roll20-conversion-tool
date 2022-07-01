@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1994",
+    "name": "Multilingual Cipher",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Linguist Dedication; Expert In Society",
+    "summary": "You use multiple languages to create and break codes.",
+    "description": "You use multiple languages to create and break codes. You gain a +1 circumstance bonus to Decipher Writing. If another creature attempts to Decipher Writing you encoded, they take a –2 circumstance penalty unless they speak all the languages you used when you created the writing.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

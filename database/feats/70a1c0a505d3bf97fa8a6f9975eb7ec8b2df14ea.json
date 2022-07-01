@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1336",
+    "name": "Fangs",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your incisors have grown into true fangs: long, sharp, and well-suited to drawing blood.",
+    "description": "Your incisors have grown into true fangs: long, sharp, and well-suited to drawing blood. You gain a fangs unarmed attack that deals 1d6 piercing damage. Your fangs are in the brawling group and have the grapple and unarmed traits.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

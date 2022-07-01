@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2308",
+    "name": "Aquatic Adaptation",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi",
+        "Concentrate",
+        "Primal",
+        "Transmutation",
+        "Water"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "If you and up to four other creatures are in contact with a body of water deep enough for you to fully submerge, you can spend 10 minutes adapting the creatures to that specific body of water.",
+    "description": "If you and up to four other creatures are in contact with a body of water deep enough for you to fully submerge, you can spend 10 minutes adapting the creatures to that specific body of water. This allows them to breathe normally while within that body of water and protects them from deep ocean pressure. These effects last until the creatures are no longer in contact with that body of water or until you use this ability again, whichever comes first for each creature.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.Water: Effects with the water trait either manipulate or conjure water. Those that manipulate water have no effect in an area without water. Creatures with this trait consist primarily of water or have a magical connection to the element. Planes with this trait are mostly liquid, perhaps with pockets of breathable air.",
+    "economy": "none",
+    "trigger": ""
+}

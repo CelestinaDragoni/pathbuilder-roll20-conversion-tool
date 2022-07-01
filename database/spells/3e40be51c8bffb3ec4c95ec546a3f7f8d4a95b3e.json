@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=31",
+    "name": "Calm Emotions",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Suppress strong emotions and hostility.",
+    "heightenable": false,
+    "description": "You forcibly calm creatures in the area, soothing them into a nonviolent state; each creature must attempt a Will save.\n\nCritical Success The creature is unaffected.\nSuccess Calming urges impose a –1 status penalty to the creature's attack rolls.\nFailure Any emotion effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by calm emotions.\nCritical Failure As failure, but hostility doesn't end the effect.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

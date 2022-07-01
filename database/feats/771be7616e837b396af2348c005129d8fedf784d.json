@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2436",
+    "name": "Waxed Feathers",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 1,
+    "prereq": "Wavediver Tengu Heritage",
+    "summary": "Your feathers are coated in a waxy substance that repels water.",
+    "description": "Your feathers are coated in a waxy substance that repels water. You gain a +1 circumstance bonus to saving throws against effects that have the water trait. So long as you're in a dry place, you can spend one action to shake off any water that clings to your clothing and feathers to instantly become dry.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1343",
+    "name": "Undead Slayer",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease.",
+    "description": "Your knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease. Against undead creatures, you gain a circumstance bonus to damage with weapons and unarmed attacks equal to the number of weapon damage dice for the Strike. This bonus increases to double the number of weapon damage dice if your target has the vampire trait.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

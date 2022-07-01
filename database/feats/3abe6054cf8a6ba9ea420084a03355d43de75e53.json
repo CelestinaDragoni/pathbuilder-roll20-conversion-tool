@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=351",
+    "name": "Perfect Form Control",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 18,
+    "prereq": "Form Control; Strength 18",
+    "summary": "Thanks to magic and muscle memory, you can stay in your alternate forms indefinitely.",
+    "description": "Thanks to magic and muscle memory, you can stay in your alternate forms indefinitely; you may have even forgotten your original form. When you use Form Control, instead of lasting 1 hour, wild shape is permanent until you Dismiss it.",
+    "economy": "none",
+    "trigger": ""
+}

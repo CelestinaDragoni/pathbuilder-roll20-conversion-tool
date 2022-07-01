@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1287",
+    "name": "Athletic Might",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Surviving in hostile terrain has given you a great talent for mobility.",
+    "description": "Surviving in hostile terrain has given you a great talent for mobility. Whenever you roll a success on an Athletics check to Climb or Swim, you get a critical success instead.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

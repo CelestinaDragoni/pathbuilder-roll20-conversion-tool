@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=673",
+    "name": "Blister",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Grow large blisters on a creature and pop them to spray acid.",
+    "heightenable": true,
+    "description": "You point at a target in range, and its skin grows searing blisters filled with caustic fluid. The target must attempt a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target grows one blister. You can spend a single action, which has the concentrate trait, to pop a blister. The target and each creature in a 15-foot cone originating from the target takes 7d6 acid damage (basic Fortitude save). You choose the direction of the cone, which can't include the target. When no blisters are left, the spell ends.\nFailure As success, but the target grows two blisters.\nCritical Failure As success, but the target grows four blisters.\n\n------\n\nHeightened (+1) The damage of a popped blister increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": "Fortitude"
+}

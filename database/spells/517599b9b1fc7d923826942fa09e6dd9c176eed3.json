@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=881",
+    "name": "Chromatic Armor",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Glowing armor sheds light, dazzling foes and granting random resistances.",
+    "heightenable": true,
+    "description": "You wrap the target in armor made of sheets of colored light. The armor sheds bright light for 20 feet (and dim light for the next 20 feet). Whenever a creature attacks the target and is adjacent to it, the attacker must attempt a Will save at the end of its action. On a failure, it becomes dazzled until the end of its next turn. Regardless of the result of the save, the attacker is temporarily immune until the end of its next turn. The dazzling effect has the light and visual traits.\n\n When you cast the spell, roll 1d8 twice on the table below to see the armor's colors (rerolling any duplicates). Each color grants resistance 5 to the indicated damage type. If you spend three actions to Cast the Spell, roll three times instead. Red fireOrange acidYellow electricityGreen poisonBlue sonicIndigo mentalViolet forceMatching Color The armor becomes the color matching the type of damage the target took most recently in the past minute. If it didn't take any of those seven types of damage or the armor is already that color, roll again, rerolling any results of 8.\n\n------\n\nHeightened (+3) The resistance is increased by 5.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "1 minute",
+    "saving": ""
+}

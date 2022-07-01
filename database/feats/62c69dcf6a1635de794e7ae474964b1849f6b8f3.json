@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=901",
+    "name": "Perfect Strike",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Student Of Perfection Dedication",
+    "summary": "You call upon insight from your training to recover accuracy.",
+    "description": "You gain the perfect strike ki spell. Increase the number of Focus Points in your focus pool by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

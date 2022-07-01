@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1725",
+    "name": "Dazing Blow",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Press"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You pummel a held foe, hoping to stagger them.",
+    "description": "You pummel a held foe, hoping to stagger them. Make a melee Strike against a creature you have grabbed. The weapon damage from this Strike is bludgeoning damage. If the Strike hits, the creature must attempt a Fortitude save against your class DC; this is an incapacitation effect.\n\nCritical Success The creature is unaffected.\nSuccess The creature is stunned 1.\nFailure The creature is stunned 2.\nCritical Failure The creature is stunned 3.Traits\n\nPress: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the Ready activity.",
+    "economy": "1-action",
+    "trigger": ""
+}

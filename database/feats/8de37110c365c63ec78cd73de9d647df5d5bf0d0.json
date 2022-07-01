@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=655",
+    "name": "Bonded Focus",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Wizard"
+    ],
+    "level": 14,
+    "prereq": "Arcane Bond",
+    "summary": "Your connection to your bonded item increases your focus pool.",
+    "description": "Your connection to your bonded item increases your focus pool. If you have spent at least 2 Focus Points since the last time you Refocused and your bonded item is in your possession, you recover 2 Focus Points when you Refocus instead of 1.",
+    "economy": "none",
+    "trigger": ""
+}

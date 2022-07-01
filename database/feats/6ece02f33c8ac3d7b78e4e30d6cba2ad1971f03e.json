@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=535",
+    "name": "Greater Distracting Shot",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 16,
+    "prereq": "Distracting Shot",
+    "summary": "Even a single missile can throw of your enemy’s balance, and more powerful attacks leave it flustered for longer.",
+    "description": "Even a single missile can throw off your enemy’s balance, and more powerful attacks leave it flustered for longer. If you hit your hunted prey with a ranged weapon, it’s flat-footed until the start of your next turn. If you critically hit your prey or hit it twice on the same turn with a ranged weapon, it’s flat-footed until the end of your next turn instead.",
+    "economy": "none",
+    "trigger": ""
+}

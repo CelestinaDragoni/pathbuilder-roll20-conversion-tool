@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2878",
+    "name": "Hasted Assault",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 14,
+    "prereq": "Focus Pool",
+    "summary": "You can speed yourself up to move and attack more swiftly.",
+    "description": "You can speed yourself up to move and attack more swiftly. You learn the hasted assault conflux spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

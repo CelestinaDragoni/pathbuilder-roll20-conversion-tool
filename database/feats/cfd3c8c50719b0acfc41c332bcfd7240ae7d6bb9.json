@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3521",
+    "name": "One with the Land",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Mummy Dedication",
+    "summary": "Your connection to your bound terrain strengthens, making you unhindered by local weather.",
+    "description": "Your connection to your bound terrain strengthens, making you unhindered by local weather. When in your bound terrain, you ignore the effects of non-magical difficult terrain. In addition, your experience from your bound terrain lets you ignore circumstance penalties to visual Perception checks and ignore concealment caused by certain environmental effects. The types you ignore depend on your bound terrain.\n \nArctic Ice or snow \nDesert Dust or sand \nMountain Clouds or mist \nSwamp Rain or murky waterTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

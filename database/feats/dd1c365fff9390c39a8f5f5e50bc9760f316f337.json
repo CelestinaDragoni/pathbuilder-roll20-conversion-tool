@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3109",
+    "name": "Axial Recall",
+    "source": "Guns & Gears",
+    "rarity": "Uncommon",
+    "traits": [
+        "Automaton"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "You have reconfigured the magical resonance of your core to attune to the planar energies of Axis.",
+    "description": "You have reconfigured the magical resonance of your core to attune to the planar energies of Axis. You can cast plane shift twice per week as an arcane innate spell that can only target yourself; you can travel only to Axis or the Material Plane, and your body serves as the focus component.Traits\n\nAutomaton: Automatons are living constructs sustained by a magical core.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

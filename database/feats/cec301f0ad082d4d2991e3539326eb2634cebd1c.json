@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1877",
+    "name": "Tumbling Strike",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish",
+        "Move"
+    ],
+    "level": 8,
+    "prereq": "Acrobat Dedication",
+    "summary": "Attempt an Acrobatics check against the Reflex DC of an enemy adjacent to you.",
+    "description": "Attempt an Acrobatics check against the Reflex DC of an enemy adjacent to you.\n\nCritical Success You move through the enemy's space to an unoccupied space on the other side of the enemy from your starting position. This movement doesn't trigger reactions. You can't move farther than your Speed, and you must end your movement adjacent to the enemy whose space you moved through. After moving, you make a melee Strike against the enemy whose space you moved through, and the enemy is flat-footed against that Strike.\nSuccess As critical success, but the enemy isn't flat-footed against the Strike.\nFailure You remain in your original space but can still Strike.\nCritical Failure No effect.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.Move: An action with this trait involves moving from one space to another.",
+    "economy": "1-action",
+    "trigger": ""
+}

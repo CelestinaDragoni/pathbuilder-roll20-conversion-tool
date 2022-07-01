@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=972",
+    "name": "Positive Attunement",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Attune a creature to the Positive Energy Plane, healing a living creature or damaging an undead.",
+    "heightenable": true,
+    "description": "You attune a creature to the Positive Energy Plane, connecting its life force without fully transporting it. The creature's appearance becomes more brightly colored. If the creature is living, it heals 1d8 Hit Points immediately and at the end of each of your turns. Effects that increase healing only increase the initial healing.\n\n If the creature is undead or has negative healing, it instead takes 1d8 positive damage, depending on the result of its Will save.\n\nCritical Success The creature is unaffected.\nSuccess The creature is damaged once and the spell ends.\nFailure The creature is damaged immediately and at the end of each of your turns (so twice in the round you Cast the Spell).\nCritical Failure As failure, and the damage is doubled.\n\n------\n\nHeightened (+3) The damage and healing each increase by 1d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living or undead creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

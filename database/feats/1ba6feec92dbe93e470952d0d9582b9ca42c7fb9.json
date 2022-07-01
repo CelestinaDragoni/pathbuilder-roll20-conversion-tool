@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=411",
+    "name": "Lunging Stance",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Stance"
+    ],
+    "level": 12,
+    "prereq": "Attack Of Opportunity; Lunge",
+    "summary": "Your body coiled to strike, you can lash out at distant enemies.",
+    "description": "Your body coiled to strike, you can lash out at distant enemies. While you are in this stance, you can use Attack of Opportunity against a creature that is outside your reach but within the reach you would have with a Lunge. If you do, you increase your range with the Strike by 5 feet.Traits\n\nStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

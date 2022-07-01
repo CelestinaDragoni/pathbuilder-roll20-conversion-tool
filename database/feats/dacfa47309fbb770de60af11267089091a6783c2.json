@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2033",
+    "name": "Pirate Weapon Training",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Pirate Dedication",
+    "summary": "You're particularly skilled at wielding traditional pirate weapons.",
+    "description": "You're particularly skilled at wielding traditional pirate weapons. You become trained with the following weapons: hatchet, rapier, scimitar, and whip. Whenever you gain a class feature that grants you expert or greater proficiency with a given weapon or weapons, you also gain that proficiency rank for these weapons.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

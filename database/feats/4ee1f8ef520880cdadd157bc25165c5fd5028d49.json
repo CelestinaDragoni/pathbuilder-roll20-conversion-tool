@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3466",
+    "name": "Soul Warden Dedication",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Worships Pharasma Or A Psychopomp Usher; Trained In Occultism Or Religion",
+    "summary": "You can take 10 minutes to emblazon Pharasma's holy sigil—a spiraling comet that represents the winding path a soul takes through its existence—upon a shield, tabard, banner, or other prominent object that your wear or wield.",
+    "description": "You can take 10 minutes to emblazon Pharasma's holy sigil—a spiraling comet that represents the winding path a soul takes through its existence—upon a shield, tabard, banner, or other prominent object that your wear or wield. The symbol doesn't fade until 1 year has passed, but if you emblazon the symbol again, any symbol you previously emblazoned and any symbol already emblazoned on that item instantly disappears. The item becomes a religious symbol of Pharasma and can be used as a divine focus while emblazoned.\n\n Whenever an undead creature or captive soul is within 100 feet of this object, the spiral glows, shedding dim blue light in a 10-foot radius. If the creature is hiding or the soul is hidden, it must succeed at a Stealth check against your Perception DC to fool the sigil and prevent the spiral from glowing.\n\n In addition, you can cast disrupt undead as a divine innate cantrip at will. As normal, a cantrip is automatically heightened to half your level rounded up. You gain access to the Cast a Spell activity if you didn't have it already. You're trained in divine spell attack rolls and spell DCs. Your key spellcasting ability for these spells is Wisdom.\n\n When you have at least two other feats from this archetype, the spiral glows with bright light in a 10-foot radius (and dim light for the next 10 feet). Feats that require a creature or object to be in the light of your spiral function whether it's in the bright or dim light.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the soul warden archetype.Soul Warden Dedication Leads To...\n\nCycle Spell, Liberate Soul, Psychopomp Familiar, Safeguard Soul, Spiral SwornTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

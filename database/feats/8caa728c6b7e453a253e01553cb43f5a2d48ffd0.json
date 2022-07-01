@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=559",
+    "name": "Unbalancing Blow",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 2,
+    "prereq": "Thief Racket",
+    "summary": "Interweaving your most powerful attacks in a graceful flow, you temporarily unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is flat-footed against your attacks until the end of your next turn.",
+    "description": "Interweaving your most powerful attacks in a graceful flow, you temporarily unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is flat-footed against your attacks until the end of your next turn.",
+    "economy": "none",
+    "trigger": ""
+}

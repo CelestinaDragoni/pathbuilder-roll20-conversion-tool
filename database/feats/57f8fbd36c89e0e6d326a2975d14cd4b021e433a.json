@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1649",
+    "name": "Courageous Assault",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Bard",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 10,
+    "prereq": "Warrior Muse",
+    "summary": "With a mighty shout, you can stir an ally to attack.",
+    "description": "With a mighty shout, you can stir an ally to attack. If your next action is to cast the inspire courage composition cantrip, one ally who gains a status bonus from the spell can immediately use a reaction to make a melee Strike.Courageous Assault Leads To...\n\nCourageous Onslaught, Shared AssaultTraitsAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

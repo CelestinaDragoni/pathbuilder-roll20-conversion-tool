@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1038",
+    "name": "Harmlessly Cute",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your size and demeanor make it easy for you to convince others that you mean no harm.",
+    "description": "Your size and demeanor make it easy for you to convince others that you mean no harm. You gain the Shameless Request skill feat as a bonus feat. Additionally, you gain a +1 circumstance bonus to initiative checks when you roll Deception for initiative.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1096",
+    "name": "Knight in Shining Armor",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Knight Vigilant; Expert In Light Armor, Medium Armor, Or Unarmored Defense; Trained In Heavy Armor",
+    "summary": "As a knight in shining armor, you train daily in the heaviest armor, expanding your expertise to heavy armor.",
+    "description": "As a knight in shining armor, you train daily in the heaviest armor, expanding your expertise to heavy armor. You gain expert proficiency in heavy armor.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

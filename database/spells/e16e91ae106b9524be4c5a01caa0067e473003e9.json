@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=361",
+    "name": "Wail of the Banshee",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Death",
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "Scream, dealing damage and draining creatures.",
+    "heightenable": false,
+    "description": "Your scream chills the souls of enemies that hear it. Each living enemy in the area takes 8d10 negative damage and must attempt a Fortitude save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes full damage.\nFailure The creature takes full damage and is drained 1d4.\nCritical Failure The creature takes double damage and is drained 4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

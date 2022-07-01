@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1260",
+    "name": "Light Paws",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You can balance on your toes to step carefully over obstructions.",
+    "description": "You can balance on your toes to step carefully over obstructions. You Stride and then Step, or Step and then Stride, ignoring difficult terrain during this movement.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "2-action",
+    "trigger": ""
+}

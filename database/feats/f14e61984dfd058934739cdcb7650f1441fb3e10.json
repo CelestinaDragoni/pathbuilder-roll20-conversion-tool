@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2946",
+    "name": "Basic Martial Magic",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Magus Dedication",
+    "summary": "You gain a 1st- or 2nd-level magus feat of your choice.",
+    "description": "You gain a 1st- or 2nd-level magus feat of your choice.Basic Martial Magic Leads To...\n\nAdvanced Martial MagicTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

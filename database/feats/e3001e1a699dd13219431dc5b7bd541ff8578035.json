@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1675",
+    "name": "Invigorating Mercy",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 6,
+    "prereq": "Mercy",
+    "summary": "Your divine touch rejuvenates the weak and tired.",
+    "description": "Your divine touch rejuvenates the weak and tired. When you use Mercy, you can instead attempt a counteract check to remove the clumsy or enfeebled conditions, using the source of that condition to determine the counteract level and DC. If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns at the end of your next turn.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

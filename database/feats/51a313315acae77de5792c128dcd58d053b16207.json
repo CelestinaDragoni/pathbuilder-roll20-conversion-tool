@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1255",
+    "name": "Catfolk Weapon Familiarity",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You favor weapons that you can use with quick, darting slashes like a cat's claws.",
+    "description": "You favor weapons that you can use with quick, darting slashes like a cat's claws. You are trained with the hatchet, kama, kukri, scimitar, and sickle. In addition, you gain access to kama, kukris, and all uncommon catfolk weapons. For you, martial catfolk weapons are simple weapons and advanced catfolk weapons are martial weapons.Catfolk Weapon Familiarity Leads To...\n\nCatfolk Weapon Expertise, Catfolk Weapon RakeTraitsCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

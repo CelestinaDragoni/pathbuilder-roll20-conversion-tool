@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2202",
+    "name": "Steal the Sky",
+    "source": "Pathfinder #158",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Jalmeri Heavenseeker Dedication",
+    "summary": "You can take away the air that keeps a flying foe aloft.",
+    "description": "You can take away the air that keeps a flying foe aloft. You gain the steal the sky ki spell. Increase the number of Focus Points in your focus pool by 1.\nTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

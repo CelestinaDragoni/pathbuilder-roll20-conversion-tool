@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1868",
+    "name": "Basic Witchcraft",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Witch Dedication",
+    "summary": "You gain a 1st- or 2nd-level witch feat of your choice.",
+    "description": "You gain a 1st- or 2nd-level witch feat of your choice. Your familiar no longer has one less familiar ability than normal.Basic Witchcraft Leads To...\n\nAdvanced WitchcraftTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

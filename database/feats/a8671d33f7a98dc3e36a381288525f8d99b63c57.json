@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3234",
+    "name": "Master Beast Gunner Spellcasting",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 18,
+    "prereq": "Expert Beast Gunner Spellcasting",
+    "summary": "You've learned the final truth of beast guns, making you a master in the magic they grant you.",
+    "description": "You've learned the final truth of beast guns, making you a master in the magic they grant you. You gain the master spellcasting benefits.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

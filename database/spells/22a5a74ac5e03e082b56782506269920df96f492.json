@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1127",
+    "name": "Wall of Virtue",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Arcane",
+        "Divine"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "You create a translucent wall of light, which draws power from the celestial realms.",
+    "heightenable": true,
+    "description": "You create a translucent wall of light, which draws power from the celestial realms. You create either a 5-foot-thick wall in a straight line up to 60 feet long and 10 feet high or a 5-foot-thick, 10-foot-radius ring with the same height. The wall sheds bright light for 20 feet on each side and dim light for the next 20 feet.\n\n If the light passes through an area of magical darkness or targets a creature affected by magical darkness, wall of virtue attempts to counteract the darkness.\n\n Any creature that crosses the wall or is occupying the wall's area at the start of its turn takes 1d8 good damage and 1d8 positive damage.\n\n------\n\nHeightened (+2)  The good damage increases by 1d8, and the positive damage increases by 1d8.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=595",
+    "name": "Adaptive Ablation",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You shift yourself to adapt to the mystical wavelengths of the energy damage, protecting yourself from further harm.",
+    "heightenable": true,
+    "description": "You shift yourself to adapt to the mystical wavelengths of the energy damage, protecting yourself from further harm. You gain resistance 5 to the triggering energy type; you gain this resistance after you take the triggering damage, so it applies only to future damage you take during the duration.\n\n------\n\nHeightened (+2) Increase the resistance by 5.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "You take acid, cold, electricity, fire, or sonic damage.",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

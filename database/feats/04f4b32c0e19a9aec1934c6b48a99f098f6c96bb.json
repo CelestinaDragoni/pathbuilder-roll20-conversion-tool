@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2241",
+    "name": "Familiar Form",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Spellmaster Dedication",
+    "summary": "You can use your magic to transform into a small creature of a type that commonly serves as a spellcaster's familiar, potentially allowing you to safely scout for your party while retaining a degree of spellcasting ability.",
+    "description": "You can use your magic to transform into a small creature of a type that commonly serves as a spellcaster's familiar, potentially allowing you to safely scout for your party while retaining a degree of spellcasting ability. You gain the familiar form focus spell. Increase the number of Focus Points in your focus pool by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

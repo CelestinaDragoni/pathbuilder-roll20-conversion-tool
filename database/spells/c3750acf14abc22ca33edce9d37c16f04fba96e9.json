@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=997",
+    "name": "Shift Blame",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Trick someone into thinking someone else is to blame for your attack or blunder.",
+    "heightenable": false,
+    "description": "You alter the target's memories of the triggering event as they form. You choose another creature (which can be you) with the capacity to make the triggering attack or skill check, and you alter the target's memories to recall the creature you chose as responsible for the triggering attack or skill check. The target must attempt a Will save and is then temporarily immune for 24 hours.\n\nCritical Success The target knows you attempted to alter its memories.\nSuccess The target doesn't realize you attempted to alter its memories, though it knows you cast a spell.\nFailure You successfully alter the target's memory. It isn't forced to react to the new memories in a particular way, and it's likely to question them if they contradict other information it knows or are implausible for the situation.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "You or another creature attacks a creature or fails at a Deception, Diplomacy, or Intimidation check.",
+    "range": "30 feet",
+    "target": "the target of the triggering attack or skill check",
+    "duration": "",
+    "saving": ""
+}

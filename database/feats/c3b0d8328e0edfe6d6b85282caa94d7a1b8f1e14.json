@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3103",
+    "name": "Lesser Augmentation",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Automaton"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You've focused on enhancing yourself and have received an improvement to one of your existing abilities.",
+    "description": "You've focused on enhancing yourself and have received an improvement to one of your existing abilities. You gain the enhancement benefits of one of your 1st- or 5th-level automaton ancestry feats.\n\n You are also capable of reconfiguring your augmentations to meet your needs. You can spend one week of downtime to change the enhancement you gain with this feat.\n\nEnhancement You gain the enhancement benefits of another 1st- or 5th-level automaton ancestry feat. Also, your reconfigurations take less time. You only need to spend 1 day of downtime to change any of your enhancements. If you have multiple enhancements, changing each one requires a separate day.Traits\n\nAutomaton: Automatons are living constructs sustained by a magical core.",
+    "economy": "none",
+    "trigger": ""
+}

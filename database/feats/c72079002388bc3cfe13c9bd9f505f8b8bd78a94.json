@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=542",
+    "name": "Manifold Edge",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 18,
+    "prereq": "Hunter's Edge, Masterful Hunter",
+    "summary": "You’ve learned every possible edge to use against your foes.",
+    "description": "You've learned every possible edge to use against your foes. When you use Hunt Prey, you can gain a different hunter's edge benefit instead of the one you selected at 1st level. If you do, you don't gain the additional benefit from masterful hunter.",
+    "economy": "none",
+    "trigger": ""
+}

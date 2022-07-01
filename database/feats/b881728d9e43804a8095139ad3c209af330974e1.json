@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1267",
+    "name": "Caterwaul",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Catfolk",
+        "Concentrate",
+        "Emotion",
+        "Mental"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You give a daring yowl in the face of adversity, calling your companion back from the brink of unconsciousness.",
+    "description": "You give a daring yowl in the face of adversity, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Your ally's wounded condition still increases by 1 as though they had been dying and recovered.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.Concentrate: An action with this trait requires a degree of mental concentration and discipline.Emotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "reaction",
+    "trigger": "An ally within 30 feet would be reduced to 0 HP but not immediately killed."
+}

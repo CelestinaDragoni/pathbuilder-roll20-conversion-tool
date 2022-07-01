@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=411",
+    "name": "Darkened Eyes",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Darkness",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You infuse a creature’s vision with darkness.",
+    "heightenable": false,
+    "description": "You infuse a creature's vision with darkness. After attempting its save, the target becomes temporarily immune for 24 hours.\n\nCritical Success The target is unaffected.\nSuccess The target's darkvision or low-light vision is suppressed for 1 round.\nFailure As success, but the duration is 1 minute.\nCritical Failure As success, but the duration is 1 minute, and the target is also blinded for the duration. It can attempt a new save at the end of each of its turns. If it succeeds, it's no longer blinded, but its darkvision or low-light vision remains suppressed.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Fortitude"
+}

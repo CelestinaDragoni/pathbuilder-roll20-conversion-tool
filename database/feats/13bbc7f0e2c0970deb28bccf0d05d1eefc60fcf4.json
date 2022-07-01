@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1174",
+    "name": "Battle Prayer",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "Divine",
+        "General",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "You Follow A Deity; Master In Religion",
+    "summary": "Calling out to your deity, you recite scripture to harm a foe",
+    "description": "Calling out to your deity, you recite scripture to harm a foe. When you select this feat, choose chaos, evil, good, or law. Your choice must match one of your deity’s alignment components. This action has the trait corresponding to the chosen alignment.\n\n Attempt a Religion check against the Will DC of a foe within 30 feet. The foe is then temporarily immune to Battle Prayers from your deity for 1 day.\n\nCritical Success You deal 2d6 damage of the chosen alignment type, or 6d6 damage if you have legendary proficiency in Religion.\nSuccess You deal 1d6 damage of the chosen alignment type, or 3d6 damage if you have legendary proficiency in Religion.\nFailure There is no effect.\nCritical Failure The backlash of your foe’s will against your prayer prevents you from using Battle Prayer again for 10 minutes.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

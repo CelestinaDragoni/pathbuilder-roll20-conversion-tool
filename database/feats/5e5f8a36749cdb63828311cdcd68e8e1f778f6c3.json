@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2879",
+    "name": "Preternatural Parry",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 14,
+    "prereq": "Spell Parry",
+    "summary": "You snap your weapon or limb into place to ward off harm at the last second.",
+    "description": "You snap your weapon or limb into place to ward off harm at the last second. You gain a +2 circumstance bonus to AC and saving throws against the triggering effect until the start of your next turn.",
+    "economy": "reaction",
+    "trigger": "You're targeted by a Strike or a spell attack roll, or you're about to roll a saving throw against a spell effect."
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=98",
+    "name": "Smoke Bomb",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Additive 1",
+        "Alchemist"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You cause the bomb to create a cloud of thick smoke, in addition to its normal effects.",
+    "description": "You cause the bomb to create a cloud of thick smoke, in addition to its normal effects. When thrown, the bomb creates a cloud of smoke in a 10-foot-radius burst. You choose which corner of the target’s space (or the space in which the bomb lands) the cloud is centered on. Creatures within that area have the concealed condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.Traits\n\nAdditive 1: Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you're creating an infused alchemical item, and some can be used only with the Quick Alchemy action. The additive trait is always followed by a level, such as additive 2. An additive adds its level to the level of the alchemical item you're modifying; the result is the new level of the mixture. The mixture's item level must be no higher than your advanced alchemy level.",
+    "economy": "free_action",
+    "trigger": "You use Quick Alchemy to craft an alchemical bomb with a level at least 1 lower than your advanced alchemy level."
+}

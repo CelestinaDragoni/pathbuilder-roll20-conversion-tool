@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1144",
+    "name": "False Faith",
+    "source": "Pathfinder #148",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 1,
+    "prereq": "Worshipper Of Droskar",
+    "summary": "Droskar knows you may need to disguise yourself in societies that oppose your faith.",
+    "description": "Droskar knows you may need to disguise yourself in societies that oppose your faith. After spending 1 hour in prayer to Droskar, you can cast spells using the religious symbol of a different deity as your divine focus, and you can address verbal prayers to that deity. Droskar intercepts your prayers and answers them without the named god knowing.\n\n This ability applies to the religious symbol of only one god at a time—making a different religious symbol work in this fashion requires another hour of prayer and causes the old one to cease functioning. You can always use a religious symbol of Droskar without affecting this ability.",
+    "economy": "none",
+    "trigger": ""
+}

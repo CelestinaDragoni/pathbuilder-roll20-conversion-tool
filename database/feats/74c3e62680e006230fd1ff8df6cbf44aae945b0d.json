@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1239",
+    "name": "Fey Influence",
+    "source": "PFS Scenario #1-17",
+    "rarity": "Rare",
+    "traits": [
+        "—"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your exposure to fey influence has given you some primal magic",
+    "description": "You have been exposed to powerful fey magic. You become trained in primal DCs and spell attack rolls. You gain the fey trait and one of the following features which grant an innate primal spell that can be used once per day. Anteater You can launch your tongue forward as a deadly attack, gaining grim tendrils.Dryad Your body is covered in elegant vines, granting you summon plants or fungus.Gremlin You have long, bat-like ears and gain bane.Monarch You have vestigial, insectile features and gain spider sting. This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.)Traits\n\nRare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.",
+    "economy": "none",
+    "trigger": ""
+}

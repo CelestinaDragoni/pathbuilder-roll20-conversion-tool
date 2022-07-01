@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=290",
+    "name": "Castigating Weapon",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 10,
+    "prereq": "Holy Castigation",
+    "summary": "The force of your deity’s castigation strengthens your body so you can strike down the wicked.",
+    "description": "The force of your deity’s castigation strengthens your body so you can strike down the wicked. After you damage a fiend using a heal spell, your weapon or unarmed Strikes deal extra good damage to fiends equal to half the level of the heal spell until the end of your next turn. This is cumulative with any good damage the weapon already deals (such as from a holy rune).",
+    "economy": "none",
+    "trigger": ""
+}

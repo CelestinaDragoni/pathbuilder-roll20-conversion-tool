@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3288",
+    "name": "Smoke Sight",
+    "source": "Guns & Gears",
+    "rarity": "Uncommon",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You're used to fighting and hiding in a haze of smoke and flame.",
+    "description": "You're used to fighting and hiding in a haze of smoke and flame. You automatically succeed at the DC 5 flat check to target a concealed creature if that creature is concealed only by smoke. When you are concealed or hidden in smoke, increase the DC of the flat check to target you to 6 if you're concealed or 12 if you're hidden.Traits\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

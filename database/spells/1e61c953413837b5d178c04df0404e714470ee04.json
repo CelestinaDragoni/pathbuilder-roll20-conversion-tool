@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=891",
+    "name": "Day's Weight",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Use time magic to fatigue a creature.",
+    "heightenable": true,
+    "description": "You fast-forward time for a single creature, burdening it with the aches and pain of an entire day and making it temporarily tired and weak. The creature must attempt a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target is fatigued and enfeebled 1 for 1 round.\nFailure The target is fatigued and enfeebled 1 for the duration.\nCritical Failure The target is fatigued and enfeebled 2 for the duration. The fatigued condition doesn't end when the spell's duration does (but can still be removed with a night's rest or by similar means).\n\n------\n\nHeightened (6th) You can target up to 10 creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 living creature",
+    "duration": "1 minute",
+    "saving": "Fortitude"
+}

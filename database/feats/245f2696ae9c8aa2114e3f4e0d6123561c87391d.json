@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=505",
+    "name": "Scout's Warning",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger",
+        "Rogue"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You visually or audibly warn your allies of danger.",
+    "description": "You visually or audibly warn your allies of danger, granting them each a +1 circumstance bonus to their initiative rolls. Depending on whether you use gestures or call out, this action gains either the visual or auditory trait, respectively.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "free_action",
+    "trigger": "You are about to roll a Perception or Survival check for initiative."
+}

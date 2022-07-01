@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1522",
+    "name": "Antagonize",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Your taunts and threats earn your foes ire.",
+    "description": "Your taunts and threats earn your foes ire. When you successfully Demoralize a creature, its frightened condition can't decrease to less than 1 at the end of its turn until it either uses a hostile action against you or can no longer observe or sense you for at least 1 round.",
+    "economy": "none",
+    "trigger": ""
+}

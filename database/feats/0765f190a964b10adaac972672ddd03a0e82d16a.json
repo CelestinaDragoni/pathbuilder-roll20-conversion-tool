@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3357",
+    "name": "Soaring Poppet",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "Your construction has flaps of cloth or wicker that can keep you aloft.",
+    "description": "Your construction has flaps of cloth or wicker that can keep you aloft. You gain a fly Speed of 15 feet.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "none",
+    "trigger": ""
+}

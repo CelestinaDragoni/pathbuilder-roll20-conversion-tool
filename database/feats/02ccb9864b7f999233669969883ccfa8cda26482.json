@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2154",
+    "name": "Thorough Search",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 3,
+    "prereq": "Expert In Perception",
+    "summary": "+2 to Perception when you spend twice as long Searching.",
+    "description": "You take your time searching to ensure you find everything. When Searching, you can take twice as long to search. Normally this means you Search at up to one quarter of your Speed, to a maximum of 150 feet per minute to check everything, or 75 feet per minute to check everything before you walk into it. If you do, you gain a +2 circumstance bonus to your Perception checks to Seek.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

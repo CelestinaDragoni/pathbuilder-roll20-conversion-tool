@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=492",
+    "name": "Abyssal Wrath",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You evoke the energy of an Abyssal realm.",
+    "heightenable": true,
+    "description": "You evoke the energy of an Abyssal realm. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below. Abyssal Wrath 1d4RealmManifestationDamage Type 1SkiesBolts and lightning and flying debrisBludgeoning and electricity 2DepthsAcid and demonic shellsAcid and slashing 3FrozenFrigid air and iceBludgeoning and cold 4VolcanicJagged volcanic rocks and magmaFire and piercing \nYou deal 4d6 damage of each of the corresponding damage types to each creature in the cone (8d6 total damage).\n\n------\n\nHeightened (+1) The damage for each type increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

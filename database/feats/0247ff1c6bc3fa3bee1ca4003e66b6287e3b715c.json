@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=723",
+    "name": "Basic Hunter's Trick",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Ranger Dedication",
+    "summary": "You gain a 1st- or 2nd-level ranger feat.",
+    "description": "You gain a 1st- or 2nd-level ranger feat.Basic Hunter's Trick Leads To...\n\nAdvanced Hunter's TrickTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

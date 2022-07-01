@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2410",
+    "name": "Dangle",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 9,
+    "prereq": "Flexible Tail",
+    "summary": "You can hang by your tail from any suitable anchor point, such as a tree branch, balcony, or rocky outcropping (subject to the GM's discretion), typically while climbing.",
+    "description": "You can hang by your tail from any suitable anchor point, such as a tree branch, balcony, or rocky outcropping (subject to the GM's discretion), typically while climbing. While hanging, you have free use of all your other limbs, so you can perform tasks that require both hands, such as firing a bow or swinging a greatsword.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

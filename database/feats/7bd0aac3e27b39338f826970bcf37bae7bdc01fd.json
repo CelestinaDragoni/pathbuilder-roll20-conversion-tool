@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=145",
+    "name": "Attack of Opportunity",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Champion",
+        "Magus",
+        "Swashbuckler"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You swat a foe that leaves an opening.",
+    "description": "You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Attack of Opportunity Leads To...Disorienting Opening, Impassable Wall Stance",
+    "economy": "reaction",
+    "trigger": "A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it’s using."
+}

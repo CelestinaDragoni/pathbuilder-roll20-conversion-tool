@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1056",
+    "name": "Tail Whip",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "By birth or through training, your tail is strong enough to make for a powerful melee weapon.",
+    "description": "By birth or through training, your tail is strong enough to make for a powerful melee weapon. You gain a tail unarmed attack that deals 1d6 bludgeoning damage and has the sweep trait.Tail Whip Leads To...\n\nShed TailTraitsLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

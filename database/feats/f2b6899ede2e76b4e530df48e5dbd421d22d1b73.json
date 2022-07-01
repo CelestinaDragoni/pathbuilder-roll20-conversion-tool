@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3099",
+    "name": "Arcane Camouflage",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Automaton"
+    ],
+    "level": 9,
+    "prereq": "Hunter Automaton Heritage",
+    "summary": "You have developed magical techniques to aid you with stalking your prey.",
+    "description": "You have developed magical techniques to aid you with stalking your prey. You can cast blur and invisibility each once per day as 2nd-level arcane innate spells.\n\nEnhancement Your camouflage is more potent. Your blur spell now lasts 10 minutes and when you cast invisibility, you can choose to gain the effects of the 4th-level version of the spell. In addition, you can now cast blur and invisibility each twice per day.Traits\n\nAutomaton: Automatons are living constructs sustained by a magical core.",
+    "economy": "none",
+    "trigger": ""
+}

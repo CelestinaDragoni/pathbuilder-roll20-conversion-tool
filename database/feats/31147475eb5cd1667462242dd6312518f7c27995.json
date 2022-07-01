@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2889",
+    "name": "Expanded Senses",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon evolves more acute senses.",
+    "description": "Your eidolon evolves more acute senses. Your eidolon gains low-light vision and darkvision, as well as scent as an imprecise sense with a range of 30 feet.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

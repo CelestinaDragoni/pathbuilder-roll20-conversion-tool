@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=570",
+    "name": "Twist the Knife",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "After stabbing your opponent in a weak spot, you tear the wound open.",
+    "description": "After stabbing your opponent in a weak spot, you tear the wound open. You deal persistent bleed damage to the target equal to your number of sneak attack damage dice.",
+    "economy": "1-action",
+    "trigger": ""
+}

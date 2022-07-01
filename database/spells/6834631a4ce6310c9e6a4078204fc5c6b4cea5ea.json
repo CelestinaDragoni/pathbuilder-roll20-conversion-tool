@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=418",
+    "name": "Dreamer's Call",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "The target becomes distracted and suggestible, inundated by vivid daydreams.",
+    "heightenable": false,
+    "description": "The target becomes distracted and suggestible, inundated by vivid daydreams.\n\nCritical Success The target is unaffected.\nSuccess The target's attention wavers. It becomes flat-footed and fascinated by its daydreams.\nFailure As success, except that you appear in the dream and give a suggestion. This can be to approach you, run away (as if it had the fleeing condition), Release what it's holding, Drop Prone, or stand in place. The creature follows this course of action as its first action after you Cast the Spell.\nCritical Failure As failure, but the target follows the course of action for as many actions as possible for the spell's duration, and it does nothing else.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "until the end of the target's next turn",
+    "saving": "Will"
+}

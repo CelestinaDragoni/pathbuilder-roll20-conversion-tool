@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1232",
+    "name": "Turpin Rowe Lumberjack Dedication",
+    "source": "Pathfinder #153",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In Survival",
+    "summary": "Your logging training has made you intimately familiar with all aspects of forestry.",
+    "description": "Your logging training has made you intimately familiar with all aspects of forestry, and you have trained extensively to reach around trees and utilize their bulk to your advantage. You become trained in Milling Lore and Forest Lore, or an expert if you were already trained. You can always Take Cover when you are within forest terrain to gain cover, even if you’re not next to an obstacle you can Take Cover behind. In addition, any enemy who gains standard cover from a tree gains only lesser cover against your attacks (or only standard cover, if the enemy otherwise gains greater cover).\n\nSpecial You cannot select another dedication feat until you have gained two other feats from the Turpin Rowe lumberjack archetype.Turpin Rowe Lumberjack Dedication Leads To...Axe Climber, Axe Thrower, Log RollTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

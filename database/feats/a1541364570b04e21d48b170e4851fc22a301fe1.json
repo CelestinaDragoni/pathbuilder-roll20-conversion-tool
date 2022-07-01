@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2669",
+    "name": "Alghollthu Bound",
+    "source": "Absalom, City of Lost Omens",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Although you may not even be aware, the alghollthus your ancestors once served maintain a stranglehold on the deepest, tethered parts of your mind.",
+    "description": "Although you may not even be aware, the alghollthus your ancestors once served maintain a stranglehold on the deepest, tethered parts of your mind. You receive a +2 circumstance bonus to Will saves against mental effects that would make you controlled, and if you roll a success against such an effect, you get a critical success instead. However, you gain none of these benefits against effects originating from alghollthus and instead take a –2 circumstance penalty against mental effects from alghollthus.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

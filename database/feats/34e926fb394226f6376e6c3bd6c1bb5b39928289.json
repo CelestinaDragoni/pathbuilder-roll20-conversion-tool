@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3",
+    "name": "Rock Runner",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your innate connection to stone makes you adept at moving across uneven surfaces.",
+    "description": "Your innate connection to stone makes you adept at moving across uneven surfaces. You can ignore difficult terrain caused by rubble and uneven ground made of stone and earth. In addition, when you use the Acrobatics skill to Balance on narrow surfaces or uneven ground made of stone or earth, you aren't flat-footed, and when you roll a success at one of these Acrobatics checks, you get a critical success instead.\nRock Runner Leads To...\n\nBoulder RollTraitsDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "none",
+    "trigger": ""
+}

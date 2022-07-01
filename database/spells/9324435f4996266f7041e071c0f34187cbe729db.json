@@ -1,0 +1,27 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=590",
+    "name": "Temporary Tool",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You conjure a temporary simple tool, such as a shovel or rope into your hands.",
+    "heightenable": false,
+    "description": "You conjure a temporary simple tool, such as a shovel or rope into your hands. It lasts until it is used for a single activity or for 1 minute, whichever comes first, after which it disappears. The tool is obviously temporarily conjured, and thus can’t be sold or passed off as a genuine item.",
+    "economy": "none",
+    "components": [
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "until used or 1 minute; see text",
+    "saving": ""
+}

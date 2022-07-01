@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=694",
+    "name": "Heat Metal",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Make metal red hot.",
+    "heightenable": true,
+    "description": "This spell heats the targeted metal to become red-hot for a moment. This is usually harmless to an unattended metal item, which doesn't get a saving throw, though the GM might rule that flammable materials connected to the object catch fire or melt. If you target an item worn or carried by a creature, or you target a creature made primarily of metal, the heat deals 4d6 fire damage and 2d4 persistent fire damage to the creature, which must attempt a Reflex saving throw.\n\n If you target an item held by the creature, the creature can Release the item to improve their degree of success by one step from the result of their saving throw. The persistent damage is associated with the object and damages whichever creature is holding or wearing it. It has no effect if no one is holding the item, but you continue to attempt flat checks to end the persistent damage as normal, since the item remains hot and can sear someone who picks it up.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage and the object deals no persistent fire damage.\nFailure The creature takes full damage and the object deals full persistent damage.\nCritical Failure As failure, but the creature takes double damage and the object deals double persistent damage.\n\n------\n\nHeightened (+1) The initial damage increases by 2d6 and the persistent damage increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 metal item or metal creature",
+    "duration": "",
+    "saving": ""
+}

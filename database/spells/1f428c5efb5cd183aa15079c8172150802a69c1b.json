@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=530",
+    "name": "Hand of the Apprentice",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Attack",
+        "Evocation",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You hurl a held melee weapon, making a spell attack roll.",
+    "heightenable": false,
+    "description": "You hurl a held melee weapon with which you are trained at the target, making a spell attack roll. On a success, you deal the weapon's damage as if you had hit with a melee Strike, but adding your spellcasting ability modifier to damage, rather than your Strength modifier. On a critical success, you deal double damage, and you add the weapon's critical specialization effect. Regardless of the outcome, the weapon flies back to you and returns to your hand.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1990",
+    "name": "Perpetual Scout",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Horizon Walker Dedication",
+    "summary": "You spot anything out of place in the areas you know best.",
+    "description": "You spot anything out of place in the areas you know best. While in your favored terrain, you always gain the benefits of the Scout exploration activity, even if you are performing another exploration activity. If you're legendary in Survival, you gain these benefits in any terrain.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

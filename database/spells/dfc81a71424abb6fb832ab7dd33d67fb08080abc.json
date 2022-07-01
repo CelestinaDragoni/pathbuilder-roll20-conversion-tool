@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=523",
+    "name": "Charming Words",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Auditory",
+        "Enchantment",
+        "Incapacitation",
+        "Linguistic",
+        "Mental",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You whisper enchanting words to deflect your foe’s ire.",
+    "heightenable": false,
+    "description": "You whisper enchanting words to deflect your foe's ire. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target takes a –1 circumstance penalty to attack rolls and damage rolls against you.\nFailure The target can't use hostile actions against you.\nCritical Failure The target is stunned 1 and can't use hostile actions against you.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "until the start of your next turn",
+    "saving": "Will"
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1727",
+    "name": "Disorienting Opening",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 8,
+    "prereq": "Attack Of Opportunity",
+    "summary": "You use your foes' openings to expose even greater weaknesses.",
+    "description": "You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of an Attack of Opportunity, that creature becomes flat-footed until the start of your next turn.",
+    "economy": "none",
+    "trigger": ""
+}

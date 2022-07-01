@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=340",
+    "name": "Tongues",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Let a creature understand and speak all languages.",
+    "heightenable": true,
+    "description": "The target can understand all words regardless of language and also speak the languages of other creatures. When in a mixed group of creatures, each time the target speaks, it can choose a creature and speak in a language that creature understands, even if the target doesn't know what language that is.\n\n------\n\nHeightened (7th) The duration is 8 hours.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "1 hour",
+    "saving": ""
+}

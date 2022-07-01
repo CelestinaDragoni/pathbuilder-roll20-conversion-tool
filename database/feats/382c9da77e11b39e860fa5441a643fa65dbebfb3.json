@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=314",
+    "name": "Storm Born",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 1,
+    "prereq": "Storm Order",
+    "summary": "You are at home out in the elements, reveling in the power of nature unleashed.",
+    "description": "You are at home out in the elements, reveling in the power of nature unleashed. You do not take circumstance penalties to ranged spell attacks or Perception checks caused by weather, and your targeted spells don’t require a flat check to succeed against a target concealed by weather (such as fog).",
+    "economy": "none",
+    "trigger": ""
+}

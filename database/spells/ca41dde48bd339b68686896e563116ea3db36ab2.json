@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1030",
+    "name": "Warrior's Regret",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Curse",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Regrets overcome a foe when they harm others.",
+    "heightenable": true,
+    "description": "Regret eats away at the target's mind, punishing it for its violence until it ceases its hostility. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess At the end of its next turn, the target takes 1d8 damage per different creature it intentionally damaged on that turn (1d8 if it damaged one creature, 2d8 if it damaged two different creatures, and so on). The maximum is 4d8 if it damaged 4 different creatures.\nFailure As success, except the curse damages the target at the end of each of its turns and lasts until the target spends a complete round without intentionally damaging another creature.\nCritical Failure As success, except the curse damages the target at the end of each of its turns and lasts until the target spends 24 hours atoning for its perceived sins.\n\n------\n\nHeightened (+2) The amount of mental damage the target takes for each creature it damaged that turn increases by 1d8, and the maximum damage the target can take per turn increases by 4d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

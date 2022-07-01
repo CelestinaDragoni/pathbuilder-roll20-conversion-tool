@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=322",
+    "name": "Mature Animal Companion (Druid)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 4,
+    "prereq": "Animal Companion",
+    "summary": "Your animal companion grows up, becoming a mature animal companion, which grants it additional capabilities.",
+    "description": "Your animal companion grows up, becoming a mature animal companion, which grants it additional capabilities. See the animal companion rules for more information. Your animal companion is better trained than most. During an encounter, even if you don't use the Command an Animal action, your animal companion can still use 1 action on your turn that round to Stride or Strike.Mature Animal Companion (Druid) Leads To...\n\nIncredible Companion (Druid)",
+    "economy": "none",
+    "trigger": ""
+}

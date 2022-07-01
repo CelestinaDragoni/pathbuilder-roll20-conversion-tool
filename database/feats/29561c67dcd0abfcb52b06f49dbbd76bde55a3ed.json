@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1044",
+    "name": "Leshy Glide",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 5,
+    "prereq": "Leaf Leshy Heritage Or Cat Fall",
+    "summary": "Using your own leaves, you can control your descent.",
+    "description": "Using your own leaves, you can control your descent. You glide slowly toward the ground, 5 feet down and up to 25 feet forward through the air. As long as you spend at least 1 action gliding each round and have not yet reached the ground, you remain in the air at the end of your turn.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "1-action",
+    "trigger": ""
+}

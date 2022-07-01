@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=886",
+    "name": "Necromantic Tenacity",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Necromantic Resistance",
+    "summary": "Reduce the power that necromantic effects hold over you.",
+    "description": "Your training against necromantic effects allows you to escape the worst of their touch. If you roll a success on a saving throw against a necromancy effect, you get a critical success instead; if you roll a critical failure on such a save, you get a failure instead.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

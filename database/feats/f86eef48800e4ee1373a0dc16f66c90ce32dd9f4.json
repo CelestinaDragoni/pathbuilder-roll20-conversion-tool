@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1943",
+    "name": "Dragon Arcana",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Ability To Cast Spells From Spell Slots; Dragon Disciple Dedication",
+    "summary": "You've discovered how to add the magic of dragons to your tradition.",
+    "description": "You've discovered how to add the magic of dragons to your tradition. Add the draconic bloodline's granted spells to your spell list; you must still learn them or add them to your repertoire as normal. These spells are shield, true strike, resist energy, haste, spell immunity, chromatic wall, dragon form, mask of terror, prismatic wall, and overwhelming presence.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

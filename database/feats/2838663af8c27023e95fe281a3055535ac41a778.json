@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3149",
+    "name": "Patch Job",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Vehicle Mechanic Dedication",
+    "summary": "You can patch up damage to an object with a quick fix.",
+    "description": "You can patch up damage to an object with a quick fix. You gain the Improvised Repair general feat. When you use Improvised Repair, you can attempt a Crafting check with the same DC as Repair. If you succeed, you can use the object as a normal object of its type until it takes damage rather than as a shoddy object of its type.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

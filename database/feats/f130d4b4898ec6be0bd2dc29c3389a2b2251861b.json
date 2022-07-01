@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2169",
+    "name": "Vigil's Walls Rise Anew!",
+    "source": "Legends",
+    "rarity": "Rare",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Knight Vigilant Dedication",
+    "summary": "You can train your allies to Raise a Shield on your order",
+    "description": "As part of daily preparation, you can drill with a number of allies up to your Charisma modifier. These allies must be present and listening during this time, but this does not otherwise impede their own preparation. When you use this feat's benefit, you and all drilled companions within 30 feet who are wielding shields Raise a Shield. Allies who Raise their Shields keep them raised until the start of their next turn, as normal.\nTraits\n\nArchetype: This feat belongs to an archetype.\n\nRare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.Knights in TrainingSource Legends pg. 68\nThe following feats represent benefits of training from the Iomedars (Kalabrynne for knight vigilant, Clarethe for knight reclaimant, either for Lastwall sentry).\n\nRelated Feats: Rescuer's Press, Shall Not Falter, Shall Not Rout",
+    "economy": "2-action",
+    "trigger": ""
+}

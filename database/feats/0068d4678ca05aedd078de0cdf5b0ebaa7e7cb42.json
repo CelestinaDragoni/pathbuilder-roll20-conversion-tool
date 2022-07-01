@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3251",
+    "name": "Pistol Phenom Dedication",
+    "source": "Guns & Gears",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In At Least One Type Of One-handed Firearm; Trained In Deception And Performance",
+    "summary": "You catch an opponent off-guard by spinning your weapon.",
+    "description": "You catch an opponent off-guard by spinning your weapon. You gain the Pistol Twirl gunslinger feat, enabling you to Feint against creatures within your weapon's first range increment. This otherwise serves as Pistol Twirl for the purpose of meeting prerequisites, although as normal, it doesn't count as another pistol phenom feat for the purpose of meeting Pistol Phenom Dedication's special entry and taking another archetype. Whenever you Feint with a one-handed firearm, you can choose to attempt a Performance check instead of a Deception check.\n\nSpecial You can't select another dedication feat until you've gained at least two other feats from the pistol phenom archetype.Pistol Phenom Dedication Leads To...\n\nDazzling Bullet, Gunpowder Gaunlet, Hot Foot, Phenom's Verve, Reach for the Sky, Whirling KnockdownTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

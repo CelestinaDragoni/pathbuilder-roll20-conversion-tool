@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2007",
+    "name": "Inspiring Marshal Stance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Open",
+        "Stance"
+    ],
+    "level": 4,
+    "prereq": "Marshal Dedication; Trained In Diplomacy",
+    "summary": "You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit.",
+    "description": "You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a Diplomacy check. The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.\n\nCritical Success Your marshal's aura increases to a 20-foot emanation and grants you and allies a +1 status bonus to attack rolls and saves against mental effects.\nSuccess As critical success, but your aura's size doesn't increase.\nFailure You fail to enter the stance.\nCritical Failure You fail to enter the stance and can't take this action again for 1 minute.Traits\n\nArchetype: This feat belongs to an archetype.\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.Stance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

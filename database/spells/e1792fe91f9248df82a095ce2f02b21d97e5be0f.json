@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1038",
+    "name": "Force Fang",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Force",
+        "Magus"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You briefly turn your attack into pure force to bypass your opponent's defenses.",
+    "heightenable": true,
+    "description": "You briefly turn your attack into pure force to bypass your opponent's defenses. Choose a target within your reach, or within the reach of a melee weapon you're wielding. If you can use Spellstrike with a ranged weapon (with the starlit span hybrid study, for example), you can target a creature in the first range increment of your ranged weapon. For an instant, you transform your weapon or unarmed attack into a spike of pure force, replacing all its normal statistics and abilities. The force fang automatically deals 1d4+1 force damage to the target.\n\n------\n\nHeightened (+2) The damage increases by 1d4+1.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "varies",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

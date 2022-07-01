@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3444",
+    "name": "Mammoth Charge",
+    "source": "Pathfinder #177",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 6,
+    "prereq": "Mammoth Lord Dedication",
+    "summary": "You Command an Animal to order your megafauna companion to Stride twice.",
+    "description": "You Command an Animal to order your megafauna companion to Stride twice. At any point during this movement, you can make a melee Strike against one enemy within reach.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

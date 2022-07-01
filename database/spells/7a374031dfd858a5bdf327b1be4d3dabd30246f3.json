@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1097",
+    "name": "Bone Spray",
+    "source": "Pathfinder #176",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You fire a torrent of jagged bone shards from your hands.",
+    "heightenable": true,
+    "description": "You fire a torrent of jagged bone shards from your hands, dealing 2d10 piercing damage and 1 persistent bleed damage to all creatures in the area.\n\n------\n\nHeightened (+1) The piercing damage increases by 1d10 and the persistent bleed damage increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

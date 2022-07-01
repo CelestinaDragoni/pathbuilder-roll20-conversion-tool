@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2972",
+    "name": "Steadying Stone",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 1,
+    "prereq": "Stone Order",
+    "summary": "The earth has taught you how to remain unyielding and firm.",
+    "description": "The earth has taught you how to remain unyielding and firm. If you roll a success on an Acrobatics check made to Balance on uneven ground composed of earth or rock, you get a critical success instead. As long as you remain on the ground, you gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to Shove or Trip you. This bonus also applies to saving throws against spells or effects that would attempt to knock you prone. If you're a rock dwarf, this bonus increases to +3.",
+    "economy": "none",
+    "trigger": ""
+}

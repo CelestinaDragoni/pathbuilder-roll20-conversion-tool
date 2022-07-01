@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=691",
+    "name": "Champion's Reaction",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Champion Dedication",
+    "summary": "You can use the champion’s reaction associated with your cause.",
+    "description": "You can use the champion’s reaction associated with your cause.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

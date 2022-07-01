@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=594",
+    "name": "Dispelling Slice",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "Your sneak attack slices through the threads binding magic to a target.",
+    "description": "Your sneak attack slices through the threads binding magic to a target. Make a Strike against a flat-footed creature. If your Strike deals sneak attack damage, you attempt to counteract a single spell active on the target (your choice). Your counteract level is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC – 10.",
+    "economy": "2-action",
+    "trigger": ""
+}

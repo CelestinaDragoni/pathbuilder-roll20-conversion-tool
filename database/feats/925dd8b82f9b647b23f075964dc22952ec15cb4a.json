@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3610",
+    "name": "Thwart Evil",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Lastwall Sentry Dedication; Expert In Religion",
+    "summary": "You react instinctively when you sense evil forming, thrusting your spiritual energy toward the source to snuff out evil before it fully manifests.",
+    "description": "You react instinctively when you sense evil forming, thrusting your spiritual energy toward the source to snuff out evil before it fully manifests. Attempt to counteract the triggering spell or ability using your Religion modifier as your counteract modifier.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature you can see uses a spell or ability that has the evil or negative traits."
+}

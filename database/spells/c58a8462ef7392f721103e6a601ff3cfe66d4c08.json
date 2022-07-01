@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=805",
+    "name": "Restorative Moment",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Hex",
+        "Necromancy",
+        "Witch"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You manipulate the threads of time around the target, giving them some of the benefits of a day's passage.",
+    "heightenable": false,
+    "description": "You manipulate the threads of time around the target, giving them some of the benefits of a day's passage. The target decreases the values of any doomed and drained conditions it has by 1 and can immediately attempt one saving throw against each affliction it has with a stage length of 1 day or less. The target is then temporarily immune for 1 day.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

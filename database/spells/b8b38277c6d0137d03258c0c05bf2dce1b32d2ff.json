@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=404",
+    "name": "Blind Ambition",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You strengthen a target’s ambition, increase its resentment of allies, and make its allegiances more susceptible to change.",
+    "heightenable": false,
+    "description": "You strengthen a target's ambition, increase its resentment of allies, and make its allegiances more susceptible to change. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target takes a –1 status penalty to its saving throws and other defenses against attempts to Coerce it, Request something of it, or use mental effects to convince it to do something (such as a suggestion spell). This penalty applies only if the target is being encouraged to advance its own ambitions.\nFailure As success, but the penalty is –2.\nCritical Failure The target is overcome with ambition, taking whatever actions would advance its own agenda over those of anyone else, even without attempts to convince it.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": "Will"
+}

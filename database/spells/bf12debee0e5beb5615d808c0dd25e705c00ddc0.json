@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=813",
+    "name": "Rebounding Barrier",
+    "source": "Legends",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "You swiftly raise a reflective barrier, reducing physical damage and rebounding it onto your attacker.",
+    "heightenable": true,
+    "description": "You swiftly raise a reflective barrier, reducing physical damage and rebounding it onto your attacker. You gain resistance 10 against one physical damage type the triggering attack deals. Your attacker takes 5 damage of the same type.\n\n------\n\nHeightened (+1) The resistance increases by 2. Damage dealt to your attacker increases by 1.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=20",
+    "name": "Elven Weapon Elegance",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 5,
+    "prereq": "Elven Weapon Familiarity",
+    "summary": "You are attuned to the weapons of your elven ancestors and are particularly deadly when using them.",
+    "description": "You are attuned to the weapons of your elven ancestors and are particularly deadly when using them. Whenever you critically hit using an elf weapon or one of the weapons listed in Elven Weapon Familiarity, you apply the weapon's critical specialization effect.\nTraits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

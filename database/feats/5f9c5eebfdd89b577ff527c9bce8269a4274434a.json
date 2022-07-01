@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2517",
+    "name": "Deepvision",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fleshwarp"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your vision is suited for night or the underground.",
+    "description": "Your vision is suited for night or the underground. You gain darkvision.Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
+    "economy": "none",
+    "trigger": ""
+}

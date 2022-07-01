@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=896",
+    "name": "Divine Armageddon",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Negative",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Call on your deity to bring about a cataclysm.",
+    "heightenable": true,
+    "description": "You call forth a divine cataclysm from your deity, destroying living and undead creatures in the area alike. Creatures in the area take 10d6 negative damage and 10d6 alignment damage (good, evil, lawful, or chaotic), chosen from among the alignments your deity has. If your deity is true neutral, increase the negative damage by 4d6 instead of dealing alignment damage. A creature harmed by positive damage, such as one with negative healing, takes positive damage instead of negative damage from this spell.\n\n You can't cast this spell if you don't have a deity. This spell gains the trait corresponding to the alignment damage dealt.\n\n------\n\nHeightened (+1) The damage increases by 1d6 negative damage, 1d6 alignment damage, and 1d6 additional negative and positive damage for a true neutral deity.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

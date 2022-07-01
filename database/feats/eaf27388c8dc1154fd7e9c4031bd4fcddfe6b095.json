@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=733",
+    "name": "Evasiveness (Rogue)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Rogue Dedication; Expert In Reflex Saves",
+    "summary": "You gain the deny advantage class feature.",
+    "description": "Your proficiency rank for Reflex saves increases to master.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

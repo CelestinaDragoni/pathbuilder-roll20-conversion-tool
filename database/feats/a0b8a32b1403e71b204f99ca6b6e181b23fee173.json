@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2415",
+    "name": "Orc Warmask",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You paint your face to create a warmask.",
+    "description": "You paint your face to create a warmask, an invested magic item of negligible Bulk with an item level equal to your level and a usage of worn (mask). It has the divination trait and a magical tradition trait depending on its type. Donning or removing your warmask requires 1 minute of work, though you don't need to Invest the mask each time. The warmask is unique to you and might signify your hold, your accomplishments, or your faith. While creating your mask, you must choose the source of your warmask's power from the options below. This source determines the mask's associated skill as well as magical tradition.\n\n Once you select this source, it can't be changed. You become trained in the associated skill, and you gain the Dubious Knowledge skill feat as a bonus feat. You can spend 1 hour performing a ceremony that costs 50 gp to attune yourself more deeply with your warmask. If you do, you gain a +1 item bonus to the associated skill whenever you wear the warmask. The Gods Religion, divine traditionThe Land Nature, primal traditionMagic Arcana, arcane traditionThe Unknown Occultism, occult traditionOrc Warmask Leads To...\n\nMask of Fear, Mask of Pain, Mask of Power, Mask of RejectionTraitsOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

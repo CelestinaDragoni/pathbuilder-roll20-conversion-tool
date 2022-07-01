@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=139",
+    "name": "Shake it Off",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Concentrate",
+        "Rage"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You concentrate on your rage, overcoming fear and fighting back sickness.",
+    "description": "You concentrate on your rage, overcoming fear and fighting back sickness. Reduce your frightened condition value by 1, and attempt a Fortitude save to recover from the sickened condition as if you had spent an action retching; you reduce your sickened condition value by 1 on a failure (but not on a critical failure), by 2 on a success, or by 3 on a critical success.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

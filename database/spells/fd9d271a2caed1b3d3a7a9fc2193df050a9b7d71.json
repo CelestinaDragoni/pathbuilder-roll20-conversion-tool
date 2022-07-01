@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1094",
+    "name": "Impart Empathy",
+    "source": "Pathfinder #175",
+    "traditions": [
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You expand the target's ability to understand social cues that are normally beyond its comprehension.",
+    "heightenable": true,
+    "description": "You expand the target's ability to understand social cues that are normally beyond its comprehension. Any creature to which the target isn't unfriendly or hostile can use Diplomacy to Make an Impression on it and to make very simple Requests of it. This doesn't render the animal any more inclined to help than it otherwise would be.\n\n------\n\nHeightened (4th) The spell can also target plants and fungi.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 animal",
+    "duration": "1 day",
+    "saving": "Will"
+}

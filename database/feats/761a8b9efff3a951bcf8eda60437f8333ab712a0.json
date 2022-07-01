@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1588",
+    "name": "Hex Wellspring",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Witch"
+    ],
+    "level": 18,
+    "prereq": "Hex Focus",
+    "summary": "Focus flows from your patron each time you commune with your familiar.",
+    "description": "Focus flows from your patron each time you commune with your familiar. You can recover 3 Focus Points when you Refocus instead of 1 if you have spent at least 3 Focus Points since the last time you Refocused.",
+    "economy": "none",
+    "trigger": ""
+}

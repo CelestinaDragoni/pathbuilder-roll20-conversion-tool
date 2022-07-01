@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=526",
+    "name": "Dread Aura",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You emit an aura of terror.",
+    "heightenable": false,
+    "description": "You emit an aura of terror. Foes in the area are frightened 1 and unable to reduce the condition.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

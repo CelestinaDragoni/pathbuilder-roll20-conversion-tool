@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=883",
+    "name": "Eye of Ozem",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Lastwall Sentry Dedication; Expert In Perception",
+    "summary": "Learn how to better spot danger at a distance.",
+    "description": "You’ve learned how to spot danger at a distance, allowing you to serve as a sentry with ease. You gain a +2 circumstance bonus to initiative rolls when using Perception, and when you’re Scouting, you grant your allies a +2 circumstance bonus instead of +1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

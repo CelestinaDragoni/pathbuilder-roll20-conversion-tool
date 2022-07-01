@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2461",
+    "name": "Emotionless",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Android"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your malfunctioning emotional processors make it difficult for you to feel strong emotions.",
+    "description": "Your malfunctioning emotional processors make it difficult for you to feel strong emotions. You gain a +1 circumstance bonus to saving throws against emotion and fear effects. If you roll a success on a saving throw against an emotion or fear effect, you get a critical success instead.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.",
+    "economy": "none",
+    "trigger": ""
+}

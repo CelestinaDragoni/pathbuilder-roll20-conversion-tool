@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=850",
+    "name": "Rejuvenating Flames",
+    "source": "Pathfinder #168",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Fire",
+        "Healing",
+        "Necromancy",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You create a gout of flame that both heals and burns.",
+    "heightenable": true,
+    "description": "You create a gout of flame that both heals and burns. You restore 1d4 HP to all allies in the area, and those allies gain a +1 status bonus to Fortitude saves for 1 minute. Enemies in the area take 1d4 fire damage with a basic Reflex save.\n\n------\n\nHeightened (+1) You restore an additional 1d4 HP to your allies and deal an additional 1d4 fire damage to enemies.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

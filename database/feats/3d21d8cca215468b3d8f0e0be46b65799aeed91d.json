@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2439",
+    "name": "Tengu Feather Fan",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You've learned to bind some of your feathers together into a fan to focus your ancestral magic.",
+    "description": "You've learned to bind some of your feathers together into a fan to focus your ancestral magic. You gain a tengu feather fan: a magic item of light Bulk with a level equal to your level and the evocation and primal traits. You (and only you) can use the tengu feather fan to cast tengu magic. If your fan is lost or destroyed, you can create a replacement during your daily preparations; if you do so, your previous fan falls apart into mundane feathers. Further feats might grant you additional activations of your tengu feather fan, but you can never have more than three activations per day, no matter how many such feats you have. The DC for spells you cast with your tengu feather fan is your class DC or spell DC, whichever is higher.\n\n You can cast the 1st-level gust of wind spell by activating your tengu feather fan.\n\nActivate  Interact; Frequency once per day; Effect You cast one of the spells contained in your tengu feather fan. Activating the fan takes the spell's normal number of actions. You can also Activate the fan to cast a cantrip you've gained from a heritage or ancestry feat; this activation doesn't count against the fan's uses per day\n\n------\n\nTengu Feather Fan Leads To...\n\nWind God's FanTraitsTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1871",
+    "name": "Expert Witch Spellcasting",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Basic Witch Spellcasting; Master In The Skill Associated With Your Patron's Tradition",
+    "summary": "You gain the expert spellcasting benefits.",
+    "description": "You gain the expert spellcasting benefits.Expert Witch Spellcasting Leads To...\n\nMaster Witch SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=332",
+    "name": "Incredible Companion (Druid)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 8,
+    "prereq": "Mature Animal Companion (Druid)",
+    "summary": "Your animal companion continues to grow and develop.",
+    "description": "Your animal companion continues to grow and develop. It becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.Incredible Companion (Druid) Leads To...\n\nSpecialized Companion (Druid)",
+    "economy": "none",
+    "trigger": ""
+}

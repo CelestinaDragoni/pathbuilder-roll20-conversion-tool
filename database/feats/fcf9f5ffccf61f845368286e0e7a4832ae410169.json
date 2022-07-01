@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1006",
+    "name": "Tree Climber (Goblin)",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 5,
+    "prereq": "Tailed Goblin Heritage Or Treedweller Goblin Heritage",
+    "summary": "Your time in forest or jungle canopies has taught you how to scramble across branches with sure feet.",
+    "description": "Your time in forest or jungle canopies has taught you how to scramble across branches with sure feet. You gain a climb Speed of 10 feet. If you also have the Cave Climber ancestry feat, your total climb Speed increases to your land Speed when climbing trees.Traits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

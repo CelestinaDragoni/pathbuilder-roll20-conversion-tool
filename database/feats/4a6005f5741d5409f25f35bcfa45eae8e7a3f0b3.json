@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1915",
+    "name": "Tools of the Trade",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Bounty Hunter Dedication",
+    "summary": "You're well-versed in weapons that allow you to bring bounties in alive.",
+    "description": "You're well-versed in weapons that allow you to bring bounties in alive. You are trained with the following weapons: bola, sap, and whip. You gain access to bolas. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the weapons listed.\n\n In addition, you take no penalty when making a nonlethal attack with a weapon without the nonlethal trait.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

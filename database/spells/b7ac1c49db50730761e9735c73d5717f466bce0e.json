@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=102",
+    "name": "Enlarge",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Polymorph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "A creature grows in size.",
+    "heightenable": true,
+    "description": "Bolstered by magical power, the target grows to size Large. Its equipment grows with it but returns to natural size if removed. The creature is clumsy 1. Its reach increases by 5 feet (or by 10 feet if it started out Tiny), and it gains a +2 status bonus to melee damage. This spell has no effect on a Large or larger creature.\n\n------\n\nHeightened (4th) The creature instead grows to size Huge. The status bonus to melee damage is +4 and the creature's reach increases by 10 feet (or 15 feet if the creature started out Tiny). The spell has no effect on a Huge or larger creature.\nHeightened (6th) Choose either the 2nd-level or 4th-level version of this spell and apply its effects to 10 willing creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 willing creature",
+    "duration": "5 minutes",
+    "saving": ""
+}

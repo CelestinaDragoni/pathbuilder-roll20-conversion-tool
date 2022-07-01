@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2628",
+    "name": "Killing Stone",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kitsune"
+    ],
+    "level": 13,
+    "prereq": "Star Orb",
+    "summary": "Your star orb hides a deadly miasma.",
+    "description": "Your star orb hides a deadly miasma. You can cast 5th-level cloudkill as a divine innate spell once per day. The spell's normal components are replaced with a focus component (your star orb) and a somatic component to aim the orb towards the location for the spell.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
+    "economy": "none",
+    "trigger": ""
+}

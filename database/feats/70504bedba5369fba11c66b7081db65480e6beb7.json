@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2857",
+    "name": "Steady Spellcasting (Magus)",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "Confident in your technique, you don't easily lose your concentration when you Cast a Spell.",
+    "description": "Confident in your technique, you don't easily lose your concentration when you Cast a Spell. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.",
+    "economy": "none",
+    "trigger": ""
+}

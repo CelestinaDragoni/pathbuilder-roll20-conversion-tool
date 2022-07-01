@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2428",
+    "name": "Plague Sniffer",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 5,
+    "prereq": "Longsnout Rat Heritage",
+    "summary": "You can sniff out the pungent tang of disease.",
+    "description": "You can sniff out the pungent tang of disease. When you detect a creature by scent, you can also detect if that creature is suffering from a disease at a non-carrier state. If the disease is particularly subtle, you might need to attempt a Perception check against the disease's DC (subject to the GM's discretion).Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

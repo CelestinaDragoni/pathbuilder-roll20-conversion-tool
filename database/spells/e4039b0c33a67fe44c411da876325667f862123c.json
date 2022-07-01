@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=509",
+    "name": "Fey Disappearance",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Enchantment",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You become invisible and ignore natural difficult terrain.",
+    "heightenable": true,
+    "description": "You become invisible and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.\n\n------\n\nHeightened (5th) If you use a hostile action, the invisibility doesn't end.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "until the end of your next turn",
+    "saving": ""
+}

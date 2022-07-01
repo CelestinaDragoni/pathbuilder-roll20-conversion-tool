@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1172",
+    "name": "Expanded Domain Initiate",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 4,
+    "prereq": "Domain Initiate",
+    "summary": "You have long venerated one of your deity’s lesser-known aspects",
+    "description": "You have long venerated one of your deity’s lesser-known aspects. Select one domain from your deity’s alternate domains. You gain access to that domain and an initial domain spell for that domain.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

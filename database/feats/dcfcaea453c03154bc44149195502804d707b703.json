@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=971",
+    "name": "Battleforger",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 9,
+    "prereq": "Master In Crafting",
+    "summary": "You can sharpen weapons, polish armor, and apply special techniques to temporarily gain better effects from your armaments.",
+    "description": "You can sharpen weapons, polish armor, and apply special techniques to temporarily gain better effects from your armaments. By spending 1 hour working on a weapon or armor, you can grant it the effects of a +1 potency rune until your next daily preparations, gaining a +1 item bonus to attack rolls for a weapon or increasing armor’s item bonus to AC by 1. This has no effect if the weapon or armor already had a potency rune.Traits\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "none",
+    "trigger": ""
+}

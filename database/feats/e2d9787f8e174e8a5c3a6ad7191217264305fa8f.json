@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2786",
+    "name": "Ceremony of the Strengthened Hand",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Conrasu"
+    ],
+    "level": 9,
+    "prereq": "Ceremony Of The Evened Hand",
+    "summary": "Your exoskeleton's weapons are even more potent.",
+    "description": "Your exoskeleton's weapons are even more potent. If you have a claws unarmed attack, it gains the deadly d8 trait. If you have a branch unarmed attack, it gains the shove and trip traits.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

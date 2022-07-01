@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=524",
+    "name": "Dimensional Steps",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Teleportation",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You teleport a short distance.",
+    "heightenable": true,
+    "description": "You teleport to a location up to 20 feet away within your line of sight.\n\n------\n\nHeightened (+1) The distance you can teleport increases by 5 feet.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "20 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

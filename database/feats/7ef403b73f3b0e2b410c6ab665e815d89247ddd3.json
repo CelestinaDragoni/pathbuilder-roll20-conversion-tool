@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=213",
+    "name": "Symphony of the Muses",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 20,
+    "prereq": "Harmonize",
+    "summary": "You are able to weave countless performances together into a solo symphony.",
+    "description": "You are able to weave countless performances together into a solo symphony. You are no longer limited to a single composition each turn or a single composition at a time; when you use a new composition, all previous compositions’ effects continue for their remaining duration.",
+    "economy": "none",
+    "trigger": ""
+}

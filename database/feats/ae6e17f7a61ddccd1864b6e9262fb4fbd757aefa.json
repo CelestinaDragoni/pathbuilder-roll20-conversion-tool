@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1609",
+    "name": "Inner Strength",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Concentrate",
+        "Rage"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "Your strength is part of your rage, so as long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement.",
+    "description": "Your strength is part of your rage, so as long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement. You reduce your enfeebled condition's value by 1.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

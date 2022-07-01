@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=566",
+    "name": "Agitate",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Mental",
+        "Nonlethal"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You send the target’s mind and body into overdrive, forcing it to become restless and hyperactive.",
+    "heightenable": true,
+    "description": "You send the target's mind and body into overdrive, forcing it to become restless and hyperactive. During the duration, the target must Stride, Fly, or Swim at least once each turn or take 2d8 mental damage that turn; The GM might decide to add additional move actions to the list for creatures who possess only a more unusual form of movement. The duration of this effect depends on the target's Will save.\n\nCritical Success The spell has no effect.\nSuccess The duration is 1 round.\nFailure The duration is 2 rounds.\nCritical Failure The duration is 4 rounds.\n\n------\n\nHeightened (+1) The damage increases by 2d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=600",
+    "name": "Impossible Striker",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 20,
+    "prereq": "Sly Striker",
+    "summary": "Your attacks are swift and deadly beyond explanation.",
+    "description": "Your attacks are swift and deadly beyond explanation. Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from Sly Striker, you can deal your full sneak attack damage to a target even if the target isn’t flat-footed.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1771",
+    "name": "Ephemeral Tracking",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 6,
+    "prereq": "Warden Spells; Expert In Survival",
+    "summary": "You are able to track your quarry through impossible places.",
+    "description": "You are able to track your quarry through impossible places. You gain the ephemeral tracking warden spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1536",
+    "name": "Precise Finisher",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 6,
+    "prereq": "Confident Finisher",
+    "summary": "Even when your foe avoids your Confident Finisher, you can still hit a vital spot.",
+    "description": "Even when your foe avoids your Confident Finisher, you can still hit a vital spot. On a failure with Confident Finisher, you apply your full precise strike damage instead of half.",
+    "economy": "none",
+    "trigger": ""
+}

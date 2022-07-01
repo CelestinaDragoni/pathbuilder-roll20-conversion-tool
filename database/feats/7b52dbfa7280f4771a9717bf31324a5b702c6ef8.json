@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=464",
+    "name": "Knockback Strike",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Monk"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You focus your strength into a blow powerful enough to push an enemy away from you.",
+    "description": "You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an Athletics check to Shove the target. This attack uses the same multiple attack penalty as your Strike, and doesn’t count toward your multiple attack penalty.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "2-action",
+    "trigger": ""
+}

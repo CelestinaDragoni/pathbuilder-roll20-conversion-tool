@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3050",
+    "name": "Variable Core",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor",
+        "Modification"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You adjust your innovation's core, changing the way it explodes.",
+    "description": "You adjust your innovation's core, changing the way it explodes. When you choose this feat, select acid, cold, or electricity. Your innovation's core runs on that power source. When using the Explode action, or any time your innovation explodes on a critical failure and damages you, change the damage type from fire damage to the type you chose. \n\nIf you have the offensive boost class feature and retrain Variable Core to a different damage type, you can also switch to a different offensive boost that deals the same damage type if you wish.Traits\n\nModification: A feat with this trait alters the construction of your innovation. If you have the reconfigure class feature, you can retrain such a feat more easily",
+    "economy": "none",
+    "trigger": ""
+}

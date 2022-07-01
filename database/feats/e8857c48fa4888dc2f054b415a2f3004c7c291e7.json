@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3092",
+    "name": "Arcane Eye",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Automaton"
+    ],
+    "level": 1,
+    "prereq": "Low-light Vision",
+    "summary": "Your eye has been magically enhanced to pierce darkness.",
+    "description": "Your eye has been magically enhanced to pierce darkness. You gain darkvision.\n\nEnhancement Your eye can see invisible creatures in brief spurts. You can cast see invisibility as an arcane innate spell once per hour.Traits\n\nAutomaton: Automatons are living constructs sustained by a magical core.",
+    "economy": "none",
+    "trigger": ""
+}

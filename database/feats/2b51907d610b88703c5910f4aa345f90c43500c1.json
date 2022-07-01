@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=918",
+    "name": "Lost in the Crowd",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Lion Blade Dedication",
+    "summary": "You’ve learned how to move as one with crowds and hide among them.",
+    "description": "You’ve learned how to move as one with crowds and hide among them, vanishing into a busy street in the blink of an eye. You move at full Speed in crowds and can use cover from crowds to Hide and Sneak, gaining a +2 circumstance bonus on your Stealth checks when in a crowd of at least 10 creatures and a +4 circumstance bonus on your Stealth checks when in a crowd of at least 100 creatures.Lost in the Crowd Leads To...\n\nCrowd MasteryTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

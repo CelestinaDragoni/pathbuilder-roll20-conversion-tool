@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2974",
+    "name": "Natural Swimmer",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 4,
+    "prereq": "Wave Order",
+    "summary": "Water flows around you, letting you cut through the waves as if born to it.",
+    "description": "Water flows around you, letting you cut through the waves as if born to it. You gain a swim Speed of 15 feet. If you already have a permanent swim Speed, swimming up or down isn't difficult terrain.",
+    "economy": "none",
+    "trigger": ""
+}

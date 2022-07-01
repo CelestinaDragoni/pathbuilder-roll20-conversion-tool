@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1559",
+    "name": "Inexhaustible Countermoves",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "You can react whenever a foe leaves a gap in their defenses.",
+    "description": "You can react whenever a foe leaves a gap in their defenses. At the start of each enemy's turn, you gain an extra reaction you can use only during that turn to perform an Opportune Riposte, or an Attack of Opportunity if you have that reaction.",
+    "economy": "none",
+    "trigger": ""
+}

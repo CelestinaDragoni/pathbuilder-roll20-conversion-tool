@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=844",
+    "name": "Specialty Crafting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 1,
+    "prereq": "Trained In Crafting",
+    "summary": "Gain bonuses to Craft certain items.",
+    "description": "Your training focused on Crafting one particular kind of item. Select one of the specialties listed below; you gain a +1 circumstance bonus to Crafting checks to Craft items of that type. If you are a master in Crafting, this bonus increases to +2. If it’s unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.Specialty Crafting\n\nSpecialtyApplicable Items Alchemy*Alchemical items such as elixirs ArtistryFine art, including jewelry BlacksmithingDurable metal goods, including metal armor BookmakingBooks and paper GlassmakingGlass, including glassware and windows LeatherworkingLeather goods, including leather armor PotteryCeramic goods ShipbuildingShips and boats StonemasonryStone goods and structures TailoringClothing WeavingTextiles, baskets, and rugs WoodworkingWooden goods and structures\n * You must have the Alchemical Crafting skill feat to Craft alchemical items.Specialty Crafting Leads To...Impeccable CrafterTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

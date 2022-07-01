@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1812",
+    "name": "Entreat with Forebears",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 2,
+    "prereq": "A Bloodline That Corresponds With A Creature Trait",
+    "summary": "Something about your presence causes creatures of your bloodline to, consciously or not, recognize you as one of their own, and you become inured to their tricks.",
+    "description": "Something about your presence causes creatures of your bloodline to, consciously or not, recognize you as one of their own, and you become inured to their tricks. You gain a +1 circumstance bonus to Diplomacy, Deception, and Intimidation checks when interacting with creatures that have the trait corresponding to your bloodline, and you gain a +1 circumstance bonus to Perception and saving throws against such creatures. For example, an aberrant bloodline sorcerer would gain this benefit against creatures with the aberration trait. The GM is the final arbiter of which creatures match your bloodline.",
+    "economy": "none",
+    "trigger": ""
+}

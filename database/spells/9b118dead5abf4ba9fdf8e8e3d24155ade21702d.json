@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=884",
+    "name": "Claim Curse",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Draw a creature's curse into you temporarily.",
+    "heightenable": false,
+    "description": "By burning threads of fate around a target and then retying them to yourself instead, you temporarily draw their curse to you and offer them brief succor from the worst of its effects. Choose a curse affecting the target that you don't already have. For 5 minutes, you are affected by the curse (at the same stage as the target, if applicable), and the target isn't. When the duration ends, the curse's effects return to the target as normal.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature affected by a curse",
+    "duration": "5 minutes",
+    "saving": ""
+}

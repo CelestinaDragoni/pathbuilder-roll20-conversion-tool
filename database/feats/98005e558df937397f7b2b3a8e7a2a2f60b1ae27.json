@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2012",
+    "name": "Back to Back",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Marshal Dedication",
+    "summary": "You excel at watching your allies' backs and helping them watch yours.",
+    "description": "You excel at watching your allies' backs and helping them watch yours. As long as you and an ally are adjacent to each other, neither of you can become flat-footed due to flanking unless both of you are flanked. If you're adjacent to more than one ally, all eligible allies can benefit at a given time. The benefit is negated for everyone if at least you and any one eligible ally are flanked, but not if your allies are flanked and you aren't.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

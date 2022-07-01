@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=266",
+    "name": "Harming Hands",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 1,
+    "prereq": "Harmful Font",
+    "summary": "The mordant power of your negative energy grows.",
+    "description": "The mordant power of your negative energy grows. When you cast harm, you roll d10s instead of d8s.",
+    "economy": "none",
+    "trigger": ""
+}

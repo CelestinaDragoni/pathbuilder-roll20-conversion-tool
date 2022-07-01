@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=127",
+    "name": "Craft Philosopher's Stone",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "Your research has paid off, culminating in the legendary philosopher’s stone.",
+    "description": "Your research has paid off, culminating in the legendary philosopher’s stone. You learn the formula for the philosopher’s stone and can add it to your formula book.",
+    "economy": "none",
+    "trigger": ""
+}

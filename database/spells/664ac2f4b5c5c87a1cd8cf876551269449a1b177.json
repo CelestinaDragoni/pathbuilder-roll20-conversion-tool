@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=333",
+    "name": "Telekinetic Maneuver",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Evocation",
+        "Force"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Disarm, Shove, or Trip a creature telekinetically.",
+    "heightenable": false,
+    "description": "With a rush of telekinetic power, you move a foe or something they carry. You can attempt to Disarm, Shove, or Trip the target using a spell attack roll instead of an Athletics check.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

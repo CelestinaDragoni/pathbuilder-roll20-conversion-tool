@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1901",
+    "name": "Additional Companion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Beastmaster Dedication",
+    "summary": "Another animal joins you in your travels.",
+    "description": "Another animal joins you in your travels. It is a young animal companion that has the minion trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.\n\nSpecial You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

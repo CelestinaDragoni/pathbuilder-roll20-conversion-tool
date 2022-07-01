@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3241",
+    "name": "Safety Measures",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Demolitionist Dedication",
+    "summary": "You're often careful to be sure you're not hoisted on your own petard, or anyone else's, for that matter.",
+    "description": "You're often careful to be sure you're not hoisted on your own petard, or anyone else's, for that matter. When you have cover from a bomb, you gain resistance to damage caused by that bomb equal to half your level, plus a value equal to the circumstance bonus to AC granted by the cover. You gain these benefits against your own bombs regardless of whether you have cover.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

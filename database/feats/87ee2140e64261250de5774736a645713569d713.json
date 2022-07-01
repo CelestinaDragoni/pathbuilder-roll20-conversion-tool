@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3193",
+    "name": "Ricochet Shot",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Gunslinger"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You bounce your shot off a nearby surface to strike your opponent from an unexpected angle.",
+    "description": "You bounce your shot off a nearby surface to strike your opponent from an unexpected angle. When determining whether a target has cover from your ranged attack with a firearm or crossbow, you can choose one solid surface within your weapon's first range increment to ricochet your shot off of. If you do, you determine the target's cover from the point where you ricochet your shot instead of from you.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Ricochet Shot Leads To...Ricochet MasterTraitsConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "1-action",
+    "trigger": ""
+}

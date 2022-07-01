@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1023",
+    "name": "Incredible Luck (Halfling)",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 13,
+    "prereq": "Halfling Luck",
+    "summary": "Even other halflings consider you to be particularly lucky.",
+    "description": "Even other halflings consider you to be particularly lucky. You can use Halfling Luck once per hour, rather than once per day. If you have Guiding Luck, you can still use Halfling Luck when you fail a Perception check or attack roll only once per day (though you can use it within the same hour that you used Halfling Luck), and if you have Shared Luck, you can still use Halfling Luck on an ally instead of yourself only once per day.Traits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

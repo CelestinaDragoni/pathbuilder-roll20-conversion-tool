@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3275",
+    "name": "That was a Close One, Huh?",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Unexpected Sharpshooter Dedication; Master In Deception",
+    "summary": "You laugh innocently about the inexplicable luck of your last shot hitting its mark or how close the attack that just missed you came to taking your head off, causing your foes to second guess whether it's a good idea to oppose you in battle.",
+    "description": "You laugh innocently about the inexplicable luck of your last shot hitting its mark or how close the attack that just missed you came to taking your head off, causing your foes to second guess whether it's a good idea to oppose you in battle. Attempt to Demoralize either the foe you hit with Accidental Shot or the foe that missed you due to Lucky Escape. You use Deception instead of Intimidation to attempt the check to Demoralize.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

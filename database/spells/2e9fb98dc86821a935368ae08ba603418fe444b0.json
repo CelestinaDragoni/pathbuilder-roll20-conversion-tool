@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=478",
+    "name": "Stormwind Flight",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Air",
+        "Druid",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Powerful winds carry you smoothly through the air, giving you a fly Speed equal to your Speed.",
+    "heightenable": true,
+    "description": "Powerful winds carry you smoothly through the air, giving you a fly Speed equal to your Speed. When this spell's duration would end, if you're still flying, you float to the ground, as feather fall.\n\n------\n\nHeightened (6th) When you fly using stormwind flight, you don't count flying against the wind as difficult terrain.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=925",
+    "name": "Healing Plaster",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Earth",
+        "Transmutation"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Transform mud into a healing plaster to treat wounds without healer's tools.",
+    "heightenable": true,
+    "description": "You purify some dirt or mud into a pliable, claylike plaster that can aid in clotting and healing. This restorative substance can be used in lieu of healer's tools for Medicine checks to Administer First Aid or Treat Wounds. If the plaster isn't used within the spell's duration, or if you Cast the Spell again before using the plaster, it reverts to being normal non-magical earth.\n\n------\n\nHeightened (3rd) The plaster grants anyone using it to Administer First Aid or Treat Wounds a +1 item bonus to the Medicine check.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "5 feet",
+    "target": "a handful of dirt or mud",
+    "duration": "10 minutes",
+    "saving": ""
+}

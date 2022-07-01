@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1827",
+    "name": "Consume Spell",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 14,
+    "prereq": "Counterspell",
+    "summary": "When you successfully Counterspell a spell of the tradition that matches your bloodline, you consume it, replenishing yourself with its energy.",
+    "description": "When you successfully Counterspell a spell of the tradition that matches your bloodline, you consume it, replenishing yourself with its energy. When you do, you are nourished as if you had eaten a meal and regain Hit Points equal to twice the level of the counteracted spell.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2512",
+    "name": "Shadow Sight",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fetchling",
+        "Occult",
+        "Transmutation"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You draw on your connection with the Shadow Plane to see through all but the deepest darkness.",
+    "description": "You draw on your connection with the Shadow Plane to see through all but the deepest darkness. You gain greater darkvision for 1 minute.Traits\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.\n\nOccult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "1-action",
+    "trigger": ""
+}

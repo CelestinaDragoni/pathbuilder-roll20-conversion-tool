@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2674",
+    "name": "Surface Skimmer",
+    "source": "Absalom, City of Lost Omens",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "By sinking gently beneath the waves, you obscure your presence and utilize the water as a barrier between you and land combatants.",
+    "description": "By sinking gently beneath the waves, you obscure your presence and utilize the water as a barrier between you and land combatants. While you are submerged just below the water's surface, you have cover from attacks made by creatures out of the water.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

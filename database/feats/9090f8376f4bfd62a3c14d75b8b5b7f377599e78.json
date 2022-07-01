@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2752",
+    "name": "Ruby Resurrection",
+    "source": "Pathfinder #168",
+    "rarity": "Uncommon",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Sorcerer"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "In a burst of flame, you return to health like a phoenix rising from the ashes.",
+    "description": "In a burst of flame, you return to health like a phoenix rising from the ashes. Change your current Hit Points to 30 and cast a 6th-level fireball centered on yourself. This fireball doesn't affect you. Your hair turns brilliant red for 1 hour.\n\n If you haven't used Ruby Resurrection and you die, you stay in initiative order and Ruby Resurrection triggers automatically at the start of your next turn, bringing you back to life at 0 HP before having its normal effects. This happens only if there are some remains to resurrect; for instance, if you were killed by disintegrate you wouldn't return.\n\nSpecial This feat has the trait corresponding to the tradition of spells you cast.TraitsHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.\n\nNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.Capstone FeatsSource Pathfinder #168: King of the Mountain pg. 75\nPlayer characters can select one of the following new class feats for their 20th-level class feat upon entering the Glass Lighthouse or by meditating on the cushion in area H4.\n\nRelated Feats: All the Time in the World, Dance of Intercession, Demon's Hair, Everdistant Defense, Extradimensional Stash, Head of the Night Parade, Heart of the Kaiju, Plum Deluge, Scapegoat Parallel Self, Sever Space, Time Dilation Cascade, Vitality-Manipulating Stance, Vivacious Afterimage, Whirlwind Toss, Worldsphere Gravity",
+    "economy": "reaction",
+    "trigger": "You would be reduced to 0 Hit Points."
+}

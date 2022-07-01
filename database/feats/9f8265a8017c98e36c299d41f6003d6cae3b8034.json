@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2315",
+    "name": "Catfolk Dance",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have a habit of always being in the way when other creatures attempt to move.",
+    "description": "You have a habit of always being in the way when other creatures attempt to move. Attempt an Acrobatics check against an adjacent creature's Reflex DC.\n\nCritical Success The target creature gains a –2 circumstance penalty to Reflex saves and is flat-footed until the start of your next turn.\nSuccess The target creature gains a –2 circumstance penalty to Reflex saves until the start of your next turn.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "1-action",
+    "trigger": ""
+}

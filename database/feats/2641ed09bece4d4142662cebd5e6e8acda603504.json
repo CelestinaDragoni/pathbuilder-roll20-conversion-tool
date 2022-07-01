@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2079",
+    "name": "Talisman Dabbler Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You are trained in the use of talismans and similar magical paraphernalia.",
+    "description": "You are trained in the use of talismans and similar magical paraphernalia. This training might have occurred in a formal classroom or been an agglomeration of folk magic picked up over time. You can craft talismans and know the formulas for all common talismans in the Core Rulebook of your level or lower. You remember talisman formulas and don't need a formula book for them.\n\n Additionally, you carry a collection of magical baubles you can turn into temporary talismans. Each day during your daily preparations, you can make two talismans with an item level no higher than half your level. You must know each talisman's formula. A talisman created this way is a temporary item and loses its magic the next time you make your daily preparations if you haven't already used it.\n\n Finally, when you Affix a Talisman, you can (in any combination) affix or remove up to four talismans in the 10-minute span.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the talisman dabbler archetype.Talisman Dabbler Dedication Leads To...\n\nDeeper Dabbler, Quick Fix, Talismanic SageTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

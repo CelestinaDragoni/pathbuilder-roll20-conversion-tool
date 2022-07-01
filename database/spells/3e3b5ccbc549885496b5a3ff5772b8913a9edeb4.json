@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=471",
+    "name": "Word of Truth",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You speak a statement you believe to be true and that is free of any attempt to deceive through twisting words, omission, and so on.",
+    "heightenable": false,
+    "description": "You speak a statement you believe to be true and that is free of any attempt to deceive through twisting words, omission, and so on. The statement must be 25 words or fewer. A symbol of your deity glows above your head, and anyone who sees you and hears your statement knows that you believe it to be true.\n\n Each time you Sustain this Spell, you can repeat this effect.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

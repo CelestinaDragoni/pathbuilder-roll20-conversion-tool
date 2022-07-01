@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=262",
+    "name": "Revival",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 10,
+    "summary": "Heal creatures in an area and return the dead to life temporarily.",
+    "heightenable": false,
+    "description": "A burst of healing energy soothes living creatures and temporarily rouses those recently slain. All living targets regain 10d8+40 Hit Points. In addition, you return any number of dead targets to life temporarily, with the same effects and limitations as raise dead. The raised creatures have a number of temporary Hit Points equal to the Hit Points you gave living creatures, but no normal Hit Points. The raised creatures can't regain Hit Points or gain temporary Hit Points in other ways, and once revival's duration ends, they lose all temporary Hit Points and die. Revival can't resurrect creatures killed by disintegrate or a death effect. It has no effect on undead.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "dead creatures and living creatures of your choice within range",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

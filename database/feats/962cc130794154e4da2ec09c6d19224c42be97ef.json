@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2298",
+    "name": "Ancestral Insight",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have extensive knowledge of your ancestors' ancient origins.",
+    "description": "You have extensive knowledge of your ancestors' ancient origins. You gain the trained proficiency rank in Alghollthu Lore and Azlanti Lore. If you roll a critical failure on an Alghollthu Lore or Azlanti Lore check to Recall Knowledge, you get a failure instead.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

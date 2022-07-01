@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3512",
+    "name": "Corpse Stench",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Aura",
+        "Olfactory"
+    ],
+    "level": 12,
+    "prereq": "Ghoul Dedication",
+    "summary": "Your body exudes an overwhelming scent of decay in a 10-foot emanation, so putrid that it nauseates creates within that range.",
+    "description": "Your body exudes an overwhelming scent of decay in a 10-foot emanation, so putrid that it nauseates creates within that range. Any creature that starts its turn in the aura must succeed at a Fortitude save against your class DC or spell DC, whichever is higher, or be sickened 1 (plus slowed 1 on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to Corpse Stench for 1 minute.Traits\n\nArchetype: This feat belongs to an archetype.\n\nAura: An aura is an emanation that continually ebbs out from you, affecting creatures within a certain radius. Aura can also refer to the magical signature of an item or a creature with a strong alignment.Olfactory: An olfactory effect can affect only creatures that can smell it. This applies only to olfactory parts of the effect, as determined by the GM.",
+    "economy": "none",
+    "trigger": ""
+}

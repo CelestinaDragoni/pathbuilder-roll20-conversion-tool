@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=333",
+    "name": "Soaring Shape",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 8,
+    "prereq": "Wild Shape",
+    "summary": "Wings free you from the shackles of the ground below.",
+    "description": "Wings free you from the shackles of the ground below. Add the bat and bird forms in aerial form to your wild shape list. If you have Insect Shape, you also add the wasp form to your wild shape list. If you have Ferocious Shape, you also add the pterosaur form to your wild shape list. Whenever you use wild shape to gain a form that grants you a specific Acrobatics modifier, you gain a +1 status bonus to Acrobatics checks.Soaring Shape Leads To...\n\nDragon Shape, Reactive Transformation",
+    "economy": "none",
+    "trigger": ""
+}

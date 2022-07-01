@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3368",
+    "name": "Spell Trickster Dedication",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Able To Cast Spells; Trained In Arcana, Nature, Occultism, Or Religion",
+    "summary": "Your experience with magic and its traditions lets you specialize in the casting of certain spells, customizing familiar spells to create novel effects.",
+    "description": "Your experience with magic and its traditions lets you specialize in the casting of certain spells, customizing familiar spells to create novel effects. Whenever you gain a feat from this archetype, you either learn to modify the effects of a single spell, or you change one of the modifications from a previous feat. Each time you Cast the Spell corresponding to the feat you chose, you decide whether to cast its normal or modified version. You can only apply one modification to a spell at a time, even if you know more than one modification for that spell. Besides modifications mentioned in the feat, the spell functions as normal.\n\n Choose up to two 4th-level spell trickster archetype feats for which you meet the spell-casting prerequisite. You gain those feats, ignoring their level prerequisite.\n\nSpecial You can’t select another dedication feat until you have gained two other feats from the spell trickster archetype. The two feats you gain from taking the dedication don’t count toward this total.Spell Trickster Dedication Leads To...\n\nAgile Hand, Animate Net, Barrier Shield, Confounding Image, Directed Poison, Disk Rider, Drenching Mist, Forceful Push, Lingering Flames, Obscured Terrain, Scattered Fire, Shining Arms, Siphoning Touch, Smoldering Explosion, Steal Vitality, Summon Ensemble, Surrounding Flames, Toppling Tentacles, Tracing Sigil, Uneasy Rest, Volatile Grease, Wild LightsTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2860",
+    "name": "Cascade Countermeasure",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 6,
+    "prereq": "Arcane Cascade, Focus Pool",
+    "summary": "When in Arcane Cascade, you can make yourself resistant to magic.",
+    "description": "When in Arcane Cascade, you can make yourself resistant to magic. You learn the cascade countermeasure conflux spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

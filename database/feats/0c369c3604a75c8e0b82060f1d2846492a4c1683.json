@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3545",
+    "name": "Vampire Dedication",
+    "source": "Book of the Dead",
+    "rarity": "Rare",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "You Were A Killed By A Vampire Drinking Your Blood.",
+    "summary": "You're a newly risen vampire.",
+    "description": "You're a newly risen vampire. You gain the undead and vampire traits and the basic undead benefits, and your undead hunger is for the blood of the living. Your incisors elongate; you gain a fangs unarmed attack that deals 1d6 piercing damage. They're in the brawling group and have the grapple and unarmed traits. You gain revulsion and sunlight vulnerabilities detailed in the Vampire Vulnerabilities sidebar and the Drink Blood ability.\n\n Drink Blood     (divine, necromancy) Requirements A grabbed, paralyzed, restrained, unconscious, or willing creature is within your reach; Effect You sink your fangs into that creature and drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed, and automatically succeeds for any of the other conditions. If you succeed, the creature becomes drained 1, and you gain temporary HP equal to the target's level that last for 10 minutes. Further uses against the target don't increase the drained condition or grant you more temporary HP.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the vampire archetype.Vampire Dedication Leads To...\n\nBat Form, Clinging Climber, Coffin Bound, Daywalker, Manipulative Charm, Nocturnal Kindred, Predatory Claws, Turn to Mist, Vicious FangsTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Rare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.",
+    "economy": "1-action",
+    "trigger": ""
+}

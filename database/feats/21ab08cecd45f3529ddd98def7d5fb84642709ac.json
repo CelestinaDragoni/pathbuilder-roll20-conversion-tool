@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=934",
+    "name": "Cut the Bonds",
+    "source": "Pathfinder #147",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Attack"
+    ],
+    "level": 12,
+    "prereq": "Bellflower Dedication; Expert In A Melee Weapon",
+    "summary": "You can counteract a magical effect that impedes movement.",
+    "description": "Select a magical effect that has made an adjacent member of your crop clumsy, grabbed, paralyzed, restrained, or slowed. Attempt a counteract check using your attack modifier (including your multiple attack penalty) with a melee weapon with which you have expert proficiency. Your counteract level is half your level rounded up. On a success, you free that member from the effect; on a failure, you can’t attempt to use Cut the Bonds on that effect on that crop member until 24 hours have passed.TraitsArchetype: This feat belongs to an archetype.\n\nAttack: An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "1-action",
+    "trigger": ""
+}

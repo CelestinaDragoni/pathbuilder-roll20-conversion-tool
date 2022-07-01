@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1097",
+    "name": "Knight Reclaimant Dedication",
+    "source": "Character Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 6,
+    "prereq": "Any Non-evil Alignment; Member Of The Knights Of Lastwall Of Knight Rank; Trained In Stealth And Survival",
+    "summary": "You have sworn the Crimson Oath and become a full member of the Crimson Reclaimers.",
+    "description": "You have sworn the Crimson Oath and become a full member of the Crimson Reclaimers. You gain expert proficiency in Stealth and Survival. Whenever you roll a success on a saving throw against an undead’s special ability, you get a critical success instead. This applies to any abilities that come from being undead, including an undead’s innate spells (but not its prepared or spontaneous spells).\n\nSpecial You cannot select another dedication feat until you have gained two other feats from the Knight Reclaimant archetype.Knight Reclaimant Dedication Leads To...\n\nAshen Veil, Blade of the Crimson Oath, Crimson Oath Devotion, For Love, For Lightning, Hilt Hammer, Invoke the Crimson Oath, Reaper of Repose, Reclaimant Plea, Shall Not Falter, Shall Not Rout, Shepherd of Desolation, Survivor of Desolation, The Tyrant Falls!, Voice Cold as DeathTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

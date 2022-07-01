@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=540",
+    "name": "Snowball",
+    "source": "World Guide",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Cold",
+        "Evocation",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You throw a magically propelled and chilled ball of dense snow.",
+    "heightenable": true,
+    "description": "You throw a magically propelled and chilled ball of dense snow. The target takes 2d4 cold damage and potentially other effects, depending on the result of your spell attack roll.\n\nCritical Success The target takes double damage and a –10-foot status penalty to its Speeds for 1 round.\nSuccess  The target takes full damage and a –5-foot status penalty to its Speeds for 1&nbsp;round.\nFailure No effect.\n\n------\n\nHeightened (+1)  The damage increases by 2d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

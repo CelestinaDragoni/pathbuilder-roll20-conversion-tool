@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2316",
+    "name": "Saberteeth",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have long fangs, natural or augmented.",
+    "description": "You have long fangs, natural or augmented. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group and have the unarmed trait.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

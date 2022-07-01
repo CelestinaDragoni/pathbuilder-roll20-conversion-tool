@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=881",
+    "name": "Saving Slash",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Aldori Duelist Dedication",
+    "summary": "Make a check to reduce a critical hit against you to a normal hit.",
+    "description": "You quickly whirl your blade, trying to deflect enough momentum to avoid the worst of the attack. Attempt a DC 16 flat check. If you succeed, the attack becomes a normal hit, instead of a critical hit.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An opponent critically hits you with a melee attack."
+}

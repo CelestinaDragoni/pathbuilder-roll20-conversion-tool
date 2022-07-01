@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2750",
+    "name": "Heart of the Kaiju",
+    "source": "Pathfinder #168",
+    "rarity": "Uncommon",
+    "traits": [
+        "Druid"
+    ],
+    "level": 20,
+    "prereq": "Monstrosity Shape",
+    "summary": "Witnessing the might of a kaiju up close awoke a new ferocity within you.",
+    "description": "Witnessing the might of the kaiju King Mogaru, Alru, and Toraloa up close awoke a new ferocity within you. When you transform using Monstrosity Shape, you can take on a kaiju form. When you take this feat, choose acid, cold, electricity, fire, or sonic damage; this is the damage your breath weapon deals. You can't change this later. The battle form is Gargantuan size with the following specific abilities; the damage values already include the extra die from being a 9th-level spell. Kaiju Speed 40 feet; physical resistance 5; Melee     jaws (reach 20 feet), Damage 3d12+20 piercing; Melee     claws (agile, reach 20 feet), Damage 3d8+20 slashing;\nBreath Weapon    (evocation, primal) Each creature in a 60-foot cone takes 15d6 damage (of your chosen damage type), with a basic Reflex save against your spell DC. Once activated, your breath weapon can't be used again for 1d4 rounds.TraitsUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.\n\nCapstone FeatsSource Pathfinder #168: King of the Mountain pg. 75\nPlayer characters can select one of the following new class feats for their 20th-level class feat upon entering the Glass Lighthouse or by meditating on the cushion in area H4.\n\nRelated Feats: All the Time in the World, Dance of Intercession, Demon's Hair, Everdistant Defense, Extradimensional Stash, Head of the Night Parade, Plum Deluge, Ruby Resurrection, Scapegoat Parallel Self, Sever Space, Time Dilation Cascade, Vitality-Manipulating Stance, Vivacious Afterimage, Whirlwind Toss, Worldsphere Gravity",
+    "economy": "1-to-2-actions",
+    "trigger": ""
+}

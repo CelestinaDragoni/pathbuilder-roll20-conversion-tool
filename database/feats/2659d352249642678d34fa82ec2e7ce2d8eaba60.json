@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2745",
+    "name": "Dance of Intercession",
+    "source": "Pathfinder #168",
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 20,
+    "prereq": "Expert In Performance",
+    "summary": "You either performed in or stood witness to the dance used to invoke the Celestial Dragon and can harness a sliver of their power.",
+    "description": "You either performed in or stood witness to the dance used to invoke the Celestial Dragon and can harness a sliver of their power. You Stride in a dance up to half your Speed, attempting a DC 35 Performance check. You can perform this dance up to three times per day. The second time you do so in the same day, use the degree of success one worse than your actual roll on the Performance check. The third time in a day, use the degree of success two lower than your actual roll.\n\nCritical Success You perform the movements of the Dance of Intercession so gracefully that you evoke a glimmer of the memory of the Celestial Dragon's awesome power. You cast the 3-action version of either 9th-level harm or heal at any point during your Stride. This does not use any spell slots.\nSuccess As critical success, but the spell is 7th level instead of 9th as you stumble through the movements.\nFailure As critical success, but the spell is 5th level instead of 9th as you stumble through the movements.\nCritical Failure You fail to remember the steps of the dance. You gain no additional effect beyond Striding half your Speed, and you can't attempt the Dance of Intercession again until your next daily preparations.TraitsUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.\n\nCapstone FeatsSource Pathfinder #168: King of the Mountain pg. 75\nPlayer characters can select one of the following new class feats for their 20th-level class feat upon entering the Glass Lighthouse or by meditating on the cushion in area H4.\n\nRelated Feats: All the Time in the World, Demon's Hair, Everdistant Defense, Extradimensional Stash, Head of the Night Parade, Heart of the Kaiju, Plum Deluge, Ruby Resurrection, Scapegoat Parallel Self, Sever Space, Time Dilation Cascade, Vitality-Manipulating Stance, Vivacious Afterimage, Whirlwind Toss, Worldsphere Gravity",
+    "economy": "3-action",
+    "trigger": ""
+}

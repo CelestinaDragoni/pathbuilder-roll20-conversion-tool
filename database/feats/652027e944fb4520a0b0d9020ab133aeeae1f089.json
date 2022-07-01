@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2589",
+    "name": "Improved Elemental Bulwark",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Suli"
+    ],
+    "level": 13,
+    "prereq": "Elemental Bulwark",
+    "summary": "You gain resistance 10 from Elemental Bulwark instead of 5.",
+    "description": "You gain resistance 10 from Elemental Bulwark instead of 5.Traits\n\nSuli: Sulis are planar scions descended from jann.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=2",
+    "name": "Acid Arrow",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Acid",
+        "Attack",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Magical arrow deals acid damage persistently.",
+    "heightenable": true,
+    "description": "You conjure an arrow of acid that continues corroding the target after it hits. Make a spell attack against the target. On a hit, you deal 3d8 acid damage plus 1d6 persistent acid damage. On a critical hit, double the initial damage, but not the persistent damage.\n\n------\n\nHeightened (+2) The initial damage increases by 2d8, and the persistent acid damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

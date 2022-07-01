@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=229",
+    "name": "Shield Warden",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion",
+        "Fighter"
+    ],
+    "level": 6,
+    "prereq": "[Champion] Divine Ally (Shield); Tenets Of Good; [Fighter] Shield Block",
+    "summary": "You use your shield to protect your allies as well as yourself.",
+    "description": "You use your shield to protect your allies. When you have a shield raised, you can use your Shield Block reaction when an attack is made against an ally adjacent to you. If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for Shield Block.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Shield Warden Leads To...Shield of Grace, Shield of Reckoning",
+    "economy": "none",
+    "trigger": ""
+}

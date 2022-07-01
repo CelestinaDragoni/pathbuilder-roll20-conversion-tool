@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=89",
+    "name": "Pervasive Superstition",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 9,
+    "prereq": "Orc Superstition",
+    "summary": "You steep yourself in superstition and practice ancient orc mental exercises for shrugging off the effects of magic.",
+    "description": "You steep yourself in superstition and practice ancient orc mental exercises for shrugging off the effects of magic. You gain a +1 circumstance bonus to saving throws against spells and magical effects at all times.Pervasive Superstition Leads To...\n\nSpell DevourerTraitsOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

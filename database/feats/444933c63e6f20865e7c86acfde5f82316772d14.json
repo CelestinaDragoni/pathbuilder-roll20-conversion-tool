@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3004",
+    "name": "Quickened Attunement",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 16,
+    "prereq": "Geomancer Dedication; Legendary In Nature",
+    "summary": "If your next action is to cast a spell that would grant your terrain attunement bonus, reduce the number of actions to cast it by 1 (to a minimum of 1 action).",
+    "description": "If your next action is to cast a spell that would grant your terrain attunement bonus, reduce the number of actions to cast it by 1 (to a minimum of 1 action).\n\nSpecial You can't use Quickened Attunement and Quickened Casting in the same round.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "free_action",
+    "trigger": ""
+}

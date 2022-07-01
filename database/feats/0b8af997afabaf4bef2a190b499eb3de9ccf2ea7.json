@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=311",
+    "name": "Animal Companion",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid",
+        "Ranger"
+    ],
+    "level": 1,
+    "prereq": "[Druid] Animal Order",
+    "summary": "You gain the service of a young animal companion that travels with you.",
+    "description": "You gain the service of a young animal companion that travels with you on your adventures and obeys any simple commands you give it to the best of its abilities. See Animal Companions for more information.\n\nRanger: When you Hunt Prey, your animal companion gains the action's benefits and your hunter's edge benefit if you have one.Animal Companion Leads To...\n\nApex Companion, Masterful Companion, Mature Animal Companion (Druid), Mature Animal Companion (Ranger), Side by Side (Druid), Stealthy Companion",
+    "economy": "none",
+    "trigger": ""
+}

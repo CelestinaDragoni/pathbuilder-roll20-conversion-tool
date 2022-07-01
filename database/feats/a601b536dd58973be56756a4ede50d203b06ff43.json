@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2278",
+    "name": "Grave's Voice",
+    "source": "Pathfinder #163",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Ghost Hunter Dedication",
+    "summary": "You can influence spirits and haunts",
+    "description": "You can use your choice of Spirit Lore or Haunt Lore to Make an Impression or Request things of incorporeal creatures. At the GM's discretion, an incorporeal spirit might be willing to hear you out.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

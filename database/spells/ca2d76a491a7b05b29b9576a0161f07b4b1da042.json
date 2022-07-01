@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=398",
+    "name": "Litany of Righteousness",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion",
+        "Evocation",
+        "Good",
+        "Litany"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 7,
+    "summary": "Your litany denounces an evildoer, rendering it susceptible to the powers of good.",
+    "heightenable": true,
+    "description": "Your litany denounces an evildoer, rendering it susceptible to the powers of good. The target gains weakness 7 to good. The target then becomes temporarily immune to all of your litanies for 1 minute.\n\n------\n\nHeightened (+1) The weakness increases by 1.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 evil creature",
+    "duration": "1 round",
+    "saving": ""
+}

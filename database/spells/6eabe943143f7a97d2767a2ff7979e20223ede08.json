@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=985",
+    "name": "Rewinding Step",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Anchor your location in time so you can quickly return.",
+    "heightenable": true,
+    "description": "You anchor your location in time so that you can swiftly retrace your steps later with complex chronomancy. The space you're in when you cast the spell becomes your temporal anchor space. While you're within 500 feet of your temporal anchor space, you can spend a single action that has the concentrate trait to instantaneously return to that space (you don't need to have line of effect to the space). The spell then ends. You bring any items that are in your possession with you when you take the action to return.\n\n If the anchor space is occupied when you attempt to return to it or if this spell would bring another creature with you, the spell fails to transport you, then ends.\n\n------\n\nHeightened (7th) You can return if you're within 1,000 feet of your anchor space.\nHeightened (9th) You can return if you're within 1 mile of your anchor space.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "10 minutes",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=279",
+    "name": "Improved Communal Healing",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 4,
+    "prereq": "Communal Healing",
+    "summary": "You can direct excess channeled energy outward to benefit an ally.",
+    "description": "You can direct excess channeled energy outward to benefit an ally. You can grant the Hit Points you would regain from Communal Healing to any one creature within the range of your heal spell instead of yourself. You can also use Communal Healing when you target only yourself with a heal spell, though if you do, you must grant the additional healing to someone other than yourself.",
+    "economy": "none",
+    "trigger": ""
+}

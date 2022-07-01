@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=271",
+    "name": "See Invisibility",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Revelation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "See invisible creatures and objects.",
+    "heightenable": true,
+    "description": "You can see invisible creatures and objects. They appear to you as translucent shapes, and they are concealed to you.\n\n------\n\nHeightened (5th) The spell has a duration of 8 hours.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "10 minutes",
+    "saving": ""
+}

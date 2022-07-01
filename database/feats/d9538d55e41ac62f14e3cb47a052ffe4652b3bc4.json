@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1258",
+    "name": "Climbing Claws",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You can extend your claws to aid you in climbing.",
+    "description": "You can extend your claws to aid you in climbing. You gain a climb Speed of 10 feet.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

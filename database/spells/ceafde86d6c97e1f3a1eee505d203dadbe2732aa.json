@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=272",
+    "name": "Sending",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Send a mental message to a creature anywhere on the planet and get a reply.",
+    "heightenable": false,
+    "description": "You send the creature a mental message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "planetary",
+    "target": "1 creature with whom you are familiar",
+    "duration": "",
+    "saving": ""
+}

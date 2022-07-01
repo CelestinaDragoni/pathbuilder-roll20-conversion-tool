@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=251",
+    "name": "Aura of Righteousness",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 14,
+    "prereq": "Tenets Of Good",
+    "summary": "Your righteous aura dampens evil’s might.",
+    "description": "Your righteous aura dampens evil’s might. You and all allies within 15 feet gain evil resistance 5.",
+    "economy": "none",
+    "trigger": ""
+}

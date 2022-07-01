@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=213",
+    "name": "Paralyze",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Freeze a creature in place.",
+    "heightenable": true,
+    "description": "You block the target's motor impulses before they can leave its mind, threatening to freeze the target in place. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target is stunned 1.\nFailure The target is paralyzed for 1 round.\nCritical Failure The target is paralyzed for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.\n\n------\n\nHeightened (7th) You can target up to 10 creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

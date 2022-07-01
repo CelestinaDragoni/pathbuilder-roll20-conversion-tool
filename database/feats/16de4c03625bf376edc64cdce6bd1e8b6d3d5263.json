@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2815",
+    "name": "See the Unseen",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Goloma"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You notice things that others can't see at all.",
+    "description": "You notice things that others can't see at all. While you're adjacent to an undetected creature of your level or lower, it is instead only hidden from you. You only need a successful DC 5 flat check to target a hidden creature.Traits\n\nGoloma: Insular humanoids that bear countless eyes.",
+    "economy": "none",
+    "trigger": ""
+}

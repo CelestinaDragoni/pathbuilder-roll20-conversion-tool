@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1808",
+    "name": "Steal Spell",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Magical",
+        "Rogue"
+    ],
+    "level": 16,
+    "prereq": "Legendary Thief; Loaner Spell",
+    "summary": "When you use Legendary Thief to steal the impossible, you can steal a prepared spell or spontaneous spell from a foe.",
+    "description": "When you use Legendary Thief to steal the impossible, you can steal a prepared spell or spontaneous spell from a foe. The spell is randomly selected from the highest-level spells the foe knows that have a target or area, to a maximum of 8th-level spells; the target loses the appropriate spell slot as if they had cast it themself. You can Cast the Spell once within the next 1d4 rounds, after which the fleeting magic fades; this otherwise works the same as casting a Loaner Spell.Traits\n\nMagical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.",
+    "economy": "none",
+    "trigger": ""
+}

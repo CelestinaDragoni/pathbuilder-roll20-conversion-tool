@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=124",
+    "name": "Mindblank Mutagen",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "With a minor adjustment of ratios in the formula for your serene mutagen, you gain mental protections.",
+    "description": "With a minor adjustment of ratios in the formula for your serene mutagen, you gain mental protections. When you’re affected by a serene mutagen, detection, revelation, and scrying effects of 9th level or lower detect nothing from you or your possessions and auras. For instance, detect magic would still detect other magic in the area, but not any magic on you.",
+    "economy": "none",
+    "trigger": ""
+}

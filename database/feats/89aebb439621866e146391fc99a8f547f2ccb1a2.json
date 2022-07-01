@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2741",
+    "name": "Maneuvering Spell",
+    "source": "Pathfinder #167",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Sixth Pillar Dedication",
+    "summary": "You instantly tap into the magical power of a spell you're casting to quickly pounce around the battlefield.",
+    "description": "You instantly tap into the magical power of a spell you're casting to quickly pounce around the battlefield. You Step, Leap, or Stand. This action can be before or after you Cast the Spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": ""
+}

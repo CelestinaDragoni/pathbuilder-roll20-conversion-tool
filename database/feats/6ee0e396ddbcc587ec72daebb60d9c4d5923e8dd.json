@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=375",
+    "name": "Shielded Stride",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "When your shield is up, your enemies’ blows can’t touch you.",
+    "description": "When your shield is up, your enemies' blows can't touch you. When you have your shield raised, you can Stride to move half your Speed without triggering reactions that are triggered by your movement (such as Attacks of Opportunity). You can use Shielded Stride while Flying or Swimming instead of Striding if you have the corresponding movement type.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

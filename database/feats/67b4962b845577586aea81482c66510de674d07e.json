@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=185",
+    "name": "Inspire Competence",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 2,
+    "prereq": "Maestro Muse",
+    "summary": "You learn to aid your allies’ skills with your performance.",
+    "description": "You learn the inspire competence composition cantrip, which aids your allies’ skills.",
+    "economy": "none",
+    "trigger": ""
+}

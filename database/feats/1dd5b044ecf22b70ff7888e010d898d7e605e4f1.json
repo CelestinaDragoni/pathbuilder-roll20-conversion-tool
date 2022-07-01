@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1843",
+    "name": "Spell Mastery",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Wizard"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "You have mastered a handful of spells to such a degree that you can cast them even if you haven't prepared them in advance.",
+    "description": "You have mastered a handful of spells to such a degree that you can cast them even if you haven't prepared them in advance. Select any four spells of 9th level or lower that you have access to; each spell you select must be of a different level. These spells are automatically prepared when you make your daily preparations, and they have their own spell slots. You can select a different array of spells by spending 1 week of downtime retraining your mastered spells.",
+    "economy": "none",
+    "trigger": ""
+}

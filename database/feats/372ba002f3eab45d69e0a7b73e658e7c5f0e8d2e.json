@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1558",
+    "name": "Parry and Riposte",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 18,
+    "prereq": "Opportune Riposte",
+    "summary": "Your parries and finishers allow you to riposte with the slightest provocation.",
+    "description": "Your parries and finishers allow you to riposte with the slightest provocation. You can use Opportune Riposte against an enemy who fails at a Strike against you (not just critically fails), provided you have both damaged that creature with a finisher on your last turn and currently have a circumstance bonus to AC from the parry weapon trait, Dueling Parry, or Twin Parry.",
+    "economy": "none",
+    "trigger": ""
+}

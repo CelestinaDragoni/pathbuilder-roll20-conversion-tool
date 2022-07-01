@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1261",
+    "name": "Springing Leaper",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 5,
+    "prereq": "Expert In Athletics",
+    "summary": "Your powerful legs allow you to make sudden and dramatic leaps.",
+    "description": "Your powerful legs allow you to make sudden and dramatic leaps. You can Leap as a 2-action activity to double the distance you can Leap vertically, or Leap as a 3-action activity to triple the distance you can Leap vertically. You don't automatically fail Long Jumps for jumping in a different direction than your Stride.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

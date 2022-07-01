@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=220",
+    "name": "Phantom Pain",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Mental",
+        "Nonlethal"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Cause a creature ongoing pain that sickens it.",
+    "heightenable": true,
+    "description": "Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 persistent mental damage. The target must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target takes full initial damage but no persistent damage, and the spell ends immediately.\nFailure The target takes full initial and persistent damage, and the target is sickened 1. If the target recovers from being sickened, the persistent damage ends and the spell ends.\nCritical Failure As failure, but the target is sickened 2.\n\n------\n\nHeightened (+1) The damage increases by 2d4 and the persistent damage by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": "Will"
+}

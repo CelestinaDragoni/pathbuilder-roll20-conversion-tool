@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1908",
+    "name": "Specialized Beastmaster Companion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Incredible Beastmaster Companion",
+    "summary": "Your nimble and savage animal companions become cunning enough to become specialized.",
+    "description": "Your nimble and savage animal companions become cunning enough to become specialized. Each companion gains one specialization of your choice (choose separately).\n\nSpecial You can select this feat more than once. Each time, add a different specialization to your nimble and savage companions. Your nimble and savage companions can have up to three specializations each.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

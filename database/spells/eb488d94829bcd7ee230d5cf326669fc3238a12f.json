@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=354",
+    "name": "Vampiric Touch",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Deal negative damage and gain temporary HP with a touch.",
+    "heightenable": true,
+    "description": "Your touch leeches the lifeblood out of a target to empower yourself. You deal 6d6 negative damage to the target. You gain temporary Hit Points equal to half the negative damage the target takes (after applying resistances and the like). You lose any remaining temporary Hit Points after 1 minute.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living creature",
+    "duration": "",
+    "saving": ""
+}

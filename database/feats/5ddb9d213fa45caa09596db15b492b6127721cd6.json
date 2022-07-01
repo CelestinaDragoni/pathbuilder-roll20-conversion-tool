@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2085",
+    "name": "Minion Guise",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill",
+        "Social"
+    ],
+    "level": 4,
+    "prereq": "Animal Companion Or Familiar; Vigilante Dedication; Expert In Deception",
+    "summary": "When you are in your social identity, you can also grant a social identity to an animal companion, familiar, or other minion.",
+    "description": "When you are in your social identity, you can also grant a social identity to an animal companion, familiar, or other minion you gained from a class feature. When changing to your social identity, you also change your minion's appearance to that of a socially acceptable creature of its type, such as grooming a wolf to appear as a large dog or disguising a familiar to appear as an exotic pet. Commanding your minion to use unusual magical or combat abilities it gained from your class features or feats while in this social identity risks exposing your vigilante identity.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.Social: Actions and abilities with the social trait can be used only while a vigilante is in their social identity.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=941",
+    "name": "Dragon Spit",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 1,
+    "prereq": "Tian-dan Ethnicity",
+    "summary": "Many Tian-Dan claim to have dragon blood in their veins, and in your case, this is true—you can spit energy, and you might have an especially visible sign of your draconic heritage.",
+    "description": "Many Tian-Dan claim to have dragon blood in their veins, and in your case, this is true—you can spit energy, and you might have an especially visible sign of your draconic heritage. Choose one of the following cantrips: acid splash, electric arc, produce flame, or ray of frost. You can cast this spell as an innate arcane spell at will, and when you cast it, the spell’s energy emerges from your mouth.Dragon Spit Leads To...\n\nDragon PrinceTraitsHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

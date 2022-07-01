@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2311",
+    "name": "Mist Strider",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 13,
+    "prereq": "Water Strider",
+    "summary": "You condense the moisture in the air, solidifying it so it can hold your weight.",
+    "description": "You condense the moisture in the air, solidifying it so it can hold your weight. When you use Water Strider, you can walk on air. You can ascend and descend at a maximum of a 45-degree angle. You still fall at the end of your movement if you don't end on a surface that can support you, as normal for Water Strider.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

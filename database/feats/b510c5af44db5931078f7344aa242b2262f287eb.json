@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2130",
+    "name": "Hireling Manager",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 3,
+    "prereq": "Charisma 14",
+    "summary": "Hirelings gain +2 to skill checks.",
+    "description": "You are able to find and secure better labor than most. When securing a hireling for a service, that hireling gains a +2 circumstance bonus to all skill checks. This circumstance bonus applies to both trained and untrained hirelings and has no effect on the cost of the service or labor provided.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

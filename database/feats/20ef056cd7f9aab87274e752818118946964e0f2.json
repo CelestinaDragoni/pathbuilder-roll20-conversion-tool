@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3381",
+    "name": "Uneasy Rest",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Sleep",
+    "summary": "When you cast sleep, you can modify the spell to make subjects of your spell experience troubled dreams.",
+    "description": "When you cast sleep, you can modify the spell to add the following to its standard effects: Subjects of your spell experience troubled dreams. When a target that failed or critically failed its saving throw wakes up, it is frightened 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

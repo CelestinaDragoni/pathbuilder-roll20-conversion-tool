@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=913",
+    "name": "Spell Runes",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Runescarred Dedication",
+    "summary": "The magical runes on your body grant you several magical abilities.",
+    "description": "The magical runes on your body grant you several magical abilities. Choose a 1st-level arcane spell. You gain a spell rune on your body corresponding to the chosen spell, which you can cast once per day as an innate spell. At 6th level, you gain a spell rune corresponding to a 2nd-level arcane spell, and at 8th level, you gain a spell rune corresponding to a 3rd-level arcane spell.Spell Runes Leads To...\n\nGreater Spell RunesTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

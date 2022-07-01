@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2039",
+    "name": "Poison Coat",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Poisoner Dedication",
+    "summary": "In nature, certain animals are covered in venomous spines, such that even touching them is deadly.",
+    "description": "In nature, certain animals are covered in venomous spines, such that even touching them is deadly. To use this reaction, you must have brushed poison onto your clothing or woven sharp poisoned needles into the garment's fabric. This takes 10 minutes and uses one dose of contact or injury poison. You can have only one such poison suffused into your clothing at a time.\n\n When you use this reaction, the triggering creature is exposed to the suffused poison.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature adjacent to you hits you with a melee unarmed Strike."
+}

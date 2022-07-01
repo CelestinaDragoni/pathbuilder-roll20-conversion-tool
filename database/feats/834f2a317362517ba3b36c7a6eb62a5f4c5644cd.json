@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3166",
+    "name": "Black Powder Boost",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You fire your weapon as you jump, using the kickback to go farther.",
+    "description": "You fire your weapon as you jump, using the kickback to go farther. You Leap and discharge your firearm to add a +10-foot status bonus to the distance traveled. If you spend 2 actions for Black Powder Boost, you High Jump or Long Jump instead.\n\nSpecial An ability that allows you to High Jump or Long Jump as a single action (like the Quick Jump skill feat) lets you use Black Powder Boost as a single action for those jumps as well.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Black Powder Boost Leads To...Black Powder Blaze, Reach for the Stars",
+    "economy": "1-to-2-actions",
+    "trigger": ""
+}

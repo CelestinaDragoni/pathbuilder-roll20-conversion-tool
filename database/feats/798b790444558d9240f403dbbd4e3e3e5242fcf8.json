@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1055",
+    "name": "Sharp Fangs",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your teeth are formidable weapons.",
+    "description": "Your teeth are formidable weapons. You gain a fangs unarmed attack that deals 1d8 piercing damage.Sharp Fangs Leads To...\n\nEnvenom FangsTraitsLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

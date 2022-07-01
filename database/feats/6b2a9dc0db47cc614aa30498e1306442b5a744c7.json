@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=905",
+    "name": "Magic Warrior Transformation",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Magic Warrior Dedication",
+    "summary": "You can transform fully into the animal your mask represents.",
+    "description": "You can transform fully into the animal your mask represents. You gain the magic warrior transformation focus spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

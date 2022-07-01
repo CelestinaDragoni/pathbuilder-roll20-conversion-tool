@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=688",
+    "name": "Champion Resiliency",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Champion Dedication; Class Granting No More Hit Points Per Level Than 8 + Your Constitution Modifier",
+    "summary": "You gain 3 additional Hit Points for each champion archetype class feat you have.",
+    "description": "You gain 3 additional Hit Points for each champion archetype class feat you have. As you continue selecting champion archetype class feats, you continue to gain additional Hit Points in this way.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

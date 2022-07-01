@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=899",
+    "name": "Echoing Weapon",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Sonic"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Your attacks build up to release a sonic pulse.",
+    "heightenable": true,
+    "description": "You channel magical energy into the target weapon, and the air around it faintly hums each time you strike a blow, as the impact is absorbed into the weapon. If a creature is wielding the weapon at the end of its turn, the weapon discharges a burst of sound targeting one creature adjacent to the wielder (if any). The sonic damage this deals is equal to the number of successful Strikes with the target weapon that the wielder made that turn (to a maximum of 4 sonic damage if the wielder hits with four Strikes).\n\n------\n\nHeightened (+2) The sonic damage increases by 1 per Strike (and the maximum damage increases by 4).",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 weapon",
+    "duration": "1 minute",
+    "saving": ""
+}

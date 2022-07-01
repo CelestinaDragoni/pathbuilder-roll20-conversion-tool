@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3207",
+    "name": "Ricochet Master",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 16,
+    "prereq": "Ricochet Shot",
+    "summary": "You have an eye for angles and can find shots that others believe are impossible.",
+    "description": "You have an eye for angles and can find shots that others believe are impossible. When using Ricochet Shot, you can bounce your bullet off up to two solid surfaces within your weapon's first range increment instead of just one. \n\nIn addition, a creature is flat-footed the first time you attack it with a Ricochet Shot during an encounter.Ricochet Master Leads To...\n\nRicochet Legend",
+    "economy": "none",
+    "trigger": ""
+}

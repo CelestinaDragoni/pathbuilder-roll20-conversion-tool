@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1233",
+    "name": "Axe Climber",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Turpin Rowe Lumberjack Dedication",
+    "summary": "You can climb wooden surfaces using axes.",
+    "description": "When you are climbing a wooden surface and have a hatchet or battle axe in each hand, you have a climb Speed equal to half your normal Speed. You must still have both legs available to climb and can’t use either of the axes in combat while climbing. This feat can also be used to climb a surface of ice if you have a light pick in each hand.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

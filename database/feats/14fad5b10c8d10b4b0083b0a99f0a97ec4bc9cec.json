@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3431",
+    "name": "Defensive Needles",
+    "source": "Pathfinder #176",
+    "rarity": "Uncommon",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 5,
+    "prereq": "Cactus Leshy Heritage Or Pine Leshy Heritage",
+    "summary": "Your body is covered in sharp needles or spines which you can use to defend yourself.",
+    "description": "Your body is covered in sharp needles or spines which you can use to defend yourself. Each time you become grabbed by a creature or an adjacent creature hits you with an unarmed attack, you twist and thrash your body around, dealing 2 piercing damage to that creature. This damage increases to 3 at 9th level, 4 at 13th level, and 5 at 17th level.TraitsLeshy: Leshies are living plants animated by primal magic.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

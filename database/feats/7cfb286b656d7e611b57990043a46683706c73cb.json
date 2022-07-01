@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2924",
+    "name": "Protective Bond",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Summoner"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "The power of your bond can protect you and your eidolon from harm.",
+    "description": "The power of your bond can protect you and your eidolon from harm. If you and your eidolon would take different amounts of damage from the area effect, you take the lower amount of damage instead of the greater amount of damage.\n\nSpecial This feat has the trait matching your eidolon's tradition (arcane, divine, occult, or primal).Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.",
+    "economy": "reaction",
+    "trigger": "You and your eidolon are in a damaging effect's area."
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2921",
+    "name": "Miniaturize",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 8,
+    "prereq": "Shrink Down",
+    "summary": "Your eidolon can shrink even further.",
+    "description": "Your eidolon can shrink even further. When using Shrink Down, your eidolon can reduce its size to Tiny.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2934",
+    "name": "Resilient Shell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon is resilient against attacks.",
+    "description": "Your eidolon is resilient against attacks. It gains resistance to physical damage equal to its Constitution modifier. Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

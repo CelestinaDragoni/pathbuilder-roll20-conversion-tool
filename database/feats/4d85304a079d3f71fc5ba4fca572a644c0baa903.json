@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1718",
+    "name": "Reactive Transformation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 14,
+    "prereq": "Wild Shape; Dragon Shape, Elemental Shape, Plant Shape, Or Soaring Shape",
+    "summary": "You transform reflexively when in danger.",
+    "description": "You transform reflexively when in danger. You cast wild shape to transform into one form granted by one of the prerequisite feats you have, depending on the trigger. Your form's resistances and weaknesses apply against the triggering damage. Trigger You fall 10 feet or more; Effect Choose a form from aerial form.Trigger You take acid, cold, electricity, fire, or poison damage; Effect Choose a form from dragon form that resists the triggering damage.Trigger You take fire damage; Effect Choose a fire elemental form from elemental form.Trigger You take poison damage; Effect Choose a form from plant form.",
+    "economy": "reaction",
+    "trigger": "varies"
+}

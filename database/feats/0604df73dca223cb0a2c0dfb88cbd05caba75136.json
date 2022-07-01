@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3209",
+    "name": "Piercing Critical",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "Your attacks with your preferred weapons deal especially devastating wounds.",
+    "description": "Your attacks with your preferred weapons deal especially devastating wounds. When you Strike with a firearm or crossbow for which you have legendary proficiency, you critically succeed if you roll a 19 on the die, as long as that result is a success.",
+    "economy": "none",
+    "trigger": ""
+}

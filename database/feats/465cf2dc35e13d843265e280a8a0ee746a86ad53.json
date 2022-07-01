@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=544",
+    "name": "Perfect Shot",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Flourish",
+        "Ranger"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "After watching the motions of combat with incredible intensity and precision, you fire at your prey at the perfect moment to deliver maximum pain.",
+    "description": "After watching the motions of combat with incredible intensity and precision, you fire at your prey at the perfect moment to deliver maximum pain. Make a ranged Strike with the required weapon against your hunted prey. If you hit, the Strike deals maximum damage. After the Strike, your turn ends.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "3-action",
+    "trigger": ""
+}

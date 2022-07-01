@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1704",
+    "name": "Shield of Faith",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 10,
+    "prereq": "Domain Initiate",
+    "summary": "Residual energy from your domain spells bolsters your defenses.",
+    "description": "Residual energy from your domain spells bolsters your defenses. When you spend a Focus Point to cast a domain spell, you gain a +1 status bonus to your AC until the start of your next turn.",
+    "economy": "none",
+    "trigger": ""
+}

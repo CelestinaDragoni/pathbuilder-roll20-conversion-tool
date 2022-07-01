@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=52",
+    "name": "Distracting Shadows",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have learned to remain hidden by using larger folk as a distraction to avoid drawing attention to yourself.",
+    "description": "You have learned to remain hidden by using larger folk as a distraction to avoid drawing attention to yourself. You can use creatures that are at least one size larger than you (usually Medium or larger) as cover for the Hide and Sneak actions, though you still can't use such creatures as cover for other uses, such as the Take Cover action.\nDistracting Shadows Leads To...\n\nCeaseless ShadowsTraitsHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=810",
+    "name": "Spirit Object",
+    "source": "Legends",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Cantrip",
+        "Hex",
+        "Necromancy",
+        "Witch"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "Using a sliver of Baba Yaga's power, you briefly bring an object to life.",
+    "heightenable": true,
+    "description": "Using a sliver of Baba Yaga's power, you briefly bring an object to life. The object gains a means of locomotion, such as sprouting chicken legs, and Strides up to 25 feet to a space you decide within range. If you spent 2 actions Casting the Spell, the object then attacks one creature of your choice adjacent to its new space. Make a melee spell attack roll against the creature. On a success, the creature takes bludgeoning, piercing, or slashing damage (as appropriate for the object) equal to 1d4 plus your spellcasting ability modifier, and on a critical success, it takes double damage.\n\n------\n\nHeightened (+1) Increase the maximum Bulk of the target by 1 and the damage by 1d4.",
+    "economy": "1-to-2-actions",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 unattended object up to 1 Bulk",
+    "duration": "",
+    "saving": ""
+}

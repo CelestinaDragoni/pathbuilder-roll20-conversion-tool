@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2510",
+    "name": "Hefting Shadow",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Fetchling",
+        "Occult",
+        "Shadow"
+    ],
+    "level": 9,
+    "prereq": "Clever Shadow",
+    "summary": "Your shadow can contain objects.",
+    "description": "Your shadow can contain objects. You can Interact with your shadow to store or retrieve objects, just like you would a mundane container (meaning you spend two Interact actions total to store and then retrieve the object, for example). Your shadow can contain 2 Bulk of objects, which don't count toward the Bulk you're carrying. The items remain solid but take on a shadowy patina while stored this way. Though the items are in your shadow and can be detected normally, you gain a +2 circumstance bonus to Stealth checks to Conceal the Objects unless someone knows to check your shadow for items.Traits\n\nConjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.Shadow: Magic with this trait involves shadows or the energy of the Shadow Plane. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.",
+    "economy": "none",
+    "trigger": ""
+}

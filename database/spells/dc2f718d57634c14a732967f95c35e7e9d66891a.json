@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=180",
+    "name": "Magic Missile",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Force"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Pelt creatures with unerring bolts of magical force.",
+    "heightenable": true,
+    "description": "You send a dart of force streaking toward a creature that you can see. It automatically hits and deals 1d4+1 force damage. For each additional action you use when Casting the Spell, increase the number of missiles you shoot by one, to a maximum of three missiles for 3 actions. You choose the target for each missile individually. If you shoot more than one missile at the same target, combine the damage before applying bonuses or penalties to damage, resistances, weaknesses, and so forth.\n\n------\n\nHeightened (+2) You shoot one additional missile with each action you spend.",
+    "economy": "1-to-3-actions",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

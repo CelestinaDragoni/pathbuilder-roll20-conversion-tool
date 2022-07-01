@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2041",
+    "name": "Ritualist Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 4,
+    "prereq": "Expert In Arcana, Nature, Occultism, Or Religion",
+    "summary": "You have begun to master the difficult art of casting rituals.",
+    "description": "You have begun to master the difficult art of casting rituals. You gain a +2 circumstance bonus to all primary checks to perform a ritual. You learn two uncommon rituals with a level no higher than half your level; you must meet all prerequisites for casting the ritual to choose it. At 8th level and every 4 levels thereafter, you learn another uncommon ritual with a level no higher than half your level and for which you meet the prerequisites. You can cast these as the primary caster, but you can't teach them to anyone else or allow someone else to serve as primary caster unless they know the ritual as well.\n\nSpecial You can't select another dedication feat until you've gained two other feats from the ritualist archetype. If you retrain out of this feat, you lose the rituals learned from it.Ritualist Dedication Leads To...\n\nEfficient Rituals, Flexible Ritualist, Resourceful RitualistTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=325",
+    "name": "Woodland Stride",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 4,
+    "prereq": "Leaf Order",
+    "summary": "You can always find a path, almost as if foliage parted before you.",
+    "description": "You can always find a path, almost as if foliage parted before you. You ignore any difficult terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don’t impede your progress.",
+    "economy": "none",
+    "trigger": ""
+}

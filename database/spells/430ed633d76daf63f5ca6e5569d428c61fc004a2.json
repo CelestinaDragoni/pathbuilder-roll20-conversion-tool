@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=783",
+    "name": "Genie's Veil",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "With a flourish, you fulfill a creature's wish for protection, bending reality to keep them from harm.",
+    "heightenable": false,
+    "description": "With a flourish, you fulfill a creature's wish for protection, bending reality to keep them from harm. The target vanishes in a burst of brightly colored smoke and sparkles, reappearing an instant later. They become concealed against the triggering attack and until the end of the current creature's turn.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "A creature within range is attacked.",
+    "range": "30 feet",
+    "target": "1 willing creature",
+    "duration": "",
+    "saving": ""
+}

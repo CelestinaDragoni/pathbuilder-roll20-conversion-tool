@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1089",
+    "name": "Light of Revelation",
+    "source": "Character Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You’ve learned to call upon light to reveal what is hidden.",
+    "description": "You’ve learned to call upon light to reveal what is hidden. You gain the light of revelation devotion spell. Increase the number of Focus Points in your focus pool by 1.Traits\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.\n\nKnights of Lastwall Class FeatsSource Character Guide pg. 90 2.0\nThe following class feats are available to Knights of Lastwall. Those with the champion trait are champion class feats. Those with both the champion and fighter traits are both champion class feats and fighter class feats; when you take one of these feats, it loses the trait that doesn’t apply to your class.\n\nRelated Feats: Everstand Stance, Everstand Strike, Impassable Wall Stance, Sun Blade",
+    "economy": "none",
+    "trigger": ""
+}

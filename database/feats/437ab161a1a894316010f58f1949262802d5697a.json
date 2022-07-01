@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=942",
+    "name": "Gloomseer",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 1,
+    "prereq": "Nidalese Ethnicity",
+    "summary": "Gloom holds few terrors for you, and the pall of darkness over Nidal has made you comfortable in dim light.",
+    "description": "Gloom holds few terrors for you, and the pall of darkness over Nidal has made you comfortable in dim light. You gain low-light vision.Gloomseer Leads To...\n\nDarkseerTraitsHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

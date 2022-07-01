@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2409",
+    "name": "Bone Caller",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Using a mixture of dinosaur bones and the bones of your ancestors to focus your magic, you animate lizards and dinosaurs to carry messages or serve as mounts.",
+    "description": "Using a mixture of dinosaur bones and the bones of your ancestors to focus your magic, you animate lizards and dinosaurs to carry messages or serve as mounts. You can cast animal messenger and phantom steed as primal innate spells once per day each. The animal messenger is always a Tiny dinosaur or lizard, and your innate spell transforms it from bones to flesh, even if there are no dinosaurs or lizards nearby. The phantom steed looks like a dinosaur rather than a horse but functions identically.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

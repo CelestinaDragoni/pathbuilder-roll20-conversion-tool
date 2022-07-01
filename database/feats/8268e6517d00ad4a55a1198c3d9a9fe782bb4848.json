@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1157",
+    "name": "Relentless Disarm",
+    "source": "Pathfinder #149",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Zephyr Guard Dedication; Trained In Athletics",
+    "summary": "You have been trained to disarm foes.",
+    "description": "When you succeed, but don’t critically succeed, at a check to Disarm a creature, your circumstance bonus to further checks to Disarm that creature is +4 instead of +2. Other creatures gain only the normal bonus.\n\n When you critically succeed at a Disarm check, you can immediately Demoralize your target as a reaction.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1610",
+    "name": "Mage Hunter",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 6,
+    "prereq": "Superstition Instinct",
+    "summary": "You use your hatred of magic to lash out at the sight of spellcasting, allowing you to interrupt an enemy's spell.",
+    "description": "You use your hatred of magic to lash out at the sight of spellcasting, allowing you to interrupt an enemy's spell. Make a melee Strike against the triggering creature. If the attack is a critical hit, you disrupt the spell.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "reaction",
+    "trigger": "A creature within your reach Casts a Spell."
+}

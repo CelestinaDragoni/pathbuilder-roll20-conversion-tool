@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1624",
+    "name": "Sunder Spell",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Barbarian",
+        "Concentrate",
+        "Rage"
+    ],
+    "level": 12,
+    "prereq": "Superstition Instinct",
+    "summary": "You draw upon your superstitious fury to destroy a spell.",
+    "description": "You draw upon your superstitious fury to destroy a spell. Make a Strike with a melee weapon or an unarmed attack against a creature, object, or a spell manifestation (such as the wall created by wall of fire or the guardian from spiritual guardian). If you're targeting something that doesn't have an AC listed, its AC is usually 10 against this Strike for targets that are very easy to hit, like a wall, or a different AC determined by the GM. If your Strike hits, you can attempt to counteract a single spell or magical effect on the target. Your counteract level for this attempt is equal to half your level rounded up, and you use the result of your attack roll for the counteract check.\n\n Whether or not you succeed at your Strike, the target becomes temporarily immune to your Sunder Spell for 24 hours.Sunder Spell Leads To...\n\nSunder EnchantmentTraitsAttack: An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Rage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "2-action",
+    "trigger": ""
+}

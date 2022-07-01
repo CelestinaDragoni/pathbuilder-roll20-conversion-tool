@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=31",
+    "name": "Illusion Sense",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your ancestors spent their days cloaked and cradled in illusions, and as a result, sensing illusion magic is second nature to you.",
+    "description": "Your ancestors spent their days cloaked and cradled in illusions, and as a result, sensing illusion magic is second nature to you. You gain a +1 circumstance bonus to both Perception checks and Will saves against illusions. When you come within 10 feet of an illusion that can be disbelieved, the GM rolls a secret check for you to disbelieve it, even if you didn't spend an action to Interact with the illusion.\nIllusion Sense Leads To...\n\nIntuitive Illusions, Natural IllusionistTraitsGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3087",
+    "name": "Negate Damage",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 18,
+    "prereq": "Armor Innovation",
+    "summary": "Your armor innovation activates various devices you prepared ahead of time, and you use one of them to reduce the damage you would take by 15.",
+    "description": "Your armor innovation activates various devices you prepared ahead of time, and you use one of them to reduce the damage you would take by 15.\n\n Unstable Function You activate all the precautions at once, violently repelling the incoming attack to blunt its force. Add the unstable trait to Negate Damage and reduce the damage you would take by 50.",
+    "economy": "reaction",
+    "trigger": "You would take damage"
+}

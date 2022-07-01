@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=288",
+    "name": "Cremate Undead",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "Your positive energy sets undead alight.",
+    "description": "Your positive energy sets undead alight. When you use a heal spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell’s level.",
+    "economy": "none",
+    "trigger": ""
+}

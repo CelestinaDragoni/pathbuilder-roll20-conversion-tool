@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3051",
+    "name": "Collapse Armor",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor",
+        "Manipulate",
+        "Modification"
+    ],
+    "level": 2,
+    "prereq": "Armor Innovation",
+    "summary": "You've modified your armor innovation to collapse into a more compact form so you can don or remove it in an instant.",
+    "description": "You've modified your armor innovation to collapse into a more compact form so you can don or remove it in an instant. If you're wearing your innovation when you Collapse your Armor, you remove it instantly, and it compresses into its compact form, which is held in both of your hands (if you don't have both hands available, it falls to the ground in an adjacent space). If you're holding your armor in compact form when you take this action, it unfolds back into its armor form onto your body.\n\n In compact form, your armor innovation is easier to carry, with a Bulk 1 lower than the Bulk listed for it, to a minimum of light Bulk (carried armor normally has a Bulk 1 higher than listed in the armor entry).Traits\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.\n\nModification: A feat with this trait alters the construction of your innovation. If you have the reconfigure class feature, you can retrain such a feat more easily",
+    "economy": "1-action",
+    "trigger": ""
+}

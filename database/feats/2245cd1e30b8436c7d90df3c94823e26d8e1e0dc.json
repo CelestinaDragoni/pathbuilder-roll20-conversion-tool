@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=875",
+    "name": "Wayfinder Resonance Tinkerer",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Pathfinder Agent Dedication",
+    "summary": "Access a new cantrip by using your Wayfinder.",
+    "description": "You can use the unusual resonance of your wayfinder to grant it additional effects. Choose one cantrip from the arcane, divine, occult, or primal list. You can activate your wayfinder to cast that cantrip at will. As normal, this cantrip is heightened to a spell level equal to half your level rounded up. Additionally, you can Activate your wayfinder with a     (envision) activation to transform it into a nondescript pin or brooch to hide your affiliation with the Pathfinder Society. This transformation lasts for 1 hour.Wayfinder Resonance Tinkerer Leads To...\n\nWayfinder Resonance Infiltrator, Westyr's Wayfinder RepositoryTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

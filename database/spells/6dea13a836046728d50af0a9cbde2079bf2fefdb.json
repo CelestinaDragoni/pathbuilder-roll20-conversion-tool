@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=516",
+    "name": "Swamp of Sloth",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Olfactory",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "Ground in the area turns swampy and fetid.",
+    "heightenable": true,
+    "description": "Ground in the area turns swampy and fetid. The area is difficult terrain. The sludge at the bottom of the morass animates into diminutive sludge beasts that have a demonic appearance. These don't function as normal creatures, but they swarm over creatures in the swamp and exude a noxious stench. The swamp deals 1d6 poison damage; creatures that end their turn in the area must attempt a basic Fortitude save. You can increase the number of actions it takes to Cast the Spell. For each additional action, increase the burst's radius by 5 feet.\n\n------\n\nHeightened (+2) The damage increases by 1d6, and the initial radius increases by 5 feet.",
+    "economy": "1-to-3-actions",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "basic Fortitude"
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=741",
+    "name": "Master Sorcerer Spellcasting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 18,
+    "prereq": "Expert Sorcerer Spellcasting; Legendary In Arcana, Nature, Occultism, Or Religion, Depending On Bloodline",
+    "summary": "You gain the master spellcasting benefits for sorcerer spellcasting.",
+    "description": "You gain the master spellcasting benefits.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

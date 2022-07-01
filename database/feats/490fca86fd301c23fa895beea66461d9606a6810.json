@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=678",
+    "name": "Basic Bard Spellcasting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Bard Dedication",
+    "summary": "You gain the basic spellcasting benefits for bard spellcasting.",
+    "description": "You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the bard archetype, add a common occult spell or another spell you learned or discovered to your repertoire, of the appropriate spell level.Basic Bard Spellcasting Leads To...\n\nExpert Bard Spellcasting, Occult BreadthTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

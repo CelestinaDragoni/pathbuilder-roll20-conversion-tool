@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1975",
+    "name": "Incredible Familiar (Familiar Master)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Enhanced Familiar",
+    "summary": "Your familiar is infused with even more magic than other familiars.",
+    "description": "Your familiar is infused with even more magic than other familiars. You can select six familiar or master abilities each day, instead of four.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

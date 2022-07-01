@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1963",
+    "name": "Magic Arrow",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Magical",
+        "Transmutation"
+    ],
+    "level": 8,
+    "prereq": "Eldritch Archer Dedication",
+    "summary": "You imbue your ammunition with eldritch power.",
+    "description": "You imbue your ammunition with eldritch power. When you select this feat, choose three types of common magical ammunition of 4th level or lower from the Core Rulebook or this book. Your GM might allow you to choose from other types of magical ammunition, such as uncommon ammunition, or ammunition from other books.\n\n When using Magic Arrow, you transform a non-magical arrow or bolt into a piece of ammunition of one type you chose. You must shoot the ammunition before the end of your turn or the magic dissipates. If the ammunition has an Activate entry, you still need to spend the required actions to activate the ammunition before shooting it. When you use Magic Arrow, you can choose a type of magical ammunition that is typically not available to the type of ammunition you're using—for example, you can use climbing bolt on an arrow, even though that magical ammunition is normally only found on bolts.\n\nSpecial You can select this feat multiple times. Each time you do, select three additional types of ammunition as described above.Traits\n\nArchetype: This feat belongs to an archetype.\n\nMagical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "free_action",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1595",
+    "name": "Healing Bomb",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Additive 2",
+        "Alchemist"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "By adding a special catalyst, you transform a healing elixir into a topical projectile.",
+    "description": "By adding a special catalyst, you transform a healing elixir into a topical projectile. You grant the elixir the bomb trait. If you throw an elixir of life bomb at a willing target, you hit even on a failure, though not on a critical failure. If your Strike with this elixir bomb hits a living target, the target regains Hit Points as if it had consumed the elixir. On a critical success, the target also gains the elixir's item bonus to saving throws against diseases and poisons for 1 minute.Traits\n\nAdditive 2: Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you're creating an infused alchemical item, and some can be used only with the Quick Alchemy action. The additive trait is always followed by a level, such as additive 2. An additive adds its level to the level of the alchemical item you're modifying; the result is the new level of the mixture. The mixture's item level must be no higher than your advanced alchemy level.",
+    "economy": "free_action",
+    "trigger": "You craft an elixir of life using Quick Alchemy, and that elixir is at least 2 levels lower than your advanced alchemy level."
+}

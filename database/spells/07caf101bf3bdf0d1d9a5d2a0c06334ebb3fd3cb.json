@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=830",
+    "name": "Wyvern Sting",
+    "source": "Pathfinder #160",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Necromancy",
+        "Poison"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "You duplicate the venomous sting of a wyvern.",
+    "heightenable": false,
+    "description": "You duplicate the venomous sting of a wyvern. You deal 3d4 piercing damage to the touched creature and afflict it with wyvern venom. If the target takes piercing damage, they must attempt a Fortitude save.\nCritical Success The target is unaffected.\nSuccess The target takes 5d6 poison damage.\nFailure The target is afflicted with wyvern venom at stage 1.\nCritical Failure The target is afflicted with wyvern venom at stage 2.\n\n Wyvern Venom (poison) Level 9; Maximum Duration 6 rounds; Stage 1 5d6 poison damage (1 round); Stage 2 6d6 poison damage (1 round); Stage 3 8d6 poison damage (1 round)",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "6 rounds;",
+    "saving": "FortitudeYou duplicate the venomous sting of a wyvern. You deal 3d4 piercing damage to the touched creature and afflict it with wyvern venom. If the target takes piercing damage, they must attempt a Fortitude save.Critical Success The target is unaffected.Success The target takes 5d6 poison damage.Failure The target is afflicted with wyvern venom at stage 1.Critical Failure The target is afflicted with wyvern venom at stage 2. Wyvern Venom (poison) Level 9"
+}

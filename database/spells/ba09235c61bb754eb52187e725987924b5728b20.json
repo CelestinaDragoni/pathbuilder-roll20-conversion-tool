@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1058",
+    "name": "Updraft",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Air",
+        "Druid",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "A powerful blast of wind erupts from the ground, launching the target into the air and sending it crashing back down.",
+    "heightenable": true,
+    "description": "A powerful blast of wind erupts from the ground, launching the target into the air and sending it crashing back down. The collision deals 2d6 bludgeoning damage with a basic Reflex save. On a failure, the target is knocked prone.\n\n------\n\nHeightened (+1) Increase the damage by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

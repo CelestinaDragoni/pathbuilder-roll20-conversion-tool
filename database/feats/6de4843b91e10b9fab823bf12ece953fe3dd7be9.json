@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1488",
+    "name": "Domain Acumen",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oracle"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Every oracle's mystery touches on a divine domain of the deities that fuel it; you can access that power.",
+    "description": "Every oracle's mystery touches on a divine domain of the deities that fuel it; you can access that power. Choose one of the domains associated with your mystery for which you don't already have an initial domain spell. You gain an initial domain spell from that domain, which you cast as a revelation spell. It gains the cursebound trait. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

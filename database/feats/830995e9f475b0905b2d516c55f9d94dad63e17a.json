@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=469",
+    "name": "Disrupt Ki",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk",
+        "Negative"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "Your strike can block a creature's inner life force.",
+    "description": "Make an unarmed Strike. If it deals damage to a living creature, you block that creature’s inner life force. The creature takes 2d6 persistent negative damage and is enfeebled 1 until the persistent damage ends. If you’re 18th level or higher, this deals 3d6 persistent negative damage instead.Traits\n\nNegative: Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the Negative Energy Plane. They can survive the basic environmental effects of the Negative Energy Plane.",
+    "economy": "2-action",
+    "trigger": ""
+}

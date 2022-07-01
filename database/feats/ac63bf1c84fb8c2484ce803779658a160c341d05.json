@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3233",
+    "name": "Controlled Bullet",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Evocation",
+        "Magical"
+    ],
+    "level": 16,
+    "prereq": "Beast Gunner Dedication",
+    "summary": "You create a direct magical connection with your beast gun, allowing you to guide the beast gun's next shot by taking control of the projectile directly.",
+    "description": "You create a direct magical connection with your beast gun, allowing you to guide the beast gun's next shot by taking control of the projectile directly, steering it through the air, and swerving and veering it to continue to hit target after target. Make a beast gun Strike against a creature within the first range increment. On a hit, the shot tears through the target and continues toward another target you can see. You make a Strike against this new target. The new target must be no farther from the previous target than a distance equal to the beast gun's range increment. For example, the new target must be within 150 feet of the previous target when attacking with a drake rifle. On a hit, you can direct the bullet toward a new target.\n\n You can continue to make Strikes against new targets in this same way until your attack misses, at which point your shot dissipates. You can't make a Strike against a target you already attacked during this use of Controlled Bullet, but you can otherwise continue to make attacks against valid targets until you miss. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you've made all your attacks.Traits\n\nArchetype: This feat belongs to an archetype.\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Magical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.",
+    "economy": "2-action",
+    "trigger": ""
+}

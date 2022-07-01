@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2743",
+    "name": "Touch Focus",
+    "source": "Pathfinder #167",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Manipulate",
+        "Metamagic"
+    ],
+    "level": 14,
+    "prereq": "Sixth Pillar Dedication",
+    "summary": "You can redirect a spell's power through you to deliver it within striking distance.",
+    "description": "You can redirect a spell's power through you to deliver it within striking distance. If your next action is to Cast a Spell with 1 or more targets and a range farther than touch, you can change the range to touch. If the altered spell requires a spell attack roll, you gain a +2 circumstance bonus to the attack. This only allows you to touch a single target with the spell, even if the spell originally affected more than 1 target. After you Cast the Spell, you can Disarm, Shove, Trip, or Strike the target with an unarmed attack.Traits\n\nArchetype: This feat belongs to an archetype.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

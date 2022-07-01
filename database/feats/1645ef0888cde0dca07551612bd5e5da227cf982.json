@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1293",
+    "name": "Spell Devourer",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 13,
+    "prereq": "Pervasive Superstition",
+    "summary": "You don't just resist magic; you devour it.",
+    "description": "You don't just resist magic; you devour it. Whenever you succeed at a saving throw against a spell or magical effect, you gain temporary Hit Points equal to double the spell's level, or equal to the level if the magical effect isn't a spell. These temporary Hit Points last until the end of your next turn.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

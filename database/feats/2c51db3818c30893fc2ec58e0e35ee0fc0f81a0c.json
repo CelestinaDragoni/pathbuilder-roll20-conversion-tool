@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=291",
+    "name": "Heroic Recovery",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 10,
+    "prereq": "Healing Font; Good Alignment",
+    "summary": "The restorative power of your healing invigorates the recipient.",
+    "description": "The restorative power of your healing invigorates the recipient. If the next action you use is to cast heal targeting a single living creature and the target regains Hit Points from the spell, it also gains three bonuses until the end of its next turn: a +5-foot status bonus to its Speed, a +1 status bonus to attack rolls, and a +1 status bonus to damage rolls.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

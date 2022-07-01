@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=521",
+    "name": "Augment Summoning",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You augment the abilities of a summoned creature.",
+    "heightenable": false,
+    "description": "You augment the abilities of a summoned creature. The target gains a +1 status bonus to all checks (this also applies to the creature's DCs, including its AC) for the duration of its summoning, up to 1 minute.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature you summoned",
+    "duration": "",
+    "saving": ""
+}

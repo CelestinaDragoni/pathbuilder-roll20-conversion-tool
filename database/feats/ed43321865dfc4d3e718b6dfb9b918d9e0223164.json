@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1607",
+    "name": "Spiritual Guides",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Concentrate",
+        "Fortune"
+    ],
+    "level": 4,
+    "prereq": "Spirit Instinct",
+    "summary": "Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging.",
+    "description": "Though no one sees them and only you can hear them, the spirits around you constantly chatter, save when you are raging. Sometimes they're even helpful. You can heed the spirits' guidance to reroll the triggering check, using the second result even if it's worse.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "reaction",
+    "trigger": "You fail, but don't critically fail, a Perception check or a skill check."
+}

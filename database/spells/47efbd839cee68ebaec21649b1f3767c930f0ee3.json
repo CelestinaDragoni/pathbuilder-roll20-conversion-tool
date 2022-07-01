@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=474",
+    "name": "Heal Animal",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Druid",
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You heal an animal’s wounds.",
+    "heightenable": true,
+    "description": "You heal an animal's wounds, restoring 1d8 Hit Points to the target. The number of actions spent Casting this Spell determines its effect.      somatic The spell has a range of touch.     somatic, verbal The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.\n\n------\n\nHeightened (+1) The amount of healing increases by 1d8, and the additional healing for the 2-action version increases by 8.",
+    "economy": "1-to-2-actions",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch or 30 feet (see text)",
+    "target": "1 willing living animal creature",
+    "duration": "",
+    "saving": ""
+}

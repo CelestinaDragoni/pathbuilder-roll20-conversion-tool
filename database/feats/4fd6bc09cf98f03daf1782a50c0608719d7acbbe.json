@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1767",
+    "name": "Animal Feature",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 4,
+    "prereq": "Warden Spells",
+    "summary": "You are so connected with the animal world that you can grant yourself an animal's features and abilities.",
+    "description": "You are so connected with the animal world that you can grant yourself an animal's features and abilities. You gain the animal feature warden spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

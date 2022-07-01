@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=248",
+    "name": "Regenerate",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Cause a creature to heal over time, regrow organs, and reattach body parts.",
+    "heightenable": true,
+    "description": "An infusion of positive energy grants a creature continuous healing. The target temporarily gains regeneration 15, which restores 15 Hit Points to it at the start of each of its turns. While it has regeneration, the target can't die from damage and its dying condition can't increase to a value that would kill it (this stops most creatures from going beyond dying 3), though if its wounded value becomes 4 or higher, it stays unconscious until its wounds are treated. If the target takes acid or fire damage, its regeneration deactivates until after the end of its next turn. \n\nEach time the creature regains Hit Points from regeneration, it also regrows one damaged or ruined organ (if any). During the spell's duration, the creature can also reattach severed body parts by spending an Interact action to hold the body part to the area it was severed from.\n\n------\n\nHeightened (9th) The regeneration increases to 20.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing living creature",
+    "duration": "1 minute",
+    "saving": ""
+}

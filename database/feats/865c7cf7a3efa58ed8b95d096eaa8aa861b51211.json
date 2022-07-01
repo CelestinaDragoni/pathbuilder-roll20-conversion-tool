@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2142",
+    "name": "Prescient Consumable",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 7,
+    "prereq": "Prescient Planner",
+    "summary": "Procure consumable items with Prescient Planner.",
+    "description": "You can predict which consumables you might need in advance. When using Prescient Planner, you can procure a consumable item from your backpack, instead of a piece of adventuring gear. The consumable item must still be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn't have made you encumbered.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

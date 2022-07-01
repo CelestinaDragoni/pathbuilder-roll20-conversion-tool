@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1440",
+    "name": "Advanced General Training",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "Over the course of adventuring, your adaptability has let you pick up numerous useful abilities.",
+    "description": "Over the course of adventuring, your adaptability has let you pick up numerous useful abilities. You gain a general feat of 7th level or lower. You must meet the feat's prerequisites.\n\nSpecial You can select this feat multiple times, choosing a different feat each time.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

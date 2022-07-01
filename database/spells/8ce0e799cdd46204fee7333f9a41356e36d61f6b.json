@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=631",
+    "name": "Personal Rain Cloud",
+    "source": "Pathfinder #151",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You conjure a 5-foot-wide rain cloud that follows the target wherever it goes.",
+    "heightenable": true,
+    "description": "You conjure a 5-foot-wide rain cloud that follows the target wherever it goes. It stays roughly an arm’s length overhead, unless it must drift lower to fit under a ceiling. The cloud rains constantly on the target, keeping it wet and dampening the ground in the wake of any movement. The rain extinguishes non-magical flames. The target gains fire resistance 2. Creatures with weakness to water take damage equal to their weakness at the end of each of their turns. Creatures can attempt a Reflex save to avoid the cloud.\n\n------\n\nHeightened (+1) The amount of fire resistance increases by 2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": "Reflex"
+}

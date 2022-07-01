@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=53",
+    "name": "Create Water",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Conjure 2 gallons of water.",
+    "heightenable": false,
+    "description": "As you cup your hands, water begins to flow forth from them. You create 2 gallons of water. If no one drinks it, it evaporates after 1 day.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "0 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

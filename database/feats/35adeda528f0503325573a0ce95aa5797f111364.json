@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2785",
+    "name": "Ceremony of Fortification",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Conrasu"
+    ],
+    "level": 9,
+    "prereq": "Ceremony Of Protection",
+    "summary": "Your exoskeleton arranges itself into an optimal defensive shape.",
+    "description": "Your exoskeleton arranges itself into an optimal defensive shape. When you use your Ceremony of Protection, you also gain resistance to either bludgeoning, piercing, or slashing damage equal to half your level against the next Strike that hits you and deals one of those types of damage until the start of your next turn.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

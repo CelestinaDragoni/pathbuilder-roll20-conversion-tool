@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=259",
+    "name": "Restore Senses",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Remove a blinding or deafening effect.",
+    "heightenable": true,
+    "description": "You attempt to counteract a single effect imposing the blinded or deafened conditions on the target, restoring its vision or hearing. This can counteract both temporary magic and permanent consequences of magic, but it doesn't cure someone who does not have the sense due to some natural state or effect, such as from birth or from a non-magical wound or toxin.\n\n------\n\nHeightened (6th) The spell's range increases to 30 feet, and you can target up to 10 creatures. You can choose the effect to counteract separately for each selected creature.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2984",
+    "name": "Blazing Streak",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Flourish",
+        "Monk"
+    ],
+    "level": 10,
+    "prereq": "Stoked Flame Stance",
+    "summary": "Stride twice, making Strikes against up to four different creatures within reach at any point during your movement.",
+    "description": "Stride twice, making Strikes against up to four different creatures within reach at any point during your movement. Flashing sparks Strikes made during Blazing Streak deal fire damage instead of slashing.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "3-action",
+    "trigger": ""
+}

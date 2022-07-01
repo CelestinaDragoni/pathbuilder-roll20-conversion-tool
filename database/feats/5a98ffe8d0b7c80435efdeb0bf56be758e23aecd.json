@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1183",
+    "name": "Sacred Defense",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "Divine",
+        "General",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "You Follow A Deity; Master In Religion",
+    "summary": "You call upon your deity to grant you their protective blessing",
+    "description": "You call upon your deity to grant you their protective blessing. Attempt a DC 30 Religion check. If you have legendary proficiency in Religion, you can instead attempt a DC 40 Religion check to increase the temporary Hit Points you gain on a successful check to 15 (25 on a critical success).\n\nCritical Success You gain 10 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.\nSuccess You gain 5 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.\nCritical Failure Your deity withholds their blessing. You cannot attempt to call to your deity again for 1 day.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

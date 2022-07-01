@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1185",
+    "name": "Sanctify Water",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Good Or Evil Deity; Master In Religion",
+    "summary": "You imbue water with your deity’s blessing",
+    "description": "You imbue water with your deity’s blessing. Choose a container of water on your person that is of light Bulk. For 1 round, if you or an ally throw this container at a foe, it has the damaging effects of holy water (if you follow a good deity) or unholy water (if you follow an evil deity). The water’s transient power doesn’t make it gain any value, allow it to be used to supply the cost for a spell or ritual, and so on. If you have legendary proficiency in Religion, you can sanctify three containers held by you or allies within your reach instead of one.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

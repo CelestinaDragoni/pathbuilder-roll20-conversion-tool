@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=292",
+    "name": "Improved Command Undead",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 10,
+    "prereq": "Harmful Font; Command Undead; Evil Alignment",
+    "summary": "Undead creatures find it all but impossible to resist your commands.",
+    "description": "Undead creatures find it all but impossible to resist your commands. When you use Command Undead, if the undead succeeds at its save but doesn’t critically succeed, it is your minion for 1 round. If the undead fails its save, it is your minion for 10 minutes. If it critically fails, it is your minion for 24 hours.",
+    "economy": "none",
+    "trigger": ""
+}

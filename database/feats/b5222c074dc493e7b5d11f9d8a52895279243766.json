@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1613",
+    "name": "Disarming Assault",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Flourish",
+        "Rage"
+    ],
+    "level": 8,
+    "prereq": "Trained In Athletics",
+    "summary": "You attack with enough force to knock the weapon out of your foe's hands.",
+    "description": "You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an Athletics check to Disarm that foe.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

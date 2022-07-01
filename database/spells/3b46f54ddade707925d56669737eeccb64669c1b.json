@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=408",
+    "name": "Commanding Lash",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "With the threat of more pain, you compel a creature you’ve recently harmed.",
+    "heightenable": false,
+    "description": "With the threat of more pain, you compel a creature you've recently harmed. You issue a command to the target, with the effects of the spell command.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "100 feet",
+    "target": "A creature you dealt damage to on your most recent action.",
+    "duration": "until the end of your target's next turn",
+    "saving": "Will"
+}

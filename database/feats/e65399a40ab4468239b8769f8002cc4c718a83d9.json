@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1118",
+    "name": "Halcyon Spellcasting Initiate",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Halcyon Speaker Dedication",
+    "summary": "Your knowledge of halcyon magic increases.",
+    "description": "Your knowledge of halcyon magic increases. You gain two common 2nd-level halcyon spells and two 3rd-level halcyon spells. You also gain a 2nd-level halcyon spell slot and a 3rd-level halcyon spell slot. These and all future halcyon spell slots work like the 1st-level halcyon spell slot you gained from Halcyon Speaker Dedication.Halcyon Spellcasting Initiate Leads To...\n\nFlexible Halcyon Spellcasting, Halcyon Spellcasting Adept, Synergistic SpellTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

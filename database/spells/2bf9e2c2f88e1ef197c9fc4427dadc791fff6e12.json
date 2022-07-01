@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=504",
+    "name": "Elemental Motion",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You call upon your element to propel you, improving your Speed depending on your element.",
+    "heightenable": true,
+    "description": "You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait. Air You gain a fly Speed equal to your Speed. Earth You gain a burrow Speed of 10 feet. Fire You gain a fly Speed equal to your Speed. Water You gain a swim Speed equal to your Speed and can breathe underwater.\n\n------\n\nHeightened (6th) You also gain a +10-foot status bonus to your Speeds.\nHeightened (9th) The status bonus increases to +20 feet.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=633",
+    "name": "Counterspell",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Arcane",
+        "Sorcerer",
+        "Witch",
+        "Wizard"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "When a foe Casts a Spell and you can see its manifestations, you can use your own magic to disrupt it.",
+    "description": "When a foe Casts a Spell and you can see its manifestations, you can use your own magic to disrupt it.\n\n[Witch, Wizard] You expend a prepared spell to counter the triggering creature’s casting of that same spell. You lose your spell slot as if you had cast the triggering spell. You then attempt to counteract the triggering spell.\n\n[Sorcerer] You expend one of your spell slots to counter the triggering creature’s casting of a spell that you have in your repertoire. You lose your spell slot as if you had cast the triggering spell. You then attempt to counteract the triggering spell.\n\nSpecial [Sorcerer] This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, occult, or primal).Counterspell Leads To...\n\nClever Counterspell, Consume Spell, Reflect Spell, School Counterspell, School Spell RedirectionTraitsAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nArcane: This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is magical.",
+    "economy": "reaction",
+    "trigger": "A creature Casts a Spell that you have prepared."
+}

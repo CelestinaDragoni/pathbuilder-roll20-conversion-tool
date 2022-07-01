@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=461",
+    "name": "Touch of Undeath",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You attack the target’s life force with undeath.",
+    "heightenable": true,
+    "description": "You attack the target's life force with undeath, dealing 1d6 negative damage. The target must attempt a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target takes half damage.\nFailure The target takes full damage, and positive effects heal it only half as much as normal for 1 round.\nCritical Failure The target takes double damage, and positive effects heal it only half as much as normal for 1 minute.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living creature",
+    "duration": "",
+    "saving": ""
+}

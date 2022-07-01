@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=893",
+    "name": "Demon Form",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Chaotic",
+        "Evil",
+        "Polymorph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Turn into a demon battle form.",
+    "heightenable": false,
+    "description": "You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the demon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: AC = 20 + your level. Ignore your armor check's penalty and Speed reduction.30 temporary Hit Points, weakness 5 to cold iron, and weakness 5 to good.Darkvision.One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +22, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.Athletics modifier of +23, unless your own modifier is higher. You also gain specific abilities based on the type of demon you choose:Babau Speed 25 feet; Melee     longspear (reach 10 feet), Damage 2d8+10 piercing plus 1d6 evil; Melee     jaws, Damage 2d10 piercing plus 1d6 evil; Melee     claw (agile), Damage 2d4 slashing plus 1d6 evil; all Strikes deal 2d6 additional precision damage to flat-footed creatures.Hezrou Speed 30 feet, swim 30 feet; Melee     jaws (reach 10 feet), Damage 2d12+10 piercing plus 1d6 evil, and you can spend an action after a hit to Grab the target; Melee     claw (agile, reach 10 feet), Damage 2d8 slashing plus 1d6 evil.Nabasu Speed 25 feet, fly 40 feet; Melee     jaws, Damage 2d10+10 piercing plus 1d6 evil; Melee     claw (agile), Damage 2d6 slashing plus 1d6 evil.Vrock Speed 25 feet, fly 35 feet; resistance 10 to electricity; Melee     beak, Damage 2d8+10 piercing plus 1d6 evil; Melee     claw (agile), Damage 2d6 slashing plus 1d6 evil; Melee     talon (agile), Damage 2d6 slashing plus 1d6 evil.",
+    "economy": "1-to-2-actions",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

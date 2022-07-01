@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1605",
+    "name": "Barreling Charge",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Fighter",
+        "Flourish"
+    ],
+    "level": 4,
+    "prereq": "Trained In Athletics",
+    "summary": "You rush forward, moving enemies aside to reach your foe.",
+    "description": "You rush forward, moving enemies aside to reach your foe. You Stride, attempting to move through your enemies' spaces and make a melee Strike. Roll an Athletics check and compare the result to the Fortitude DC of each creature whose space you attempt to move through during your Stride, moving through its space on a success but ending your movement before entering its space on a failure. You can use Barreling Charge to Burrow, Climb, Fly, or Swim instead of Stride, as long as you have the corresponding movement type.Barreling Charge Leads To...\n\nOverpowering ChargeTraitsFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

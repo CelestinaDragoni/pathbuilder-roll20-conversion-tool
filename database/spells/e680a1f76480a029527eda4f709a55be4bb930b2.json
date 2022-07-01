@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=141",
+    "name": "Grim Tendrils",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Creatures in a line take negative damage and bleed.",
+    "heightenable": true,
+    "description": "Tendrils of darkness curl out from your fingertips and race through the air. You deal 2d4 negative damage and 1 persistent bleed damage to living creatures in the line. Each living creature in the line must attempt a Fortitude save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half the negative damage and no persistent bleed damage.\nFailure The creature takes full damage.\nCritical Failure The creature takes double negative damage and double persistent bleed damage.\n\n------\n\nHeightened (+1) The negative damage increases by 2d4, and the persistent bleed damage increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

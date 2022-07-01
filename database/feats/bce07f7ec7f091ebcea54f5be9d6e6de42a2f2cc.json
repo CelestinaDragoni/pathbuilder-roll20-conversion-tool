@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2353",
+    "name": "Twist Healing",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 17,
+    "prereq": "Ability To Cast Heal And Harm",
+    "summary": "Your connection to both life and undeath lets you twist the healing power of magic items to suit your own needs and aims.",
+    "description": "Your connection to both life and undeath lets you twist the healing power of magic items to suit your own needs and aims. Whenever you Activate an Item to cast a heal spell, you can invert its energy to produce the effects of an equivalent harm spell instead.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

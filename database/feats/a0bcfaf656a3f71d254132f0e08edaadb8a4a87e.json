@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1731",
+    "name": "Smash from the Air",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 18,
+    "prereq": "Cut From The Air",
+    "summary": "Your expertise enables you to knock away spells.",
+    "description": "Your expertise enables you to knock away spells. You can use Cut from the Air against ranged spell attack rolls.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2931",
+    "name": "Summoner's Call",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Conjuration",
+        "Summoner",
+        "Teleportation"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "In a moment of danger, you call your eidolon to your side.",
+    "description": "In a moment of danger, you call your eidolon to your side. Your eidolon teleports to an open space adjacent to you.\n\nSpecial This feat has the trait matching your eidolon's tradition (arcane, divine, occult, or primal).Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nConjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.Teleportation: Teleportation effects allow you to instantaneously move from one point in space to another. Teleportation does not usually trigger reactions based on movement.",
+    "economy": "reaction",
+    "trigger": "You or your eidolon take damage from a foe or hazard."
+}

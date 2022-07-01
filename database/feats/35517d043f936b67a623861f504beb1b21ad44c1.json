@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3560",
+    "name": "Ravenous Charge",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Open"
+    ],
+    "level": 4,
+    "prereq": "Zombie Dedication",
+    "summary": "Hungry for the flesh of the living, you hurl yourself into the fray, teeth gnashing.",
+    "description": "Hungry for the flesh of the living, you hurl yourself into the fray, teeth gnashing. You Stride. If you end your movement within melee reach of a living creature, you can make an Athletics check to Grapple that creature. If you succeed, you then make a jaws Strike against that creature.Traits\n\nArchetype: This feat belongs to an archetype.\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

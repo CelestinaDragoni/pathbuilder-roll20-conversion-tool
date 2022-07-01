@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=83",
+    "name": "Orc Ferocity",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Fierceness in battle runs through your blood, and you refuse to fall from your injuries.",
+    "description": "Fierceness in battle runs through your blood, and you refuse to fall from your injuries. You avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1.\nOrc Ferocity Leads To...\n\nDefy Death, Ferocious Beasts, Incredible Ferocity, Rampaging Ferocity, Undying FerocityTraitsOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "reaction",
+    "trigger": "You would be reduced to 0 Hit Points but not immediately killed."
+}

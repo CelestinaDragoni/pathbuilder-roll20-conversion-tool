@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1766",
+    "name": "Snare Hopping",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 2,
+    "prereq": "Snare Crafting; Warden Spells",
+    "summary": "You can magically move your snares around.",
+    "description": "You can magically move your snares around. You gain the snare hopping warden spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

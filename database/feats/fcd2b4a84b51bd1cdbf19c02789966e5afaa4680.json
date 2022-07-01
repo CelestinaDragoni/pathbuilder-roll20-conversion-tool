@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=147",
+    "name": "Cleave",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You swing clear through one foe and into another.",
+    "description": "You swing clear through one foe and into another. Make a melee Strike against the second foe.Cleave Leads To...\n\nGreat CleaveTraitsRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "reaction",
+    "trigger": "Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature."
+}

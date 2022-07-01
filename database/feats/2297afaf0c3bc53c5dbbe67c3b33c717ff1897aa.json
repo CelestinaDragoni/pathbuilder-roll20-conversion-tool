@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=453",
+    "name": "Mountain Stronghold",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 6,
+    "prereq": "Mountain Stance",
+    "summary": "You focus on your connection to the earth and call upon the mountain to block attacks against you.",
+    "description": "You focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn.\n\nSpecial If you have this feat, the Dexterity modifier cap to your AC while you’re in Mountain Stance increases from +0 to +1.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Mountain Stronghold Leads To...Mountain Quake",
+    "economy": "1-action",
+    "trigger": ""
+}

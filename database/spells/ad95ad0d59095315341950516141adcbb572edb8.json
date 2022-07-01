@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=113",
+    "name": "Feet to Fins",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Morph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Turn a creature's feet into fins, enabling it swim but slowing it on land.",
+    "heightenable": true,
+    "description": "The target's feet transform into fins, improving mobility in the water but reducing it on land. The target gains a swim Speed equal to its normal land Speed, but its land Speed becomes 5 feet.\n\n------\n\nHeightened (6th) The spell lasts until the next time you make your daily preparations.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1342",
+    "name": "Necromantic Physiology",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your unusual physiology has developed in a way that makes it difficult for parasites and other infestations to prey upon you.",
+    "description": "Your unusual physiology has developed in a way that makes it difficult for parasites and other infestations to prey upon you. You gain a +2 circumstance bonus to saves against diseases.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

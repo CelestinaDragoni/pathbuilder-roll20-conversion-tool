@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2573",
+    "name": "Shaitan Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oread"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "The magic of shaitans runs through your blood.",
+    "description": "The magic of shaitans runs through your blood. You can cast glitterdust and resist energy once per day each as 2nd-level arcane innate spells.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3177",
+    "name": "Bullet Split",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Flourish",
+        "Gunslinger"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You carefully align your weapon with the edge of your blade, splitting the projectile in two as you fire to attack two different targets.",
+    "description": "You carefully align your weapon with the edge of your blade, splitting the projectile in two as you fire to attack two different targets. Make two Strikes, one each against two separate targets. The targets must be adjacent to each other and within your weapon's maximum range. Each of these attacks takes a –2 penalty to the attack roll, but the two count as only one attack when calculating your multiple attack penalty.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

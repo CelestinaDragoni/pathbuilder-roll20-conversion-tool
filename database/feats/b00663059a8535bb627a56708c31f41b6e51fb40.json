@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3523",
+    "name": "Grave Mummification",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Mummy Dedication",
+    "summary": "Exposure to the elements, magic, alchemy, and other phenomena intensified the changes from your mummification.",
+    "description": "Exposure to the elements, magic, alchemy, and other phenomena intensified the changes from your mummification. You gain the advanced undead benefits.\n\n In addition, you gain resistance equal to half your level against any damage you'd take from your bound terrain, including its dangerous temperatures, weather, hazardous terrain, and environmental hazards.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

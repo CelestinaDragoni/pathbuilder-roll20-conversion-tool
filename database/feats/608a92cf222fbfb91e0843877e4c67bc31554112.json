@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2911",
+    "name": "Eidolon's Wrath",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon gains the eidolon's wrath focus spell, which it casts, instead of you.",
+    "description": "Your eidolon gains the eidolon's wrath focus spell, which it casts, instead of you. You determine the damage type when you gain the feat: acid, cold, electricity, fire, negative, positive, or sonic. If your eidolon is a celestial, fiend, or monitor with an alignment other than true neutral, you can choose a damage type in its alignment. Increase the number of Focus Points in your focus pool by 1. As normal, your eidolon shares your Focus Points.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

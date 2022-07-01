@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2560",
+    "name": "Efreeti Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ifrit"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "The magic of your efreeti ancestors flows through you.",
+    "description": "The magic of your efreeti ancestors flows through you. You can cast enlarge and illusory object once per day each as 2nd-level arcane innate spells.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.",
+    "economy": "none",
+    "trigger": ""
+}

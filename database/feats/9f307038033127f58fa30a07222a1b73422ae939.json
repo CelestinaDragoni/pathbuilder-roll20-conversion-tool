@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=167",
+    "name": "Awesome Blow",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Concentrate",
+        "Rage"
+    ],
+    "level": 14,
+    "prereq": "Knockback",
+    "summary": "Your attacks are so powerful, they can flatten your opponents.",
+    "description": "Your attacks are so powerful, they can flatten your opponents. When you use Knockback, you can attempt an Athletics check against your target’s Fortitude DC.\n\nCritical Success You gain the critical success effect of a Shove, then the critical success effect of a Trip against the target.\nSuccess You gain the success effect of a Shove, then the success effect of a Trip against the target.\nFailure You gain the normal effect of Knockback.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "none",
+    "trigger": ""
+}

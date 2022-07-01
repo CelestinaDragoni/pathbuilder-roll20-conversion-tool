@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=961",
+    "name": "Sociable",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Half-Elf"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You’re extremely extroverted, and you often spend your time carousing or otherwise socializing.",
+    "description": "You’re extremely extroverted, and you often spend your time carousing or otherwise socializing. You are trained in Diplomacy (or another skill of your choice if you were already trained in Diplomacy), and you gain the Hobnobber skill feat.Traits\n\nHalf-Elf: A creature with this trait is part human and part elf. An ability with this trait can be used or selected only by half-elves.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=457",
+    "name": "Tempt Fate",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Divination",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You twist the forces of fate to make a moment dire or uneventful, with no in-between.",
+    "heightenable": true,
+    "description": "You twist the forces of fate to make a moment dire or uneventful, with no in-between. The target gains a +1 status bonus to the triggering saving throw. If the saving throw's result is a success, it becomes a critical success. If it's a failure, it becomes a critical failure, and the critical failure can't be reduced by abilities that usually reduce critical failure, such as improved evasion.\n\n If the triggering ability did not have both a critical success and critical failure condition, tempt fate fails, but you don't expend the Focus Point for Casting this Spell.\n\n------\n\nHeightened (8th) The bonus on the saving throw is +2.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "You or an ally within range attempts a saving throw",
+    "range": "120 feet",
+    "target": "the triggering creature",
+    "duration": "",
+    "saving": ""
+}

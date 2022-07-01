@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1763",
+    "name": "Gravity Weapon",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your expertise with your weapons and commitment to taking out your targets lends you magical power.",
+    "description": "Your expertise with your weapons and commitment to taking out your targets lends you magical power. You gain the gravity weapon warden spell and a focus pool of 1 Focus Point.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1837",
+    "name": "Convincing Illusion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Wizard"
+    ],
+    "level": 6,
+    "prereq": "Expert In Deception",
+    "summary": "You use your deceptive skills to make your illusions seem even more real.",
+    "description": "You use your deceptive skills to make your illusions seem even more real. Attempt a Deception check against the target's Perception DC. If you succeed, the target fails to disbelieve the illusion.Traits\n\nIllusion: Effects and magic items with this trait are associated with the illusion school of magic, typically involving false sensory stimuli.",
+    "economy": "reaction",
+    "trigger": "A creature succeeded, but didn't critically succeed, at a Perception check or Will save to disbelieve an illusion from a spell that you cast."
+}

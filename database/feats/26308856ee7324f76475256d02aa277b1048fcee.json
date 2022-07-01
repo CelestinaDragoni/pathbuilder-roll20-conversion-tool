@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1366",
+    "name": "Eternal Wings (Aasimar)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 17,
+    "prereq": "Celestial Wings",
+    "summary": "Your wings are now a permanent part of your body.",
+    "description": "Your wings are now a permanent part of your body. You gain the effects of Celestial Wings at all times, rather than just once per day for 10 minutes.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "none",
+    "trigger": ""
+}

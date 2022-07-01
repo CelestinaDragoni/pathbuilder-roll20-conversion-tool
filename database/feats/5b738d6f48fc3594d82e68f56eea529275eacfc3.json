@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=574",
+    "name": "Nimble Roll",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue",
+        "Swashbuckler"
+    ],
+    "level": 8,
+    "prereq": "Nimble Dodge",
+    "summary": "You throw yourself into a roll to escape imminent danger.",
+    "description": "You throw yourself into a roll to escape imminent danger. You can use Nimble Dodge before attempting a Reflex save in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect.\n\nWhen you use Nimble Dodge and the triggering attack fails or critically fails, or when you succeed or critically succeed at the saving throw, you can also Stride up to 10 feet as part of the reaction. If you do, the reaction gains the move trait. You can use Nimble Roll while Flying or Swimming instead of Striding if you have the corresponding movement type.",
+    "economy": "none",
+    "trigger": ""
+}

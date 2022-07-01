@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3538",
+    "name": "Bone Missile",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Skeleton"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You can remove your ribs to use them as arrows or bolts.",
+    "description": "You can remove your ribs to use them as arrows or bolts. When you draw a rib, you lose 2 HP, and the projectile deals 2 extra negative damage if you Strike with it before the end of your next turn. The HP loss and extra damage both increase to 3 at 12th level and 4 at 19th level. Your rib cage magically replenishes, and any rib you draw crumbles to dust after being used for a Strike or at the end of your next turn, whichever comes first.Traits\n\nSkeleton: This undead is made by animating a dead creature’s skeleton with negative energy.",
+    "economy": "none",
+    "trigger": ""
+}

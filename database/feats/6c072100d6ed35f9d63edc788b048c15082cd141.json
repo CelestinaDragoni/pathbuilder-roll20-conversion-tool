@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=576",
+    "name": "Sidestep",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You deftly step out of the way of an attack, letting the blow continue to the creature next to you.",
+    "description": "You deftly step out of the way of an attack, letting the blow continue to the creature next to you. You redirect the attack to a creature of your choice that is adjacent to you and within the reach of the triggering attack. The attacker rerolls the Strike’s attack roll against the new target.",
+    "economy": "reaction",
+    "trigger": "The attack roll for a Strike targeting you fails or critically fails."
+}

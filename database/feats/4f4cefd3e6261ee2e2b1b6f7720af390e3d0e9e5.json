@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1296",
+    "name": "Pack Rat",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Years of packing for travel have taught you how to cram vast quantities into small spaces.",
+    "description": "Years of packing for travel have taught you how to cram vast quantities into small spaces. You can fit an additional 50% of the listed Bulk capacity into mundane storage containers or vehicles. For example, you can fit 6 Bulk in a backpack, or 12 Bulk in a chest. This doesn't alter the items' Bulk, nor does it change how much you can store in a magical or extradimensional storage space, such as a bag of holding.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

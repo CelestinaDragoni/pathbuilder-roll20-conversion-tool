@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1628",
+    "name": "Furious Vengeance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 16,
+    "prereq": "Fury Instinct",
+    "summary": "Your enemy's blow fuels your rage and provokes your immediate retaliation.",
+    "description": "Your enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "reaction",
+    "trigger": "An enemy within your melee reach critically hits you with a melee Strike."
+}

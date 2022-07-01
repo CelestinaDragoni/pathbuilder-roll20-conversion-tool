@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1224",
+    "name": "Sodbuster",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Shoony"
+    ],
+    "level": 9,
+    "prereq": "Dig Quickly",
+    "summary": "Years toiling in soil have made you an expert digger.",
+    "description": "Years toiling in soil have made you an expert digger. You gain a burrow Speed of 10 feet through loose soil or dirt.Traits\n\nShoony: Note from Nethys: no description was provided for this trait",
+    "economy": "none",
+    "trigger": ""
+}

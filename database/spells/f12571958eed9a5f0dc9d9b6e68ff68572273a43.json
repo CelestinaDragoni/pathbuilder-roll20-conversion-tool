@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=114",
+    "name": "Field of Life",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Create a positive energy field that heals those within.",
+    "heightenable": true,
+    "description": "A field of positive energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any undead creature that starts its turn in the area takes 1d8 positive damage.\n\n------\n\nHeightened (8th) The healing and damage increase to 1d10.\nHeightened (9th) The healing and damage increase to 1d12.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2978",
+    "name": "Harden Flesh",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid",
+        "Earth"
+    ],
+    "level": 10,
+    "prereq": "Stone Order",
+    "summary": "You fortify your skin with minerals drawn from earth and stone.",
+    "description": "You fortify your skin with minerals drawn from earth and stone. You gain resistance 3 to physical damage, except adamantine, until the beginning of your next turn. At 12th level, and every 4 levels thereafter, the resistance increases by 1, to a maximum of resistance 6 at 20th level.Traits\n\nEarth: Effects with the earth trait either manipulate or conjure earth. Those that manipulate earth have no effect in an area without earth. Creatures with this trait consist primarily of earth or have a magical connection to that element. Planes with this trait are mostly solid, with caverns and other hollow pockets.",
+    "economy": "1-action",
+    "trigger": ""
+}

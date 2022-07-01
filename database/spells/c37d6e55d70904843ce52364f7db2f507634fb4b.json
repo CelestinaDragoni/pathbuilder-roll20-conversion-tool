@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=950",
+    "name": "Mirror Malefactors",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Mental",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Mirrors surround a target, and the reflections attack them repeatedly.",
+    "heightenable": true,
+    "description": "You completely surround a Large or smaller creature in a shimmering ring of illusory mirrors that follows it as it moves, even when the creature moves outside the range of the spell. These mirrors reflect the target, though if the target has no reflection, like a vampire, it's unaffected by mirror malefactors. As long as the target is surrounded by mirrors, it's frightened 1, and it can't reduce its frightened value.\n\n When you Cast the Spell, the reflections leap from the mirrors and attack the target, dealing 7d8 mental damage with a basic Will save. On subsequent turns, this effect repeats the first time you Sustain the spell that turn. If the target succeeds at any Will save it attempts against mirror malefactors, the illusory mirrors shatter and the spell ends.\n\n------\n\nHeightened (+1) The damage for both the initial effect and on subsequent turns increases by 1d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "basic Will"
+}

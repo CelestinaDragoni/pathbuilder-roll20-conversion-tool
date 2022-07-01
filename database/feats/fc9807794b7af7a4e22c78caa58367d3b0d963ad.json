@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=475",
+    "name": "Tangled Forest Rake",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "Tangled Forest Stance",
+    "summary": "You reposition foes with raking attacks.",
+    "description": "You reposition foes with raking attacks. Make a lashing branch Strike. If you hit and deal damage, you force the target to move 5 feet into a space within your reach. This follows the forced movement rules.",
+    "economy": "1-action",
+    "trigger": ""
+}

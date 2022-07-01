@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1043",
+    "name": "Undaunted",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your spirit has endured many challenges over its long existence, and you are certain you can overcome whatever hardships life throws your way.",
+    "description": "Your spirit has endured many challenges over its long existence, and you are certain you can overcome whatever hardships life throws your way. You gain a +1 circumstance bonus to saves against emotion effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

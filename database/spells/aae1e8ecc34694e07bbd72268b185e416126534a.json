@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=22",
+    "name": "Bind Undead",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Take control of a mindless undead.",
+    "heightenable": false,
+    "description": "With a word of necromantic power, you seize control of the target. It gains the minion trait. If you or an ally uses any hostile actions against the target, the spell ends.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 mindless undead creature with a level no greater than bind undead's spell level",
+    "duration": "1 day",
+    "saving": ""
+}

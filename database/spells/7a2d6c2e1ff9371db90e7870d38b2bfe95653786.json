@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=766",
+    "name": "Whirling Flames",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cursebound",
+        "Evocation",
+        "Fire",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You call forth a storm of whirling flames, engulfing all creatures in that area and dealing 5d6 fire damage with a basic Reflex save.",
+    "heightenable": true,
+    "description": "You call forth a storm of whirling flames, engulfing all creatures in that area and dealing 5d6 fire damage with a basic Reflex save.\n\n------\n\nHeightened (+2) The damage increases by 3d6, and you can add another nonoverlapping 5-foot burst to the area.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

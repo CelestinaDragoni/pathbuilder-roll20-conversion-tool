@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=522",
+    "name": "Call of the Grave",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Arcane",
+        "Attack",
+        "Necromancy",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You fire a ray of sickening energy.",
+    "heightenable": false,
+    "description": "You fire a ray of sickening energy. Make a spell attack roll.\n\nCritical Success The target becomes sickened 2 and slowed 1 as long as it's sickened.\nSuccess The target becomes sickened 1.\nFailure The target is unaffected.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 living creature",
+    "duration": "",
+    "saving": ""
+}

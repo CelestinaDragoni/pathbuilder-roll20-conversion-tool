@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=224",
+    "name": "Polar Ray",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Cold",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Bitter cold damages and drains a creature.",
+    "heightenable": true,
+    "description": "You fire a blue-white ray of freezing air and sleet that deals 10d8 cold damage. Make a spell attack roll against the target.\n\nCritical Success The target takes double damage and is drained 2.\nSuccess The target takes full damage and is drained 2.\n\n------\n\nHeightened (+1) The damage increases by 2d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

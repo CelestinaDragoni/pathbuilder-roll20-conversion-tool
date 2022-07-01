@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1036",
+    "name": "Hobgoblin Weapon Expertise",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 13,
+    "prereq": "Hobgoblin Weapon Familiarity",
+    "summary": "You increase your training in battlefield weapons.",
+    "description": "You increase your training in battlefield weapons. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all weapons you are trained in from Hobgoblin Weapon Familiarity.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

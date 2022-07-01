@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2915",
+    "name": "Tandem Strike",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner",
+        "Tandem"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You and your eidolon each attack, seamlessly targeting the same foe without interfering with each other's movements.",
+    "description": "You and your eidolon each attack, seamlessly targeting the same foe without interfering with each other's movements. Your eidolon makes a melee Strike, and then you make a melee Strike against the same creature. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after both attacks have been made.Traits\n\nTandem: Actions with this trait involve you and your eidolon acting in concert. You can't use a tandem action if either you or your eidolon can't act, if you haven't Manifested your Eidolon, or if you've Manifested your Eidolon in a way where it isn't a separate entity (such as with the Meld into Eidolon feat). Tandem actions often let both you and your eidolon take separate actions, but these must be actions taken separately by you and your eidolon; you can't use a tandem action to take another tandem action.",
+    "economy": "2-action",
+    "trigger": ""
+}

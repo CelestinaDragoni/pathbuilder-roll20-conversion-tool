@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1042",
+    "name": "Shadow of the Wilds",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "It’s difficult to notice your passage through wild areas.",
+    "description": "It’s difficult to notice your passage through wild areas. As long as you’re not in an urban environment, you’re always considered to be Covering Tracks, even if you chose a different activity in exploration mode.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

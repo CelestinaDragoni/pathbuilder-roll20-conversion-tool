@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2822",
+    "name": "Grippli Glide",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 5,
+    "prereq": "Windweb Grippli Heritage",
+    "summary": "You can use your webbed feet to guide your fall.",
+    "description": "You can use your webbed feet to guide your fall. You glide slowly toward the ground, 5 feet down (10 feet if you don't have both hands free) and up to 25 feet forward through the air. As long as you spend at least 1 action gliding each round and have not yet reached the ground, you remain in the air at the end of your turn.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "1-action",
+    "trigger": ""
+}

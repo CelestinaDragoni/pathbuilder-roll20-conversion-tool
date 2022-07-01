@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2484",
+    "name": "Ancillary Motes",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aphorite"
+    ],
+    "level": 9,
+    "prereq": "Crystalline Dust",
+    "summary": "You can use Crystalline Dust one more time per day.",
+    "description": "You can use Crystalline Dust one more time per day.\n\nSpecial You can take this feat more than once, gaining one more use of Crystalline Dust per day each time.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
+    "economy": "none",
+    "trigger": ""
+}

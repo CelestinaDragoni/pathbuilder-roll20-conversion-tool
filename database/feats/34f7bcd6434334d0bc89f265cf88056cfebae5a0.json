@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2855",
+    "name": "Emergency Targe",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 4,
+    "prereq": "Sparkling Targe Hybrid Study",
+    "summary": "You immediately Raise a Shield or cast shield.",
+    "description": "You immediately Raise a Shield or cast shield. The circumstance bonus applies to your defenses when determining the outcome of the triggering attack or spell.",
+    "economy": "reaction",
+    "trigger": "An enemy hits you with a melee Strike or a melee spell attack roll, or you fail a save against an enemy's spell."
+}

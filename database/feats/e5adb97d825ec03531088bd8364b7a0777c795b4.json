@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3141",
+    "name": "Express Driver",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Exploration",
+        "Skill"
+    ],
+    "level": 2,
+    "prereq": "Trick Driver Dedication",
+    "summary": "You can optimize your vehicle's performance, coaxing extra speed and choosing paths to avoid slowdowns.",
+    "description": "You can optimize your vehicle's performance, coaxing extra speed and choosing paths to avoid slowdowns. When calculating your travel speed for the day while piloting a vehicle, you can attempt a Driving Lore check to increase your vehicle's travel speed. The DC is determined by the GM but is typically based on the vehicle's piloting DC or a difficulty based on the environment, whichever is harder. On a success, increase your vehicle's travel speed by half. This has no effect on your vehicle's movement in encounters.Traits\n\nArchetype: This feat belongs to an archetype.\n\nExploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

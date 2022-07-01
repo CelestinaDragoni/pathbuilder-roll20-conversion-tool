@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2738",
+    "name": "Silent Sting",
+    "source": "Pathfinder #167",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Golden League Xun Dedication; Expert In Stealth",
+    "summary": "You quickly hide your weapon to make it difficult to pin the attack on you.",
+    "description": "You quickly hide your weapon to make it difficult to pin the attack on you. You attempt to Conceal an Object to hide the triggering weapon. Your Stealth check is compared to the Perception DC of all creatures within 30 feet that can see you. You automatically succeed against creatures farther than 30 feet. The target of your Strike gains a +4 circumstance bonus to their Perception DC for this check. If your Stealth check is a success, you hide your weapon so well that the creature can't clearly determine where the attack originated.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "You make a Strike with a weapon of light bulk."
+}

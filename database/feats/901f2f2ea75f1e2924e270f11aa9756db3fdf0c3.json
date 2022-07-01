@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=143",
+    "name": "Wounded Rage",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You roar in pain, awakening the rage within you.",
+    "description": "You roar in pain, awakening the rage within you. You Rage.",
+    "economy": "reaction",
+    "trigger": "You take damage and are capable of entering a rage."
+}

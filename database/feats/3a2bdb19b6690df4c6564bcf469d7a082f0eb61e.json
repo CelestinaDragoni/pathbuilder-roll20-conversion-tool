@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2960",
+    "name": "Signature Synergy",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Advanced Synergy",
+    "summary": "Your eidolon gains an evolution integral to its form, and it comes more easily than your other synergies.",
+    "description": "Your eidolon gains an evolution integral to its form, and it comes more easily than your other synergies. You gain one evolution feat from the following list: Airborne Form, Burrowing Form, Ever-Vigilant Senses, or Hulking Size. For the purpose of meeting its prerequisites, your summoner level is equal to your character level – 4.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

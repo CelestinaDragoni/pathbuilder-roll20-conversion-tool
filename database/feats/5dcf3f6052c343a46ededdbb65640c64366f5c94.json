@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1306",
+    "name": "Big Mouth",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 9,
+    "prereq": "Cheek Pouches",
+    "summary": "Your cheek pouches are especially stretchy.",
+    "description": "Your cheek pouches are especially stretchy. Instead of storing up to four items of Light Bulk in your cheek pouches, you can store up to 1 Bulk worth of items. The maximum size of a given item is unchanged.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

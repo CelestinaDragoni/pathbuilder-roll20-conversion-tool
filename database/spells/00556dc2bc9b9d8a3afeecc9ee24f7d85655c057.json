@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=227",
+    "name": "Power Word Kill",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Auditory",
+        "Death",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "Utter a word that slays a creature.",
+    "heightenable": true,
+    "description": "You utter the most powerful arcane word of power. Once targeted, the target is then temporarily immune for 10 minutes. The effect of the spell depends on the target's level. \n\n14th or Lower The target dies instantly. \n15th If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes dying 1, or increases its dying condition by 1 if it's already dying. \n16th or Higher The target takes 50 damage; if this brings the target to 0 Hit Points, the target dies instantly.\n\n------\n\nHeightened (10th) The levels at which each outcome applies increase by 2.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": ""
+}

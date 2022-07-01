@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=499",
+    "name": "Dragon Breath",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You spew draconic energy from your mouth.",
+    "heightenable": true,
+    "description": "You spew energy from your mouth, dealing 5d6 damage. The area, damage type, and save depend on the dragon type in your bloodline.Dragon Breath Dragon TypeArea and Damage TypeSaving Throw Black, brine*, or copper60-foot line of acidReflex Blue or bronze60-foot line of electricityReflex Brass60-foot line of fireReflex Cloud*30-foot cone of electricityReflex Crystal* or forest*30-foot cone of piercingReflex Green30-foot cone of poisonFortitude Gold, magma*, or red30-foot cone of fireReflex Sea*10-foot burst within 30 feet of bludgeoningReflex Silver or white30-foot cone of coldReflex Sky*10-foot burst within 30 feet of electricityReflex Sovereign*30-foot cone of mentalWill Umbral*30-foot cone of negativeReflex Underworld*10-foot burst within 30 feet of fireReflex  *Source Mwangi Expanse pg. 76\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

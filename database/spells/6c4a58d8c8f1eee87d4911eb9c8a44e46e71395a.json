@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=580",
+    "name": "Liberating Command",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You call out a liberating cry, urging an ally to break free of an effect that holds them in place.",
+    "heightenable": false,
+    "description": "You call out a liberating cry, urging an ally to break free of an effect that holds them in place. If the target is grabbed, immobilized, or restrained, it can immediately use a reaction to attempt to Escape.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

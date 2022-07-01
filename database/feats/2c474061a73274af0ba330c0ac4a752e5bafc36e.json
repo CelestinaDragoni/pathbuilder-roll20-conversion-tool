@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2376",
+    "name": "War Conditioning",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You have extensive training in remote environments, allowing you to move through these areas easily.",
+    "description": "You have extensive training in remote environments, allowing you to move through these areas easily. When you gain this feat, you can choose to gain either a climb Speed of 20 feet or a swim Speed of 20 feet.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

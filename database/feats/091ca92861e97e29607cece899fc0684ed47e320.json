@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3401",
+    "name": "Submission Hold",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Wrestler Dedication",
+    "summary": "Your iron grip slowly saps your opponent's strength.",
+    "description": "Your iron grip slowly saps your opponent's strength. Attempt an Athletics check to Grapple the creature you have grabbed or restrained, with the following effects instead of the usual effects.\n\nCritical Success The target is enfeebled 2 until the end of its next turn and enfeebled 1 for 1 minute.\nSuccess The target is enfeebled 1 until the end of its next turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

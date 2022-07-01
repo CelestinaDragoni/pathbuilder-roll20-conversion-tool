@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=238",
+    "name": "Imposing Destrier",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 10,
+    "prereq": "Divine Ally (Steed); Loyal Warhorse",
+    "summary": "Under your care, your mount has realized its innate potential.",
+    "description": "Under your care, your mount has realized its innate potential. The mount you gained through the divine ally class feature is now a nimble or savage animal companion. During an encounter, even if you don't use the Command an Animal action, your mount can still use 1 action on your turn to Stride or Strike.Imposing Destrier Leads To...\n\nAuspicious Mount",
+    "economy": "none",
+    "trigger": ""
+}

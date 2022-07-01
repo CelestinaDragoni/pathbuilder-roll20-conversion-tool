@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=195",
+    "name": "Mindlink",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Mentally impart 10 minutes' worth of information in an instant.",
+    "heightenable": false,
+    "description": "You link your mind to the target's mind and mentally impart to that target an amount of information in an instant that could otherwise be communicated in 10 minutes.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "",
+    "saving": ""
+}

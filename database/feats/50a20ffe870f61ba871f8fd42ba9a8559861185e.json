@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1777",
+    "name": "Warden's Wellspring",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 18,
+    "prereq": "Warden's Focus",
+    "summary": "You command unparalleled focus when you commune with the world around you.",
+    "description": "You command unparalleled focus when you commune with the world around you. If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.",
+    "economy": "none",
+    "trigger": ""
+}

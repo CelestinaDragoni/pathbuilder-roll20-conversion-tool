@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2024",
+    "name": "Shoving Sweep",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Mauler Dedication; Expert In Athletics",
+    "summary": "You swing your weapon at your foe, rebuffing them back.",
+    "description": "You swing your weapon at your foe, rebuffing them back. You attempt to Shove the triggering creature, ignoring the requirement that you have a hand free. The creature continues its movement after the Shove.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature within your reach leaves a square during a move action it's using."
+}

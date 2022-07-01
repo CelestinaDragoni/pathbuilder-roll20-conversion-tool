@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=518",
+    "name": "Undeath's Blessing",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Necromancy",
+        "Negative",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You instill within a creature the touch of the grave.",
+    "heightenable": true,
+    "description": "You instill within a creature the touch of the grave. For the duration, harm spells treat the creature as undead and heal spells treat the creature as living. In addition, harm spells gain a +2 status bonus to the Hit Points restored to the target.\n\nIf the target wishes to avoid the spell, it can attempt a Will save to reduce the effects.\n\nCritical Success The target is unaffected.\nSuccess The target heals half as much from heal and takes half as much damage from harm for 1 round.\nFailure Effects as described in the text.\n\n------\n\nHeightened (+1) The status bonus to the Hit Points restored increases by 2.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living creature touched",
+    "duration": "1 minute",
+    "saving": "Will"
+}

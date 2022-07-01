@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1651",
+    "name": "Symphony of the Unfettered Heart",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You learn the symphony of the unfettered heart composition spell, which enables you to protect an ally against incapacitating conditions.",
+    "description": "You learn the symphony of the unfettered heart composition spell, which enables you to protect an ally against incapacitating conditions.",
+    "economy": "none",
+    "trigger": ""
+}

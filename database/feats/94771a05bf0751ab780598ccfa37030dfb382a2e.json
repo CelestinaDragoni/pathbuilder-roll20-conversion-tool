@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2351",
+    "name": "Slip into Shadow",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 9,
+    "prereq": "Ability To Cast At Least One Spell With The Darkness Trait",
+    "summary": "Your shadow magic bleeds into the space around you.",
+    "description": "Your shadow magic bleeds into the space around you. Whenever you cast a spell with the darkness trait, a lingering aura of shadows reduces bright light within a 5-foot emanation around you to dim light until the end of your turn. Like in natural dim light, you can use these shadows to Hide, but the aura still makes your overall position obvious, so you can't become undetected through the use of these shadows alone.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

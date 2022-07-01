@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3355",
+    "name": "Squirm Free",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You're used to slipping out of a bigger creature's grasp or escaping a child's overly enthusiastic hug.",
+    "description": "You're used to slipping out of a bigger creature's grasp or escaping a child's overly enthusiastic hug. You attempt to Escape.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "reaction",
+    "trigger": "A creature grabs, immobilizes, or restrains you."
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=61",
+    "name": "Daze",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Enchantment",
+        "Mental",
+        "Nonlethal"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Damage a creature's mind and possibly stun it.",
+    "heightenable": true,
+    "description": "You cloud the target's mind and daze it with a mental jolt. The jolt deals mental damage equal to your spellcasting ability modifier; the target must attempt a basic Will save. If the target critically fails the save, it is also stunned 1.\n\n------\n\nHeightened (+2) The damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "1 round",
+    "saving": "Will"
+}

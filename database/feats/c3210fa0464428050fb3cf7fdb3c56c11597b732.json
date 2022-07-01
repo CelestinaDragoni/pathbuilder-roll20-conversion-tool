@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2942",
+    "name": "Eternal Boost",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "Your link with your eidolon is so intense that you continuously reinforce its abilities.",
+    "description": "Your link with your eidolon is so intense that you continuously reinforce its abilities. You are permanently quickened; you can use your extra action only to cast boost eidolon or reinforce eidolon. While in exploration mode, you can declare that you are also continually casting boost eidolon or reinforce eidolon even while using a different exploration activity. If you do, even before your first turn in a combat encounter, that cantrip is active as if you had cast it on your previous turn.",
+    "economy": "none",
+    "trigger": ""
+}

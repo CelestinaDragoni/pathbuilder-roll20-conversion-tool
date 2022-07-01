@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1660",
+    "name": "All in my Head",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard",
+        "Illusion",
+        "Mental"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "Using your occult connections and incredible powers of persuasion, you convince yourself that the triggering damage is a figment of your imagination.",
+    "description": "Using your occult connections and incredible powers of persuasion, you convince yourself that the triggering damage is a figment of your imagination. The damage changes from its usual damage type to mental damage, and the damaging effect gains the nonlethal trait. You can't use this reaction if you are immune to mental effects or mental damage.Traits\n\nIllusion: Effects and magic items with this trait are associated with the illusion school of magic, typically involving false sensory stimuli.\n\nMental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "reaction",
+    "trigger": "You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as disintegrate)."
+}

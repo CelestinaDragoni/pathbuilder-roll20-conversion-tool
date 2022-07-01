@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=672",
+    "name": "Blinding Fury",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Curse",
+        "Emotion",
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Curse a creature that attacks you, making its victims become invisible to it.",
+    "heightenable": false,
+    "description": "You curse the target with your outrage at being attacked. The effect is determined by the target's Will save.\n\nCritical Success The target is unaffected.\nSuccess The target can't observe you until the end of its turn, and if you're currently observed by it, you become hidden to it.\nFailure As success, and for 1 minute, every time the target damages you, it can't observe you until the end of its turn.\nCritical Failure As success, and for an unlimited duration, the first time each round the target damages a creature, it can't observe that creature until the end of its turn. If it damages several creatures at once, the creature it can't perceive is chosen randomly among those creatures.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "A creature damages you.",
+    "range": "60 feet",
+    "target": "the triggering creature",
+    "duration": "varies",
+    "saving": "Will"
+}

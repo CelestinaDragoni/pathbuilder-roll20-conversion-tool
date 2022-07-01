@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2890",
+    "name": "Extend Boost",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You can increase the duration of your eidolon's boosts.",
+    "description": "You can increase the duration of your eidolon's boosts. You learn the extend boost link spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

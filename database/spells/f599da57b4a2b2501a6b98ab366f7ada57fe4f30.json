@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=441",
+    "name": "Protector's Sacrifice",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You protect your ally by suffering in their stead.",
+    "heightenable": true,
+    "description": "You protect your ally by suffering in their stead. Reduce the damage the triggering ally would take by 3. You redirect this damage to yourself, but your immunities, weaknesses, resistances and so on do not apply.\n\n You aren't subject to any conditions or other effects of whatever damaged your ally (such as poison from a venomous bite). Your ally is still subject to those effects even if you redirect all of the triggering damage to yourself.\n\n------\n\nHeightened (+1) The damage you redirect increases by 3.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "An ally within 30 feet takes damage.",
+    "range": "30 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

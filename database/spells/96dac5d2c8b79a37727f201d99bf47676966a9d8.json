@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=588",
+    "name": "Show the Way",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Detection",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "You and affected allies gain preternatural knowledge of the path ahead, allowing you to intuit the best way forward and avoid potential obstacles.",
+    "heightenable": true,
+    "description": "You and affected allies gain preternatural knowledge of the path ahead, allowing you to intuit the best way forward and avoid potential obstacles such as difficult or confusing terrain. For the purpose of long-distance overland travel during exploration mode, traveling through difficult terrain reduces you to only three-quarters your travel Speed instead of half, and traveling through greater difficult terrain reduces your travel Speed to only half your travel Speed instead of one-third. Show the way does not prevent you from falling into traps or encountering other artificial obstacles and hazards.\n\n------\n\nHeightened (6th) For the purpose of long-distance overland travel during exploration mode, traveling through difficult terrain doesn’t reduce your travel Speed at all, and traveling through greater difficult terrain reduces your travel Speed to only three-quarters of its normal value instead of one-third.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "you and allies in the area",
+    "duration": "8 hours",
+    "saving": ""
+}

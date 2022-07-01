@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=820",
+    "name": "Admonishing Ray",
+    "source": "Pathfinder #158",
+    "traditions": [
+        "Arcane",
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Necromancy",
+        "Nonlethal"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "A ray of energy bludgeons your target into submission without causing lasting harm.",
+    "heightenable": true,
+    "description": "A ray of energy bludgeons your target into submission without causing lasting harm. When you cast this spell, you choose whether the ray feels like a strong punch or slap. Make a spell attack roll. The ray deals 2d6 bludgeoning damage.\n\n\nCritical Success The target takes double damage.\nSuccess The target takes full damage.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=443",
+    "name": "Deflect Arrow",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "Your reflexes allow you to deflect ranged attacks.",
+    "description": "You gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, you have deflected it. You cannot use this feat to deflect unusually massive ranged projectiles (such as boulders or ballista bolts).Deflect Arrow Leads To...\n\nArrow Snatching , Return Fire",
+    "economy": "reaction",
+    "trigger": "You are the target of a physical ranged attack."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2957",
+    "name": "Basic Summoner Spellcasting",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Summoner Dedication",
+    "summary": "You gain the basic bounded spellcasting benefits.",
+    "description": "You gain the basic bounded spellcasting benefits. You gain the Cast a Spell activity. Your key spellcasting ability for summoner archetype spells is Charisma, and they are summoner spells of your eidolon's tradition. You become trained in spell attack rolls and spell DCs of that tradition. You gain a spell repertoire and two cantrips. Each time you gain a spell slot of a new level from the summoner archetype, add a spell of that level or lower to your repertoire. Each time you lose spell slots of a particular level, remove those spells from your repertoire.Basic Summoner Spellcasting Leads To...\n\nExpert Summoner SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

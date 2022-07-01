@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1750",
+    "name": "Dodging Roll",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 12,
+    "prereq": "Master In Acrobatics",
+    "summary": "You dodge a blow at the last possible moment.",
+    "description": "You dodge a blow at the last possible moment. You Step and gain resistance to all damage equal to your level against the triggering effect. If your Step moves you out of the triggering effect's area, this resistance is instead equal to your level plus your Dexterity modifier.",
+    "economy": "reaction",
+    "trigger": "You take damage from an area effect that allows a Reflex save."
+}

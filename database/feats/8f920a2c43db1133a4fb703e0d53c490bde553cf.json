@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2342",
+    "name": "Adhyabhau",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir",
+        "Lineage"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You descend from the rare psychic vampires known as vetalaranas.",
+    "description": "You descend from the rare psychic vampires known as vetalaranas. Your forebear gained sustenance from the mental and emotional energy of living creatures, which manifests in you as powerful resistance to such effects. You gain a +1 circumstance bonus to Will saves against effects with the emotion trait, and when you roll a success on a saving throw against such an effect, you get a critical success instead.Adhyabhau Leads To...\n\nFeed on PainTraitsDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.\n\nLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.",
+    "economy": "none",
+    "trigger": ""
+}

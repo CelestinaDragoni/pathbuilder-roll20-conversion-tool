@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=118",
+    "name": "Fire Shield",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Flames protect you from cold and harm those that touch you.",
+    "heightenable": true,
+    "description": "You wreathe yourself in ghostly flames, gaining cold resistance 5. Additionally, adjacent creatures that hit you with a melee attack, as well as creatures that touch you or hit you with an unarmed attack, take 2d6 fire damage each time they do.\n\n------\n\nHeightened (+2) The cold resistance increases by 5, and the fire damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

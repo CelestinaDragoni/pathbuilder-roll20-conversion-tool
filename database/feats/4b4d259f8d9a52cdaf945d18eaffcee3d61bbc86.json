@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2825",
+    "name": "Tenacious Net",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Escaping your nets is no simple task.",
+    "description": "Escaping your nets is no simple task. The Athletics DC to Force Open or Escape your nets increases from 16 to 18. After a creature you grabbed with a net Escapes or Forces Open the net, stray strands of the net cling to the creature, causing them to remain flat-footed until the beginning of their next turn.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

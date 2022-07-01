@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2170",
+    "name": "Medical Researcher",
+    "source": "Legends",
+    "rarity": "Rare",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 1,
+    "prereq": "Trained In Medicine",
+    "summary": "Kassi has taught you not only how to apply medicines with your medical skills but how to craft them as well.",
+    "description": "Kassi has taught you not only how to apply medicines with your medical skills but how to craft them as well. When you Craft healer's kits, vaccines, addiction suppressants, antidotes, antiplagues, elixirs of life, or other non-magical medical or healing items, you can use Medicine instead of Crafting.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nRare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.Kassi's TechniquesSource Legends pg. 71\nWhile Kassi shares her greatest discoveries with the entire medical community, some of her techniques are either still experimental or extremely difficult to perform. Any students who Kassi takes on gain access to her techniques.\n\nRelated Feats: Paragon Battle Medicine",
+    "economy": "none",
+    "trigger": ""
+}

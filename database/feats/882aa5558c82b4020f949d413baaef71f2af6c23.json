@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1739",
+    "name": "Peafowl Stance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk",
+        "Stance"
+    ],
+    "level": 4,
+    "prereq": "Monastic Weaponry",
+    "summary": "You enter a tall and proud stance while remaining mobile, with all the grace and composure of a peafowl.",
+    "description": "You enter a tall and proud stance while remaining mobile, with all the grace and composure of a peafowl. While in this stance, the only Strikes you can make are melee Strikes with the required sword. Once per round, after you hit with a monk sword Strike, you can Step as a free action as your next action.Peafowl Stance Leads To...\n\nPeafowl StrutTraitsStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=235",
+    "name": "Second Ally",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 8,
+    "prereq": "Divine Ally",
+    "summary": "Your inner grace attracts the attention of a second protective spirit.",
+    "description": "Your inner grace attracts the attention of a second protective spirit. Choose a second type of divine ally and gain its benefits.",
+    "economy": "none",
+    "trigger": ""
+}

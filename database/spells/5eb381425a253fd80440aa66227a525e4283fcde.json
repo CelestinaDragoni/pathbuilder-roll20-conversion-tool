@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=748",
+    "name": "Call to Arms",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Auditory",
+        "Cursebound",
+        "Emotion",
+        "Enchantment",
+        "Mental",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You cry out a call to arms, inspiring your allies to enter the fray.",
+    "heightenable": true,
+    "description": "You cry out a call to arms, inspiring your allies to enter the fray. Each ally in the area gains a +2 status bonus to their initiative roll and gains temporary Hit Points equal to the spell's level; these temporary Hit Points last for the spell's duration.\n\n------\n\nHeightened (6th) The bonus increases to +3.\nHeightened (9th) The bonus increases to +4.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "You are about to roll for initiative.",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

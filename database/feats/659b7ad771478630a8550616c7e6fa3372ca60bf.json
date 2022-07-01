@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2274",
+    "name": "Discerning Strike",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Pathfinder Agent Dedication; Thorough Reports",
+    "summary": "Identifying a creature is the first step in finding its weaknesses.",
+    "description": "Identifying a creature is the first step in finding its weaknesses. Attempt a Strike against the target; if successful, you deal an additional 1d6 precision damage. If you have succeeded on a Recall Knowledge check against the target during this combat and their creature type was previously recorded using Thorough Reports, you also deal 1 point of persistent bleed damage. The creature is then temporarily immune to Discerning Strike for 1 day.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSwords TrainingSource PFS Guide pg. 119\nMarcos Farabellus (Lost Omens Pathfinder Society Guide page 50) is a talented swordsman and likely the most beloved of the Society's three deans. In addition to teaching his students about the dangers of exploring ruins through energetic and performative lectures, Farabellus also teaches his favorite students a few of the martial techniques he's developed over his illustrious career. The Farabellus Flip is a class feat for barbarians, fighters, or rangers. When you select the feat, it loses the traits from the other classes.\n\nRelated Feats: Farabellus Flip",
+    "economy": "1-action",
+    "trigger": ""
+}

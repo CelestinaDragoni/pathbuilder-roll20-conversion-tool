@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=591",
+    "name": "Blank Slate",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 16,
+    "prereq": "Legendary In Deception",
+    "summary": "Your deceptions confound even the most powerful mortal divinations.",
+    "description": "Your deceptions confound even the most powerful mortal divinations. Detection, revelation, and scrying effects pass right over you, your possessions, and your auras, detecting nothing unless the detecting effect has a counteract level of 10 or higher. For example, detect magic would still detect other magic in the area but not any magic on you, true seeing wouldn't reveal you, locate or scrying wouldn't find you, and so on.",
+    "economy": "none",
+    "trigger": ""
+}

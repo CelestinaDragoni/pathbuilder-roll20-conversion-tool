@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2869",
+    "name": "Dazzling Block",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Light",
+        "Magus",
+        "Visual"
+    ],
+    "level": 10,
+    "prereq": "Arcane Cascade, Sparkling Targe Hybrid Study",
+    "summary": "When you use Shield Block, you can create a flash of brilliant, multicolored light in a 15-foot cone.",
+    "description": "When you use Shield Block, you can create a flash of brilliant, multicolored light in a 15-foot cone. Each creature in the area must attempt a Fortitude save, with the following effects.\n\nCritical Success The creature is unaffected.\nSuccess The creature is dazzled for 1 round.\nFailure The creature is blinded for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end this blinded condition.\nCritical Failure The creature is blinded for 1 round and dazzled for 1 hour.Traits\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.\n\nLight: Light effects overcome non-magical darkness in the area, and can counteract magical darkness. You must usually target darkness magic with your light magic directly to counteract the darkness, but some light spells automatically attempt to counteract darkness.Visual: A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.",
+    "economy": "none",
+    "trigger": ""
+}

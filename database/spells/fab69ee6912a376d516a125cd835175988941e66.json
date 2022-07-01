@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=417",
+    "name": "Downpour",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Evocation",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You call forth a torrential downpour, which extinguishes non-magical flames.",
+    "heightenable": true,
+    "description": "You call forth a torrential downpour, which extinguishes nonmagical flames. Creatures in the area are concealed and gain fire resistance 10. Creatures outside the area are concealed to those inside the area. Creatures with weakness to water that end their turns in the area take damage equal to their weakness.\n\n------\n\nHeightened (+1) The fire resistance increases by 2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

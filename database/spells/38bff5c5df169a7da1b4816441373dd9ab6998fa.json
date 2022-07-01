@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=991",
+    "name": "Schadenfreude",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "React to your critical failure to distract foes with their exultation.",
+    "heightenable": false,
+    "description": "You distract your enemy with their feeling of smug pleasure when you fail catastrophically. They must attempt a Will save.\n\nCritical Success The creature is unaffected.\nSuccess The creature is distracted by its amusement and takes a –1 status penalty on Perception checks and Will saves for 1 round.\nFailure The creature is overcome by its amusement and is stupefied 1 for 1 round.\nCritical Failure The creature is lost in its amusement and is stupefied 2 for 1 round and stunned 1.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "You critically fail a saving throw against a foe's effect",
+    "range": "30 feet",
+    "target": "the triggering foe",
+    "duration": "",
+    "saving": ""
+}

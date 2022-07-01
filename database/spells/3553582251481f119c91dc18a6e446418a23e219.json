@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=440",
+    "name": "Precious Metals",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Your deity blesses base metals to transform them into precious materials.",
+    "heightenable": true,
+    "description": "Your deity blesses base metals to transform them into precious materials. The target item transforms from its normal metal into cold iron, copper, gold, iron, silver, or steel. An item transmuted in this way deals damage according to its new material. For example, a steel sword transmuted to cold iron would deal additional damage to a creature with a weakness to cold iron.\n\n This change is clearly magical and temporary, so the item's monetary value doesn't change; you couldn't transmute copper coins to gold and use those coins to purchase something or as a cost for a spell.\n\n------\n\nHeightened (8th) Add adamantine and mithral to the list of metals you can transform the item into.",
+    "economy": "1-action",
+    "components": [
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 metal weapon, up to 10 pieces of metal or metal-tipped ammunition, 1 suit of metal armor, or up to 1 bulk of metal material (such as coins)",
+    "duration": "1 minute",
+    "saving": ""
+}

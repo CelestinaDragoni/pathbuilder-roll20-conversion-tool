@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2188",
+    "name": "Vacate Vision",
+    "source": "The Slithering",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Oozemorph Dedication",
+    "summary": "You cause your eyes to liquefy and run out of your eye sockets, leaving them empty.",
+    "description": "You cause your eyes to liquefy and run out of your eye sockets, leaving them empty. You get a success on the save against the triggering effect, but you are blinded for the duration the effect would have had on a failure. At that time, your eyes regrow and your normal vision returns.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "You fail (but don't critically fail) a saving throw against an effect with the visual trait."
+}

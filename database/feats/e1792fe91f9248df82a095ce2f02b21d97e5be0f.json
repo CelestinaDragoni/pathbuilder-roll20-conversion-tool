@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2850",
+    "name": "Force Fang",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 2,
+    "prereq": "Focus Pool",
+    "summary": "You can turn your attack into an unerring blur of force.",
+    "description": "You can turn your attack into an unerring blur of force. You learn the force fang conflux spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

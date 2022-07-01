@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=636",
+    "name": "Hand of the Apprentice",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Wizard"
+    ],
+    "level": 1,
+    "prereq": "Universalist Wizard",
+    "summary": "You can magically hurl your weapon at your foe.",
+    "description": "You can magically hurl your weapon at your foe. You gain the hand of the apprentice universalist spell. Universalist spells are a type of focus spell, much like school spells. You start with a focus pool of 1 Focus Point. See here for more information about focus spells.Hand of the Apprentice Leads To...\n\nUniversal Versatility",
+    "economy": "none",
+    "trigger": ""
+}

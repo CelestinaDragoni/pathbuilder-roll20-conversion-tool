@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1523",
+    "name": "Charmed Life",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 2,
+    "prereq": "Charisma 14",
+    "summary": "When danger calls, you have a strange knack for coming out on top.",
+    "description": "When danger calls, you have a strange knack for coming out on top. You gain a +2 circumstance bonus to the triggering save.Charmed Life Leads To...\n\nIncredible Luck",
+    "economy": "reaction",
+    "trigger": "You attempt a saving throw, but you haven't rolled yet."
+}

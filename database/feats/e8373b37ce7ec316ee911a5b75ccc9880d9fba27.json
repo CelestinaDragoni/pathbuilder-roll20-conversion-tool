@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2651",
+    "name": "Thrown Voice",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Strix"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You've learned how to throw your voice through the winds, tricking others as to your location.",
+    "description": "You've learned how to throw your voice through the winds, tricking others as to your location. You can cast ventriloquism as a primal innate spell once per day. If you're a songbird strix, you can cast it twice per day instead.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "none",
+    "trigger": ""
+}

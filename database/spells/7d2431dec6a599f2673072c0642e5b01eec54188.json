@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=565",
+    "name": "Acidic Burst",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Acid",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You create a shell of acid around yourself that immediately bursts outward.",
+    "heightenable": true,
+    "description": "You create a shell of acid around yourself that immediately bursts outward, dealing 2d6 acid damage to each creature in the area.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

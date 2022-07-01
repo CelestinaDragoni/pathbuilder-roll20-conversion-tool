@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1476",
+    "name": "Didactic Strike",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 16,
+    "prereq": "Shared Stratagem",
+    "summary": "When you find a glaring weakness, you can set your allies up to annihilate your foe.",
+    "description": "When you find a glaring weakness, you can set your allies up to annihilate your foe. When you use Shared Stratagem, you can designate up to 10 allies instead of just one. The foe is flat-footed against the first attack from each designated ally before your next turn, and each ally's first attack deals an extra 2d6 precision damage to the target if it hits.",
+    "economy": "none",
+    "trigger": ""
+}

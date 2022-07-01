@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1385",
+    "name": "Malicious Bane",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Whether your heart is pure or corrupt, you can call forth a malediction upon your foes.",
+    "description": "Whether your heart is pure or corrupt, you can call forth a malediction upon your foes. You can cast bane once per day as a 1st-level divine innate spell.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

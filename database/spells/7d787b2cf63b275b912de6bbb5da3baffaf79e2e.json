@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=790",
+    "name": "Wish-Twisted Form",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Sorcerer",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You focus your magic upon an enemy, wishing for their defenses to fail and turning their strengths into weaknesses.",
+    "heightenable": true,
+    "description": "You focus your magic upon an enemy, wishing for their defenses to fail and turning their strengths into weaknesses. The target must attempt one Will saving throw for all of the following effects. The target gains weakness 5 to one energy type of your choice.The target's resistances are reduced by 5.The target takes a –10-foot status penalty to all its Speeds.The target takes a –1 status penalty to its saving throws.\n\nCritical Success The target is unaffected.\nSuccess The target takes the penalties for 1 round.\nFailure The target takes the penalties for 1 minute.\nCritical Failure As failure, and the target takes a –1 status penalty to AC for the duration.\n\n------\n\nHeightened (+1) Increase the weakness and the reduction to resistances by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

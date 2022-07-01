@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1036",
+    "name": "Cascade Countermeasure",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Magus"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You quickly adjust your Arcane Cascade to offer magical protection.",
+    "heightenable": true,
+    "description": "You quickly adjust your Arcane Cascade to offer magical protection. You gain resistance 5 against damage from spells. As normal, using Arcane Cascade again means you've ended the stance, and the spell ends.\n\n------\n\nHeightened (+3) The resistance increases by 5.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "until the Arcane Cascade stance ends",
+    "saving": ""
+}

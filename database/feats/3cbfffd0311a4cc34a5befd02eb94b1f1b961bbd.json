@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2655",
+    "name": "Wing Step",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Strix"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "With a sharp flap of your wings, you stay light on your feet as you move.",
+    "description": "With a sharp flap of your wings, you stay light on your feet as you move. You Step 5 feet twice.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "1-action",
+    "trigger": ""
+}

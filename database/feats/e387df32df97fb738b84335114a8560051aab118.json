@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2605",
+    "name": "Aquatic Eyes",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Undine"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "As your connection to water grows, you can see more easily in places with less light, such as the depths of the ocean.",
+    "description": "As your connection to water grows, you can see more easily in places with less light, such as the depths of the ocean. You gain low-light vision, or you gain darkvision if your ancestry already has low-light vision.\n\nSpecial If your ancestry has neither low-light vision nor darkvision, you can take this ancestry feat a second time to gain darkvision. You can't retrain out of this feat.Traits\n\nUndine: Undines are planar scions descended from marids.",
+    "economy": "none",
+    "trigger": ""
+}

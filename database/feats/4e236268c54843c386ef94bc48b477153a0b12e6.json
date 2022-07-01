@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3171",
+    "name": "Drifter's Juke",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Flourish",
+        "Gunslinger"
+    ],
+    "level": 6,
+    "prereq": "Way Of The Drifter",
+    "summary": "You move in and out of range to complement your attacks.",
+    "description": "You move in and out of range to complement your attacks. You Step, make a Strike, Step, and make another Strike. One Strike must be a ranged Strike using your firearm or crossbow, and the other must be a melee Strike using your melee weapon or unarmed attack. You can choose not to take one or both Steps.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

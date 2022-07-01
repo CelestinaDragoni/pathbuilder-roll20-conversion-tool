@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2408",
+    "name": "Tongue Disarm",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 5,
+    "prereq": "Lightning Tongue; Trained In Athletics",
+    "summary": "You lash out with your tongue to disarm your foe.",
+    "description": "You lash out with your tongue to disarm your foe. You attempt to Disarm a creature within 10 feet, ignoring the requirement that you must have at least one hand free.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "1-action",
+    "trigger": ""
+}

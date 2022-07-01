@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=826",
+    "name": "Imp Sting",
+    "source": "Pathfinder #160",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evil",
+        "Necromancy",
+        "Poison"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You reproduce an imp's evil, poisonous sting, stabbing at an enemy and possibly affecting them with the devil's benumbing venom.",
+    "heightenable": false,
+    "description": "You reproduce an imp's evil, poisonous sting, stabbing at an enemy and possibly affecting them with the devil's benumbing venom. You deal 1d4 piercing damage to the touched creature and afflict the creature with imp venom. If the target takes piercing damage, they also take 1d6 evil damage and must attempt a Fortitude save.\nCritical Success The target is unaffected.\nSuccess The target takes 1d6 poison damage.\nFailure The target is afflicted with imp venom at stage 1.\nCritical Failure The target is afflicted with imp venom at stage 2. \n\nImp Venom (poison) Level 3; Maximum Duration 6 rounds; Stage 1 1d6 poison and clumsy 1; Stage 2 1d6 poison, clumsy 1, and slowed 1 (1 round).",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "6 rounds;",
+    "saving": "FortitudeYou reproduce an imp's evil, poisonous sting, stabbing at an enemy and possibly affecting them with the devil's benumbing venom. You deal 1d4 piercing damage to the touched creature and afflict the creature with imp venom. If the target takes piercing damage, they also take 1d6 evil damage and must attempt a Fortitude save.Critical Success The target is unaffected.Success The target takes 1d6 poison damage.Failure The target is afflicted with imp venom at stage 1.Critical Failure The target is afflicted with imp venom at stage 2. Imp Venom (poison) Level 3"
+}

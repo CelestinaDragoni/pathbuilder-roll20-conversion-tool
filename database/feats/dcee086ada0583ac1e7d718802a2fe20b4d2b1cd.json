@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1983",
+    "name": "Fresh Ingredients",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 2,
+    "prereq": "Herbalist Dedication; Expert In Nature",
+    "summary": "When using Natural Medicine to Treat Wounds, you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness.",
+    "description": "When using Natural Medicine to Treat Wounds, you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you spend a batch of herbs in wilderness, you gain a +4 circumstance bonus instead.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

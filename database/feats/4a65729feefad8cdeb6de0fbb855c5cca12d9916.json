@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=120",
+    "name": "Exploitive Bomb",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Additive 2",
+        "Alchemist"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "You mix a substance into the bomb to foil resistances.",
+    "description": "You mix a substance into the bomb to foil resistances. The bomb reduces any resistance the enemy has to its damage type by an amount equal to your level, but only for that attack.Traits\n\nAdditive 2: Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you're creating an infused alchemical item, and some can be used only with the Quick Alchemy action. The additive trait is always followed by a level, such as additive 2. An additive adds its level to the level of the alchemical item you're modifying; the result is the new level of the mixture. The mixture's item level must be no higher than your advanced alchemy level.",
+    "economy": "free_action",
+    "trigger": "You craft an alchemical bomb using Quick Alchemy that’s at least 2 levels lower than your advanced alchemy level."
+}

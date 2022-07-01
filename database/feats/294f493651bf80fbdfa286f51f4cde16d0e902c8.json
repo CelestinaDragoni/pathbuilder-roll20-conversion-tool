@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1035",
+    "name": "Formation Master",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 13,
+    "prereq": "Formation Training",
+    "summary": "You can assemble a formation even with members of ancestries that lack the hobgoblins’ military discipline, and you can extend these benefits to your hobgoblin allies.",
+    "description": "You can assemble a formation even with members of ancestries that lack the hobgoblins’ military discipline, and you can extend these benefits to your hobgoblin allies. When you are adjacent to at least two humanoid allies, you gain the benefits of Formation Training, even if they aren’t hobgoblin allies. Hobgoblin allies adjacent to you and at least one other hobgoblin ally also gain the bonuses from your Formation Training feat.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

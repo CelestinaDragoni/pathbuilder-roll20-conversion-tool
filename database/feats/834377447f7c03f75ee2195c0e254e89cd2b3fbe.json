@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1328",
+    "name": "Hag's Sight",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've nurtured the supernatural abilities gifted by your hag mother, particularly your sight.",
+    "description": "You've nurtured the supernatural abilities gifted by your hag mother, particularly your sight. You gain darkvision.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.",
+    "economy": "none",
+    "trigger": ""
+}

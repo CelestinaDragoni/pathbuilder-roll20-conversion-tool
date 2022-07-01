@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2916",
+    "name": "Boost Summons",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "Augmenting your eidolon extends to creatures you summon.",
+    "description": "Augmenting your eidolon extends to creatures you summon. When you cast boost eidolon, in addition to your eidolon, it also targets your summoned creatures within 60 feet.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3482",
+    "name": "Slayer's Presence",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Frighten Undead",
+    "summary": "Your very presence strikes fear into the undead.",
+    "description": "Your very presence strikes fear into the undead. When you use Slayer's Identification and succeed at your check, you can Frighten Undead as a free action, targeting the creature you identified. Any time you get a critical success to Frighten Undead, if the target's level is lower than yours, the target is fleeing for 1 round.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

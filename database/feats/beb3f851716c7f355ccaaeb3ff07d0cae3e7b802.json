@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=201",
+    "name": "Eclectic Polymath",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 12,
+    "prereq": "Esoteric Polymath",
+    "summary": "Your flexible mind can quickly shift spells.",
+    "description": "Your flexible mind can quickly shift spells. If you add a spell to your repertoire during your daily preparations using Esoteric Polymath, when you prepare again, you can choose to keep the new spell from Esoteric Polymath in your repertoire and instead lose access to another spell of the same level in your repertoire.",
+    "economy": "none",
+    "trigger": ""
+}

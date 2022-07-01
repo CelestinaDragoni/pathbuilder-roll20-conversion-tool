@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=473",
+    "name": "Goodberry",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Druid",
+        "Healing",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You imbue the target berry with the bounty of nature, allowing it to heal and sustain far beyond its normal capacity.",
+    "heightenable": true,
+    "description": "You imbue the target berry with the bounty of nature, turning it into a goodberry that can heal and sustain far beyond its normal capacity. A creature can eat the goodberry with an Interact action to regain 1d6+4 Hit Points. A berry not consumed during the duration withers away. Every six goodberries consumed gives as much nourishment as one square meal for a typical human.\n\n------\n\nHeightened (+1) You can target an additional berry. A creature can consume any number of goodberries from the same casting with a single Interact action.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 ripe berry",
+    "duration": "10 minutes",
+    "saving": ""
+}

@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=478",
+    "name": "Wild Winds Gust",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Air",
+        "Concentrate",
+        "Evocation",
+        "Manipulate",
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "Wild Winds Initiate",
+    "summary": "You store up energy and release it in an enormous gust of rushing wind.",
+    "description": "You store up energy and release it in an enormous gust of rushing wind. Make a wind crash Strike against each creature in your choice of a 30-foot cone or a 60 foot line. These attacks all count toward your multiple attack penalty, but the penalty doesn’t increase until after you make all the attacks.Traits\n\nAir: Effects with the air trait either manipulate or conjure air. Those that manipulate air have no effect in a vacuum or an area without air. Creatures with this trait consist primarily of air or have a magical connection to that element. Planes with this trait consist mostly of open spaces and air with various degrees of turbulence, though they also contain rare islands of floating stone and other elements and energies.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Evocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Manipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "2-action",
+    "trigger": ""
+}

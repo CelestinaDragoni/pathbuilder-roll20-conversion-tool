@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1044",
+    "name": "Thunderous Strike",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Magus",
+        "Sonic"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You swing your massive weapon, creating a wave of sonic vibrations that topples creatures.",
+    "heightenable": true,
+    "description": "You swing your massive weapon, creating a wave of sonic vibrations that topples creatures. Make a melee Strike with your two-handed weapon. Each creature in a 15-foot cone from you must attempt a basic Fortitude save against your spell DC or take 2 sonic damage. On a critical failure, the creature is knocked prone. The target of your Strike must be within the cone or the effect fails.\n\n------\n\nHeightened (+1) The damage increases by 1.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

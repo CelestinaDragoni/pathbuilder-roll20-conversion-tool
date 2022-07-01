@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=422",
+    "name": "Graceful Poise",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Stance"
+    ],
+    "level": 16,
+    "prereq": "Double Slice",
+    "summary": "With the right positioning, your off-hand weapon can strike like a scorpion’s stinger.",
+    "description": "With the right positioning, your off-hand weapon can strike like a scorpion’s stinger. While you are in this stance, if you make your second Strike from Double Slice with an agile weapon, Double Slice counts as one attack when calculating your multiple attack penalty.Traits\n\nStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

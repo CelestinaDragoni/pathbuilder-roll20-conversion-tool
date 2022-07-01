@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=109",
+    "name": "False Vision",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Trick a scrying spell.",
+    "heightenable": false,
+    "description": "You create a false image that fools any attempts to scry on an area. Any scrying spell sees, hears, smells, and otherwise detects whatever you wish within the area, rather than what is actually in the area. You can Sustain the Spell each round to change the illusion as you desire, including playing out a complex scene. If the scrying spell is of a higher level than false vision, the scryer can attempt a Perception check to disbelieve the illusion, though even if they're successful, they can't learn what's truly going on in the area.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "",
+    "duration": "until the next time you make your daily preparations",
+    "saving": ""
+}

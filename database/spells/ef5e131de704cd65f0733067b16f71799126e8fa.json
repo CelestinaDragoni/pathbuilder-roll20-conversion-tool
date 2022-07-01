@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=642",
+    "name": "Clownish Curse",
+    "source": "Pathfinder #152",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Attack",
+        "Curse",
+        "Enchantment",
+        "Mental",
+        "Misfortune"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "You afflict the target with a curse that causes it to emit ridiculous noises as it moves.",
+    "heightenable": false,
+    "description": "You afflict the target with a curse that causes it to emit ridiculous noises as it moves. Furthermore, the target’s hands and feet become awkward and uncoordinated, as though it were wearing oversized gloves and shoes.\n\n\nCritical Success The target is unaffected.\nSuccess For 1 round, the target must roll twice and use the worse result whenever attempting an Acrobatics, Stealth, or Thievery check. If the target rolls a failure at an Acrobatics, Stealth, or Thievery check, it gets a critical failure instead.\nFailure As success, but the effect is 1 hour.\nCritical Failure As success, except the effect is permanent.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

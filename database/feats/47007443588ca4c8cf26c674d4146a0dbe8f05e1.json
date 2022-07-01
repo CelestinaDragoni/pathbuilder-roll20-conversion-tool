@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1146",
+    "name": "Crystal Keeper Dedication",
+    "source": "Pathfinder #148",
+    "rarity": "Rare",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 4,
+    "prereq": "Trained In Elven Lore Or Society",
+    "summary": "You can use Arcana, Occultism, Religion, or Society to Decipher Writing by meditating before a crystal, regardless of the type of writing.",
+    "description": "You can use Arcana, Occultism, Religion, or Society to Decipher Writing by meditating before a crystal, regardless of the type of writing. When you Decipher Writing and roll a critical failure, you get a failure instead, and when you Decipher Writing and roll a success, you get a critical success instead.\n\n Additionally, you gain resistance 10 to damage from hazards associated with crystals.\n\nSpecial You can’t select another dedication feat until you have gained two other feats from the crystal keeper archetype.Crystal Keeper Dedication Leads To...Armor Rune Shifter, Crystal Ward Spells, Simple Crystal Magic, Weapon-Rune ShifterTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Rare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.",
+    "economy": "none",
+    "trigger": ""
+}

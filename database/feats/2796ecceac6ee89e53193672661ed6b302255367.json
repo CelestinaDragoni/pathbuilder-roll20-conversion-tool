@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=481",
+    "name": "Quivering Palm",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 16,
+    "prereq": "Ki Spells",
+    "summary": "Your strikes can kill foes.",
+    "description": "Your strikes can kill foes. You gain the quivering palm ki spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

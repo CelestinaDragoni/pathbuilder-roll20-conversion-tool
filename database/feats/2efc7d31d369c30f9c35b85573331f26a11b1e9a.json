@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3426",
+    "name": "Big Game Trapper",
+    "source": "Pathfinder #175",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Game Hunter Dedication; Snare Crafting",
+    "summary": "You can set snares specifically for big prey, leaving smaller creatures unscathed.",
+    "description": "You can set snares specifically for big prey, leaving smaller creatures unscathed. Each time you set a snare, you can choose Small, Medium, Large, or Huge. That snare can be triggered only by creatures of that size or larger.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

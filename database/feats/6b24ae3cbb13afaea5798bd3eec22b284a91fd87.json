@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2323",
+    "name": "No Evidence",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 9,
+    "prereq": "Expert In Survival",
+    "summary": "You leave little sign when attempting to remain unseen.",
+    "description": "You leave little sign when attempting to remain unseen. When you Avoid Notice, you also gain the benefits of Cover Tracks unless you choose not to.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

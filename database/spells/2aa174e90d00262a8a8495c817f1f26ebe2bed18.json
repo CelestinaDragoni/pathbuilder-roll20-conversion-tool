@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=612",
+    "name": "Share Burden",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You shoulder some of your ally’s pain.",
+    "heightenable": false,
+    "description": "You shoulder some of your ally’s pain. Both you and your ally use the outcome one degree of success better than the result of your ally’s saving throw, even if the triggering effect usually affects only one target.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "An ally within 30 feet is about to attempt a saving throw against a harmful emotion effect, and you would not otherwise have to save against the effect.",
+    "range": "",
+    "target": "you and the triggering ally.",
+    "duration": "",
+    "saving": ""
+}

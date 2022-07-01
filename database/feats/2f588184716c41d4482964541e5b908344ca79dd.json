@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3108",
+    "name": "Enlarged Chassis",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Automaton"
+    ],
+    "level": 13,
+    "prereq": "Medium Or Small Size",
+    "summary": "You've empowered your core to support a larger body, granting you size and additional reach.",
+    "description": "You've empowered your core to support a larger body, granting you size and additional reach. You gain the effects of enlarge constantly.\n\nEnhancement Your core's empowerment has stabilized, allowing for greater support. You are no longer clumsy due to the effects of enlarge.Traits\n\nAutomaton: Automatons are living constructs sustained by a magical core.",
+    "economy": "none",
+    "trigger": ""
+}

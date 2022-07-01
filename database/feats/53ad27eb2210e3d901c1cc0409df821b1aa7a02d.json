@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2360",
+    "name": "Vanth's Weapon Execution",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Duskwalker"
+    ],
+    "level": 5,
+    "prereq": "Vanth's Weapon Familiarity",
+    "summary": "You've trained in the finer points of dealing death.",
+    "description": "You've trained in the finer points of dealing death. Whenever you critically hit using a bo staff, longbow, composite longbow, scythe, or staff, you apply the weapon's critical specialization effect.Traits\n\nDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+    "economy": "none",
+    "trigger": ""
+}

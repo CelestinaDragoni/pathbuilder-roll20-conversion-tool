@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=321",
+    "name": "Summon Entity",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Conjure an aberration to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure an aberration to fight for you. This works like summon animal, except you summon a common creature that has the aberration trait and whose level is 5 or lower, such as those below.\n\n------\n\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel 0 AberrationsGrindylow (CE)Level 1 AberrationsFlumph (LG), Reefclaw (CN)Level 2 AberrationsChoker (CE), Cobbleswarm (N), Sinspawn (NE)Level 3 AberrationsD'ziriak (N), Grothlut (N), Rust Monster (N), Scalescribe (N), Vampiric Mist (NE), Web Lurker (NE)Level 4 AberrationsFaceless Stalker (CE), Mimic (N), Otyugh (N), Shanrigol Heap (N)Level 5 AberrationsCloaker (CN), Gibbering Mouther (N), Penanggalan (CE)Level 6 AberrationsDrider (CE), Skrik Nettle (N), Will-o’-Wisp (CE)Level 7 AberrationsChuul (CE)Level 8 AberrationsDestrachan (CE), K'nonna (NE), Manananggal (CE), Muckish Creep (NE)Level 9 AberrationsBlood Painter (NE), Galvo (NE), Irnakurse (CE)Level 10 AberrationsGhonhatine (CE), Gug (CE), Nilith (NE), Ofalth (CE)Level 11 AberrationsQuoppopak (NE)Level 12 AberrationsGogiteth (CE)Level 13 AberrationsIrlgaunt (NE)Level 14 AberrationsAngoyang (NE), Doprillu (NE), Grikkitog (NE)Level 15 AberrationsQuelaunt (CE)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2054",
+    "name": "Basic Scroll Cache",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Scroll Trickster Dedication",
+    "summary": "You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve.",
+    "description": "You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning—briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-level spell. The spell must be a common spell from the Core Rulebook, or another spell you learned via Learn a Spell, and it must come from a tradition in which you have the corresponding skill trained. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. It can't be used to Learn the Spell. \n\nAt 8th level, add a second temporary scroll containing a 2nd-level spell.Basic Scroll Cache Leads To...\n\nExpert Scroll CacheTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

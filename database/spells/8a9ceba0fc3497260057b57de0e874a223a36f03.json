@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=990",
+    "name": "Scatter Scree",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Earth",
+        "Evocation"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Evoke rocks to deal bludgeoning damage and make rocky difficult terrain.",
+    "heightenable": true,
+    "description": "You evoke a jumble of rocks in the area. The scattering rocks deal bludgeoning damage equal to 1d4 plus your spellcasting ability modifier to creatures in the area, with a basic Reflex save. The ground in the area becomes difficult terrain for the duration. A creature can Interact to clear a square of this scree.\n\n If you cast this spell again, any previous scatter scree you have cast ends.\n\n------\n\nHeightened (+1) The damage increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "basic Reflex"
+}

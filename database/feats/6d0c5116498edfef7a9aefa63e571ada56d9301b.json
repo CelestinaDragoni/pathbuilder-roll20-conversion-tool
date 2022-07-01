@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=621",
+    "name": "Bloodline Focus",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 12,
+    "prereq": "Bloodline Spell",
+    "summary": "Your bloodline cause you to recover focus faster.",
+    "description": "Your focus recovers faster. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.Bloodline Focus Leads To...\n\nBloodline Wellspring",
+    "economy": "none",
+    "trigger": ""
+}

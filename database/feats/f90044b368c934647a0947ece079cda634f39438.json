@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2264",
+    "name": "Focus Ally",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Fortune"
+    ],
+    "level": 16,
+    "prereq": "Swordmaster Dedication",
+    "summary": "You're so focused on your allies that you can help them to recenter when something would take them out of the fight.",
+    "description": "You're so focused on your allies that you can help them to recenter when something would take them out of the fight. Your ally rerolls the failed saving throw. That ally must take the second result.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "reaction",
+    "trigger": "An adjacent ally fails, but doesn't critically fail, a saving throw against an effect with the incapacitation trait."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2065",
+    "name": "Armored Rebuff",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Sentinel Dedication",
+    "summary": "You rebuff puny attacks with your armor, knocking back your foe.",
+    "description": "You rebuff puny attacks with your armor, knocking back your foe. Attempt an Athletics check to Shove the triggering foe, even if you don't have a hand free. If you succeed, you can't Stride to follow the foe, as you're knocking the foe back with the rebounded attack, not by physically moving towards them.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An adjacent foe critically fails an attack roll to Strike you with a melee weapon or unarmed attack."
+}

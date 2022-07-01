@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=50",
+    "name": "Continual Flame",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "A magical flame burns indefinitely.",
+    "heightenable": true,
+    "description": "A magical flame springs up from the object, as bright as a torch. It doesn't need oxygen, react to water, or generate heat.\n\n------\n\nHeightened (+1) The cost increases as follows: 16 gp for 3rd level; 30 gp for 4th, 60 gp for 5th, 120 gp for 6th; 270 gp for 7th, 540 gp for 8th, 1,350 gp for 9th, and 3,350 gp for 10th.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 object",
+    "duration": "unlimited",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=562",
+    "name": "Magical Trickster",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You can sneak spells past your foes’ defenses as easily as any blade.",
+    "description": "Whether you’re using magic items, wielding innate magic, or dabbling in spellcasting, you can sneak spells past your foes’ defenses as easily as any blade. When you succeed at a spell attack roll against a flat-footed foe’s AC and the spell deals damage, you can add your sneak attack damage to the damage roll. If your single spell leads to multiple separate damage rolls, apply your sneak attack damage only once per target.",
+    "economy": "none",
+    "trigger": ""
+}

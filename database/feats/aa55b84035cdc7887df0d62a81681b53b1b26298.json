@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=241",
+    "name": "Shield of Reckoning",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion",
+        "Flourish"
+    ],
+    "level": 10,
+    "prereq": "Champion's Reaction; Shield Warden",
+    "summary": "When you shield your ally against an attack, you call upon your power to protect your ally further.",
+    "description": "When you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion’s reaction against the foe that attacked your ally.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "reaction",
+    "trigger": "A foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction."
+}

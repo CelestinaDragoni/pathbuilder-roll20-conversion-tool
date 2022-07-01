@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2985",
+    "name": "Wave Spiral",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Monk",
+        "Water"
+    ],
+    "level": 12,
+    "prereq": "Reflective Ripple Stance",
+    "summary": "You dip and spin, unleashing a wide whirlpool of water.",
+    "description": "You dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to Trip each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.Traits\n\nWater: Effects with the water trait either manipulate or conjure water. Those that manipulate water have no effect in an area without water. Creatures with this trait consist primarily of water or have a magical connection to the element. Planes with this trait are mostly liquid, perhaps with pockets of breathable air.",
+    "economy": "2-action",
+    "trigger": ""
+}

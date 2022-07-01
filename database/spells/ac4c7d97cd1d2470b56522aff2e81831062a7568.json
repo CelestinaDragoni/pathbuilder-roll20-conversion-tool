@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=734",
+    "name": "Litany of Depravity",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion",
+        "Evil",
+        "Evocation",
+        "Litany"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 7,
+    "summary": "Your litany calls into question the morals your foe claims to hold dear.",
+    "heightenable": true,
+    "description": "Your litany calls into question the morals your foe claims to hold dear. The target gains weakness 7 to evil, then becomes temporarily immune to all your litanies for 1 minute.\n\n------\n\nHeightened (+1) The weakness increases by 1.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 good creature",
+    "duration": "1 round",
+    "saving": ""
+}

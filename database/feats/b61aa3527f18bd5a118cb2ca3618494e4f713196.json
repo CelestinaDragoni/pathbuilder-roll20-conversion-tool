@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=130",
+    "name": "Acute Vision",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your senses improve when you are raging.",
+    "description": "When you are raging, your visual senses improve, granting you darkvision.Acute Vision Leads To...\n\nAcute Scent",
+    "economy": "none",
+    "trigger": ""
+}

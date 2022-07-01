@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2798",
+    "name": "Pack Stalker",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Gnoll"
+    ],
+    "level": 5,
+    "prereq": "Pack Hunter; Expert In Stealth",
+    "summary": "Ambushes are an honored gnoll tradition.",
+    "description": "Ambushes are an honored gnoll tradition. You gain the Terrain Stalker feat and can extend its effects to a single ally so long as they remain within 10 ft. of you. If you have master proficiency in Stealth, you can extend the effect to two allies. If you have legendary proficiency in Stealth, you can extend it to four allies.Traits\n\nGnoll: Gnolls are humanoids that resemble hyenas.",
+    "economy": "none",
+    "trigger": ""
+}

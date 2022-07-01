@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2422",
+    "name": "Lifeblood's Call",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "The impulse to survive and continue fighting resonates deep within you.",
+    "description": "The impulse to survive and continue fighting resonates deep within you. You gain a circumstance bonus to damage rolls on your melee Strikes equal to twice the sum of your wounded and doomed conditions (to a maximum of a +8 circumstance bonus to damage) whenever you have one or both conditions.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

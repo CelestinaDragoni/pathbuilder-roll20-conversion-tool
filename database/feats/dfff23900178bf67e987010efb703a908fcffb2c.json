@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=890",
+    "name": "Stone Blood",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Ka Stone Ritual",
+    "summary": "Your blood clots quickly.",
+    "description": "You can selectively stop your bleeding with ease. Reduce the DC of flat checks to stop persistent bleed damage you have from 15 to 10, and you can use a single action that has the concentrate trait to gain an early flat check without physically binding the wounds. You recover naturally from the drained condition twice as quickly as normal.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

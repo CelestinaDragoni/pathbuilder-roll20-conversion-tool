@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1976",
+    "name": "Gladiator Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Impressive Performance",
+    "summary": "You know how to turn combat into a form of entertainment.",
+    "description": "You know how to turn combat into a form of entertainment. You become trained in Gladiatorial Lore; if already trained in Gladiatorial Lore, you instead become trained in another Lore skill of your choice. \n\nAt the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the gladiator archetype.Gladiator Dedication Leads To...\n\nFancy Moves, Performative Weapons Training, Play to the Crowd, Stage FightingTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3247",
+    "name": "Expert Fireworks Crafter",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Firework Technician Dedication; Expert In Crafting",
+    "summary": "You're particularly adept at crafting fireworks, allowing you to create much more powerful fireworks than you otherwise could.",
+    "description": "You're particularly adept at crafting fireworks, allowing you to create much more powerful fireworks than you otherwise could. Your advanced alchemy level for fireworks increases to your level – 3.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

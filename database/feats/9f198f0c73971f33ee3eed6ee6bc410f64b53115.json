@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2551",
+    "name": "Brightsoul",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ifrit",
+        "Lineage"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "The fire inside you asserts itself as beaming, radiant light.",
+    "description": "The fire inside you asserts itself as beaming, radiant light. Your body is naturally luminescent, glowing with the effects of a primal light cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. The light is involuntary and constant; if counteracted, it returns in 1d4 rounds. You suffer a –2 circumstance penalty on Stealth checks to Hide or Sneak and gain a +1 circumstance bonus on saves against light effects and effects that inflict the blinded or dazzled conditions.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.\n\nLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.",
+    "economy": "none",
+    "trigger": ""
+}

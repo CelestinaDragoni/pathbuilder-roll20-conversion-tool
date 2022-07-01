@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=462",
+    "name": "Traveler's Transit",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You add power to your muscles, allowing you to swim or climb walls with ease.",
+    "heightenable": true,
+    "description": "You add power to your muscles, allowing you to swim or climb walls with ease. When you cast this spell, you gain either a climb Speed or a swim Speed. The Speed is equal to your land Speed.\n\n------\n\nHeightened (5th) You can choose to gain a fly Speed.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

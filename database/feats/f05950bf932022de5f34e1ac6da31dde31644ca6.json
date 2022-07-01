@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3331",
+    "name": "Voice of Authority",
+    "source": "Night of the Gray Death",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Auditory",
+        "Vigilante"
+    ],
+    "level": 4,
+    "prereq": "Vigilante Dedication; Member Of The Gray Gardeners; Expert In Intimidation",
+    "summary": "You easily command the attention of others, and when the time comes to turn threats into action, your authoritative voice causes foes to falter.",
+    "description": "You easily command the attention of others, and when the time comes to turn threats into action, your authoritative voice causes foes to falter. \nYour voice can be heard easily by any creatures within 300 feet if you wish, regardless of the level of ambient noise, although your voice can't penetrate silence or similar efect. If you roll Intimidation for initiative, on the frst round of combat, creatures that haven't acted yet are flat-footed to you.Voice of Authority Leads To...\n\nStrident CommandTraitsArchetype: This feat belongs to an archetype.\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.Vigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "none",
+    "trigger": ""
+}

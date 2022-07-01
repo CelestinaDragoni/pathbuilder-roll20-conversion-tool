@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3252",
+    "name": "Gunpowder Gaunlet",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Pistol Phenom Dedication",
+    "summary": "Your flair keeps foes' attention, as your motions with your gun draw your foes into a deadly game.",
+    "description": "Your flair keeps foes' attention, as your motions with your gun draw your foes into a deadly game. As you toy with them and performatively brandish your weapon, you build their tunnel vision, leaving them trapped in a perceptual gauntlet of your own making. Attempt a Performance check against the Will DC of a single target within your one-handed firearm's first range increment.\n\nCritical Success The target takes a –2 status penalty to attack rolls against creatures other than you until the beginning of your next turn.\nSuccess The target takes a –1 status penalty to attack rolls against creatures other than you until the beginning of your next turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

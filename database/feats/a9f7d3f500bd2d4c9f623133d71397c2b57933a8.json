@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=285",
+    "name": "Advanced Domain",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 8,
+    "prereq": "Domain Initiate",
+    "summary": "Your studies or prayers have unlocked deeper secrets of your deity’s domain.",
+    "description": "Your studies or prayers have unlocked deeper secrets of your deity’s domain. You gain an advanced domain spell from one of your domains. Increase the number of Focus Points in your focus pool by 1.\n\nSpecial You can select this feat multiple times. Each time, you must select a different advanced domain spell from a domain for which you have an initial domain spell.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Advanced Domain Leads To...Deity's Protection",
+    "economy": "none",
+    "trigger": ""
+}

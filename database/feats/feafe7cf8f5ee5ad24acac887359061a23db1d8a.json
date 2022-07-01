@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=695",
+    "name": "Basic Cleric Spellcasting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Cleric Dedication",
+    "summary": "You gain the basic spellcasting benefits of cleric spellcasting.",
+    "description": "You gain the basic spellcasting benefits. You can prepare your deity’s spells in your spell slots of the appropriate level from the cleric archetype.Basic Cleric Spellcasting Leads To...\n\nDivine Breadth, Expert Cleric SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

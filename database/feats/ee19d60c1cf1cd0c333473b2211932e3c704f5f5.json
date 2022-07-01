@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=138",
+    "name": "Second Wind",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You can enter a second rage, but afterward you need to catch your breath.",
+    "description": "You can enter a second rage, but afterward you need to catch your breath. You can Rage without waiting for 1 minute after the previous Rage (or 1 round, with quick rage), but when you end this second Rage, you’re fatigued until you rest for 10 minutes.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1754",
+    "name": "Shadow's Web",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "Ki Spells",
+    "summary": "You launch a wave of shadowy ki outward from your body, damaging your opponents and potentially binding them in place.",
+    "description": "You launch a wave of shadowy ki outward from your body, damaging your opponents and potentially binding them in place. You gain the shadow's web ki spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

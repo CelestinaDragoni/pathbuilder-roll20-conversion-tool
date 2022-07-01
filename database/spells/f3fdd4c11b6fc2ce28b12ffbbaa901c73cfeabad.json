@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=327",
+    "name": "Synaptic Pulse",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Slow creatures with a mental blast.",
+    "heightenable": false,
+    "description": "You emit a pulsating mental blast that penetrates the minds of all enemies in the area. Each creature in the area must attempt a Will save.\n\nCritical Success The creature is unaffected.\nSuccess The creature is stunned 1.\nFailure The creature is stunned 2.\nCritical Failure The creature is stunned for 1 round.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "1 round",
+    "saving": "Will"
+}

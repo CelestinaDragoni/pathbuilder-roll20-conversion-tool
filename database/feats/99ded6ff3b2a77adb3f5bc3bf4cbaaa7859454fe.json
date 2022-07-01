@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2998",
+    "name": "Rough Terrain Stance",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Stance"
+    ],
+    "level": 6,
+    "prereq": "Geomancer Dedication; Expert In Nature",
+    "summary": "You enter a stance that makes it difficult to move around you.",
+    "description": "You enter a stance that makes it difficult to move around you. Each square adjacent to you becomes difficult terrain that matches the terrain attunement you gained (rime forms in an arctic terrain, momentary undergrowth shoots up in a forest terrain, and so on). You ignore this difficult terrain.\n\n This stance ends if you move into a different type of terrain.Rough Terrain Stance Leads To...\n\nShifting TerrainTraitsArchetype: This feat belongs to an archetype.\n\nStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2483",
+    "name": "Analyze Information",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aphorite"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You can stoke your mind into a burst of analytical prowess.",
+    "description": "You can stoke your mind into a burst of analytical prowess. You can cast 3rd-level hypercognition once per day as a divine innate spell.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
+    "economy": "none",
+    "trigger": ""
+}

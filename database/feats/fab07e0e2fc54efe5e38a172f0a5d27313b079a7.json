@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1618",
+    "name": "Impressive Landing",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You slam into the ground, shattering it around you.",
+    "description": "You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. All adjacent spaces become difficult terrain, and creatures in those spaces when you land take 5 bludgeoning damage as the debris hits them and are flat-footed until the start of their next turn.",
+    "economy": "reaction",
+    "trigger": "You fall at least 10 feet and land on a solid surface."
+}

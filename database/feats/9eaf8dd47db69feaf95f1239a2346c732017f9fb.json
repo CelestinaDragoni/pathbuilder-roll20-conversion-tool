@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2734",
+    "name": "Golden League Xun Dedication",
+    "source": "Pathfinder #167",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 8,
+    "prereq": "Master In Underworld Lore",
+    "summary": "You are a xun for the Golden League, aiding the organization.",
+    "description": "You are a xun for the Golden League, aiding the organization. You gain expert proficiency in two of the following skills (or in two other skills of your choice in which you're trained, if you were already an expert in the listed skills): Athletics, Deception, Intimidation, or Stealth. In addition, if you use Underworld Lore to Earn Income or Recall Knowledge, when you get a success, you get a critical success instead.\n\nSpecial You can't select another dedication feat until you've gained two other feats from the Golden League Xun archetype.Golden League Xun Dedication Leads To...Beneath Notice, Menacing Prowess, Rope Mastery, Silent StingTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

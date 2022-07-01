@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2248",
+    "name": "Mobile Magical Combat",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 16,
+    "prereq": "Spellmaster Dedication",
+    "summary": "You dart around the battlefield, casting spells while you carefully make melee attacks with your weapon.",
+    "description": "You dart around the battlefield, casting spells while you carefully make melee attacks with your weapon. Stride once. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy. You can use Mobile Magical Combat while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

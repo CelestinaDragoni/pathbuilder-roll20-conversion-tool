@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=926",
+    "name": "Healing Well",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Create a well that you and your allies can use to heal.",
+    "heightenable": true,
+    "description": "You call forth a well of healing that you and your allies can draw from later. The well appears as a disc of shimmering light on the ground in a square you touch. At any time during the duration, if you or an ally are adjacent to the well, that character can Interact to tap into the well's power, recovering 4d8 Hit Points. When the well has been tapped five times, the spell ends. The well is made of insubstantial energy, allowing creatures to move through it and even end their turn in its space.\n\n If you use an ability that increases the amount of healing this spell grants, that increase applies only to the first time someone taps the well.\n\n------\n\nHeightened (+1) The healing increases by 3.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

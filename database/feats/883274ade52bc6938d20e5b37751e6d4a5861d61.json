@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1622",
+    "name": "Tangle of Battle",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe.",
+    "description": "Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe. Attempt to Grapple the triggering enemy.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "reaction",
+    "trigger": "You critically hit an adjacent enemy."
+}

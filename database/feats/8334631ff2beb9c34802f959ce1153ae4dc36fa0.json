@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2634",
+    "name": "Speak with Bats",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sprite"
+    ],
+    "level": 1,
+    "prereq": "Nyktera Heritage",
+    "summary": "You can ask questions of, receive answers from, and use the Diplomacy skill with bats.",
+    "description": "You can ask questions of, receive answers from, and use the Diplomacy skill with bats. You gain a +2 circumstance bonus on all Diplomacy checks to Make an Impression on bats or Request something from bats.Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

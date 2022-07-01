@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1045",
+    "name": "Boost Eidolon",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cantrip",
+        "Evocation",
+        "Summoner"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "You focus deeply on the link between you and your eidolon and boost the power of your eidolon's attacks.",
+    "heightenable": false,
+    "description": "You focus deeply on the link between you and your eidolon and boost the power of your eidolon's attacks. Your eidolon gains a +2 status bonus to damage rolls with its unarmed attacks. If your eidolon's Strikes deal more than one weapon damage die, the status bonus increases to 2 per weapon damage die, to a maximum of +8 with four weapon damage dice.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "100 feet",
+    "target": "your eidolon",
+    "duration": "1 round",
+    "saving": ""
+}

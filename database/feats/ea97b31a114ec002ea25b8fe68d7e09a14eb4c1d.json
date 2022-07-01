@@ -1,0 +1,20 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1519",
+    "name": "One for All",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Concentrate",
+        "Emotion",
+        "Linguistic",
+        "Mental",
+        "Swashbuckler"
+    ],
+    "level": 1,
+    "prereq": "Trained In Diplomacy",
+    "summary": "With precisely the right words of encouragement, you bolster an ally's efforts.",
+    "description": "With precisely the right words of encouragement, you bolster an ally's efforts. Designate an ally within 30 feet; this action counts as sufficient preparation to Aid that ally. When you use the Aid reaction to help that ally, you can roll Diplomacy in place of the usual check. If your swashbuckler's style is wit and your Diplomacy check to Aid meets or exceeds the very hard DC for your level, you gain panache.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Emotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Linguistic: An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "1-action",
+    "trigger": ""
+}

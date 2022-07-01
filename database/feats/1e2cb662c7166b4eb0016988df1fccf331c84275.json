@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2213",
+    "name": "Cartwheel Dodge",
+    "source": "Pathfinder #159",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Provocator Dedication",
+    "summary": "You can dodge away from damaging effects.",
+    "description": "You Step up to 10 feet.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "You succeed or critically succeed at a Reflex saving throw."
+}

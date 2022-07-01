@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=26",
+    "name": "Blindness",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Incapacitation",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Strike a target blind.",
+    "heightenable": false,
+    "description": "You blind the target. The effect is determined by the target's Fortitude save. The target then becomes temporarily immune for 1 minute.\n\nCritical Success The target is unaffected.\nSuccess The target is blinded until its next turn begins.\nFailure The target is blinded for 1 minute.\nCritical Failure The target is blinded permanently.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

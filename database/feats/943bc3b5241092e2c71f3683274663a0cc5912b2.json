@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1058",
+    "name": "Gecko's Grip",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 5,
+    "prereq": "Cliffscale Lizardfolk Heritage",
+    "summary": "You stick to walls with a preternatural grip.",
+    "description": "You stick to walls with a preternatural grip. You gain a climb Speed of 15 feet.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

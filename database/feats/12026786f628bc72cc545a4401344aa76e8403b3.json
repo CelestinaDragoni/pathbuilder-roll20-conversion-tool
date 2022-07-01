@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3528",
+    "name": "Ensnaring Wrappings",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Mummy Dedication; Expert In Athletics",
+    "summary": "Some of your wrappings come loose to ensnare a creature you recently damaged.",
+    "description": "Some of your wrappings come loose to ensnare a creature you recently damaged. You attempt to Grapple the creature you damaged.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "Your Strike deals physical damage to a creature that is within reach of your arms and isn't more than one size larger than you."
+}

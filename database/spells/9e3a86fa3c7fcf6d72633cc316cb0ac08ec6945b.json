@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=867",
+    "name": "Befitting Attire",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Make clothes fit the occasion.",
+    "heightenable": true,
+    "description": "You cloak the targets in an illusion, shaping their clothing and worn items into ones suitable for a particular occasion. You visualize the occasion, and the spell creates illusory attire customized to each target. For instance, if you visualized a noble ball, armor would appear to be fine clothing. This doesn't change identifying details of the targets' appearances other than their clothes.\n\n Any creature that touches the attire, uses the Seek action to examine it, or otherwise interacts with it can attempt to disbelieve your illusion.\n\n------\n\nHeightened (4th) You can target up to 20 creatures.\nHeightened (5th) You can target up to 100 creatures.",
+    "economy": "2-action",
+    "components": [
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "5 willing creatures",
+    "duration": "1 hour",
+    "saving": ""
+}

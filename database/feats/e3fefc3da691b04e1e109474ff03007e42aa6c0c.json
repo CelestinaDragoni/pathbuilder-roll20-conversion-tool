@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1555",
+    "name": "Felicitous Riposte",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fortune",
+        "Swashbuckler"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "You take advantage of your foe's openings with uncanny odds.",
+    "description": "You take advantage of your foe's openings with uncanny odds. When you make an Opportune Riposte, roll twice on the attack roll and take the better result.Traits\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=973",
+    "name": "Heroes' Call",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "The songs of ancient heroes echo through your mind and quicken your pulse, especially in dire straits.",
+    "description": "The songs of ancient heroes echo through your mind and quicken your pulse, especially in dire straits. You gain heroism as a 3rd-level innate occult spell that you can cast once per day. If you Cast the Spell when you have half or fewer Hit Points, you also gain temporary Hit Points equal to twice your level.Traits\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "none",
+    "trigger": ""
+}

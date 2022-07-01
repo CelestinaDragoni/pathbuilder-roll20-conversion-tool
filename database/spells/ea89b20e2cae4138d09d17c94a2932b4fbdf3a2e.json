@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=772",
+    "name": "Hunter's Luck",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Fortune",
+        "Ranger"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "You have a preternatural ability to remember details about your foes.",
+    "heightenable": false,
+    "description": "You have a preternatural ability to remember details about your foes. Roll the triggering check twice and use the better result.",
+    "economy": "free_action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

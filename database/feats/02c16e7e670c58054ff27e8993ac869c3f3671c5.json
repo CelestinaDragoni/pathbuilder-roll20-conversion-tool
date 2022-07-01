@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2335",
+    "name": "Cunning Hair",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your hair moves under your control.",
+    "description": "Your hair moves under your control. You can perform simple Interact actions with your hair, such as opening an unlocked door. Your hair can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2259",
+    "name": "Recollect Studies",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 12,
+    "prereq": "Swordmaster Dedication; Expert In A Skill Used To Recall Knowledge",
+    "summary": "You paid attention during your studies and remember the right way to attack various creatures.",
+    "description": "You paid attention during your studies and remember the right way to attack various creatures. Choose a creature that meets the requirements. You learn the resistances, immunities, or weaknesses of the creature (your choice) without needing to successfully Recall Knowledge.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "1-action",
+    "trigger": ""
+}

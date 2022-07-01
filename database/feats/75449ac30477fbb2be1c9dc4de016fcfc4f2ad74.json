@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3232",
+    "name": "Expert Beast Gunner Spellcasting",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Basic Beast Gunner Spellcasting",
+    "summary": "You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you.",
+    "description": "You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the expert spellcasting benefits.Expert Beast Gunner Spellcasting Leads To...\n\nMaster Beast Gunner SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

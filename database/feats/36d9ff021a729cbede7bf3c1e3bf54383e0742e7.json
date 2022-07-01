@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3510",
+    "name": "Sickening Bite",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Ghoul Dedication",
+    "summary": "Your saliva causes severe nausea and mild fever in the living, weakening them so that you can more easily finish them off.",
+    "description": "Your saliva causes severe nausea and mild fever in the living, weakening them so that you can more easily finish them off. When you critically hit a creature with your jaws, the creature is sickened 1. This is a disease effect.\n\n If you are satiated, you can end your satiation to make the target sickened 1 on a regular hit instead.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

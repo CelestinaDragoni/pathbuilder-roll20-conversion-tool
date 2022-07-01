@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1176",
+    "name": "Bless Toxin",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Negative",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Deity Who Grants Harm Divine Font; Master In Crafting",
+    "summary": "You pour negative energy into toxins you create to further debilitate your targets",
+    "description": "You pour negative energy into toxins you create to further debilitate your targets. When you Craft an alchemical poison (rather than create it with advanced alchemy, Quick Alchemy, or another means), it becomes a blessed alchemical poison and gains the negative trait. When a creature is afflicted with a blessed alchemical poison, for 1 round, any Hit Points it would regain from a positive effect are reduced by 5, or by 10 if you are legendary in Crafting.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nNegative: Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the Negative Energy Plane. They can survive the basic environmental effects of the Negative Energy Plane.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=564",
+    "name": "Acid Storm",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Acid",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "You evoke a storm of acid rain that pelts the area for the spell’s duration.",
+    "heightenable": true,
+    "description": "You evoke a storm of acid rain that pelts the area for the spell’s duration. A creature that begins its turn in the area takes 3d8 acid damage (basic Reflex save).\n\n------\n\nHeightened (+2) The damage increases by 1d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

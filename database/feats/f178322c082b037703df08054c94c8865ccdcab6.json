@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1001",
+    "name": "Hard Tail",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 1,
+    "prereq": "Tailed Goblin Heritage",
+    "summary": "Your tail is much stronger than most, and you can lash out with it with the strength of a whip.",
+    "description": "Your tail is much stronger than most, and you can lash out with it with the strength of a whip. You gain a tail unarmed attack that deals 1d6 bludgeoning damage.Hard Tail Leads To...\n\nTail SpinTraitsGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

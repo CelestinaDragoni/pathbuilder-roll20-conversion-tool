@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2301",
+    "name": "Striking Retribution",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have an appropriately intense hatred for alghollthus.",
+    "description": "You have an appropriately intense hatred for alghollthus. You gain a +2 circumstance bonus to damage with weapons and unarmed attacks against creatures from the alghollthu family and those that serve alghollthus (the GM determines which creatures serve an alghollthu). In addition, if an alghollthu successfully affects you or one of your allies within 60 feet with an enchantment, your circumstance bonus to damage against that alghollthu increases to +4 for 1 minute.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3540",
+    "name": "Skeletal Resistance",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Skeleton"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Your body becomes resistant, your hardened bones deflecting weapons and other forms of damage.",
+    "description": "Your body becomes resistant, your hardened bones deflecting weapons and other forms of damage. You gain resistance 2 to cold, electricity, fire, piercing, and slashing damage. This resistance increases to 3 at 13th level and 4 at 17th level.Traits\n\nSkeleton: This undead is made by animating a dead creature’s skeleton with negative energy.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1697",
+    "name": "Vile Desecration",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 1,
+    "prereq": "Evil Alignment",
+    "summary": "You combine unholy might with negative energy to damage angels, archons, and other self-righteous denizens of the Outer Planes.",
+    "description": "You combine unholy might with negative energy to damage angels, archons, and other self-righteous denizens of the Outer Planes. When you cast a harm spell, you can change the damage you deal to celestial creatures to evil damage instead of negative damage.",
+    "economy": "none",
+    "trigger": ""
+}

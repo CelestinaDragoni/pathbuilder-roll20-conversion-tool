@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1650",
+    "name": "Ode to Ouroboros",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You learn the ode to ouroboros composition spell, which enables you to temporarily spare your allies from death.",
+    "description": "You learn the ode to ouroboros composition spell, which enables you to temporarily spare your allies from death.",
+    "economy": "none",
+    "trigger": ""
+}

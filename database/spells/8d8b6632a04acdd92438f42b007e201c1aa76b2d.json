@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=437",
+    "name": "Perfected Form",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Reroll a failed saving throw against a morph, petrification, or polymorph effect.",
+    "heightenable": false,
+    "description": "Reroll the saving throw and use the better result.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

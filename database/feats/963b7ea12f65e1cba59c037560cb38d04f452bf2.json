@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=164",
+    "name": "Predator's Pounce",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Flourish",
+        "Instinct",
+        "Open",
+        "Rage"
+    ],
+    "level": 12,
+    "prereq": "Animal Instinct",
+    "summary": "You close the distance to your prey in a blur.",
+    "description": "You close the distance to your prey in a blur, pouncing on the creature before it can react. You Stride up to your Speed and make a Strike at the end of your movement.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.\n\nInstinct: Instinct abilities require a specific instinct; you lose access if you perform acts anathema to your instinct.Open: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.Rage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

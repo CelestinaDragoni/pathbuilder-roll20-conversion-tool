@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1100",
+    "name": "Reaper of Repose",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Knight Reclaimant Dedication; Master Proficiency In A Weapon",
+    "summary": "Your skill and fervor allow you to pierce undead defenses and exploit their weaknesses.",
+    "description": "Your skill and fervor allow you to pierce undead defenses and exploit their weaknesses. When you make an attack using a weapon with which you have master proficiency and hit an undead creature, you ignore 5 points of the creature’s resistances, and the undead’s weaknesses are 2 higher against your attack.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2286",
+    "name": "Garuda's Squall",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar",
+        "Lineage"
+    ],
+    "level": 5,
+    "prereq": "Plumekith",
+    "summary": "Garudas' marksmanship and magic are second nature to you.",
+    "description": "Garudas' marksmanship and magic are second nature to you. Whenever you critically hit using a bow, you apply the weapon's critical specialization effect.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.\n\nLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.",
+    "economy": "none",
+    "trigger": ""
+}

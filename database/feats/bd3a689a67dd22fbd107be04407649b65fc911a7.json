@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1510",
+    "name": "Oracular Providence",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oracle"
+    ],
+    "level": 20,
+    "prereq": "Oracular Clarity",
+    "summary": "Your mystery grants you access to deep reserves of truly miraculous divine power.",
+    "description": "Your mystery grants you access to deep reserves of truly miraculous divine power. You gain an additional 10th-level spell slot.",
+    "economy": "none",
+    "trigger": ""
+}

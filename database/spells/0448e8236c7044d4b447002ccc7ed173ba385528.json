@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=469",
+    "name": "Weapon Surge",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Holding your weapon aloft, you fill it with divine energy.",
+    "heightenable": false,
+    "description": "Holding your weapon aloft, you fill it with divine energy. On your next Strike with that weapon before the start of your next turn, you gain a +1 status bonus to the attack roll and the weapon deals an additional die of damage. If the weapon has a striking rune, this instead increases the number of dice from the striking rune by 1 (to a maximum of 3 extra weapon dice).\n\nIf the target weapon leaves your possession, weapon surge immediately ends.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 weapon you're wielding",
+    "duration": "",
+    "saving": ""
+}

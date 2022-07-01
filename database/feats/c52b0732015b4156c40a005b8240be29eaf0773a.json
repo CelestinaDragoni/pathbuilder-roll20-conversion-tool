@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2574",
+    "name": "Metal-Veined Strikes",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oread"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "Metallic veins grow throughout your body, giving your unarmed attacks a metallic sheen.",
+    "description": "Metallic veins grow throughout your body, giving your unarmed attacks a metallic sheen. Choose either cold iron or silver. Your unarmed attacks are treated as the chosen type of metal.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
+    "economy": "none",
+    "trigger": ""
+}

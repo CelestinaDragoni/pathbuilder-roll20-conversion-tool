@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=474",
+    "name": "Mountain Quake",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "Mountain Stronghold",
+    "summary": "You stomp, shaking the earth beneath you and causing quakes.",
+    "description": "You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), which they can resist with a basic Fortitude save. On a failure, they also fall prone. After you use this action, you can’t use it again for 1d4 rounds.\n\nSpecial If you have this feat, the Dexterity modifier cap to your AC while using Mountain Stance increases from +1 to +2.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "1-action",
+    "trigger": ""
+}

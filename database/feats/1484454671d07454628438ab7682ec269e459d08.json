@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=657",
+    "name": "Superior Bond",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Wizard"
+    ],
+    "level": 14,
+    "prereq": "Arcane Bond",
+    "summary": "When you draw upon your bonded item, you can leave a bit of energy within it for later use.",
+    "description": "When you draw upon your bonded item, you can leave a bit of energy within it for later use. You can use Drain Bonded Item one additional time per day, but only to cast a spell 2 or more levels lower than your highest-level wizard spell slot.",
+    "economy": "none",
+    "trigger": ""
+}

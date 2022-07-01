@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3516",
+    "name": "Hand of the Lich",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Lich Dedication",
+    "summary": "Negative energy intensifies your undead form and makes your very touch the antithesis of life.",
+    "description": "Negative energy intensifies your undead form and makes your very touch the antithesis of life. You gain the advanced undead benefits. The damage die for your fist increases to 1d6 instead of 1d4, it deals negative damage instead of bludgeoning damage, and it loses the nonlethal trait. Your fist becomes magical.\n\n When you critically hit a living creature with your fist Strike, the creature is slowed 1 until the end of your next turn unless it succeeds at a Fortitude save against your spell DC. This is a critical specialization effect.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

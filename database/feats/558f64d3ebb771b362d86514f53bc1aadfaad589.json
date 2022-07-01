@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2261",
+    "name": "Tense Negotiator",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Swordmaster Dedication; Master In Diplomacy",
+    "summary": "You often find that the best way to win a conflict means avoiding a fight in the first place.",
+    "description": "You often find that the best way to win a conflict means avoiding a fight in the first place. You're good at talking to potential opponents without making things worse. If you would critically fail at a check to Make an Impression, you instead fail. You can attempt checks to make Requests of creatures who're indifferent or unfriendly toward you.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=267",
+    "name": "Healing Hands",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 1,
+    "prereq": "Healing Font",
+    "summary": "Your positive energy is even more vibrant and restorative.",
+    "description": "Your positive energy is even more vibrant and restorative. When you cast heal, you roll d10s instead of d8s.Healing Hands Leads To...\n\nMagic Hands",
+    "economy": "none",
+    "trigger": ""
+}

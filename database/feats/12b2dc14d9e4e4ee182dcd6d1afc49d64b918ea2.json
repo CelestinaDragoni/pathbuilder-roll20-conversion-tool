@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2608",
+    "name": "Rimesoul",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lineage",
+        "Undine"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "The water inside you is cold and frozen, like sheets of ice and frigid glaciers.",
+    "description": "The water inside you is cold and frozen, like sheets of ice and frigid glaciers. You gain resistance to cold equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less severe (incredible cold becomes extreme, extreme cold becomes severe, and so on).Traits\n\nLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.\n\nUndine: Undines are planar scions descended from marids.",
+    "economy": "none",
+    "trigger": ""
+}

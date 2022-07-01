@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1907",
+    "name": "Beastmaster's Call",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Auditory",
+        "Concentrate",
+        "Conjuration",
+        "Primal"
+    ],
+    "level": 12,
+    "prereq": "Beastmaster Dedication; Call Companion",
+    "summary": "You quickly call in a primal projection of a non-active companion to provide the companion's support benefit.",
+    "description": "You quickly call in a primal projection of a non-active companion to provide the companion's support benefit. The projection arrives in an unoccupied square of your choice within 30 feet of you, grants you its support benefit, and then disappears on your next turn. The projection has the same AC and saving throw modifiers as the real companion, and if it would take any damage before your next turn, it disappears and the support benefit ends immediately.Traits\n\nArchetype: This feat belongs to an archetype.\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.Concentrate: An action with this trait requires a degree of mental concentration and discipline.Conjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.",
+    "economy": "1-action",
+    "trigger": ""
+}

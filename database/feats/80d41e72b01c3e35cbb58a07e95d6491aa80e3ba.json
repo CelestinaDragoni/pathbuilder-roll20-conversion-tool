@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2329",
+    "name": "Ten Lives",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 17,
+    "prereq": "Evade Doom",
+    "summary": "When your character would die, you can attempt a DC 17 flat check.",
+    "description": "When your character would die, you can attempt a DC 17 flat check. On a success, you're instead reduced to 0 HP and a dying value 1 less than would normally kill you (typically dying 3). This doesn't change the result for any other creature affected.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

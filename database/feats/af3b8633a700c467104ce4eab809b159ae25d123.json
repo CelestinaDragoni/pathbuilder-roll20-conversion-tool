@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3349",
+    "name": "Spark of Independence",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You touch a creature with the minion trait and share the heightened sense of autonomy you've discovered.",
+    "description": "You touch a creature with the minion trait and share the heightened sense of autonomy you've discovered. The minion is quickened for 1 round and is then temporarily immune for 10 minutes. It can use this extra action to Step, Stride, or Strike.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "2-action",
+    "trigger": ""
+}

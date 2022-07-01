@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=458",
+    "name": "Arrow Snatching",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 8,
+    "prereq": "Deflect Arrow",
+    "summary": "You pluck missiles from the air and hurl them back at their source.",
+    "description": "You pluck missiles from the air and hurl them back at their source. When you successfully deflect an attack with Deflect Arrow, as part of that reaction, you can immediately make a ranged Strike against the attacker using the projectile you deflected. This is a thrown weapon with the same range increment and effect on a hit as the triggering attack.",
+    "economy": "none",
+    "trigger": ""
+}

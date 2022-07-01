@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=36",
+    "name": "Chilling Darkness",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Cold",
+        "Darkness",
+        "Evil",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Ray of evil darkness deals cold damage, counteracts light, and harms celestials.",
+    "heightenable": true,
+    "description": "You shoot an utterly cold ray of darkness tinged with unholy energy. Make a ranged spell attack against the target. You deal 5d6 cold damage, plus 5d6 evil damage if the target is a celestial.\n\n If the ray passes through an area of magical light or targets a creature affected by magical light, chilling darkness attempts to counteract the light. If you need to determine whether the ray passes through an area of light, draw a line between yourself and the spell's target.\n\nCritical Success The target takes double damage.\nSuccess The target takes full damage.\n\n------\n\nHeightened (+1) The cold damage increases by 2d6, and the evil damage against celestials increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

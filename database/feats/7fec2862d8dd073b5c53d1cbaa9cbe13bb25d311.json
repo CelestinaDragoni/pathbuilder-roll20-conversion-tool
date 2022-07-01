@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=689",
+    "name": "Healing Touch",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Champion Dedication",
+    "summary": "You gain the appropriate devotion spell for your cause.",
+    "description": "You gain the appropriate devotion spell for your cause (lay on hands for the paladin, redeemer, and liberator). If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying or serving your deity.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

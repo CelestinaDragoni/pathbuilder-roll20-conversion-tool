@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1612",
+    "name": "Scouring Rage",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 6,
+    "prereq": "An Instinct That Allows You To Change Your Additional Damage From Rage To A Different Damage Type",
+    "summary": "You emit a powerful surge of instinctual energy when you unleash your potential.",
+    "description": "You emit a powerful surge of instinctual energy when you unleash your potential. Each adjacent creature takes damage equal to your level (basic Fortitude save against your class DC) of the same type as your additional damage during that Rage.",
+    "economy": "free_action",
+    "trigger": "You Rage."
+}

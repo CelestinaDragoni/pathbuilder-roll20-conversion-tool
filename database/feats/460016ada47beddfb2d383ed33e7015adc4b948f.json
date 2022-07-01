@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1491",
+    "name": "Vision of Weakness",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oracle"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You can call upon divine insights to single out your foes' weak points.",
+    "description": "You can call upon divine insights to single out your foes' weak points. You learn the vision of weakness revelation spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

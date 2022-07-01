@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2839",
+    "name": "Piercing Quills",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Shisk"
+    ],
+    "level": 9,
+    "prereq": "Spine Stabber",
+    "summary": "Your quills can dig particularly deep into the flesh of your opponents.",
+    "description": "Your quills can dig particularly deep into the flesh of your opponents. Your quills unarmed attack deals 1d4 persistent bleed damage on a critical hit.Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
+    "economy": "none",
+    "trigger": ""
+}

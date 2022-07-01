@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=160",
+    "name": "Illusory Object",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Form a convincing illusion of an object.",
+    "heightenable": true,
+    "description": "You create an illusory visual image of a stationary object. The entire image must fit within the spell's area. The object appears to animate naturally, but it doesn't make sounds or generate smells. For example, water would appear to pour down an illusory waterfall, but it would be silent.\n\n Any creature that touches the image or uses the Seek action to examine it can attempt to disbelieve your illusion.\n\n------\n\nHeightened (2nd) Your image makes appropriate sounds, generates normal smells, and feels right to the touch. The spell gains the auditory and olfactory traits. The duration increases to 1 hour.\nHeightened (5th) As the 2nd-level version, but the duration is unlimited.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "10 minutes",
+    "saving": ""
+}

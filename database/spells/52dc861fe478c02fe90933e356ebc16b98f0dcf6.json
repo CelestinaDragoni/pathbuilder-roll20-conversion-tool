@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=703",
+    "name": "Magic Stone",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Make ordinary stones into magical sling bullets that are especially dangerous to undead.",
+    "heightenable": false,
+    "description": "You pour positive energy into ordinary stones, granting them temporary magical properties. You can target 1 non-magical stone or sling bullet for every action you use Casting this Spell. The stones must be unattended or carried by you or a willing ally. The stones become +1 striking disrupting sling bullets. Each stone can be used only once, after which it crumbles to dust.",
+    "economy": "1-to-3-actions",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 to 3 non-magical stones or sling bullets",
+    "duration": "1 minute",
+    "saving": ""
+}

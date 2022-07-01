@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=373",
+    "name": "Powerful Shove",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 4,
+    "prereq": "Aggressive Block Or Brutish Shove",
+    "summary": "You can push larger foes around with your attack.",
+    "description": "You can push larger foes around with your attack. You can use Aggressive Block or Brutish Shove against a creature up to two sizes larger than you.\n\n When a creature you Shove has to stop moving because it would hit an object, it takes damage equal to your Strength modifier (minimum 1). This happens regardless of how you Shoved the creature.",
+    "economy": "none",
+    "trigger": ""
+}

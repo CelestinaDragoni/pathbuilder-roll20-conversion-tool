@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2069",
+    "name": "Shadow Magic",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Shadowdancer Dedication",
+    "summary": "You gain the ability to fuse and play with shadows by using focus spells specific to shadowdancers.",
+    "description": "You gain the ability to fuse and play with shadows by using focus spells specific to shadowdancers. You learn a shadowdancer focus spell of your choice: dance of darkness or shadow jump. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by meditating within an area of dim light or darkness. The rules for focus spells appear here.\n\nShadowdancer focus spells are occult spells. You become trained in occult spell attack rolls and spell DCs, and your spellcasting ability for these spells is Charisma.Shadow Magic Leads To...\n\nAdditional Shadow Magic, Shadow Illusion, Shadow PowerTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

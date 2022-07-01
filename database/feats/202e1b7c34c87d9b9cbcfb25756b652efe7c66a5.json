@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=626",
+    "name": "Greater Mental Evolution",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 16,
+    "prereq": "Arcane Evolution Or Occult Evolution",
+    "summary": "Your bloodline’s deep connection to mental essence greatly enhances your spell repertoire.",
+    "description": "Your bloodline’s deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell level you can cast.",
+    "economy": "none",
+    "trigger": ""
+}

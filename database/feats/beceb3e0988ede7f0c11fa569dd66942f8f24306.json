@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2224",
+    "name": "Watch and Learn",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Pathfinder Agent Dedication",
+    "summary": "Pathfinder agents serve as members of diverse teams with complementary skill sets.",
+    "description": "Pathfinder agents serve as members of diverse teams with complementary skill sets. You are practiced at following the example of a more skilled ally to accomplish a wide variety of tasks. For the next minute you can add your level as a proficiency bonus to the observed skill check, even though you are untrained. This does not allow you to attempt trained actions using that skill unless you would otherwise be able to do so.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An ally you can see succeeds or critically succeeds at a Strength- or Dexterity-based skill check, using a skill in which you are untrained."
+}

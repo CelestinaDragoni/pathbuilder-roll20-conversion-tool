@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=568",
+    "name": "Light Step",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You aren’t bothered by tricky footing.",
+    "description": "You aren’t bothered by tricky footing. When you Stride or Step, you can ignore difficult terrain.",
+    "economy": "none",
+    "trigger": ""
+}

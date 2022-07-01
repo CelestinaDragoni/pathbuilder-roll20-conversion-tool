@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=316",
+    "name": "Wild Shape",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 1,
+    "prereq": "Wild Order",
+    "summary": "You are one with the wild, always changing and adapting to meet any challenge.",
+    "description": "You are one with the wild, always changing and adapting to meet any challenge. You gain the wild shape order spell, which lets you transform into a variety of forms that you can expand with druid feats.Wild Shape Leads To...\n\nElemental Shape, Ferocious Shape, Form Control, Insect Shape, Monstrosity Shape, Plant Shape, Reactive Transformation, Soaring Shape, Thousand Faces, True Shapeshifter",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1469",
+    "name": "Ongoing Strategy",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 10,
+    "prereq": "Strategic Strike",
+    "summary": "You're constantly studying small aspects of everyone's movements, even if you don't have a stratagem in place ahead of time.",
+    "description": "You're constantly studying small aspects of everyone's movements, even if you don't have a stratagem in place ahead of time. On any Strike for which you didn't Devise a Stratagem, you still deal precision damage equal to your number of strategic strike damage dice so long as the weapon or unarmed attack you used is one that would have let you use your Intelligence modifier had you Devised a Stratagem.",
+    "economy": "none",
+    "trigger": ""
+}

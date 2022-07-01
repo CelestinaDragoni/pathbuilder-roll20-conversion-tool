@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=29",
+    "name": "Breath of Life",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "React to revive a creature at the moment of its death.",
+    "heightenable": false,
+    "description": "Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore Hit Points to the target equal to 4d8 plus your spellcasting ability modifier. You can't use breath of life if the triggering effect was disintegrate or a death effect.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "A living creature within range would die.",
+    "range": "60 feet",
+    "target": "the triggering creature",
+    "duration": "",
+    "saving": ""
+}

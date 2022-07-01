@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=149",
+    "name": "Heroism",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Stoke a creature's inner heroism to make it more competent.",
+    "heightenable": true,
+    "description": "You tap into the target's inner heroism, granting it a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.\n\n------\n\nHeightened (6th) The status bonus increases to +2.\nHeightened (9th) The status bonus increases to +3.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

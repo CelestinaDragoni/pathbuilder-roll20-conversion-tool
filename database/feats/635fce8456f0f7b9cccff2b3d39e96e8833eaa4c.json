@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1101",
+    "name": "Blade of the Crimson Oath",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Knight Reclaimant Dedication",
+    "summary": "You call upon the Crimson Oath to smite undead and then make a weapon or unarmed Strike against an undead foe.",
+    "description": "You call upon the Crimson Oath to smite undead and then make a weapon or unarmed Strike against an undead foe. The Strike deals two extra weapon damage dice, and you can convert all the physical damage from the attack into positive damage.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

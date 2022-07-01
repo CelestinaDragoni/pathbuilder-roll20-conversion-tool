@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1644",
+    "name": "Accompany",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard",
+        "Concentrate",
+        "Manipulate"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You use your performances to supplement an ally's spellcasting, providing magical energy for their spells.",
+    "description": "You use your performances to supplement an ally's spellcasting, providing magical energy for their spells. Attempt a Performance check, using a very high DC for the ally's level, and either spend a Focus Point (if the triggering spell is a focus spell) or expend a spell slot at least 1 level higher than the triggering spell. If you succeed at the Performance check, your ally's spell doesn't cost the Focus Point or spell slot.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "reaction",
+    "trigger": "An ally within 30 feet Casts a Spell."
+}

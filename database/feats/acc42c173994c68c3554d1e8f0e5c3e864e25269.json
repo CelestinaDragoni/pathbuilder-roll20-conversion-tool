@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1896",
+    "name": "Disarming Block",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Bastion Dedication; Trained In Athletics",
+    "summary": "You attempt to Disarm the creature whose attack you blocked of the weapon they attacked you with.",
+    "description": "You attempt to Disarm the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don't have a hand free.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": "You Shield Block a melee Strike made with a held weapon."
+}

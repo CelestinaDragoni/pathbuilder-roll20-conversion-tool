@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2339",
+    "name": "Spiteful Rake",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling"
+    ],
+    "level": 13,
+    "prereq": "Claw Unarmed Attack",
+    "summary": "Your instincts sing of spite and malice, and you've learned a devastating trick: go for the eyes.",
+    "description": "Your instincts sing of spite and malice, and you've learned a devastating trick: go for the eyes. You make a claw Strike. If you hit and deal damage, the target is dazzled for 1 round. On a critical hit, the target is instead blinded for 1 round and dazzled until restored to maximum hit points.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.",
+    "economy": "2-action",
+    "trigger": ""
+}

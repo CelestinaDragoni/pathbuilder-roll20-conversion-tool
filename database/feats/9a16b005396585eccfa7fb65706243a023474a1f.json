@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2979",
+    "name": "Purifying Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Druid",
+        "Metamagic",
+        "Water"
+    ],
+    "level": 12,
+    "prereq": "Wave Order",
+    "summary": "You purify the water within a creature's body to cleanse them of illness.",
+    "description": "You purify the water within a creature's body to cleanse them of illness. If the next action you use is to cast heal targeting a single living creature, you can attempt to counteract a disease or poison affecting the target, in addition to the other benefits of heal. If you do, heal gains the water trait. Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.Water: Effects with the water trait either manipulate or conjure water. Those that manipulate water have no effect in an area without water. Creatures with this trait consist primarily of water or have a magical connection to the element. Planes with this trait are mostly liquid, perhaps with pockets of breathable air.",
+    "economy": "1-action",
+    "trigger": ""
+}

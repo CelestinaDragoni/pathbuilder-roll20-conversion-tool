@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=608",
+    "name": "Charged Javelin",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You fire a javelin of electricity that leaves a charged field around its target.",
+    "heightenable": true,
+    "description": "You fire a javelin of electricity that leaves a charged field around its target. Make a spell attack roll. The javelin deals 1d6 electricity damage and 1 persistent electricity damage.\n\nCritical Success The javelin deals double damage, both initial and persistent.\nSuccess The javelin deals full damage. \n\nAs long as the target is taking persistent damage from this spell, creatures gain a +1 status bonus to attack rolls with metal weapons or electricity effects against the target, and the target takes a –1 status penalty to saves against electricity effects.\n\n------\n\nHeightened (+1) The initial damage increases by 1d6, and the persistent damage increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 or more creatures",
+    "duration": "",
+    "saving": ""
+}

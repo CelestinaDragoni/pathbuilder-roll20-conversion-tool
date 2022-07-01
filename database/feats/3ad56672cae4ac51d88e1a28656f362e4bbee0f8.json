@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2450",
+    "name": "Riftmarked",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lineage",
+        "Tiefling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Long ago, qlippoth marked someone in your lineage, most likely through their ancient runestones that dot Golarion's surface.",
+    "description": "Long ago, qlippoth marked someone in your lineage, most likely through their ancient runestones that dot Golarion's surface. Yours is an old lineage, primordial and twisted, and you have a sense for similarly twisted things. You're trained in Occultism. If you're already trained in Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the Oddity Identification skill feat.Riftmarked Leads To...\n\nQlippoth MagicTraitsLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

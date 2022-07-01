@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2954",
+    "name": "Basic Synergy",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Summoner Dedication",
+    "summary": "You gain a 1st- or 2nd-level summoner feat of your choice.",
+    "description": "You gain a 1st- or 2nd-level summoner feat of your choice.Basic Synergy Leads To...\n\nAdvanced SynergyTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

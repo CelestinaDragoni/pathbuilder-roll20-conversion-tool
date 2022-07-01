@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=365",
+    "name": "Brutish Shove",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Press"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Throwing your weight behind your attack, you hit you opponent hard enough to make it stumble back.",
+    "description": "Throwing your weight behind your attack, you hit your opponent hard enough to make it stumble back. Make a Strike with a two-handed melee weapon. If you hit a target that is your size or smaller, that creature is flat-footed until the end of your current turn, and you can automatically Shove it, with the same benefits as the Shove action (including the critical success effect, if your Strike was a critical hit). If you move to follow the target, your movement doesn't trigger reactions.\n\n This Strike has the following failure effect. \n\nFailure The target becomes flat-footed until the end of your current turn.Brutish Shove Leads To...\n\nFlinging Shove, Powerful ShoveTraitsPress: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the Ready activity.",
+    "economy": "1-action",
+    "trigger": ""
+}

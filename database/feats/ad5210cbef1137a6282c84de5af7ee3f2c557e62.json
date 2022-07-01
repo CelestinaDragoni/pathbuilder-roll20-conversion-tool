@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2092",
+    "name": "Frightening Appearance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Vigilante"
+    ],
+    "level": 12,
+    "prereq": "Startling Appearance (Vigilante); Expert In Intimidation",
+    "summary": "Your dramatic appearances can frighten bystanders.",
+    "description": "Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to Demoralize each opponent within 10 feet to whom you were unnoticed before your Strike.Traits\n\nArchetype: This feat belongs to an archetype.\n\nVigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "none",
+    "trigger": ""
+}

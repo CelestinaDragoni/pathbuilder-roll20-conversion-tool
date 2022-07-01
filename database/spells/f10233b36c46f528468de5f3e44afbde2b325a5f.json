@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1068",
+    "name": "Girzanje's March",
+    "source": "Pathfinder #171",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Auditory",
+        "Enchantment",
+        "Linguistic",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "You sing a prayer for war, inspiring valor in allies who hear your song.",
+    "heightenable": true,
+    "description": "You sing a prayer for war, inspiring valor in allies who hear your song. Allied creatures who can hear and understand you gain a +1 status bonus to attack rolls, Fortitude saves, and Will saves against mental effects.\n\n------\n\nHeightened (7th) The status bonus increases to +2.\nHeightened (10th) The status bonus increases to +3.",
+    "economy": "2-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

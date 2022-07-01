@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2482",
+    "name": "Offensive Analysis",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aphorite"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You can enhance your senses and mental state to consider every aspect of an attack.",
+    "description": "You can enhance your senses and mental state to consider every aspect of an attack. You can cast true strike as a divine innate spell once per day.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=919",
+    "name": "Glimmer of Charm",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Aura",
+        "Emotion",
+        "Enchantment",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Briefly improve the attitude of nearby creatures with a charming aura.",
+    "heightenable": false,
+    "description": "You're bathed in a smooth, almost glittering aura that improves the attitude of those near you. Any creature that ends its turn in the aura must attempt a Will saving throw with the following effects. No matter the result, it's then temporarily immune for 24 hours. The effect lasts until the spell ends, even after the creature leaves the aura.\n\nCritical Success The creature is unaffected and is aware of the aura.\nSuccess The creature's attitude toward you improves by one step. If that improves its attitude to at least indifferent, it can't take hostile actions against you, though the effect ends as soon as you take a hostile action against the creature or its allies.\nFailure The creature's attitude toward you improves by two steps. It can't take hostile actions against you, though the effect ends as soon as you take a hostile action against the creature or its allies.\nCritical Failure The creature's attitude becomes helpful to you, though the effect ends as soon as you take a hostile action against the creature or its allies. While the creature is helpful, it can't take hostile actions against you.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

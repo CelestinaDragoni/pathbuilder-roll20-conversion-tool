@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=95",
+    "name": "Earthquake",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Earth",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Shake the ground with a devastating earthquake.",
+    "heightenable": true,
+    "description": "You shake the ground, topple creatures into fissures, and collapse structures.\n\n The GM might add additional effects in certain areas. Cliffs might collapse, causing creatures to fall, or a lake might drain as fissures open up below its surface, leaving a morass of quicksand. Shaking Ground The ground is difficult terrain, and creatures on it take a –2 circumstance penalty to attack rolls, AC, and skill checks. Fissures Each creature on the ground must attempt a Reflex save at the start of its turn to keep its footing and avoid falling into 40-foot-deep fissures that open beneath it. The fissures are permanent, and their sides require DC 15 Athletics to Climb. Collapse Structures and ceilings might collapse. The GM rolls a flat check for each (DC 16 for a sturdy structure, DC 14 for an average structure and most natural formations, DC 9 for a shoddy structure, all adjusted higher or lower as the GM sees fit). A collapse deals 11d6 bludgeoning damage; each creature caught in a collapse must attempt a Reflex save to avoid it.\n\nCritical Success The creature takes half the collapse damage.\nSuccess The creature takes half the collapse damage and falls prone.\nFailure The creature takes the full collapse damage and falls prone.\nCritical Failure The creature takes the full collapse damage and falls into a fissure.\n\n------\n\nHeightened (10th) You create a massive earthquake that can devastate a settlement. The range increases to half a mile and the area to a quarter-mile burst.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "1 round",
+    "saving": ""
+}

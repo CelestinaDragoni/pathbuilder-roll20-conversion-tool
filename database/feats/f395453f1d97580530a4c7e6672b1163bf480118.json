@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2802",
+    "name": "Laughing Gnoll",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Gnoll"
+    ],
+    "level": 9,
+    "prereq": "Master In Intimidation",
+    "summary": "A gnoll's sinister giggle is a sound of warning and threat.",
+    "description": "A gnoll's sinister giggle is a sound of warning and threat. You gain the Battle Cry skill feat. You don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language.Traits\n\nGnoll: Gnolls are humanoids that resemble hyenas.",
+    "economy": "none",
+    "trigger": ""
+}

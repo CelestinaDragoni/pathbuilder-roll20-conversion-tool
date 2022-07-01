@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=263",
+    "name": "Shield Paragon",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 20,
+    "prereq": "Divine Ally (Shield)",
+    "summary": "Your shield is a vessel of divine protection.",
+    "description": "Your shield is a vessel of divine protection. When you’re wielding your chosen shield, it is always raised, even without you using the Raise a Shield action. Your chosen shield doubles its HP and BT, rather than increasing them by half. If it would be destroyed, it vanishes to your deity’s realm instead, where your divine ally repairs it. During your next daily preparations, the shield returns to you fully repaired.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3448",
+    "name": "Incredible Megafauna Companion",
+    "source": "Pathfinder #177",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Mature Megafauna Companion",
+    "summary": "Under your care and training, your megafauna companion has realized its innate potential.",
+    "description": "Under your care and training, your megafauna companion has realized its innate potential. Your companion becomes an indomitable or savage animal companion (your choice), gaining additional abilities determined by the type of companion.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

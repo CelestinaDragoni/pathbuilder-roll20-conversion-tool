@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1561",
+    "name": "Cackle",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Witch"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You can extend one of your spells with a quick burst of laughter.",
+    "description": "You can extend one of your spells with a quick burst of laughter. You learn the cackle hex. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

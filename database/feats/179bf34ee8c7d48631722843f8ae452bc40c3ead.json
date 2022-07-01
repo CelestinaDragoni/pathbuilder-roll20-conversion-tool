@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1040",
+    "name": "Leshy Superstition",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You notice spirits that inhabit objects, learning which bring good fortune and which are unlucky.",
+    "description": "You notice spirits that inhabit objects, learning which bring good fortune and which are unlucky. You focus on the power of a lucky object, granting you a +1 circumstance bonus to your saving throw against the triggering effect.Leshy Superstition Leads To...\n\nLucky KeepsakeTraitsLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "reaction",
+    "trigger": "You attempt a saving throw against a spell or magical effect, but haven’t rolled yet."
+}

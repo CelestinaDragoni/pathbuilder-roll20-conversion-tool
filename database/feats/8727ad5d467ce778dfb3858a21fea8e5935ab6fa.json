@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3403",
+    "name": "Spinebreaker",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Wrestler Dedication",
+    "summary": "You squeeze your opponent in a vicious bear hug, putting intense pressure on their nerves, joints, or other pain points.",
+    "description": "You squeeze your opponent in a vicious bear hug, putting intense pressure on their nerves, joints, or other pain points. Attempt an Athletics check to Grapple the creature you have grabbed or restrained, with the following effects instead of the usual effects.\n\nCritical Success The target is clumsy 2 until the end of its next turn and clumsy 1 for 1 minute.\nSuccess The target is clumsy 1 until the end of its next turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

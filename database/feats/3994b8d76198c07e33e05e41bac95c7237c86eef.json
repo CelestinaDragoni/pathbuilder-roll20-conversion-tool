@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=71",
+    "name": "Natural Skill",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your ingenuity allows you to learn a wide variety of skills.",
+    "description": "Your ingenuity allows you to learn a wide variety of skills. You gain the trained proficiency rank in two skills of your choice.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

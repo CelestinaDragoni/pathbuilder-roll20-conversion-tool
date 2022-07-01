@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=251",
+    "name": "Remove Disease",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Cure a disease afflicting a creature.",
+    "heightenable": false,
+    "description": "Healing magic purges disease from a creature's body. You attempt to counteract one disease afflicting the target.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

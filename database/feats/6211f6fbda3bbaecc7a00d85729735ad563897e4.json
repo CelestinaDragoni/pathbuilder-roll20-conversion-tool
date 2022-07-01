@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1512",
+    "name": "Buckler Expertise",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've learned a flexible way to position your buckler to provide more protection.",
+    "description": "You've learned a flexible way to position your buckler to provide more protection. When you Raise a Shield to gain a circumstance bonus to AC from a buckler, increase the bonus from +1 to +2.",
+    "economy": "none",
+    "trigger": ""
+}

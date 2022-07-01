@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1090",
+    "name": "Hypnopompic Terrors",
+    "source": "Monsters of Myth",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Emotion",
+        "Fear",
+        "Illusion",
+        "Incapacitation",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "You send a wave of nightmarish visions crashing over your targets, leaving them paralyzed by fear.",
+    "heightenable": false,
+    "description": "You send a wave of nightmarish visions crashing over your targets, leaving them paralyzed by fear. These visions inflict real wounds on vulnerable targets, dealing 6d12 mental damage. If you target a sleeping creature, it wakes up as it attempts the save but takes one degree of success worse than the result it rolled on its save.\n\nCritical Success The target is unaffected.\nSuccess The target is frightened 2 and takes half the mental damage.\nFailure The target is frightened 2, is paralyzed for 1 round, and takes the full mental damage.\nCritical Failure The target is frightened 2, is paralyzed for 2 rounds, and takes double the mental damage.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "up to 10 creatures",
+    "duration": "",
+    "saving": ""
+}

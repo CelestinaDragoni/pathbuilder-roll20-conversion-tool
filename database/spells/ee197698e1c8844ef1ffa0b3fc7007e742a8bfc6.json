@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1043",
+    "name": "Spinning Staff",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Magus"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You spin your staff with a twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next Spellstrike.",
+    "heightenable": false,
+    "description": "You spin your staff with a twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next Spellstrike. Make a melee Strike with your staff against one foe and then a second melee Strike with your staff against a different foe. Your multiple attack penalty applies to both of these attacks as normal.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

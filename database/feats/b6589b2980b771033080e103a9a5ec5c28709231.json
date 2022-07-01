@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2834",
+    "name": "Spine Stabber",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Shisk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "The quills on your arms are particularly sharp and sturdy.",
+    "description": "The quills on your arms are particularly sharp and sturdy. You gain a quills unarmed attack that deals 1d6 piercing damage. Your quills are in the knife weapon group and have the finesse and unarmed traits.Spine Stabber Leads To...\n\nPiercing QuillsTraitsShisk: Secretive humanoids covered in bony plumage that reside underground.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1041",
+    "name": "Shielding Strike",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Magus"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "As you attack a foe, warding magic transforms your momentum into action and lifts your shield.",
+    "heightenable": false,
+    "description": "As you attack a foe, warding magic transforms your momentum into action and lifts your shield. Make a melee Strike. You can then either Raise your Shield if you're wielding one or cast shield if you have the spell.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3370",
+    "name": "Barrier Shield",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Shield",
+    "summary": "When you cast shield, you can modify the spell to create a solid barrier you can use for cover, but not for blocking.",
+    "description": "When you cast shield, you can modify the spell to create a solid barrier you can use for cover, but not for blocking. You can't use the Shield Block reaction when the spell is modified in this way, but you (and only you) can spend an action to Take Cover to gain standard cover from it.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

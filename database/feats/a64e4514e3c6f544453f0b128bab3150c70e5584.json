@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=539",
+    "name": "Ubiquitous Snares",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 16,
+    "prereq": "Snare Specialist",
+    "summary": "You can prepare a seemingly impossible number of snares in advance, and you’re ready to spring them on unsuspecting foes.",
+    "description": "You can prepare a seemingly impossible number of snares in advance, and you’re ready to spring them on unsuspecting foes. Double the number of prepared snares from Snare Specialist.Ubiquitous Snares Leads To...\n\nImpossible Snares",
+    "economy": "none",
+    "trigger": ""
+}

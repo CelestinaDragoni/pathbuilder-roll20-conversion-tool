@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1382",
+    "name": "Nimble Hooves",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your legs end in hooves rather than feet, with joints and tendons that allow you to move with great haste.",
+    "description": "Your legs end in hooves rather than feet, with joints and tendons that allow you to move with great haste. Your Speed increases by 5 feet.\n\nSpecial The Speed increase from this feat isn't cumulative with any Speed increase from your ancestry feats (such as Nimble Elf).Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=959",
+    "name": "Shory Aerialist",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 13,
+    "prereq": "Garundi Ethnicity, Mauxi Ethnicity, Or Tian-yae Ethnicity; Shory Aeromancer Or Ability To Cast Fly",
+    "summary": "Unique in Golarion’s history, the Shory people developed fighting styles dedicated to combat in the air.",
+    "description": "Unique in Golarion’s history, the Shory people developed fighting styles dedicated to combat in the air. You gain a +2 circumstance bonus to Acrobatics checks to Maneuver in Flight and a +5-foot status bonus to your fly Speed whenever you are flying via magic.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

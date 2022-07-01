@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1392",
+    "name": "Fiend's Door",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "Like many fiends, you have the supernatural ability to teleport yourself to safety.",
+    "description": "Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast dimension door as a 5th-level divine innate spell.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

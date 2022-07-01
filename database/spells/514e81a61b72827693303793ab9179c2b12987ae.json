@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=63",
+    "name": "Death Knell",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Finish off a creature who's near death.",
+    "heightenable": false,
+    "description": "You snuff the life out of a creature on the brink of death. The target must attempt a Will save. If this kills it, you gain 10 temporary HP and a +1 status bonus to attack and damage rolls for 10 minutes.\n\nCritical Success The target is unaffected.\nSuccess The target's dying value increases by 1.\nFailure The target dies.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living creature that has 0 HP",
+    "duration": "",
+    "saving": ""
+}

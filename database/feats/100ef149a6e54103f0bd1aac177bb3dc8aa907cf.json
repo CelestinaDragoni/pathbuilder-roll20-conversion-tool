@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1886",
+    "name": "Quick Shot",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Open"
+    ],
+    "level": 4,
+    "prereq": "Archer Dedication",
+    "summary": "You draw your bow and attack with the same action.",
+    "description": "You draw your bow and attack with the same action. You Interact to draw a weapon from the bow weapon group that is loaded or has reload 0, then Strike with that weapon.Traits\n\nArchetype: This feat belongs to an archetype.\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=906",
+    "name": "Envenom Companion",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Poison"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Make your companion's attacks toxic.",
+    "heightenable": true,
+    "description": "You envenom your companion or eidolon's attacks, which drip with highly toxic venom for the spell's duration. The first time each round the target hits a creature with an unarmed Strike that deals piercing or slashing damage, that Strike deals an additional 1d8 poison damage. A creature that is damaged by this poison must attempt a Fortitude save. On a failure, it's also clumsy 1 for 1 round.\n\n This spell can't target familiars.\n\n------\n\nHeightened (+3) The poison damage increases by 1d8 and the clumsy value imposed on a failed save increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "your companion or eidolon",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1791",
+    "name": "Anticipate Ambush",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Exploration",
+        "Rogue"
+    ],
+    "level": 6,
+    "prereq": "Expert In Stealth",
+    "summary": "Using your extensive knowledge of ambush tactics, you keep watch for any hidden creatures or dangerous sites, moving at half your travel speed.",
+    "description": "Using your extensive knowledge of ambush tactics, you keep watch for any hidden creatures or dangerous sites, moving at half your travel speed. If you're Anticipating an Ambush at the start of an encounter, you roll a Perception check for initiative, and all enemies rolling Stealth for initiative take a –2 circumstance penalty to their Stealth checks.Traits\n\nExploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.",
+    "economy": "none",
+    "trigger": ""
+}

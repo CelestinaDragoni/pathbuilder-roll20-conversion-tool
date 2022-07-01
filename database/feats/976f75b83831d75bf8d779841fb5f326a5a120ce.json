@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=408",
+    "name": "Flinging Shove",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 12,
+    "prereq": "Aggressive Block Or Brutish Shove",
+    "summary": "Your opponets go even farther when push them around.",
+    "description": "Increase the distance you Shove your opponent with Aggressive Block or Brutish Shove to 10 feet on a success or 20 feet on a critical success. When you use Aggressive Block, you can choose whether the target is flat-footed or Shoved. When you make a Brutish Shove, you also Shove the target 5 feet on a failure.",
+    "economy": "none",
+    "trigger": ""
+}

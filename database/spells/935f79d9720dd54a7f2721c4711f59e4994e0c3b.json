@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=639",
+    "name": "Sudden Bolt",
+    "source": "Pathfinder #151",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You call down a small bolt of lightning on the target",
+    "heightenable": true,
+    "description": "You call down a small bolt of lightning on the target, dealing 4d12 electricity damage.\n\n------\n\nHeightened (+1) The damage increases by 1d12.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature or object",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=299",
+    "name": "Extend Armament Alignment",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 14,
+    "prereq": "Align Armament",
+    "summary": "The alignment you impose on a weapon lasts much longer.",
+    "description": "The alignment you impose on a weapon lasts much longer. The duration of Align Armament increases to 1 minute.",
+    "economy": "none",
+    "trigger": ""
+}

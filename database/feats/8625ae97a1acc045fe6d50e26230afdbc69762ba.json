@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=743",
+    "name": "Arcane School Spell",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Wizard Dedication",
+    "summary": "Select one arcane school of magic.",
+    "description": "Select one arcane school of magic. You gain the school’s initial school spell. If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by studying.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

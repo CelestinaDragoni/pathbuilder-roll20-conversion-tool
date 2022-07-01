@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=994",
+    "name": "Shadow Army",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Illusion",
+        "Mental",
+        "Shadow",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 10,
+    "summary": "Duplicate yourself to have your shadows fight enemies as you hide amongst them.",
+    "heightenable": false,
+    "description": "You create dozens of semi-real copies of yourself that swarm across the battlefield and fight your enemies. You are virtually indistinguishable from your clones, allowing you to Hide and Sneak among them. An enemy that's in the area when the spell is cast or that ends its turn in the area takes 3d10 mental damage and 3d10 bludgeoning damage, and is possibly inflicted with a condition, depending on the result of its Will save. When you Cast the Spell, you choose a condition your shadows impose on a failed save: clumsy 2, enfeebled 2, flat-footed, or slowed 1.\n\nCritical Success The creature takes no damage. For the duration of the spell, the creature gets a result one step better than it rolled on further saves against the spell, and can distinguish you from your clones without difficulty.\nSuccess The creature takes half damage.\nFailure The creature takes full damage, and gains the chosen condition.\nCritical Failure The creature takes double damage, and gains the chosen condition.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "Will"
+}

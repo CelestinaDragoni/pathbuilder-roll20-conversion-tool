@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1243",
+    "name": "Denier of Destruction",
+    "source": "Pathfinder #156",
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 20,
+    "prereq": "Healing Font",
+    "summary": "You can manipulate the same energies that the aeon orbs use to sustain life.",
+    "description": "You can manipulate the same energies that the aeon orbs use to sustain life. You cast heal on the triggering target. Instead of its normal effects, the heal spell reduces the triggering damage by an amount equal to the Hit Points a 1-action heal spell of that level would have recovered. As usual, if this reduces the damage to 0, it might also remove additional effects of the triggering attack, such as injury poisons.TraitsUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.\n\nCapstone FeatsSource Pathfinder #156: The Apocalypse Prophet pg. 72\nCharacters who have reached 20th level can choose from the following feats, representing the pinnacle of mortal power influenced by their triumphs.\n\nRelated Feats: Annihilating Swing, Astonishing Explosion, Banishing Blow, Endurance of the Rooted Tree, Mimic Protections, Reclaim Spell, Reflecting Riposte, Ringmaster's Introduction, Steal Essence, Tenacious Blood Magic, Verdant Presence",
+    "economy": "reaction",
+    "trigger": "Any ally within 30 feet that you can heal with your heal spell would take damage from an attack or effect from a source you can observe."
+}

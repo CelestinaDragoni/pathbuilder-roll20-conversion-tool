@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=807",
+    "name": "Stoke the Heart",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cantrip",
+        "Emotion",
+        "Enchantment",
+        "Hex",
+        "Witch"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "Intense fervor fills the target creature, empowering their blows.",
+    "heightenable": true,
+    "description": "Intense fervor fills the target creature, empowering their blows. The target gains a +2 status bonus to damage rolls. Once this spell ends, the target becomes temporarily immune for 1 minute.\n\n------\n\nHeightened (+2) The status bonus to damage increases by 1.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

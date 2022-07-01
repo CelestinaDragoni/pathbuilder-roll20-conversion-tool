@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3474",
+    "name": "Undead Slayer Dedication",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In Religion",
+    "summary": "Your training has prepared you to recognize most undead on sight.",
+    "description": "Your training has prepared you to recognize most undead on sight. You become trained in two Lore skills, each about a specific type of undead, or become an expert if you were already trained. You gain the Slayer's Identification free action.\n\n Slayer's Identification     Trigger You roll initiative and can observe a creature you know is undead; Effect You attempt to Recall Knowledge to identify the undead creature with a +1 circumstance bonus. If you're a master in the skill you're using to Recall Knowledge, you gain a +2 circumstance bonus instead.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the undead slayer archetype.Undead Slayer Dedication Leads To...\n\nBlessed Medicine, Frighten Undead, Gear Up, Hunter's Sanctum, Necromantic Resistance, Slayer's StrikeTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "free_action",
+    "trigger": "You roll initiative and can observe a creature you know is undead; Effect You attempt to Recall Knowledge to identify the undead creature with a +1 circumstance bonus. If you're a master in the skill you're using to Recall Knowledge, you gain a +2 circumstance bonus instead."
+}

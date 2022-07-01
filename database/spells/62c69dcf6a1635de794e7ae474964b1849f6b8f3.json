@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=542",
+    "name": "Perfect Strike",
+    "source": "World Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "Reroll a missed unarmed strike.",
+    "heightenable": false,
+    "description": "You call upon insight from your training to recover accuracy. Reroll the missed attack roll and keep the new result.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

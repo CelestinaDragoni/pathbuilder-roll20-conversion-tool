@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=126",
+    "name": "Forbidding Ward",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Cantrip"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Protect an ally against one specific enemy.",
+    "heightenable": true,
+    "description": "You ward an ally against the attacks and hostile spells from the target enemy. The target ally gains a +1 status bonus to Armor Class and saving throws against the target enemy's attacks, spells, and other effects.\n\n------\n\nHeightened (6th) The status bonus increases to +2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 ally and 1 enemy",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

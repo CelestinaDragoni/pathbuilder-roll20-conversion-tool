@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1936",
+    "name": "Distracting Flattery",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 4,
+    "prereq": "Dandy Dedication; Expert In Deception",
+    "summary": "You know how to maintain a good impression and manage your image, even while keeping uncouth company.",
+    "description": "You know how to maintain a good impression and manage your image, even while keeping uncouth company. Make a Deception check against the target's Will DC. Regardless of your result, the target is temporarily immune to your Distracting Flattery for 10 minutes.\n\nSuccess The target's attitude doesn't decrease as a result of your ally's social blunder.\nFailure The target's attitude decreases, as normal.\nCritical Failure Your attempt makes matters worse, decreasing the target's attitude toward you by one step, in addition to any changes from the behavior that triggered this reaction.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "reaction",
+    "trigger": "You observe a target's attitude toward yourself or your allies decrease as a result of an ally's behavior."
+}

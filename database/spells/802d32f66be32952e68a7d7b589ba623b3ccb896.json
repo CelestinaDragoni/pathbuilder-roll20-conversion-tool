@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=846",
+    "name": "Ectoplasmic Expulsion",
+    "source": "Pathfinder #165",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Mental",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "You call upon tendrils of ephemeral ectoplasm to pass through the target and carry away a harmful psychic affliction.",
+    "heightenable": false,
+    "description": "You call upon tendrils of ephemeral ectoplasm to pass through the target and carry away a harmful psychic affliction. You immediately attempt to counteract a single effect on the target with the emotion or possession trait, or an effect giving the target the controlled or fascinated condition. If you fail to counteract the effect, you nevertheless set up a resonance that allows the target to more ably escape the effect on its own; for the next hour, the target gains a +2 status bonus to Will saves to shrug off the effect you failed to counteract (such as Will saves to shake off control by the possession spell).",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

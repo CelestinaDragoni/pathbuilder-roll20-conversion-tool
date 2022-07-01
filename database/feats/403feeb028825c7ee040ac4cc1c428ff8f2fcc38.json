@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1981",
+    "name": "Call Your Shot",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Play To The Crowd",
+    "summary": "When you successfully Play to the Crowd, add additional benefits to the list you can choose from.",
+    "description": "When you successfully Play to the Crowd, add the following to the list of benefits you can choose from:Choose a creature within 30 feet that can see you to become frightened 1. This effect has the emotion, fear, mental, and visual traits.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1271",
+    "name": "Dragon's Presence",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "As a member of dragonkind, you project unflappable confidence",
+    "description": "As a member of dragonkind, you project unflappable confidence (that collapses catastrophically against the deadliest foes). When you roll a success on a saving throw against a fear effect, you get a critical success instead. When you roll a failure against a fear effect, you get a critical failure instead. \n\nIn addition, when you attempt to Demoralize a foe of your level or lower, you gain a +1 circumstance bonus to the Intimidation check.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

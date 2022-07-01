@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=646",
+    "name": "Pillar of Water",
+    "source": "Pathfinder #152",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "You create a large, self-contained cylinder of still fresh water",
+    "heightenable": false,
+    "description": "You create a large, self-contained cylinder of still fresh water. The pillar has a maximum radius of 15 feet and a maximum height of 60 feet. Creatures inside the pillar can swim through the water as normal (Swim DC 10), or, if the spell was cast on solid ground, walk along the bottom (which is difficult terrain). Any creature that exits the pillar falls or lands accordingly.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

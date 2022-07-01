@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=887",
+    "name": "Coral Eruption",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Create damaging areas of razor-sharp coral.",
+    "heightenable": true,
+    "description": "Razor sharp coral growths erupt from the ground, transforming the landscape into a dangerous coral reef. You can create a third nonoverlapping burst if the centers of all three bursts are underwater. Creatures in the area when the spell is cast take 6d6 piercing damage and must attempt a basic Reflex save. A creature that critically fails its saving throw also takes 1d6 persistent bleed damage. The area becomes difficult terrain and hazardous terrain.\n\n A creature that moves through the area takes 3 piercing damage for every square of that area it moves into.\n\n------\n\nHeightened (+2) The initial piercing damage increases by 3d6, and the hazardous terrain damage increases by 1.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "basic Reflex"
+}

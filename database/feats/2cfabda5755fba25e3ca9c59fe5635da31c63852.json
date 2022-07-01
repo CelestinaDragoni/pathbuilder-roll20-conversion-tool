@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2867",
+    "name": "Standby Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 8,
+    "prereq": "Spellstrike",
+    "summary": "You've honed one spell as your favored combat technique, and you've practiced it enough that you no longer need to prepare it to cast it.",
+    "description": "You've honed one spell as your favored combat technique, and you've practiced it enough that you no longer need to prepare it to cast it. Choose a spell in your spellbook that you could use with Spellstrike and that has a level no higher than the highest-level magus spell slot you have. You can Cast this Spell without having it prepared ahead of time by expending a spell slot of a sufficient level to cast your chosen spell. You can change this spell whenever you add new spells to your spellbook, or by studying your spellbook for 1 hour.",
+    "economy": "none",
+    "trigger": ""
+}

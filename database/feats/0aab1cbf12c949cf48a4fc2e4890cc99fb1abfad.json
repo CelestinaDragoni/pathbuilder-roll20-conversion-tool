@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1894",
+    "name": "Assassinate",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Assassin Dedication",
+    "summary": "You strike with one swift movement, trying to instantly slay your mark.",
+    "description": "You strike with one swift movement, trying to instantly slay your mark. Make a Strike against your mark. If you hit, your mark takes 6d6 extra precision damage with a basic Fortitude save against your class DC or spell DC, whichever is higher. If the mark critically fails, they die. This is an incapacitation effect. The creature then becomes temporarily immune to your Assassinate for 1 day.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

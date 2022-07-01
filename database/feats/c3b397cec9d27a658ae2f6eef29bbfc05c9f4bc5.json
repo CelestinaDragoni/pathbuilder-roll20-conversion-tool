@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1356",
+    "name": "Empyreal Blessing",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You can call forth a benediction upon your allies, whether you pray to a deity of the celestial realms or just find the power within yourself.",
+    "description": "You can call forth a benediction upon your allies, whether you pray to a deity of the celestial realms or just find the power within yourself. You can cast bless once per day as a 1st-level divine innate spell.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "none",
+    "trigger": ""
+}

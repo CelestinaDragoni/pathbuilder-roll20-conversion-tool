@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=139",
+    "name": "Goblin Pox",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Disease",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Infect a creature with goblin pox.",
+    "heightenable": false,
+    "description": "Your touch afflicts the target with goblin pox, an irritating allergenic rash. The target must attempt a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target is sickened 1.\nFailure The target is afflicted with goblin pox at stage 1.\nCritical Failure The target is afflicted with goblin pox at stage 2.\n\nGoblin Pox (disease); Level 1. Goblins and goblin dogs are immune. Stage 1 sickened 1 (1 round); Stage 2 sickened 1 and slowed 1 (1 round); Stage 3 sickened 1 and the creature can't reduce its sickened value below 1 (1 day)",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": "Fortitude"
+}

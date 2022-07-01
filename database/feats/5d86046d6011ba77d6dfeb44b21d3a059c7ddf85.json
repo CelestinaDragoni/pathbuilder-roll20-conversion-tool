@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=714",
+    "name": "Diverse Weapon Expert",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Fighter Dedication; Expert In Any Kind Of Weapon Or Unarmed Attack",
+    "summary": "Your proficiency ranks for simple weapons and martial weapons increase to expert.",
+    "description": "Your proficiency ranks for simple weapons and martial weapons increase to expert, and your proficiency rank for advanced weapons increases to trained.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

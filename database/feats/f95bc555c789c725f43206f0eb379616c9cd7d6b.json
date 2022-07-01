@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=286",
+    "name": "Align Armament",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Divine",
+        "Evocation"
+    ],
+    "level": 8,
+    "prereq": "Chaotic, Evil, Good, Or Lawful Deity",
+    "summary": "You bring a weapon into metaphysical concordance with your deity’s beliefs.",
+    "description": "You bring a weapon into metaphysical concordance with your deity’s beliefs. When you select this feat, choose chaotic, evil, good, or lawful. Your choice must match one of your deity’s alignment components. This action has the trait corresponding to the chosen alignment component.\n\n When you use this action, you touch a weapon. For 1 round, that weapon deals an additional 1d6 damage of the chosen type to creatures of the opposed alignment. For example, if you chose good, the weapon would deal an extra 1d6 good damage to evil creatures. If you Align an Armament again, any previously aligned armament loses its additional damage.\n\nSpecial You can select this feat a second time, choosing your deity’s other alignment component. When you Align an Armament, you can choose either alignment component.Align Armament Leads To...\n\nExtend Armament AlignmentTraitsDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.",
+    "economy": "1-action",
+    "trigger": ""
+}

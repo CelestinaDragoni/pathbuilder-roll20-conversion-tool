@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1991",
+    "name": "Magical Adaptation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Horizon Walker Dedication",
+    "summary": "When an obstacle bars your path, you pull a trick from your sleeve to overcome it.",
+    "description": "When an obstacle bars your path, you pull a trick from your sleeve to overcome it. You can cast darkvision, spider climb, and 4th-level water breathing as innate primal spells, each once per day.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

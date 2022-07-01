@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2066",
+    "name": "Mighty Bulwark",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Sentinel Dedication",
+    "summary": "Thanks to your incredible connection to your armor, you can use it to shrug off an incredible array of dangers.",
+    "description": "Thanks to your incredible connection to your armor, you can use it to shrug off an incredible array of dangers. Your bonus from the bulwark armor trait increases from +3 to +4, and it applies on all Reflex saves, not just damaging Reflex saves.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

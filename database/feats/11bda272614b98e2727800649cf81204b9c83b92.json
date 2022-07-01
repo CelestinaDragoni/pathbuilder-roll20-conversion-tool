@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2071",
+    "name": "Shadow Illusion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Shadow Magic",
+    "summary": "With an artful eye, you shape shadows into illusory forms.",
+    "description": "With an artful eye, you shape shadows into illusory forms. You gain the shadow illusion focus spell. Increase the number of Focus Points in your pool by 1. You become an expert in occult spell attack rolls and DCs.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

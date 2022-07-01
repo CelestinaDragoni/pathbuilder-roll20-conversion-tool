@@ -1,0 +1,21 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=183",
+    "name": "Cantrip Expansion",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Bard",
+        "Cleric",
+        "Magus",
+        "Oracle",
+        "Sorcerer",
+        "Witch",
+        "Wizard"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Study broadens your range of simple spells.",
+    "description": "A greater understanding of your magic broadens your range of simple spells.\n\nPrepared Caster (Cleric, Wizard, etc.): You can prepare two additional cantrips each day.\nSpontaneous Caster (Bard, Sorcerer, etc.): Add two additional cantrips from your spell list to your repertoire.",
+    "economy": "none",
+    "trigger": ""
+}

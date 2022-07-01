@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2036",
+    "name": "Poisoner Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In Crafting",
+    "summary": "You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful.",
+    "description": "You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the basic alchemy benefits, though they can be used only for alchemical poisons. You gain batches of infused reagents per day equal to your level. Your advanced alchemy level for creating these is 1 and doesn't increase on its own.\n\nSpecial You can't select another dedication feat until you have gained at least two other feats from the poisoner archetype.Poisoner Dedication Leads To...\n\nAcquired Tolerance, Expert Poisoner, Poison Coat, Poisoner's TwistTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

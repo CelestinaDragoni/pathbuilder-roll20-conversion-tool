@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3334",
+    "name": "Accurate Swing",
+    "source": "Night of the Gray Death",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Vigilante"
+    ],
+    "level": 8,
+    "prereq": "Vigilante Dedication; Harsh Judgment; Member Of The Gray Gardeners",
+    "summary": "You strike cleanly with wide, sweeping attacks to inflict maximum damage",
+    "description": "You strike cleanly with wide, sweeping attacks to inflict maximum damage, taking advantage of your judged foe's fear to land a felling blow. If you Strike a creature you condemned with Harsh Judgment that has the frightened condition with a sweep melee weapon or a sweep unarmed attack, you gain a circumstance bonus to the Strike's damage equal to the number of weapon damage dice your weapon deals.Traits\n\nArchetype: This feat belongs to an archetype.\n\nVigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "none",
+    "trigger": ""
+}

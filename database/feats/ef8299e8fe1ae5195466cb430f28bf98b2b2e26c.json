@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=598",
+    "name": "Trickster's Ace",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Investigator",
+        "Rogue"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "You have a contingency in your back pocket for desperate situations.",
+    "description": "Whether from jury-rigged magic items, stolen magical essence, or other means, you have a contingency in your back pocket for desperate situations. When the trigger occurs, you cause the spell to come into effect. The spell targets only you, no matter how many creatures it would affect normally. If you define particularly complicated conditions, as determined by the GM, the trigger might fail. Once the contingency is triggered, the spell is expended until your next daily preparations.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "reaction",
+    "trigger": "You specify the trigger when you make your daily preparations (see Requirements below)."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=42",
+    "name": "Goblin Song",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You sing annoying goblin songs, distracting your foes with silly and repetitive lyrics.",
+    "description": "You sing annoying goblin songs, distracting your foes with silly and repetitive lyrics. Attempt a Performance check against the Will DC of a single enemy within 30 feet. This has all the usual traits and restrictions of a Performance check. You can affect up to two targets within range if you have expert proficiency in Performance, four if you have master proficiency, and eight if you have legendary proficiency.\n\n\nCritical Success The target takes a –1 status penalty to Perception checks and Will saves for 1 minute.\nSuccess The target takes a –1 status penalty to Perception checks and Will saves for 1 round.\nCritical Failure The target is temporarily immune to attempts to use Goblin Song for 1 hour.Goblin Song Leads To...\n\nLoud SingerTraitsGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "1-action",
+    "trigger": ""
+}

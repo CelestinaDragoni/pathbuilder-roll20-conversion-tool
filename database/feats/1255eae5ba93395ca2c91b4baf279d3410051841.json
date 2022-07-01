@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1061",
+    "name": "Swift Swimmer",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 5,
+    "prereq": "Wetlander Lizardfolk Heritage",
+    "summary": "You swim faster than most iruxi.",
+    "description": "You swim faster than most iruxi. Your swim Speed increases to 25 feet.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

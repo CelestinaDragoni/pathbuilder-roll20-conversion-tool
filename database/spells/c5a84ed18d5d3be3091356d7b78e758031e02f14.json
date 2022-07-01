@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=403",
+    "name": "Bit of Luck",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Divination",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You tilt the scales of luck slightly to protect a creature from disaster.",
+    "heightenable": false,
+    "description": "You tilt the scales of luck slightly to protect a creature from disaster. When the target would attempt a saving throw, it can roll twice and use the better result. Once it does this, the spell ends.\n\n If you cast bit of luck again, any previous bit of luck you cast that's still in effect ends. After a creature has been targeted with bit of luck, it becomes temporarily immune for 24 hours.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 willing creature",
+    "duration": "1 minute",
+    "saving": ""
+}

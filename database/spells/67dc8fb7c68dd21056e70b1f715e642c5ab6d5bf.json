@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=923",
+    "name": "Guiding Star",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Detection",
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Constellations nudge the target to travel to a location you choose.",
+    "heightenable": false,
+    "description": "You call on the constellations of the night sky to guide a creature to the location where you Cast the Spell. Each time the target views the stars, it receives a mental nudge toward your chosen location, though it isn't compelled to follow. The target can recognize you as the source. If the creature goes to another planet or plane, the spell's effects are suppressed, but they resume if the creature returns.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "planetary",
+    "target": "1 creature you've met",
+    "duration": "until your next daily preparations",
+    "saving": ""
+}

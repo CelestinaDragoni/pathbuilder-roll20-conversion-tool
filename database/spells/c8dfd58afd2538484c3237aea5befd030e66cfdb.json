@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=705",
+    "name": "Object Reading",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Get psychic impressions from an object.",
+    "heightenable": true,
+    "description": "You place a hand on an object to learn a piece of information about an emotional event that occurred involving the object within the past week, determined by the GM. If you cast object reading on the same item multiple times, you can either concentrate on a single event to gain additional pieces of information about that event, or gain a piece of information about another emotional event in the applicable time frame.\n\n------\n\nHeightened (2nd) You can learn about an event that occurred within the last month.\nHeightened (4th) You can learn about an event that occurred within the last year.\nHeightened (6th) You can learn about an event that occurred within the last decade.\nHeightened (8th) You can learn about an event that occurred within the last century.\nHeightened (9th) You can learn about an event that occurred within the entirety of the object’s history.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 object",
+    "duration": "",
+    "saving": ""
+}

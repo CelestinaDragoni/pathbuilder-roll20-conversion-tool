@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3037",
+    "name": "Rule of Three",
+    "source": "Pathfinder #170",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Auditory",
+        "Linguistic",
+        "Magical"
+    ],
+    "level": 8,
+    "prereq": "Folklorist Dedication",
+    "summary": "Heroes learn from their previous failures, often succeeding on the third attempt.",
+    "description": "Heroes learn from their previous failures, often succeeding on the third attempt. You narrate a tale of the hero's success, granting them a +2 circumstance bonus to their AC or saving throw against the triggering effect. If the villain has used the same effect against the hero on both of their last two turns, and you used Rule of Three on that effect last turn as well, the bonus increases to +4.Traits\n\nArchetype: This feat belongs to an archetype.\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.Linguistic: An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.Magical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.",
+    "economy": "reaction",
+    "trigger": "The villain of the tale you've spun makes an attack roll with a given weapon or unarmed attack, uses a particular special ability (such as a Breath Weapon), or Casts a Spell against the hero, and they used that same attack, special ability, or spell against the hero on the previous turn."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3197",
+    "name": "Blast Tackle",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 14,
+    "prereq": "Way Of The Vanguard",
+    "summary": "You throw yourself at an enemy, bracing your weapon against it and pulling it close before releasing a destructive shot.",
+    "description": "You throw yourself at an enemy, bracing your weapon against it and pulling it close before releasing a destructive shot. Attempt to Grapple; if you're wielding your weapon in both hands, you Release one hand to do so. If your Grapple succeeds, you can immediately Strike the target of the Grapple with the required weapon, even if it's a two-handed weapon you're holding in one hand. This Strike deals an additional 3d6 precision damage.\n\n As long the creature remains grabbed or restrained, you can use just one hand to reload the weapon and Strike that creature with it.",
+    "economy": "2-action",
+    "trigger": ""
+}

@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3483",
+    "name": "Undying Conviction",
+    "source": "Book of the Dead",
+    "rarity": "Uncommon",
+    "traits": [
+        "Aura",
+        "Cleric",
+        "Necromancy",
+        "Oracle",
+        "Wizard"
+    ],
+    "level": 4,
+    "prereq": "Able To Create Or Control Undead; Cleric With A Negative Font, Oracle Of Bones, Or Necromancer Wizard",
+    "summary": "Your presence has a bolstering effect on your undead minions.",
+    "description": "Your presence has a bolstering effect on your undead minions. Undead creatures under your control and within a 30-foot emanation around you gain a +2 status bonus to saving throws to resist positive damage and to Will saving throws to resist effects that would make them controlled.\n\nSpecial This feat has the trait matching your spellcasting tradition.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsAura: An aura is an emanation that continually ebbs out from you, affecting creatures within a certain radius. Aura can also refer to the magical signature of an item or a creature with a strong alignment.\n\nNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=835",
+    "name": "Split the Tongue",
+    "source": "Pathfinder #161",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "The deceiving creature's tongue splits like a serpent's tongue.",
+    "heightenable": true,
+    "description": "The deceiving creature's tongue splits like a serpent's tongue. The creature takes 1d8 slashing damage and must attempt a Fortitude save.\n\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and is stupefied 1 for 1d4 rounds.\nCritical Failure As failure, but the creature takes double damage and is stupefied 2 for 1d4 rounds.\n\n------\n\nHeightened (+1) The damage increases by 1d8.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "A creature within 30 feet fails a Deception or Diplomacy check.",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

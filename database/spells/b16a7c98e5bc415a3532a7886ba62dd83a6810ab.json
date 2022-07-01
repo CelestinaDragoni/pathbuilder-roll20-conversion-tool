@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=460",
+    "name": "Touch of the Moon",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Enchantment",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "When you touch the target, a symbol of the moon appears on its forehead, glowing with soft moonlight.",
+    "heightenable": false,
+    "description": "When you touch the target, a symbol of the moon appears on its forehead, glowing with soft moonlight. The target glows with dim light in a 20-foot radius. It also gets a benefit based on a phase of the moon, starting with the new moon and changing to the next phase at the end of each of its turns. New Moon The target receives no benefit. Waxing Moon The target gains a +1 status bonus to attack rolls and a +4 status bonus to damage rolls. Full Moon The target gains a +1 status bonus to attack rolls, AC, and saving throws and a +4 status bonus to damage rolls. Waning Moon The target gains a +1 status bonus to AC and saving throws. After this phase, return to the new moon.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": ""
+}

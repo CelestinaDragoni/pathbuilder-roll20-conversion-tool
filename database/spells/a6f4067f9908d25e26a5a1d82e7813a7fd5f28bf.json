@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=212",
+    "name": "Overwhelming Presence",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Enchantment",
+        "Incapacitation",
+        "Mental",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "Take on the majesty of a god.",
+    "heightenable": false,
+    "description": "You surround yourself with supernatural splendor, appearing to be a god or similarly majestic being. You choose the aspects of your new majestic appearance. This causes the targets to pay tribute to you by bowing or using some other action in keeping with your appearance. The number of times a target must do this depends on the result of their Will save.\n\nCritical Success The target is unaffected.\nSuccess The target must pay tribute twice.\nFailure The target must pay tribute six times.\nCritical Failure As failure, and the target must spend all its actions paying tribute if possible. \n\nPaying tribute is a manipulate action or move action, as chosen by the creature paying tribute. A creature under this effect must pay tribute to you at least once on each of its turns if possible. While affected by this spell, a creature is fascinated by you and can't use hostile actions against you. The target is then temporarily immune for 1 minute.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "any number of creatures",
+    "duration": "until full tribute is paid",
+    "saving": "Will"
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=686",
+    "name": "Dull Ambition",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Curse",
+        "Enchantment",
+        "Mental",
+        "Misfortune"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Curse a creature with an unfortunate lack of ambition.",
+    "heightenable": false,
+    "description": "You curse the target to fail in all avenues of its life that require drive and ambition, as it inadvertently undermines its own goals at every turn. The effect is based on the target's Will save.\n\nCritical Success The target is unaffected.\nSuccess For 1 hour, the target rolls twice and uses the lower result on initiative rolls.\nFailure For 1 day, the target rolls twice and uses the lower result on initiative rolls and any check to determine the success of a downtime activity.\nCritical Failure As failure, but the duration is unlimited.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

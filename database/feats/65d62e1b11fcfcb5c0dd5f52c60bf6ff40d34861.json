@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3179",
+    "name": "Leap and Fire",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 8,
+    "prereq": "Hit The Dirt!",
+    "summary": "You're quick enough to line up a shot even while diving to the ground.",
+    "description": "You're quick enough to line up a shot even while diving to the ground. When you use your Hit the Dirt! reaction, at any point during your Leap you can also make a ranged Strike with a loaded firearm or crossbow, targeting the creature whose attack triggered the reaction.",
+    "economy": "none",
+    "trigger": ""
+}

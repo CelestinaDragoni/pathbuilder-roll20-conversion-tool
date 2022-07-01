@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2617",
+    "name": "Foxfire",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kitsune"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "A crack of your tail sparks wisps of blue energy.",
+    "description": "A crack of your tail sparks wisps of blue energy. Choose either electricity or fire when you gain this feat. You gain a foxfire ranged unarmed attack with a maximum range of 20 feet. The attack deals 1d4 damage of the chosen type (no ability modifier is added to the damage roll). Your foxfire attack is in the sling weapon group and has the magical trait. Like other unarmed attacks, you can improve this attack with handwraps of mighty blows.\n\nSpecial If you are a frozen wind kitsune, your foxfire deals cold damage instead of electricity or fire.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
+    "economy": "none",
+    "trigger": ""
+}

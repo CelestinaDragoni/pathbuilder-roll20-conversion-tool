@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2582",
+    "name": "Scholar's Inheritance",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Suli"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your parents devoted themselves to alchemical experiments involving elemental energy.",
+    "description": "Your parents devoted themselves to alchemical experiments involving elemental energy. You gain the trained proficiency rank in Crafting. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the Alchemical Crafting skill feat.Traits\n\nSuli: Sulis are planar scions descended from jann.",
+    "economy": "none",
+    "trigger": ""
+}

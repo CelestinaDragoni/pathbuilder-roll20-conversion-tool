@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3605",
+    "name": "Flashing Shield",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Lastwall Sentry Dedication; You Worship A Good-aligned Deity",
+    "summary": "Your shield flares with holy light as you block the attack, searing the undead with the power of your faith.",
+    "description": "Your shield flares with holy light as you block the attack, searing the undead with the power of your faith. The triggering undead takes positive damage equal to half your level and becomes flat-footed for 1 round.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": "You use the Shield Block reaction, and the opponent that triggered the Shield Block is undead and adjacent to you."
+}

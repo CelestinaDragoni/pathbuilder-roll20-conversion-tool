@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=268",
+    "name": "Holy Castigation",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 1,
+    "prereq": "Good Alignment",
+    "summary": "You combine holy energy with positive energy to damage demons, devils, and their evil ilk.",
+    "description": "You combine holy energy with positive energy to damage demons, devils, and their evil ilk. Heal spells you cast damage fiends as though they were undead.Holy Castigation Leads To...\n\nCastigating Weapon",
+    "economy": "none",
+    "trigger": ""
+}

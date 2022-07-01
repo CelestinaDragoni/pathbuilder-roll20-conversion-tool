@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3226",
+    "name": "Field Artillery",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Expert In Crafting",
+    "summary": "While castles are generally obliging enough to stay in one place, out in the field positioning is of paramount importance—a gun in the wrong place is worse than useless.",
+    "description": "While castles are generally obliging enough to stay in one place, out in the field positioning is of paramount importance—a gun in the wrong place is worse than useless. You can Interact with an adjacent mounted siege weapon to increase its Speed by 10 feet for one round.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

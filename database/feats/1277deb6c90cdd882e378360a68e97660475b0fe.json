@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=47",
+    "name": "Goblin Weapon Frenzy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 5,
+    "prereq": "Goblin Weapon Familiarity",
+    "summary": "You know how to wield your people’s vicious weapons.",
+    "description": "You know how to wield your people's vicious weapons. Whenever you score a critical hit using a goblin weapon, you apply the weapon's critical specialization effect.\nTraits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

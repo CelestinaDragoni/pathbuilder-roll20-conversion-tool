@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1125",
+    "name": "Synergistic Spell",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Metamagic"
+    ],
+    "level": 20,
+    "prereq": "Halcyon Spellcasting Initiate; Fulminating Synergy; Legendary In Arcana And Nature",
+    "summary": "You combine your synergy and spells into a fantastic web of magic, allowing you to cast two spells at once.",
+    "description": "You combine your synergy and spells into a fantastic web of magic, allowing you to cast two spells at once. If the next action you use is to Cast a Spell from one of your halcyon spell slots, after that spell resolves, you can Cast another Spell as a free action. This spell must be cast from one of your halcyon spell slots and be a spell that would normally take two actions to cast.Traits\n\nArchetype: This feat belongs to an archetype.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

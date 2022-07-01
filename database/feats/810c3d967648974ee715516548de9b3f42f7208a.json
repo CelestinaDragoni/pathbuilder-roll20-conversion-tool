@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2564",
+    "name": "Blazing Aura",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Evocation",
+        "Fire",
+        "Ifrit",
+        "Primal"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "You explode in flame.",
+    "description": "You explode in flame. Enemies in a 20-foot emanation take 7d6 fire damage (basic Reflex save using your class DC or spell DC, whichever is higher). Allies in the area are quickened for 1 round and can use the additional action to Strike or Stride.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Fire: Effects with the fire trait deal fire damage or either conjure or manipulate fire. Those that manipulate fire have no effect in an area without fire. Creatures with this trait consist primarily of fire or have a magical connection to that element. Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely hostile to non-fire creatures.Ifrit: Ifrits are planar scions descended from efreet.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.",
+    "economy": "reaction",
+    "trigger": "Your turn begins."
+}

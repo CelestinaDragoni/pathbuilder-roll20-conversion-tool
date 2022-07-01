@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3352",
+    "name": "Wheedle and Jig",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You make capering motions and silly sounds to captivate onlookers.",
+    "description": "You make capering motions and silly sounds to captivate onlookers. You can cast enthrall as a 3rd-level arcane innate spell once per day.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "none",
+    "trigger": ""
+}

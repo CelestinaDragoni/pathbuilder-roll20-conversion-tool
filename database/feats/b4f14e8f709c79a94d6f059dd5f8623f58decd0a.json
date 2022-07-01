@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1652",
+    "name": "Enigma's Knowledge",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 12,
+    "prereq": "Assured Knowledge",
+    "summary": "Your muse whispers knowledge to you at all the right times.",
+    "description": "Your muse whispers knowledge to you at all the right times. You gain the benefits of the Automatic Knowledge skill feat with any skill you can use to Recall Knowledge. As per the special clause in the Automatic Knowledge feat, you can still only use Automatic Knowledge once per round.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

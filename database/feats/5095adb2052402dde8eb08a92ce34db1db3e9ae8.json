@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1744",
+    "name": "Stumbling Feint",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 6,
+    "prereq": "Stumbling Stance; Expert In Deception",
+    "summary": "You lash out confusingly with what seems to be a weak move but instead allows you to unleash a dangerous flurry of blows upon your unsuspecting foe.",
+    "description": "You lash out confusingly with what seems to be a weak move but instead allows you to unleash a dangerous flurry of blows upon your unsuspecting foe. When you use Flurry of Blows, you can attempt a check to Feint as a free action just before the first Strike. On a success, instead of making the target flat-footed against your next attack, they become flat-footed against both attacks from the Flurry of Blows.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

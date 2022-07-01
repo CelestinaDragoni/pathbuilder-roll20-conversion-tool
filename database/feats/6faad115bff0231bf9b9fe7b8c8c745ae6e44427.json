@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2887",
+    "name": "Dual Studies",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You and your eidolon have some skills you practice on your own.",
+    "description": "You and your eidolon have some skills you practice on your own. Choose two skills. Your eidolon becomes trained in one of those skills and you become trained in the other skill. At 7th level, you each become an expert in the chosen skills. These skill proficiencies are not shared between you and your eidolon.",
+    "economy": "none",
+    "trigger": ""
+}

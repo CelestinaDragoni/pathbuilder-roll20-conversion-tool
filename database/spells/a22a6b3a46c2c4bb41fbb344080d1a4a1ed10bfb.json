@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=821",
+    "name": "Magical Fetters",
+    "source": "Pathfinder #158",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Incapacitation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Ghostly manacles launch from your outstretched hand and clasp around the target's limbs, impeding its movements.",
+    "heightenable": false,
+    "description": "Ghostly manacles launch from your outstretched hand and clasp around the target's limbs, impeding its movements. The target must attempt a Reflex save.\n\n\nCritical Success The target is unaffected.\nSuccess The target is clumsy 1 and takes a –10-foot status penalty to its Speed for 1 round.\nFailure The target is clumsy 3 and takes a –10-foot status penalty to its Speed for 1 minute.\nCritical Failure As failure, but the target is also slowed 1 for the duration.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "see below",
+    "saving": "Reflex"
+}

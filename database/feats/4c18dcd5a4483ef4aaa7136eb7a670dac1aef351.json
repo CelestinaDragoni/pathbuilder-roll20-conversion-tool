@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=215",
+    "name": "Ranged Reprisal",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 1,
+    "prereq": "Paladin Cause",
+    "summary": "You can use Retributive Strike with a ranged weapon.",
+    "description": "You can use Retributive Strike with a ranged weapon. In addition, if the foe that triggered your reaction is within 5 feet of your reach but not in your reach, as part of your reaction you can Step to put the foe in your reach before making a melee Retributive Strike.",
+    "economy": "none",
+    "trigger": ""
+}

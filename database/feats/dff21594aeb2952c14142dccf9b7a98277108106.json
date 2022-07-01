@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=508",
+    "name": "Mature Animal Companion (Ranger)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 6,
+    "prereq": "Animal Companion",
+    "summary": "Your animal companion grows up, gaining additional capabilities.",
+    "description": "Your animal companion grows up, becoming a mature animal companion and gaining additional capabilities. If you have the Hunt Prey action, your animal companion assaults the prey even without your orders. During an encounter, even if you don't use the Command an Animal action, your animal companion can still use 1 action that round on your turn to Stride toward or Strike your prey.Mature Animal Companion (Ranger) Leads To...\n\nIncredible Companion (Ranger)",
+    "economy": "none",
+    "trigger": ""
+}

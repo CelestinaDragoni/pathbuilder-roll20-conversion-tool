@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1533",
+    "name": "Agile Maneuvers",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 6,
+    "prereq": "Expert In Athletics",
+    "summary": "Your easily maneuver against your foes.",
+    "description": "Your easily maneuver against your foes. Your Grapple, Shove, and Trip actions have a lower multiple attack penalty: –4 instead of –5 if they're the second attack on your turn, or –8 instead of –10 if they're the third or subsequent attack on your turn.",
+    "economy": "none",
+    "trigger": ""
+}

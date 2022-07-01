@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2976",
+    "name": "Advanced Elemental Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 6,
+    "prereq": "Flame Order, Stone Order, Storm Order, Or Wave Order",
+    "summary": "Your connection to one of the great elemental aspects of nature deepens, allowing you further control over its powers.",
+    "description": "Your connection to one of the great elemental aspects of nature deepens, allowing you further control over its powers. You gain the advanced order spell associated with your order: if you're a member of the flame order, you gain combustion; if you're a member of the stone order, you gain stone lance ; if you're a member of the storm order, you gain powerful inhalation; if you're a member of the wave order, you gain pulverizing cascade. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

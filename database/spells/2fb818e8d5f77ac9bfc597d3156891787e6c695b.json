@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1093",
+    "name": "Nettleskin",
+    "source": "Threshold of Knowledge",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Plant",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Thorns sprout from your body; they pass through and don't damage any clothing or armor you wear.",
+    "heightenable": true,
+    "description": "Thorns sprout from your body; they pass through and don't damage any clothing or armor you wear. Adjacent creatures that hit you with a melee or unarmed attack take 1d4 piercing damage as the nettles jab them and break off. Each time a creature takes damage in this way, nettleskin's duration decreases by 1 round.\n\n------\n\nHeightened (+1) The damage increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

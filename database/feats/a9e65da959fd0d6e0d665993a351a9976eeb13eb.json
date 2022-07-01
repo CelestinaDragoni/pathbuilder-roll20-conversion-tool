@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=323",
+    "name": "Order Magic",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 4,
+    "prereq": "Order Explorer",
+    "summary": "You have delved deeper into the teaching of a new order, gaining access to a coveted order spell.",
+    "description": "You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with Order Explorer. You gain the initial order spell from that order.\n\nSpecial You can take this feat multiple times. Each time you do, you must choose a different order you have selected with Order Explorer.",
+    "economy": "none",
+    "trigger": ""
+}

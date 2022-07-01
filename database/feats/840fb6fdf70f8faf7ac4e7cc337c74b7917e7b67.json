@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=293",
+    "name": "Replenishment of War",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 10,
+    "prereq": "Expert In Your Deity’s Favored Weapon",
+    "summary": "Striking out against your enemies draws praise and protection from your deity.",
+    "description": "Striking out against your enemies draws praise and protection from your deity. When you damage a creature with a Strike using your deity’s favored weapon, you gain a number of temporary Hit Points equal to half your level, or equal to your level if the Strike was a critical hit. These temporary Hit Points last until the start of your next turn.Replenishment of War Leads To...\n\nShared Replenishment",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3258",
+    "name": "Sniping Duo Dedication",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In At Least One Type Of Weapon In The Bow Or Firearm Groups; Trained In Stealth",
+    "summary": "You can choose one willing, non-minion ally to act as your spotter.",
+    "description": "When you take this dedication, choose one willing, non-minion ally to act as your spotter. As part of your training in this archetype, you train your spotter in the necessary habits and techniques to use your abilities automatically; your spotter doesn't need to spend any feats of their own to grant the effects. You only gain the benefits of your Sniping Duo archetype feats if both you and your spotter are alive and conscious. You and your spotter don't grant your foes lesser cover against one another's Strikes. Whenever you or your spotter successfully Strikes a target, the other member of your duo gains a +1 circumstance bonus per weapon damage die on the damage roll of their next Strike made against that target before the end of their next turn.\n\n You can change your designated spotter by spending 3 days of downtime training with another ally.\n\nSpecial You can't select another dedication feat until you've gained two other feats from the sniping duo archetype.Sniping Duo Dedication Leads To...\n\nConcentrated Assault, Duo's Aim, Eagle Eyes, Exploit Opening, Tag Team, Targeted Redirection, Triangulate, Vantage ShotTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

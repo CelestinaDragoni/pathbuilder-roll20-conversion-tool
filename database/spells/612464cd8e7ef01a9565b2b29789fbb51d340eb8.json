@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=510",
+    "name": "Fey Glamour",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You call upon fey glamours to cloak an area or the targets in illusion.",
+    "heightenable": false,
+    "description": "You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either illusory scene on the area or veil on the creatures, as if heightened to a level 1 level lower than fey glamour, using fey glamour's range and duration.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "up to 10 creatures",
+    "duration": "10 minutes",
+    "saving": ""
+}

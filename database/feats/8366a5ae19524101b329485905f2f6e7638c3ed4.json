@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=877",
+    "name": "Aldori Parry",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Aldori Duelist Dedication",
+    "summary": "Increase your AC while wielding an Aldori dueling sword.",
+    "description": "You can parry attacks against you with your Aldori dueling sword. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirement.Aldori Parry Leads To...\n\nAldori RiposteTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

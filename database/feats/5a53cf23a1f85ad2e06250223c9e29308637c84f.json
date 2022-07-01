@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1653",
+    "name": "Reverberate",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You can manipulate the acoustics around you to deflect sonic damage back at its source.",
+    "description": "You can manipulate the acoustics around you to deflect sonic damage back at its source. Attempt a Performance check against the spell DC of the creature that cast the triggering spell.\n\nCritical Success You reduce the triggering damage by an amount up to four times your level. The caster takes sonic damage equal to the amount of damage you reduced in this way.\nSuccess As critical success, but you reduce the triggering damage by an amount up to twice your level.\nCritical Failure You misdirect the sonic waves at yourself, taking twice the triggering damage.",
+    "economy": "reaction",
+    "trigger": "You would take sonic damage from a spell."
+}

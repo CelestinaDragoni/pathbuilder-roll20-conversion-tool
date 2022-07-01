@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3361",
+    "name": "Countercharm",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Basic Captivator Spellcasting",
+    "summary": "Your enchantments and illusions are so dominant that you can use them to counteract similar magic cast by others.",
+    "description": "Your enchantments and illusions are so dominant that you can use them to counteract similar magic cast by others. When a foe casts an enchantment or illusion spell and you can see its manifestations, you can use your own innate magic to disrupt it. You lose an innate, non-cantrip spell of the same school as the triggering spell as if you had Cast the Spell. You then attempt to counteract the triggering spell with your spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature Casts a Spell from the enchantment or illusion school."
+}

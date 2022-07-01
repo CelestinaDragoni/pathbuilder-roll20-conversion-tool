@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2986",
+    "name": "Elementalist Dedication",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Class",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Elemental Magic",
+    "summary": "Each day when you make your daily preparations, you can attune yourself to one element of your choice: air, earth, fire, or water.",
+    "description": "Each day when you make your daily preparations, you can attune yourself to one element of your choice: air, earth, fire, or water. You gain resistance equal to half your level (minimum 1 resistance) against damage dealt by effects with your attuned elemental trait. This attunement lasts until you next make your daily preparations.\n\nSpecial You can't select another dedication feat until you've gained two other feats from the elementalist archetype.Elementalist Dedication Leads To...\n\nBurning Spell, Dousing Spell, Elemental Familiar, Metabolize Element, Redirect Elements, Rockslide Spell, Wind-Tossed SpellTraitsArchetype: This feat belongs to an archetype.\n\nClass: Archetypes with the class trait fundamentally diverge from your class's specialties but still fit within the theme of your class.\n\n You can select a class archetype only if your class meets the criteria listed in the archetype's prerequisites. Class archetypes always alter or replace some of a class's static class features in addition to any new feats they offer.\n\n It might be possible to take a class archetype at 1st level if it alters or replaces some of the class's initial class features. The 1st-level ability is presented much like a class feature and includes the class archetype's prerequisites and rules on how it changes your class. If you select this ability, you must take that archetype's dedication feat at 2nd level, and you proceed normally afterward. You can never have more than one class archetype.Dedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

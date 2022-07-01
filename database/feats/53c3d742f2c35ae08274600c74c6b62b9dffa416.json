@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3479",
+    "name": "Frighten Undead",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Undead Slayer Dedication; Trained In Intimidation",
+    "summary": "Your very presence chills creatures of the night down to their core and you can use the spiritual power and faithful life force of religious verses to frighten even mindless undead.",
+    "description": "Your very presence chills creatures of the night down to their core and you can use the spiritual power and faithful life force of religious verses to frighten even mindless undead. Attempt to Demoralize an undead target using your Religion modifier instead of your Intimidation modifier if it's higher. If you use your Religion modifier, the Demoralize action loses the emotion and mental traits, as your faith connects to the undead on an instinctual level.Frighten Undead Leads To...\n\nSlayer's PresenceTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

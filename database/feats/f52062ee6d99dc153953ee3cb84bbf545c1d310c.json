@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=171",
+    "name": "Collateral Thrash",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 16,
+    "prereq": "Thrash",
+    "summary": "When you Thrash a grabbed foe, you smack that foe into another nearby.",
+    "description": "When you Thrash a grabbed foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a basic Reflex save against your class DC.Collateral Thrash Leads To...\n\nWhirlwind TossTraitsRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "none",
+    "trigger": ""
+}

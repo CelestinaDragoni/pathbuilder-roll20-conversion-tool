@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=377",
+    "name": "Twin Parry",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Ranger",
+        "Swashbuckler"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You use your two weapons to parry attacks.",
+    "description": "You use your two weapons to parry attacks. You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the parry trait. You lose this circumstance bonus if you no longer meet this feat's requirement.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Twin Parry Leads To...Twinned Defense (Fighter), Twinned Defense (Swashbuckler)",
+    "economy": "1-action",
+    "trigger": ""
+}

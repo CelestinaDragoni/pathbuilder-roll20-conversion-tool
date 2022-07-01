@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2983",
+    "name": "Rippling Spin",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 8,
+    "prereq": "Reflective Ripple Stance",
+    "summary": "After the triggering attack is done, Step.",
+    "description": "After the triggering attack is done, Step. You must end this Step within the attacker's reach. Then, you can attempt an Athletics check to Disarm or Trip the attacker.",
+    "economy": "reaction",
+    "trigger": "You are hit by a physical melee attack by an attacker you can see that's in reach."
+}

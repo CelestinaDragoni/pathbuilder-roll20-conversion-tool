@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=534",
+    "name": "Protective Ward",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You emanate a shimmering aura of protective magic.",
+    "heightenable": false,
+    "description": "You emanate a shimmering aura of protective magic. You and any allies in the area gain a +1 status bonus to AC. Each time you Sustain the Spell, the emanation's radius increases by 5 feet, to a maximum of 30 feet.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

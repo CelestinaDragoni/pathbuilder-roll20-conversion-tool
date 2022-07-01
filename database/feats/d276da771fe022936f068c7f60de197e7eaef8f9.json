@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2535",
+    "name": "Smashing Tail",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ganzi"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have a tail that serves as a potent weapon.",
+    "description": "You have a tail that serves as a potent weapon. You gain a tail unarmed attack that deals 1d6 bludgeoning damage, has the sweep trait, and is in the brawling weapon group.Traits\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a protean",
+    "economy": "none",
+    "trigger": ""
+}

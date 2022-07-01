@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1324",
+    "name": "Callow May",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Changeling",
+        "Lineage"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You are among the most common of changelings—those born to green hags—and a vibrant green eye signifies that parentage.",
+    "description": "You are among the most common of changelings—those born to green hags—and a vibrant green eye signifies that parentage. Your mother's manipulative nature and versatile voice gives you an edge when deceiving others. You gain the Charming Liar skill feat. If you roll Deception for initiative, foes in that combat encounter that haven't acted yet are flat-footed against you.Traits\n\nChangeling: A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.\n\nLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.",
+    "economy": "none",
+    "trigger": ""
+}

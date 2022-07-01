@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1065",
+    "name": "Invoke True Name",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Cantrip",
+        "Enchantment",
+        "True Name"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "You speak the true name of a creature to more surely affect it with your magic.",
+    "heightenable": false,
+    "description": "You speak the true name of a creature to more surely affect it with your magic. Until the end of the current turn, the target is flat-footed against your spells and takes a –2 circumstance penalty to saving throws against your spells. In addition, the first time this turn the target takes damage from one of your spells, it has weakness to that damage equal to double the level of invoke true name.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature whose true name you know",
+    "duration": "",
+    "saving": ""
+}

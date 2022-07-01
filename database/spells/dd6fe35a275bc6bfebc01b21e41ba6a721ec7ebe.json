@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=717",
+    "name": "Spike Stones",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Earth"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Grow sharp spikes out of the ground.",
+    "heightenable": true,
+    "description": "Long, sharp spikes of solid rock thrust up from the ground in the area. The area becomes difficult terrain and hazardous terrain. A creature that moves on the ground through the area takes 3 piercing damage for every square of that area it moves into.\n\n------\n\nHeightened (+1) Increase the damage by 1.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "",
+    "duration": "1 hour",
+    "saving": ""
+}

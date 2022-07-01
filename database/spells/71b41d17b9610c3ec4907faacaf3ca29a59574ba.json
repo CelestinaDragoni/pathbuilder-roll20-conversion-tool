@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=744",
+    "name": "Ancestral Touch",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cursebound",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You touch a creature and force them to see and feel the ancestors surrounding you.",
+    "heightenable": true,
+    "description": "You touch a creature and force them to see and feel the ancestors surrounding you. The target takes 1d4 mental damage, with results depending on a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target takes half damage.\nFailure The target is frightened 1 and takes full damage.\nCritical Failure The target is frightened 2 and takes double damage.\n\n------\n\nHeightened (+1) The mental damage increases by 1d4.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living creature",
+    "duration": "",
+    "saving": ""
+}

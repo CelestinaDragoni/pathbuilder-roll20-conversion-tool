@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=235",
+    "name": "Private Sanctum",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Black fog prevents sensing, scrying, and mind-reading on anyone within.",
+    "heightenable": false,
+    "description": "From outside, the area looks like a bank of impenetrable black fog. Sensory stimuli (such as sounds, smells, and light) don't pass from inside the area to outside the area. Scrying spells can't perceive any stimuli from the area, and mind-reading effects don't work in the area.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "",
+    "duration": "24 hours",
+    "saving": ""
+}

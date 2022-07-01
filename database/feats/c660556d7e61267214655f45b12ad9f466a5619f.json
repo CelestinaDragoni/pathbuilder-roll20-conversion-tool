@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1655",
+    "name": "Earworm",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard",
+        "Exploration"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "By endlessly repeating a motif, you implant an earworm, a memorable song that repeats over and over again in your allies' heads, preparing them to respond to it later.",
+    "description": "By endlessly repeating a motif, you implant an earworm, a memorable song that repeats over and over again in your allies' heads, preparing them to respond to it later. Choose a composition cantrip and spend 10 minutes repeating a melody, chant, speech, series of motions, or a similar performance that embodies that cantrip. This activity gains the traits appropriate to the type of performance. You implant the earworm within all allies who can see or hear you (as appropriate for the type of performance) for the entire activity.\n\n Once you've created the earworm, you can attempt a Performance check as a free action to activate it. This check uses a very hard DC of a level equal to that of the highest-level target of the earworm present at the time of activation. On a success, you cast the cantrip on all allies who learned the earworm and can perceive your performance; on a failure, the earworm is corrupted and lost. Because it is based on the earlier repetitions, you can't use further free actions like lingering composition or inspire heroics to modify the activated earworm. Allies forget the earworm after it is activated, if you spend 10 minutes to implant another earworm, or during your next daily preparations, whichever comes first.Traits\n\nExploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.",
+    "economy": "none",
+    "trigger": ""
+}

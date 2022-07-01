@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=940",
+    "name": "Lose the Path",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Mental",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "React to impede and possibly divert a Stride.",
+    "heightenable": false,
+    "description": "You surround a moving creature with lifelike illusions, shifting their perception of the terrain to subtly lead them off course. The target must attempt a Will save. Regardless of the result, the creature is immune to lose the path for 1 hour.\n\nSuccess The creature is unaffected.\nFailure The creature treats all squares as difficult terrain for its Stride.\nCritical Failure As failure, except that you determine where the target moves during the Stride, though you can't move it into hazardous terrain or to a place it can't stand.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "A creature in range Strides.",
+    "range": "60 feet",
+    "target": "the triggering creature",
+    "duration": "",
+    "saving": ""
+}

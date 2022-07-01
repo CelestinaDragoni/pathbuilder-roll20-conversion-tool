@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2830",
+    "name": "Grippli Weapon Expertise",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 13,
+    "prereq": "Grippli Weapon Familiarity",
+    "summary": "You fight with effortless expertise with grippli weapons.",
+    "description": "You fight with effortless expertise with grippli weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the blowgun, hatchet, scythe, shortbow, composite shortbow, or grippli weapons in which you are trained.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1119",
+    "name": "Shared Synergy",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Dualistic Synergy",
+    "summary": "You can grant the benefit from Dualistic Synergy to an ally within 30 feet instead of yourself, either allowing that ally to Recall Knowledge, granting that ally temporary Hit Points, or both, depending on the spell’s tradition.",
+    "description": "You can grant the benefit from Dualistic Synergy to an ally within 30 feet instead of yourself, either allowing that ally to Recall Knowledge, granting that ally temporary Hit Points, or both, depending on the spell’s tradition.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

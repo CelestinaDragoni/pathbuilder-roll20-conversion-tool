@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2823",
+    "name": "Grippli Weapon Innovator",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 5,
+    "prereq": "Grippli Weapon Familiarity",
+    "summary": "You've learned devious ways to make the most of your grippli weapons.",
+    "description": "You've learned devious ways to make the most of your grippli weapons. Whenever you critically hit using a blowgun, hatchet, scythe, shortbow, composite shortbow, or grippli weapon, you apply the weapon's critical specialization effect.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3472",
+    "name": "Safeguard Soul",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Archetype",
+        "Divine"
+    ],
+    "level": 8,
+    "prereq": "Soul Warden Dedication",
+    "summary": "You've girded your soul against outside interference.",
+    "description": "You've girded your soul against outside interference. You gain a +2 status bonus to saving throws against death effects, possession effects, and effects that attempt to manipulate or steal your soul. You can't be transformed into an undead by any means. While your spiral is glowing, your allies in the light of the spiral gain this benefit as well.Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nArchetype: This feat belongs to an archetype.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.",
+    "economy": "none",
+    "trigger": ""
+}

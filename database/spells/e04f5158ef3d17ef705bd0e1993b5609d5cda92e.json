@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=3",
+    "name": "Acid Splash",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Acid",
+        "Attack",
+        "Cantrip",
+        "Evocation"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "You splash a glob of acid that splatters your target and nearby creatures.",
+    "heightenable": true,
+    "description": "You splash a glob of acid that splatters your target and nearby creatures. Make a spell attack. If you hit, you deal 1d6 acid damage plus 1 splash acid damage. On a critical success, the target also takes 1 persistent acid damage.\n\n------\n\nHeightened (3rd) The initial damage increases to 1d6 + your spellcasting ability modifier, and the persistent damage increases to 2.\nHeightened (5th) The initial damage increases to 2d6 + your spellcasting ability modifier, the persistent damage increases to 3, and the splash damage increases to 2.\nHeightened (7th) The initial damage increases to 3d6 + your spellcasting ability modifier, the persistent damage increases to 4, and the splash damage increases to 3.\nHeightened (9th) The initial damage increases to 4d6 + your spellcasting ability modifier, the persistent damage increases to 5, and the splash damage increases to 4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

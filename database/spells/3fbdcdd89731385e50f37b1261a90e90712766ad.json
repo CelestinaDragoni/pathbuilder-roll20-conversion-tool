@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=5",
+    "name": "Air Bubble",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Air",
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "React to create air for a creature to breathe.",
+    "heightenable": false,
+    "description": "A bubble of pure air appears around the target's head, allowing it to breathe normally. The effect ends as soon as the target returns to an environment where it can breathe normally.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "A creature within range enters an environment where it can't breathe.",
+    "range": "60 feet",
+    "target": "the triggering creature",
+    "duration": "1 minute",
+    "saving": ""
+}

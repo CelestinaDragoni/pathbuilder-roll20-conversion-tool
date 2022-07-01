@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2101",
+    "name": "Surprise Strike",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Weapon Improviser Dedication",
+    "summary": "Your sudden use of improvised weapons can take opponents off guard.",
+    "description": "Whenever you make a Strike with an improvised weapon against a creature that hasn't seen you make a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is flat-footed against you for that Strike.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

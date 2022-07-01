@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2347",
+    "name": "Feed on Pain",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 5,
+    "prereq": "Adhyabhau",
+    "summary": "The psychic feedback of another creature's pain fills you with false life.",
+    "description": "The psychic feedback of another creature's pain fills you with false life. You gain temporary Hit Points equal to half the mental damage you dealt from the triggering effect. If the triggering action dealt mental damage to multiple creatures, calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "reaction",
+    "trigger": "you deal mental damage"
+}

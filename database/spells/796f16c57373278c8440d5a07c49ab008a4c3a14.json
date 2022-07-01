@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=428",
+    "name": "Know the Enemy",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Divination",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Use a Recall Knowledge action, rolling the appropriate skill check to identify the triggering creature’s abilities.",
+    "heightenable": false,
+    "description": "Use a Recall Knowledge action, rolling the appropriate skill check to identify the triggering creature's abilities. You can roll your check twice and use the better result.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

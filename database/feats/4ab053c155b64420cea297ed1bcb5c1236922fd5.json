@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=104",
+    "name": "Directional Bombs",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You can lob bombs with great force and a precise trajectory to angle the splash in a cone spraying in a single direction.",
+    "description": "You can lob bombs with great force and a precise trajectory to angle the splash in a cone spraying in a single direction. When throwing an alchemical bomb with the splash trait, instead of splashing all squares adjacent to the target, you can treat the target’s space as the first affected square of a 15-foot cone directed away from you, potentially allowing you to avoid allies and splash deeper into enemy lines. If the target takes up more than a single square, the target’s square closest to you is the first affected square of the cone.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Directional Bombs Leads To...Controlled Blast",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=511",
+    "name": "Glutton's Jaw",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Morph",
+        "Necromancy",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Your mouth transforms into a shadowy maw bristling with pointed teeth.",
+    "heightenable": true,
+    "description": "Your mouth transforms into a shadowy maw bristling with pointed teeth. These jaws are an unarmed attack with the forceful trait dealing 1d8 piercing damage. If you hit with your jaws and deal damage, you gain 1d6 temporary Hit Points.\n\n------\n\nHeightened (+2) The temporary Hit Points increase by 1d6.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1421",
+    "name": "Instinctive Obfuscation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Gnome",
+        "Illusion",
+        "Visual"
+    ],
+    "level": 13,
+    "prereq": "At Least One Arcane Or Occult Innate Spell Gained From A Gnome Heritage Or Gnome Ancestry Feat",
+    "summary": "The magic within you manifests as a natural reaction to threats.",
+    "description": "The magic within you manifests as a natural reaction to threats. You gain the effects of mirror image but with two images instead of three. The tradition of this action matches the tradition of your gnome ancestry options.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.\n\nIllusion: Effects and magic items with this trait are associated with the illusion school of magic, typically involving false sensory stimuli.Visual: A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.",
+    "economy": "reaction",
+    "trigger": "You are attacked by a foe."
+}

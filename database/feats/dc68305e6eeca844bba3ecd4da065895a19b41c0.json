@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1501",
+    "name": "Greater Revelation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oracle"
+    ],
+    "level": 12,
+    "prereq": "Initial Revelation Spell",
+    "summary": "You learn a greater revelation spell associated with your mystery.",
+    "description": "You learn a greater revelation spell associated with your mystery. Increase the number of Focus Points in your focus pool by 1.Greater Revelation Leads To...\n\nParadoxical Mystery",
+    "economy": "none",
+    "trigger": ""
+}

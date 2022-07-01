@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3065",
+    "name": "Incredible Construct Companion",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 8,
+    "prereq": "Advanced Construct Companion",
+    "summary": "Thanks to your continual tinkering, your construct companion has advanced to an astounding new stage of engineering, enhancing all its attributes.",
+    "description": "Thanks to your continual tinkering, your construct companion has advanced to an astounding new stage of engineering, enhancing all its attributes. Your construct companion becomes an incredible construct companion.Incredible Construct Companion Leads To...\n\nParagon Companion",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=479",
+    "name": "Tempest Surge",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Air",
+        "Druid",
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You surround a foe in a swirling storm of violent winds, roiling clouds, and crackling lightning.",
+    "heightenable": true,
+    "description": "You surround a foe in a swirling storm of violent winds, roiling clouds, and crackling lightning. The storm deals 1d12 electricity damage. The target must attempt a basic Reflex save. On a failure, the target also is clumsy 2 for 1 round and takes 1 persistent electricity damage.\n\n------\n\nHeightened (+1) The initial damage increases by 1d12, and the persistent electricity damage on a failure increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

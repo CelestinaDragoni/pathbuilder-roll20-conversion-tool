@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=162",
+    "name": "Implosion",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "Make a creature collapse in on itself.",
+    "heightenable": true,
+    "description": "You crush the target by causing it to collapse in on itself, dealing 75 damage. The first time each round you Sustain the Spell, you must choose a new target to be subject to the same effect; the same creature can never be targeted more than once with a single casting of this spell. You also can't affect more than one creature per turn with implosion. You can't target a creature that's incorporeal, gaseous, or liquid, or otherwise lacking a solid form.\n\n------\n\nHeightened (+1) The damage increases by 10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 corporeal creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "basic Fortitude"
+}

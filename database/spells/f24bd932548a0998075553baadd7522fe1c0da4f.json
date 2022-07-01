@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=426",
+    "name": "Healer's Blessing",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Your words bless a creature with an enhanced connection to positive energy.",
+    "heightenable": true,
+    "description": "Your words bless a creature with an enhanced connection to positive energy. When the target regains Hit Points from a healing spell, it regains 2 additional Hit Points.\n\n The target regains additional Hit Points from healer's blessing only the first time it regains HP from a given healing spell, so a spell that heals the creature repeatedly over a duration would restore additional Hit Points only once.\n\n------\n\nHeightened (+1) The additional healing increases by 2 HP.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 willing living creature",
+    "duration": "1 minute",
+    "saving": ""
+}

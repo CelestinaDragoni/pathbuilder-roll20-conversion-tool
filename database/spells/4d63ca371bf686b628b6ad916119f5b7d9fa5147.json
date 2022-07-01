@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=401",
+    "name": "Artistic Flourish",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You transform the target to make it match your artisanal and artistic vision.",
+    "heightenable": true,
+    "description": "You transform the target to make it match your artisanal and artistic vision. If you have expert proficiency in Crafting, the item grants a +1 item bonus to attack rolls if it's a weapon or skill checks if it's a skill tool. The target is a beautiful and impressive piece for its new quality, but the effect is obviously temporary, so its monetary value doesn't change.\n\n When you cast this spell, any previous artistic flourish you had cast ends.\n\n------\n\nHeightened (7th) If you have master proficiency in Crafting, the item grants a +2 item bonus instead.\nHeightened (10th) If you have legendary proficiency in Crafting, the item grants a +3 item bonus instead.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "15 feet",
+    "target": "1 item or work of art that fits entirely within the range",
+    "duration": "10 minutes",
+    "saving": ""
+}

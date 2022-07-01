@@ -1,0 +1,35 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1025",
+    "name": "Unspeakable Shadow",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Emotion",
+        "Fear",
+        "Illusion",
+        "Mental",
+        "Shadow",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "Transform a creature's shadow into a frightening monster and make them flee or fight it.",
+    "heightenable": false,
+    "description": "You alter a creature's shadow, transforming it into a terrifying monster out to devour the creature. The creature must attempt a Will save. A creature that has the frightened condition from unspeakable shadow must spend at least one of its actions each turn to either attack its shadow (making a Strike ineffectually) or flee from its shadow (using one action to move away as though it had the fleeing condition).\n\nCritical Success The target is unaffected.\nSuccess The target is frightened 2.\nFailure The target is frightened 3. It can't reduce its frightened value below 1 for 1 minute.\nCritical Failure The target is so afraid, it might instantly die. It must succeed at a Fortitude save or die; this saving throw has the incapacitation trait. If it succeeds at its save, the target is frightened 4 and can't reduce its frightened value below 1 for 1 minute.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

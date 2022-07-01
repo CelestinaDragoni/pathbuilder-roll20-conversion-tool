@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3347",
+    "name": "Nothing but Fluff",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 5,
+    "prereq": "Stuffed Poppet Heritage",
+    "summary": "Your fluffy interior lacks specific organs and struts, with few weak spots to injure.",
+    "description": "Your fluffy interior lacks specific organs and struts, with few weak spots to injure. You gain resistance to precision damage equal to half your level.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "none",
+    "trigger": ""
+}

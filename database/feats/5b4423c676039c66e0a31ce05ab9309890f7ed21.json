@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3333",
+    "name": "Frightful Condemnation",
+    "source": "Night of the Gray Death",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Emotion",
+        "Fear",
+        "Mental",
+        "Vigilante"
+    ],
+    "level": 6,
+    "prereq": "Harsh Judgment; Vigilante Dedication; Member Of The Gray Gardeners",
+    "summary": "Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned.",
+    "description": "Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is frightened 1, or frightened 2 if the triggering Strike was a critical hit.Traits\n\nArchetype: This feat belongs to an archetype.\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Fear: Fear effects evoke the emotion of fear. Effects with this trait always have the mental and emotion traits as well.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.Vigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "free_action",
+    "trigger": "You hit your condemned foe with a melee Strike in the same turn during which you condemned it with Harsh Judgment."
+}

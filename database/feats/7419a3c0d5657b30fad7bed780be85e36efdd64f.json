@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3546",
+    "name": "Clinging Climber",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Vampire Dedication; Trained In Athletics",
+    "summary": "You climb like a spider.",
+    "description": "You climb like a spider. You gain a climb Speed of 15 feet.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

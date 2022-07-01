@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3173",
+    "name": "Phalanx Breaker",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 6,
+    "prereq": "Way Of The Vanguard",
+    "summary": "You know that to take out an enemy formation, you must punch a hole through its center.",
+    "description": "You know that to take out an enemy formation, you must punch a hole through its center. Make a ranged Strike with the required weapon against a target within the weapon's first range increment. The target is pushed directly back 10 feet (20 feet on a critical hit), and if this pushes the target into an obstacle, the target takes bludgeoning damage equal to half your level.",
+    "economy": "2-action",
+    "trigger": ""
+}

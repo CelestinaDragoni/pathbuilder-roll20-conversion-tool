@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=233",
+    "name": "Heal Mount",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 8,
+    "prereq": "Divine Ally (Steed); Devotion Spell (Lay On Hands)",
+    "summary": "Your devotion to your mount manifests as a surge of positive energy.",
+    "description": "Your devotion to your mount manifests as a surge of positive energy. When you cast lay on hands on your mount, you can restore 10 Hit Points, plus 10 for each heightened level.",
+    "economy": "none",
+    "trigger": ""
+}

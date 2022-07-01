@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2528",
+    "name": "Gripping Limbs",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fleshwarp"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Nodules, hooks, or claws on your limbs allow you to cling to surfaces with ease.",
+    "description": "Nodules, hooks, or claws on your limbs allow you to cling to surfaces with ease. You gain a climb Speed of 15 feet.Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1388",
+    "name": "Demon Magic",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 9,
+    "prereq": "Pitborn",
+    "summary": "You can channel the power of the Abyss through your heritage, producing terrible tangible effects.",
+    "description": "You can channel the power of the Abyss through your heritage, producing terrible tangible effects. You can cast paranoia and shatter each once per day as 2nd-level divine innate spells.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

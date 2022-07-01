@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3578",
+    "name": "Interrupt Charge",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Knight Vigilant",
+    "summary": "You attempt to snag the foe before they run away.",
+    "description": "You attempt to snag the foe before they run away. Attempt an Athletics check against the higher of the triggering creature's Athletics DC or Fortitude DC.\n\nCritical Success You disrupt the movement.\nSuccess You are able to slow the triggering creature down. It takes a –10-foot circumstance penalty to its Speed for the rest of its triggering movement. This penalty might cause the triggering creature's movement to end immediately based on its affected Speed.\nFailure As success, but the creature instead takes a –5-foot circumstance penalty to its Speed.Interrupt Charge Leads To...\n\nInstinctual InterceptionTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A foe within reach attempts to move away from you."
+}

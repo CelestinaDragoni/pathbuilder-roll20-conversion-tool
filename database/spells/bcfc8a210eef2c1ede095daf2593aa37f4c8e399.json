@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=937",
+    "name": "Invoke Spirits",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Fear",
+        "Mental",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Call a group of ghostly apparitions to attack your foes.",
+    "heightenable": true,
+    "description": "Ragged apparitions of the dead rise to stalk the living. They deal 2d4 mental damage and 2d4 negative damage to each living creature in the area, with a basic Will save. Additionally, creatures that critically fail the save are frightened 2 and are fleeing for 1 round.\n\n On subsequent rounds, the first time you Sustain the Spell each round, you can move the area up to 30 feet within the range of the spell. Living creatures in the new area must attempt saves with the same effects as above, except that critically failing doesn't make them flee.\n\n------\n\nHeightened (+2) The mental damage and negative damage each increase by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=476",
+    "name": "Timeless Body",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "You cease aging.",
+    "description": "You cease aging. In addition, you gain a +2 status bonus to saving throws against poisons and diseases, and you gain resistance to poison damage equal to half your level.",
+    "economy": "none",
+    "trigger": ""
+}

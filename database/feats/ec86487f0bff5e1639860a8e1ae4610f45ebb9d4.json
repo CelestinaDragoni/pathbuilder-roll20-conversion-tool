@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=614",
+    "name": "Advanced Bloodline",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 6,
+    "prereq": "Bloodline Spell",
+    "summary": "You have studied your bloodline to learn the secrets of its magic.",
+    "description": "You have studied your bloodline to learn the secrets of its magic. You gain the advanced bloodline spell associated with your bloodline. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

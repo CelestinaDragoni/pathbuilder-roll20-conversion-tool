@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2375",
+    "name": "Can't Fall Here",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Hobgoblin",
+        "Manipulate"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You physically help an ally remain standing and encourage them to push through their pain against dire odds.",
+    "description": "You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall unconscious and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's wounded condition increases by 1.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic orderManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "reaction",
+    "trigger": "An adjacent and willing ally would be reduced to 0 HP but not killed."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=80",
+    "name": "Inspire Imitation",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Half-Elf"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your own actions inspire your allies to great achievements.",
+    "description": "Your own actions inspire your allies to great achievements. Whenever you critically succeed at a skill check, you automatically qualify to use the Aid reaction when attempting to help an ally using the same skill, even without spending an action to prepare to do so.\nTraits\n\nHalf-Elf: A creature with this trait is part human and part elf. An ability with this trait can be used or selected only by half-elves.",
+    "economy": "none",
+    "trigger": ""
+}

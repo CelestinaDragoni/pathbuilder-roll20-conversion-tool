@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2056",
+    "name": "Expert Scroll Cache",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Basic Scroll Cache",
+    "summary": "Your scroll collection is more powerful.",
+    "description": "Your scroll collection is more powerful. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-level spell. At 14th level, add a scroll with a 4th-level spell. At 16th level, add a scroll with a 5th-level spell.Expert Scroll Cache Leads To...\n\nMaster Scroll CacheTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

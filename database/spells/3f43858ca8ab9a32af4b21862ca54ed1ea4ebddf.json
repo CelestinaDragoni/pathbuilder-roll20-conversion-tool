@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=30",
+    "name": "Burning Hands",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "A small cone of flame rushes from your hands.",
+    "heightenable": true,
+    "description": "Gouts of flame rush from your hands. You deal 2d6 fire damage to creatures in the area.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

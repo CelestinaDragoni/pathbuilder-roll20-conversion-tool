@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=879",
+    "name": "Aldori Riposte",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Aldori Parry",
+    "summary": "Learn to strike back at your opponent when they fail to attack you.",
+    "description": "You riposte with your Aldori dueling sword when your enemy leaves an opening. Make a melee Strike or use a Disarm action against the triggering opponent using your Aldori dueling sword.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An opponent within your reach critically fails a Strike against you."
+}

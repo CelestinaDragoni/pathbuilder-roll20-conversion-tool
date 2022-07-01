@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=761",
+    "name": "Spray of Stars",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cursebound",
+        "Evocation",
+        "Fire",
+        "Light",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You fling a spray of tiny shooting stars, dealing 1d4 fire damage.",
+    "heightenable": true,
+    "description": "You fling a spray of tiny shooting stars, dealing 1d4 fire damage. Each creature in the area must attempt a Reflex save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage and is dazzled for 1 round.\nFailure The creature takes full damage and is dazzled for 3 rounds.\nCritical Failure The creature takes double damage and is dazzled for 1 minute.\n\n------\n\nHeightened (+1) Increase the damage by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

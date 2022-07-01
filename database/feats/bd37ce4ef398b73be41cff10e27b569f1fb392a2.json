@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1211",
+    "name": "Steel Your Resolve",
+    "source": "Gamemastery Guide",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Stamina"
+    ],
+    "level": 3,
+    "prereq": "&Mdash;",
+    "summary": "Regain Stamina Points equal to half your maximum.",
+    "description": "Regain Stamina Points equal to half your maximum.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nStamina: Available for use in games using the Stamina Rules Variant.",
+    "economy": "1-action",
+    "trigger": ""
+}

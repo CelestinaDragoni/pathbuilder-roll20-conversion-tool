@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=341",
+    "name": "Touch of Idiocy",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Dull a target's mind with a touch.",
+    "heightenable": false,
+    "description": "You dull the target's mind; the target must attempt a Will save.\n\nSuccess The target is unaffected.\nFailure The target is stupefied 2.\nCritical Failure The target is stupefied 4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living creature",
+    "duration": "1 minute",
+    "saving": "Will"
+}

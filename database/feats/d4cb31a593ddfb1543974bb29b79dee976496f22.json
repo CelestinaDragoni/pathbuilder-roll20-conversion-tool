@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1604",
+    "name": "Bashing Charge",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Flourish"
+    ],
+    "level": 2,
+    "prereq": "Trained In Athletics",
+    "summary": "You smash, bust, and charge through solid obstacles without hesitation.",
+    "description": "You smash, bust, and charge through solid obstacles without hesitation. Stride twice. Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an Athletics check to Force Open the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "2-action",
+    "trigger": ""
+}

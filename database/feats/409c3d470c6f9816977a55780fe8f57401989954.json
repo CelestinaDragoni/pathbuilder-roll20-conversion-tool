@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3026",
+    "name": "School Counterspell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Counterspell; Runelord Dedication",
+    "summary": "Your intricate knowledge of your school lets you easily negate spells from that school.",
+    "description": "Your intricate knowledge of your school lets you easily negate spells from that school. Instead of being able to counter a foe's spell with Counterspell only if you have the same spell prepared, if the foe casts a spell from the school matching your specialization, you can Counterspell it with any other spell of the same school.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

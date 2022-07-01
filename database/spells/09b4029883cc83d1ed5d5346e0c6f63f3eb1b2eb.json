@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1037",
+    "name": "Dimensional Assault",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Magus",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You tumble through space, making a short dimensional hop to better position yourself for an attack.",
+    "heightenable": false,
+    "description": "You tumble through space, making a short dimensional hop to better position yourself for an attack. Teleport to any square in range that's within reach of a creature, and then make a melee Strike against one creature within your reach.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "half your Speed",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

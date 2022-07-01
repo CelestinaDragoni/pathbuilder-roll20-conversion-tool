@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1707",
+    "name": "Premonition of Clarity",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Fortune"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "Your deity sends you a vision of faith to steel you against mental attacks.",
+    "description": "Your deity sends you a vision of faith to steel you against mental attacks. Reroll the triggering saving throw with a +2 circumstance bonus. You must use the second result, even if it's worse.Premonition of Clarity Leads To...\n\nShared ClarityTraitsFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "reaction",
+    "trigger": "You fail a saving throw against a mental effect."
+}

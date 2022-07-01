@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=101",
+    "name": "Enduring Alchemy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You’ve learned how to make your personal energy last just a little bit longer when quickly brewing ad hoc concoctions.",
+    "description": "You’ve learned how to make your personal energy last just a little bit longer when quickly brewing ad hoc concoctions. When using Quick Alchemy to create an alchemical tool or elixir, that tool or elixir remains potent until the end of your next turn, instead of losing its potency at the start of your next turn.",
+    "economy": "none",
+    "trigger": ""
+}

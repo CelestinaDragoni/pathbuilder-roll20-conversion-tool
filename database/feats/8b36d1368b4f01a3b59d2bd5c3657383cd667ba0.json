@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2414",
+    "name": "Scion Transformation",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk",
+        "Primal",
+        "Transmutation"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "You go into hibernation for 24 hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis.",
+    "description": "You go into hibernation for 24 hours and perform a ritual dedicated to your ancestors, undergoing a one-time metamorphosis. You permanently gain the effects of enlarge, and your maximum Hit Points increase by your level. The ritual transforms most of your gear to the appropriate size for your new body (though powerful items like artifacts or items strongly tied to their original size may not transform, at the GM's discretion).Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.\n\nPrimal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "none",
+    "trigger": ""
+}

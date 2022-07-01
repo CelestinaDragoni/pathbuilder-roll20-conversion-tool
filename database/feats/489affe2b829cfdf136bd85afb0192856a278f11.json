@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=257",
+    "name": "Instrument of Zeal",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 16,
+    "prereq": "Divine Ally (Blade); Tenets Of Good",
+    "summary": "Divine energy fills your weapon.",
+    "description": "Divine energy fills your weapon. Whenever you critically hit a foe with Blade of Justice or a Retributive Strike, your attack adds an extra damage die, and the target is slowed 1 on its next turn.",
+    "economy": "none",
+    "trigger": ""
+}

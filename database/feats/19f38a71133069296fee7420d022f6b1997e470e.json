@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3628",
+    "name": "Ghost Wrangler",
+    "source": "Knights of Lastwall",
+    "rarity": "Uncommon",
+    "traits": [
+        "Barbarian",
+        "Divine",
+        "Instinct",
+        "Necromancy",
+        "Rage"
+    ],
+    "level": 4,
+    "prereq": "Spirit Instinct",
+    "summary": "Spirits around you coalesce upon your fists, enabling you to seize and harm other ghosts and spirits.",
+    "description": "Spirits around you coalesce upon your fists, enabling you to seize and harm other ghosts and spirits. Until the beginning of your next turn, your fists gain the effects of the ghost touch property rune, and you can make Strength-based skill checks against incorporeal creatures.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nInstinct: Instinct abilities require a specific instinct; you lose access if you perform acts anathema to your instinct.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Rage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "1-action",
+    "trigger": ""
+}

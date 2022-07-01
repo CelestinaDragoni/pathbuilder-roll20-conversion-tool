@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=580",
+    "name": "Tactical Debilitations",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 10,
+    "prereq": "Scoundrel Racket; Debilitating Strike",
+    "summary": "You learn new debilitations that grant you tactical advantages against your foes.",
+    "description": "You learn new debilitations that grant you tactical advantages against your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike. Debilitation The target can’t use reactions. Debilitation The target can’t flank or contribute to allies’ flanking.",
+    "economy": "none",
+    "trigger": ""
+}

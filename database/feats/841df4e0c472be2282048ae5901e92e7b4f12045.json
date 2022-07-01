@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=725",
+    "name": "Advanced Hunter's Trick",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Basic Hunter's Trick",
+    "summary": "You gain one ranger feat.",
+    "description": "You gain one ranger feat. For the purpose of meeting its prerequisites, your ranger level is equal to half your character level.\n\nSpecial You can select this feat more than once. Each time you select it, you gain another ranger feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=842",
+    "name": "Lift Nature's Caul",
+    "source": "Pathfinder #165",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Fear",
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "With a wave of the hand, you cause the targets to see the world around them as if a gauzy \u001flm had been lifted away to expose the truth that lies below their perceived reality.",
+    "heightenable": true,
+    "description": "With a wave of the hand, you cause the targets to see the world around them as if a gauzy film had been lifted away to expose the truth that lies below their perceived reality. Natural features they can see grow twisted and horrendous, structures appear distorted and ruined, and objects seem warped and alien. This alternate vision fades quickly, but the glimpse beyond the natural world lingers for the spell's duration.\n\n Aberrations or worshippers of Outer Gods or Great Old Ones are bolstered by this vision of warped reality and gain a +1 status bonus to Will saving throws and attack rolls for 1 minute, while all other creatures must attempt a Will saving throw.\n\nCritical Success The creature is unaffected and temporarily immune for 1 hour.\nSuccess The creature is sickened 1.\nFailure The creature is stupefied 1 for 1 minute and frightened 1.\nCritical Failure The creature is stupefied 1 for 1 minute and frightened 2. It can't reduce the value of its frightened condition below 1 as long as it remains stupefied by this spell.\n\n------\n\nHeightened (+2) You increase the area by 5 feet and the duration of the stupefied condition by 1 minute.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "5-foot emanation",
+    "target": "creatures in the area",
+    "duration": "varies",
+    "saving": "Will"
+}

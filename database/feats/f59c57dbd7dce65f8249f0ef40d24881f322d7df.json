@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=965",
+    "name": "Clan's Edge",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 1,
+    "prereq": "Trained In Clan Daggers",
+    "summary": "By moving your clan dagger with rapid precision, you can protect yourself more effectively.",
+    "description": "By moving your clan dagger with rapid precision, you can protect yourself more effectively. Make two clan dagger Strikes against different targets. Your multiple attack penalty applies normally to these Strikes. You then use an Interact action to gain the +1 circumstance bonus to your AC from your clan dagger’s parrying trait.Clan's Edge Leads To...\n\nProtective SheathTraitsDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "2-action",
+    "trigger": ""
+}

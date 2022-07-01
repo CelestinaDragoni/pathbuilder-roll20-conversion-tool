@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=489",
+    "name": "Wild Winds Stance",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Air",
+        "Evocation",
+        "Monk",
+        "Stance"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You take on the stance of the flowing winds, sending out waves of energy at a distance.",
+    "heightenable": false,
+    "description": "You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed Strikes as ranged Strikes against targets within 30 feet. These deal 1d6 bludgeoning damage, use the brawling group, and have the agile, nonlethal, propulsive, and unarmed traits. Wind crash Strikes ignore concealment and all cover.\n\n While in wild winds stance, you gain a +2 circumstance bonus to AC against ranged attacks.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "until you leave the stance",
+    "saving": ""
+}

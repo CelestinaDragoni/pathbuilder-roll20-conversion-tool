@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1674",
+    "name": "Corrupted Shield",
+    "source": "Advanced Player's Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion",
+        "Divine",
+        "Necromancy",
+        "Negative"
+    ],
+    "level": 6,
+    "prereq": "Divine Ally (Shield); Tenets Of Evil",
+    "summary": "Your shield ally is more than just a spirit of protection— it's a conduit for deadly divine magic.",
+    "description": "Your shield ally is more than just a spirit of protection— it's a conduit for deadly divine magic. When you use your shield ally to Shield Block a melee unarmed attack or a melee weapon Strike from an adjacent creature, the attacker takes 1d6 evil or negative damage (your choice). If the attack or Strike breaks or destroys your shield, double this additional damage.\n\n The damage the attacker takes increases to 2d6 at 11th level and 3d6 at 16th level.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Negative: Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the Negative Energy Plane. They can survive the basic environmental effects of the Negative Energy Plane.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

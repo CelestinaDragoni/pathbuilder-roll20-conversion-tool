@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=880",
+    "name": "Cast into Time",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Make a creature fall through time, damaging and sickening it.",
+    "heightenable": true,
+    "description": "You release a wave of temporal energy that sends creatures violently tumbling through time, scarring their thoughts with the information flowing around them. Although the journey can feel like it lasts for minutes or even days, the targets reappear instantly. Witnessing this chaotic flow of time and being bashed against objects from different times deals the targets 5d8 mental damage and 5d6 bludgeoning damage, with a Fortitude save. A creature that falls into time disappears until the end of your turn. It then reappears in the same space it left; if that space is occupied, it appears in the nearest empty space, chosen by the GM.\n\nCritical Success The creature is unaffected.\nSuccess The creature falls into time. When it returns, it takes half damage.\nFailure The creature falls into time. When it returns, it takes full damage and is sickened 1.\nCritical Failure The creature falls into time. When it returns, it takes double damage and is sickened 2.\n\n------\n\nHeightened (+1) The bludgeoning damage increase by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": "FortitudeYou release a wave of temporal energy that sends creatures violently tumbling through time, scarring their thoughts with the information flowing around them. Although the journey can feel like it lasts for minutes or even days, the targets reappear instantly. Witnessing this chaotic flow of time and being bashed against objects from different times deals the targets 5d8 mental damage and 5d6 bludgeoning damage, with a Fortitude save. A creature that falls into time disappears until the end of your turn. It then reappears in the same space it left"
+}

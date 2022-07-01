@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=515",
+    "name": "Jealous Hex",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Curse",
+        "Necromancy",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You draw forth a hag’s innate jealousy to deny a target its greatest attribute.",
+    "heightenable": false,
+    "description": "You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target is cursed with an adverse condition depending on its highest ability modifier: Strength (enfeebled); Dexterity (clumsy); Constitution (drained); or Intelligence, Wisdom, or Charisma (stupefied). On a tie, the creature decides which of the conditions associated with the tied ability modifiers to take. The target must attempt a Will save.\nSuccess The target is unaffected.\nFailure The condition's value is 1.\nCritical Failure The condition's value is 2.\n\nAt the start of each of your turns, the target can attempt another Will save, ending the effect on a success.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "up to 1 minute",
+    "saving": "Will"
+}

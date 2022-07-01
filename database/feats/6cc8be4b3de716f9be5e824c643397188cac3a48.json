@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1093",
+    "name": "Unshakable Idealism",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Knight Vigilant; Expert In Will Saves",
+    "summary": "Your faith and hope can’t be shaken, and you won’t flee when lives are at stake.",
+    "description": "Your faith and hope can’t be shaken, and you won’t flee when lives are at stake. You gain a +1 circumstance bonus on saves against fear effects and emotion effects that inflict despair. When you would gain the fleeing condition, you can choose to stand your ground and be stunned for the effect’s duration as well, preventing you from running and allowing you to re-enter the fight more quickly when the effect ends.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1699",
+    "name": "Radiant Infusion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 4,
+    "prereq": "Good Alignment; Healing Font",
+    "summary": "You pour invigorating positive energy into a living ally.",
+    "description": "You pour invigorating positive energy into a living ally. If the next action you use is to cast heal to restore Hit Points to a single living creature, the target deals an additional 1d6 positive damage with its melee weapons and unarmed attacks until the end of its next turn. If the heal spell is at least 5th level, this damage increases to 2d6, or 3d6 if the spell is at least 8th level.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

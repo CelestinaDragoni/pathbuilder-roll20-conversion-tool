@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=792",
+    "name": "Cackle",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Enchantment",
+        "Hex",
+        "Witch"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "With a quick burst of laughter, you prolong a magical effect you created.",
+    "heightenable": false,
+    "description": "With a quick burst of laughter, you prolong a magical effect you created. You Sustain a Spell.",
+    "economy": "free_action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

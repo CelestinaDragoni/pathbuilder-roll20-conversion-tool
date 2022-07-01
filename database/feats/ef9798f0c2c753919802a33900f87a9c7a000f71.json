@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3517",
+    "name": "Bolster Soul Cage",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 16,
+    "prereq": "Lich Dedication; Legendary In Crafting",
+    "summary": "Your constant efforts to augment and perfect your soul cage have bolstered its efficiency.",
+    "description": "Your constant efforts to augment and perfect your soul cage have bolstered its efficiency. Your soul cage has Hardness equal to your level and HP equal to four times your level. The time it takes your soul cage to rebuild your body is reduced to 1d6 days rather than 1d10 days.\n\n At 20th level, the time it takes your soul cage to rebuild your body is reduced to 2d12+12 hours.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

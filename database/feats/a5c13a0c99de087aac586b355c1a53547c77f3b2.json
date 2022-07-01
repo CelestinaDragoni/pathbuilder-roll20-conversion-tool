@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=554",
+    "name": "Brutal Beating",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 2,
+    "prereq": "Ruffian Racket",
+    "summary": "The brutality of your critical hits shakes your foes’ confidence.",
+    "description": "The brutality of your critical hits shakes your foes’ confidence. Whenever your Strike is a critical hit and deals damage, the target is frightened 1.",
+    "economy": "none",
+    "trigger": ""
+}

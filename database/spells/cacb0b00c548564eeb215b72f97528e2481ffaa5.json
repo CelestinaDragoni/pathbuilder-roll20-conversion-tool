@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=563",
+    "name": "Song of the Fallen",
+    "source": "Pathfinder #150",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Composition",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 10,
+    "summary": "Rouse the dead or smite the undead.",
+    "heightenable": false,
+    "description": "You chant a dirge or an elegy that either rouses the dead to action or reminds undead that they should lay to rest.\n\n If you target dead creatures, the bodies animate and can continue acting as if they were alive. A creature animated in this way has 60 temporary Hit Points. The animated creatures are slowed 1 but can otherwise act normally. Creatures animated with this spell die again once the spell ends.\n\n If you target undead creatures, each undead must attempt a basic Will save.\n\nCritical Success The undead takes 5d6 positive damage.\nSuccess The undead takes 10d6 positive damage and is slowed 1 for 1 round.\nFailure The undead takes 100 positive damage and is slowed 1 for 1 minute.\nCritical Failure The undead is destroyed.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "up to 4 dead creatures or up to 4 undead creatures",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

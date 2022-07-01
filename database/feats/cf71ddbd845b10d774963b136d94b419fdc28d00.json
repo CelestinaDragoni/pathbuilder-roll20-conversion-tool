@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1758",
+    "name": "One-Millimeter Punch",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 16,
+    "prereq": "One-inch Punch",
+    "summary": "Your punches have incredible force and control.",
+    "description": "Your punches have incredible force and control. When you damage a target using One-Inch Punch, you can focus your ki to send the foe flying. If you do, the target must attempt a Fortitude save against your class DC.\n\nCritical Success The target is unaffected.\nSuccess The target is pushed back 5 feet.\nFailure The target is pushed back 10 feet.\nCritical Failure The target is pushed back 10 feet for each action you spent on One-Inch Punch.",
+    "economy": "none",
+    "trigger": ""
+}

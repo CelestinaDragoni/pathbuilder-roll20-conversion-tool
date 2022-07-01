@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1874",
+    "name": "Contortionist",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Acrobat Dedication",
+    "summary": "You can squeeze out of tight situations surprisingly quickly, gaining an advantage against foes that try to pin you down.",
+    "description": "You can squeeze out of tight situations surprisingly quickly, gaining an advantage against foes that try to pin you down. You gain the Quick Squeeze skill feat, and if you're a master in Acrobatics, you can Squeeze at full Speed. Whenever you successfully Escape using Acrobatics, the creature you Escaped from is flat-footed against the next attack you make against it before the end of your next turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

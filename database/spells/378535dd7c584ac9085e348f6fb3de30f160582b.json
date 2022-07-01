@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=865",
+    "name": "Ash Cloud",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Air",
+        "Conjuration",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Summon a cloud of hot ash and smoke.",
+    "heightenable": true,
+    "description": "You summon a tumultuous cloud of ash and smoke. The cloud is difficult terrain for flying creatures, and creatures in the cloud can't detect anything using their sense of smell. Creatures that start their turn within the cloud take 2d4 fire damage as their lungs fill with the hot, acrid smoke, with a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target takes half damage.\nFailure The target takes full damage and is dazzled for 1 round.\nCritical Failure The target takes double damage and is blinded for 1 round.\n\n------\n\nHeightened (+1) The damage increases by 1d4.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "Fortitude"
+}

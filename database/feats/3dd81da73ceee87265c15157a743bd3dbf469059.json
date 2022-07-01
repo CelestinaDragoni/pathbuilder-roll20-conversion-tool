@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1930",
+    "name": "Legendary Rider",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 20,
+    "prereq": "Cavalier Dedication",
+    "summary": "You and your mount move like one being, effortlessly reading each other's signals.",
+    "description": "You and your mount move like one being, effortlessly reading each other's signals. Whenever you are riding your mount, you are quickened; you can use the extra action only to command your mount using the Command an Animal skill action.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

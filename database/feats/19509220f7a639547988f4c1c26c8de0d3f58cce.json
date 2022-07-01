@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3351",
+    "name": "Scaling Poppet",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces.",
+    "description": "Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces. You gain a climb Speed of 15 feet.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "none",
+    "trigger": ""
+}

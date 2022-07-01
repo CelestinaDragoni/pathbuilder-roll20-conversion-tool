@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=66",
+    "name": "Adapted Cantrip",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 1,
+    "prereq": "Spellcasting Class Feature",
+    "summary": "Through study of multiple magical traditions, you’ve altered a spell to suit your spellcasting style.",
+    "description": "Through study of multiple magical traditions, you've altered a spell to suit your spellcasting style. Choose one cantrip from a magical tradition other than your own. If you have a spell repertoire or a spellbook, replace one of the cantrips you know or have in your spellbook with the chosen spell. If you prepare spells without a spellbook (if you're a cleric or druid, for example), one of your cantrips must always be the chosen spell, and you prepare the rest normally. You can cast this cantrip as a spell of your class's tradition.\n\n If you swap or retrain this cantrip later, you can choose its replacement from the same alternate tradition or a different one.\nAdapted Cantrip Leads To...\n\nAdaptive AdeptTraitsHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

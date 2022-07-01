@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2610",
+    "name": "Fluid Contortionist",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Undine"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You can ignore difficult terrain caused by moving through tight spaces that aren't tight enough to force you to Squeeze.",
+    "description": "You can ignore difficult terrain caused by moving through tight spaces that aren't tight enough to force you to Squeeze. When you roll a critical failure on a check to Squeeze, you get a failure instead, and when you roll a success, you get a critical success instead.Traits\n\nUndine: Undines are planar scions descended from marids.",
+    "economy": "none",
+    "trigger": ""
+}

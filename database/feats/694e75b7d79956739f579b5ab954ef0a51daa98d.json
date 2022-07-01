@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=550",
+    "name": "Nimble Dodge",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue",
+        "Swashbuckler"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You deftly dodge out of the way.",
+    "description": "You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.Nimble Dodge Leads To...\n\nNimble Roll",
+    "economy": "reaction",
+    "trigger": "A creature targets you with an attack and you can see the attacker."
+}

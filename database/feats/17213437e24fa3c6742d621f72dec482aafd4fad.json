@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2558",
+    "name": "Heatwave",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ifrit"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You harness the oncoming flames and twist them into a screen of heat and smoke, granting you concealment until the beginning of your next turn.",
+    "description": "You harness the oncoming flames and twist them into a screen of heat and smoke, granting you concealment until the beginning of your next turn.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.",
+    "economy": "reaction",
+    "trigger": "An effect would deal fire damage to you, even if you resist all the damage."
+}

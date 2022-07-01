@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=86",
+    "name": "Orc Weapon Familiarity",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "In combat, you favor the brutal weapons that are traditional for your orc ancestors.",
+    "description": "In combat, you favor the brutal weapons that are traditional for your orc ancestors. You are trained with the falchion and greataxe. In addition, you gain access to all uncommon orc weapons. For the purpose of determining your proficiency, martial orc weapons are simple weapons and advanced orc weapons are martial weapons.Orc Weapon Familiarity Leads To...\n\nOrc Weapon Carnage, Orc Weapon ExpertiseTraitsOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1803",
+    "name": "Bloody Debilitations",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 12,
+    "prereq": "Debilitating Strike; Trained In Medicine",
+    "summary": "Your attacks slice arteries and veins.",
+    "description": "Your attacks slice arteries and veins. Add the following debilitation to the list you can choose from when you use Debilitating Strike. Debilitation The target takes 3d6 persistent bleed damage.",
+    "economy": "none",
+    "trigger": ""
+}

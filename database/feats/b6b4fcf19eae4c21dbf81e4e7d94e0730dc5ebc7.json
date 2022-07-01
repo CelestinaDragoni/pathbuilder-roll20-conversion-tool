@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2902",
+    "name": "Dual Energy Heart",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 4,
+    "prereq": "Energy Heart",
+    "summary": "A second energy dwells in your eidolon.",
+    "description": "A second energy dwells in your eidolon. Choose an additional energy damage type. Your unarmed attack that deals energy damage gains the versatile trait for the second energy damage type, and your eidolon gains resistance to the second type of energy damage equal to half your level.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

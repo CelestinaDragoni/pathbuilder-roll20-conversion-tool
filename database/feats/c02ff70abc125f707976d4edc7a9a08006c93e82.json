@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1776",
+    "name": "Warden's Focus",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 12,
+    "prereq": "Warden Spells",
+    "summary": "Your connection with your surroundings grows deeper as you focus.",
+    "description": "Your connection with your surroundings grows deeper as you focus. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.Warden's Focus Leads To...\n\nWarden's Wellspring",
+    "economy": "none",
+    "trigger": ""
+}

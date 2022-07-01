@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3382",
+    "name": "Volatile Grease",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Grease",
+    "summary": "When you cast grease, you can modify it to cover a creature in flammable grease.",
+    "description": "When you cast grease, you can modify its target to be 1 creature. If you do, replace the spell's standard effects with the following: You splash the target with combustible grease. The target must attempt a Reflex save.\nCritical Success The target is unaffected.\nSuccess The target is splattered with grease and gains weakness 2 to fire until the end of your next turn. The target or an adjacent creature can rub off the combustible grease with an Interact action, ending the effect.\nFailure As success, except the weakness to fire lasts for 1 minute.\n\n------\n\nHeightened (+2) The weakness increases by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

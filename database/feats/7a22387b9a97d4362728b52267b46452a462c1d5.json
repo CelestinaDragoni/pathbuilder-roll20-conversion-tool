@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1942",
+    "name": "Draconic Scent",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Dragon Disciple Dedication",
+    "summary": "Your sense of smell is uncanny, much like a dragon's.",
+    "description": "Your sense of smell is uncanny, much like a dragon's. You gain imprecise scent with a range of 30 feet. The GM might double the range if you're downwind from the creature or halve the range if you're upwind, at their discretion.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

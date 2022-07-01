@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=899",
+    "name": "Mantis Form",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Basic Red Mantis Magic",
+    "summary": "You can transform yourself into a mantis battle form.",
+    "description": "You gain the mantis form focus spell. If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying to Achaekek or researching your assigned kill.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

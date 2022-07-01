@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=289",
+    "name": "Slow",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Make a creature slower, reducing its actions.",
+    "heightenable": true,
+    "description": "You dilate the flow of time around the target, slowing its actions.\n\nCritical Success The target is unaffected.\nSuccess The target is slowed 1 for 1 round.\nFailure The target is slowed 1 for 1 minute.\nCritical Failure The target is slowed 2 for 1 minute.\n\n------\n\nHeightened (6th) You can target up to 10 creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": "Fortitude"
+}

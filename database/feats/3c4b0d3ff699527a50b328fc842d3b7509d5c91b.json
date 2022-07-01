@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=135",
+    "name": "Acute Scent",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 2,
+    "prereq": "Acute Vision Or Darkvision",
+    "summary": "When you Rage, your sense of smell improves.",
+    "description": "When you Rage, your sense of smell improves. You gain imprecise scent with a range of 30 feet.Acute Scent Leads To...\n\nInstinctive Strike, Nocturnal Sense, Supernatural Senses",
+    "economy": "none",
+    "trigger": ""
+}

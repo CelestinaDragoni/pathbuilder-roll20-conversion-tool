@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2250",
+    "name": "Improvised Crafting",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Exploration",
+        "Manipulate",
+        "Skill"
+    ],
+    "level": 8,
+    "prereq": "Swordmaster Dedication; Expert In Crafting",
+    "summary": "You've learned to repair your equipment even in challenging circumstances, making use of what you have available.",
+    "description": "You've learned to repair your equipment even in challenging circumstances, making use of what you have available. You can attempt to Repair an item without a repair kit, instead improvising tools out of your gear or found items. This adds 5 minutes to the time it takes to Repair the item. You can also Repair an item while on the move without needing a stable surface. This adds 10 minutes to the times it takes to Repair the item.Traits\n\nArchetype: This feat belongs to an archetype.\n\nExploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.Manipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

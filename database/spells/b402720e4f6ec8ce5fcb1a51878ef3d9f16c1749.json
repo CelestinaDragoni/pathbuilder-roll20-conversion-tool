@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=12",
+    "name": "Animal Vision",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Project your senses through an animal.",
+    "heightenable": false,
+    "description": "You tap into the target's senses, allowing you to see, hear, and otherwise sense whatever it senses for the spell's duration. If the target wishes to prevent you from doing so, it can attempt a Will save, negating the spell on a success, but most animals don't bother to do so. While tapping into the target's senses, you can't use your own body's senses, but you can change back and forth from your body's senses to the target's senses using a single action, which has the concentrate trait.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 animal",
+    "duration": "1 hour",
+    "saving": ""
+}

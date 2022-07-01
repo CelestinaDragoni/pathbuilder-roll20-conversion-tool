@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=233",
+    "name": "Prismatic Spray",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Shoot rainbow beams that have various effects on creatures in a cone.",
+    "heightenable": false,
+    "description": "A spray of rainbow light beams cascades from your open hand. Each creature in the area must roll 1d8 on the table below to see which beam affects it, then attempt a saving throw of the indicated type. The table notes any additional traits that apply to each type of ray. If a creature is struck by multiple beams, it uses the same d20 result for all its saving throws. For all rays, a successful saving throw negates the effect for that creature.Prismatic Spray 1d8ColorSaveEffects (Traits) 1RedReflex50 fire damage (fire) 2OrangeReflex60 acid damage (acid) 3YellowReflex70 electricity damage (electricity) 4GreenFortitude30 poison damage and enfeebled 1 for 1 minute (poison) 5BlueFortitudeAffected as if by flesh to stone 6IndigoWillConfused, as the warp mind spell (mental) 7VioletWillSlowed for 1 minute; if a critical failure, sent to another plane, as plane shift (teleportation) 8Potent beam-Affected by two beams - roll twice, rerolling any duplicates or results of 8",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

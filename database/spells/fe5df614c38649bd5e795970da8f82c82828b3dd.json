@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=320",
+    "name": "Summon Elemental",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Conjure an elemental to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure an elemental to fight for you. This works like summon animal, except you summon a common creature that has the elemental trait and whose level is 1 or lower, such as those below.\n\n------\n\nHeightened (3rd) Level 2.\nHeightened (4th) Level 3.\nHeightened (5th) Level 5.\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel 0 ElementalsAir Wisp (N), Earth Wisp (N), Fire Wisp (N), Water Wisp (N)Level 1 ElementalsAir Mephit (N), Earth Mephit (N), Fire Mephit (N), Water Mephit (N)Level 2 ElementalsAzer (LN), Ember Fox (NG), Icicle Snake (N), Ledalusca (N), Living Boulder (N), Mudwretch (N), Spark Bat (N)Level 3 ElementalsBrine Shark (N), Cinder Rat (N), Sod Hound (N), Zephyr Hawk (N)Level 4 ElementalsEarthen Destrier (N), Filth Fire (NE), Janni (N), Living Thunderclap (N), Mist Stalker (N)Level 5 ElementalsLiving Landslide (N), Living Waterfall (N), Living Whirlwind (N), Living Wildfire (N)Level 6 ElementalsBelker (NE), Blizzardborn (N), Sand Sentry (N), Striding Fire (CN)Level 7 ElementalsInvisible Stalker (N), Quatoid (LN), Salamander (CE), Xorn (N)Level 8 ElementalsGranite Glyptodont (N), Magma Scorpion (N)Level 9 ElementalsFirewyrm (N), Stone Mauler (N), Storm Lord (N), Tidal Master (N)Level 10 ElementalsIcewyrm (N), Melody On The Wind (N)Level 11 ElementalsElemental Avalanche (N), Elemental Hurricane (N), Elemental Inferno (N), Elemental Tsunami (N)Level 14 ElementalsUthul (CE)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

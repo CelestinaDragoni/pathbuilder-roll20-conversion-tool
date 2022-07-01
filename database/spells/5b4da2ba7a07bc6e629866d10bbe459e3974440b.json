@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=468",
+    "name": "Waking Nightmare",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You fill the creature’s mind with a terrifying vision out of its nightmares.",
+    "heightenable": false,
+    "description": "You fill the creature's mind with a terrifying vision out of its nightmares. The target must attempt a Will save.\n\n If the target is unconscious when you Cast this Spell on it, it immediately wakes up before attempting its save, and if it fails its save, it gains the fleeing condition for 1 round in addition to the effects noted below.\n\nCritical Success The target is unaffected.\nSuccess The target is frightened 1.\nFailure The target is frightened 2.\nCritical Failure The target is frightened 3.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "varies",
+    "saving": "Will"
+}

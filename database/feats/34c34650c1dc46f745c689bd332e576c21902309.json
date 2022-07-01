@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2991",
+    "name": "Rockslide Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Earth",
+        "Metamagic"
+    ],
+    "level": 10,
+    "prereq": "Elementalist Dedication",
+    "summary": "You enhance your spell with elemental earth, causing chunks of stone to litter the ground.",
+    "description": "You enhance your spell with elemental earth, causing chunks of stone to litter the ground. If the next action you use is to Cast a non-cantrip Spell that affects an area, a number of 5-foot squares in the area equal to the spell level become difficult terrain for 1 round. These squares must be on the ground, and the entire area of difficult terrain must be contiguous. The spell gains the earth trait.Traits\n\nArchetype: This feat belongs to an archetype.\n\nEarth: Effects with the earth trait either manipulate or conjure earth. Those that manipulate earth have no effect in an area without earth. Creatures with this trait consist primarily of earth or have a magical connection to that element. Planes with this trait are mostly solid, with caverns and other hollow pockets.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

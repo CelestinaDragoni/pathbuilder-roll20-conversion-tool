@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3481",
+    "name": "Slayer's Blessing",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Manipulate"
+    ],
+    "level": 8,
+    "prereq": "Slayer's Strike",
+    "summary": "You carry scraps of materials dangerous to undead and can apply them to your weapon.",
+    "description": "You carry scraps of materials dangerous to undead and can apply them to your weapon. When you use Slayer's Strike, before making the Strike, you can choose either the ghost touch property rune or a precious material: cold iron, darkwood, or silver. Any Strike that gets extra positive damage from this use of Slayer's Strike also gets the benefits of the rune or counts as that material.\n\n At 14th level, add adamantine and mithral to the list of materials you can choose from.Traits\n\nArchetype: This feat belongs to an archetype.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "none",
+    "trigger": ""
+}

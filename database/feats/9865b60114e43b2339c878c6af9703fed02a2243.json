@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3604",
+    "name": "Sacred Armaments",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Lastwall Sentry Dedication",
+    "summary": "Through the power of your faith or the blessing of a priest, your weapons are fully effective against incorporeal creatures.",
+    "description": "Through the power of your faith or the blessing of a priest, your weapons are fully effective against incorporeal creatures. Weapons you wield have the effects of a ghost touch property rune for as long as you wield them.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

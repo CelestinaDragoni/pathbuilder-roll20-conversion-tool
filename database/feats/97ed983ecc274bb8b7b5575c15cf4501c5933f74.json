@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=502",
+    "name": "Far Shot",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "Your experience in the field has taught you how to focus your aim at a distance.",
+    "description": "Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons’ range increments.Far Shot Leads To...\n\nLegendary Shot",
+    "economy": "none",
+    "trigger": ""
+}

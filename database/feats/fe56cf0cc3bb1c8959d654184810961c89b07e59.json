@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2596",
+    "name": "Cloud Gazer",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sylph"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your connection to air allows you to see through obscuring mists.",
+    "description": "Your connection to air allows you to see through obscuring mists. You can see well enough through fog, mist, and clouds that would normally cause creatures to be concealed that you don't need to succeed at a flat check to target creatures benefiting from such concealment.Traits\n\nSylph: Sylphs are planar scions descended from djinn.",
+    "economy": "none",
+    "trigger": ""
+}

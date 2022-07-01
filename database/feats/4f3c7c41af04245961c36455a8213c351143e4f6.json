@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=467",
+    "name": "Winding Flow",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "Any journey consists of more than simply reaching your destination.",
+    "description": "Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can’t use the same action twice.",
+    "economy": "1-action",
+    "trigger": ""
+}

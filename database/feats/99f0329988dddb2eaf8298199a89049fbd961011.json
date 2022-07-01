@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2675",
+    "name": "Azarketi Weapon Aptitude",
+    "source": "Absalom, City of Lost Omens",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 5,
+    "prereq": "Azarketi Weapon Familiarity",
+    "summary": "You become familiar with using your weapons both in and out of water.",
+    "description": "You become familiar with using your weapons both in and out of water. Whenever you critically hit using an azarketi weapon or one of the weapons listed in Azarketi Weapon Familiarity, you apply the weapon's critical specialization effect.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

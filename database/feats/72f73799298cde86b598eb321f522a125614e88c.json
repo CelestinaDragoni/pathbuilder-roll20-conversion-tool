@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3507",
+    "name": "Feverish Enzymes",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Ghoul Dedication",
+    "summary": "Your claws and fangs exude an infectious enzyme, related to the necrotic effects of ghoul fever, that causes a creature's wounds to heal slowly.",
+    "description": "Your claws and fangs exude an infectious enzyme, related to the necrotic effects of ghoul fever, that causes a creature's wounds to heal slowly. Strike with your claw or jaws. This attack deals negative damage instead of its normal type; on a hit, the target halves any healing it receives until the start of your next turn. The target or an adjacent ally can spend two Interact actions to squeeze the enzymes from the wound and remove the effect.\n\n If you are satiated, when you hit you can choose to end your satiation and boost your enzymes, increasing the duration to 1 minute.Feverish Enzymes Leads To...\n\nParalyzing SlashTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

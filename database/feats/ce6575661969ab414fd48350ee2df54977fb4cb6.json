@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1269",
+    "name": "Reliable Luck",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 17,
+    "prereq": "Cat's Luck",
+    "summary": "You have gone well past nine lives to survive danger with surprising regularity.",
+    "description": "You have gone well past nine lives to survive danger with surprising regularity. You can use Cat's Luck once per hour, rather than once per day.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

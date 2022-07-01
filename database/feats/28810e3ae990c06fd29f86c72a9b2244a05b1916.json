@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=888",
+    "name": "Living Monolith Dedication",
+    "source": "World Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Ancient Osiriani And Sphinx Languages; Trained In Crafting",
+    "summary": "Begin to process to become a living monolith.",
+    "description": "You’ve begun to inscribe a magical stone called a ka stone that you will some day tie to your soul. You gain knowledge of Ancient Osirion and a connection to your nascent ka stone. If you fail a recovery check while dying, your dying condition does not increase; if you critically fail, your dying condition increases by only 1. You become trained in Ancient Osirion Lore, or expert if you were already trained.\n\nSpecial You cannot select another dedication feat until you have gained two other feats from the living monolith archetype.Living Monolith Dedication Leads To...\n\nKa Stone RitualTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

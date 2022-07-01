@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=452",
+    "name": "Soothing Words",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You attempt to calm the target by uttering soothing words in a calm and even tone.",
+    "heightenable": true,
+    "description": "You attempt to calm the target by uttering soothing words in a calm and even tone. The target gains a +1 status bonus to Will saving throws. This bonus increases to +2 against emotion effects.\n\n In addition, when you Cast this Spell, you can attempt to counteract one emotion effect on the target.\n\n------\n\nHeightened (5th) The bonus to saves increases to +2, or +3 against emotion effects.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 ally",
+    "duration": "1 round",
+    "saving": ""
+}

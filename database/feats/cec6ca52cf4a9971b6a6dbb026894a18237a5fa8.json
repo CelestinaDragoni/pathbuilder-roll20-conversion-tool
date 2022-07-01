@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2992",
+    "name": "Redirect Elements",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Elementalist Dedication",
+    "summary": "You seize the elemental essence of an incoming spell and redirect the spell to a creature of your choice within the spell's area.",
+    "description": "You seize the elemental essence of an incoming spell and redirect the spell to a creature of your choice within the spell's area. The attacker rerolls the spell's attack roll against the new target.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "The spell attack roll for a foe's spell with an elemental trait targeting you fails or critically fails."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3350",
+    "name": "Swimming Poppet",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your fins, flippers, or other accessories assist with steering you through water.",
+    "description": "Your fins, flippers, or other accessories assist with steering you through water. You gain a swim Speed of 15 feet.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "none",
+    "trigger": ""
+}

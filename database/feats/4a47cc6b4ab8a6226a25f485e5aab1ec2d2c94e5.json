@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=117",
+    "name": "Greater Merciful Elixir",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 14,
+    "prereq": "Merciful Elixir",
+    "summary": "Your additives contain panaceas that can remedy a plethora of maladies.",
+    "description": "Your additives contain panaceas that can remedy a plethora of maladies. When you use Merciful Elixir, your elixir can instead attempt to counteract the blinded, deafened, sickened, or slowed condition.",
+    "economy": "none",
+    "trigger": ""
+}

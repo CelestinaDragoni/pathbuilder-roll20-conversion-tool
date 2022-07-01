@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=22",
+    "name": "Expert Longevity",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 9,
+    "prereq": "Ancestral Longevity",
+    "summary": "You’ve continued to refine the knowledge and skills you’ve gained through your life.",
+    "description": "You’ve continued to refine the knowledge and skills you’ve gained through your life. When you choose a skill in which to become trained with Ancestral Longevity, you can also choose a skill in which you are already trained and become an expert in that skill. This lasts until your Ancestral Longevity expires.\n\n When the effects of Ancestral Longevity and Expert Longevity expire, you can retrain one of your skill increases. The skill increase you gain from this retraining must either make you trained in the skill you chose with Ancestral Longevity or make you an expert in the skill you chose with Expert Longevity.Expert Longevity Leads To...\n\nUniversal LongevityTraitsElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

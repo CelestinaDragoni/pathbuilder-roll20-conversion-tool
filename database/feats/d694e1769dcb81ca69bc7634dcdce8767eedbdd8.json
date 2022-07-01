@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2511",
+    "name": "Sculpt Shadows",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Fetchling",
+        "Occult",
+        "Shadow"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You coax nearby shadows into the shape of a simple weapon or a simple tool or item, using a tiny piece of your shadow to make it solid; in doing so, you lose 1 Hit Point.",
+    "description": "You coax nearby shadows into the shape of a simple weapon or a simple tool or item, using a tiny piece of your shadow to make it solid; in doing so, you lose 1 Hit Point. You can create only level-0 common, non-consumable weapons, or adventuring gear with no intricate parts, written text, or other complicated components. The item lasts until used for a single activity, until you Sculpt Shadows again, or for 1 minute, whichever comes first. Once the duration expires, the object dissipates, and you regain the lost Hit Point unless the item was Broken or Destroyed. As the object holds a tiny sliver of your shadow, you can't recover the lost Hit Point until after the object dissipates.Traits\n\nConjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.\n\nFetchling: A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the Shadow Plane have transformed them.Occult: This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.Shadow: Magic with this trait involves shadows or the energy of the Shadow Plane. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.",
+    "economy": "3-action",
+    "trigger": ""
+}

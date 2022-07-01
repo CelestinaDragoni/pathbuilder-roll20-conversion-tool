@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2932",
+    "name": "Towering Size",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 12,
+    "prereq": "Hulking Size",
+    "summary": "Your eidolon becomes even bigger.",
+    "description": "Your eidolon becomes even bigger. It becomes Huge, instead of Large, and the reach on all its attacks increases to 15 feet.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

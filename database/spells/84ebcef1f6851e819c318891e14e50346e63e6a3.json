@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1004",
+    "name": "Summon Anarch",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Summon a chaotic celestial, monitor, or fiend.",
+    "heightenable": true,
+    "description": "You conjure a chaotic celestial, monitor, or fiend to fight on your behalf. You summon a common chaotic creature that has the celestial, monitor, or fiend trait and whose level is 5 or lower. You can't summon a creature unless its alignment is one of your deity's preferred alignments (or, if you don't have a deity, is within one step of your alignment). At the GM's discretion, some deities might restrict specific types of creatures, even if their alignments match. Heightening the spell increases the maximum level of creature you can summon.\n\n------\n\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel 1 AnarchsLyrakien (CG), Ostovite (CE), Quasit (CE), Voidworm (CN)Level 2 AnarchsDretch (CE)Level 3 AnarchsAkizendri (CN), Vermlek (CE), Yeth Hound (CE)Level 4 AnarchsAbrikandilu (CE), Barghest (CE), Gancanagh (CG)Level 5 AnarchsAzuretzi (CN), Brimorak (CE)Level 6 AnarchsBabau (CE), Bralani (CG)Level 7 AnarchsInvidiak (CE), Lillend (CG), Naunet (CN), Succubus (CE)Level 8 AnarchsNabasu (CE)Level 9 AnarchsGaruda (CG), Vrock (CE)Level 10 AnarchsBebilith (CE), Einherji (CN), Imentesh (CN), Kalavakus (CE)Level 11 AnarchsHezrou (CE)Level 12 AnarchsValkyrie (CN)Level 13 AnarchsGhaele (CG), Glabrezu (CE), Ice Yai (CE)Level 14 AnarchsNalfeshnee (CE), Peri (CG)Level 15 AnarchsHegessik (CN)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

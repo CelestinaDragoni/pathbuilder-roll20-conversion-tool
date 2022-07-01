@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3189",
+    "name": "Twin Shot Knockdown",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You fire at an enemy while targeting a part of its anatomy that will disrupt its balance.",
+    "description": "You fire at an enemy while targeting a part of its anatomy that will disrupt its balance. Make two Strikes against the same target, one with each of the required weapons. If both Strikes are successful, the target is also knocked prone.",
+    "economy": "2-action",
+    "trigger": ""
+}

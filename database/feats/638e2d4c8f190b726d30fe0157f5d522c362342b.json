@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2075",
+    "name": "Surprise Snare",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Manipulate"
+    ],
+    "level": 4,
+    "prereq": "Snarecrafter Dedication",
+    "summary": "You install one of your snares prepared for quick deployment in a space that's occupied by an opponent.",
+    "description": "You install one of your snares prepared for quick deployment in a space that's occupied by an opponent. It must be a snare that normally takes 1 minute or less to Craft. The snare automatically triggers, but it takes a –2 circumstance penalty to any applicable save DC, as well as any attack rolls or other checks the snare attempts.Traits\n\nArchetype: This feat belongs to an archetype.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "3-action",
+    "trigger": ""
+}

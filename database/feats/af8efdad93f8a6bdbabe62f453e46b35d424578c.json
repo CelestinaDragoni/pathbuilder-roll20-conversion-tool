@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=687",
+    "name": "Basic Devotion",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Champion Dedication",
+    "summary": "You gain a 1st- or 2nd-level champion feat.",
+    "description": "You gain a 1st- or 2nd-level champion feat.Basic Devotion Leads To...\n\nAdvanced DevotionTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

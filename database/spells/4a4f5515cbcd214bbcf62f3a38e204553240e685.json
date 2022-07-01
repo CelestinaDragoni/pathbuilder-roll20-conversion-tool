@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=497",
+    "name": "Celestial Brand",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Curse",
+        "Necromancy",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "A blazing symbol appears on the target, marking it for divine justice.",
+    "heightenable": true,
+    "description": "A blazing symbol appears on the target, cursing it to face divine justice. You and your allies receive a +1 status bonus to your attack rolls and skill checks against it. Anytime a good creature damages it, the good creature deals an additional 1d4 good damage. The target is then temporarily immune for 1 minute.\n\n------\n\nHeightened (+2) The good damage increases by 1.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 evil creature",
+    "duration": "1 round",
+    "saving": ""
+}

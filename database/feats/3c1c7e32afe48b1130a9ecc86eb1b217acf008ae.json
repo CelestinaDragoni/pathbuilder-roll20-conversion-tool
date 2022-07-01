@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1679",
+    "name": "Sense Good",
+    "source": "Advanced Player's Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion"
+    ],
+    "level": 8,
+    "prereq": "Tenets Of Evil",
+    "summary": "The presence of goodness sickens you with its saccharine self-righteousness.",
+    "description": "The presence of goodness sickens you with its saccharine self-righteousness. When in the presence of an aura of good that is powerful or overwhelming, you detect the aura, though you might not do so instantly, and you can't pinpoint the location. This acts as a vague sense, similar to humans' sense of smell. A good creature using a disguise or otherwise trying to hide its presence attempts a Deception check against your Perception DC to hide its aura from you. If the creature succeeds at its Deception check, it is then temporarily immune to your Sense Good for 1 day.Traits\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1226",
+    "name": "Unrivaled Builder",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Shoony"
+    ],
+    "level": 13,
+    "prereq": "Handy With Your Paws",
+    "summary": "Building things is like solving a puzzle, and you know how to use anything at your disposal to get the job done.",
+    "description": "Building things is like solving a puzzle, and you know how to use anything at your disposal to get the job done. You gain creation as a 5th-level innate primal spell. You must have an equivalent Bulk of material to create an item, such as wood or scrap metal to make a wheelbarrow. You can cast this spell once each day.Traits\n\nShoony: Note from Nethys: no description was provided for this trait",
+    "economy": "none",
+    "trigger": ""
+}

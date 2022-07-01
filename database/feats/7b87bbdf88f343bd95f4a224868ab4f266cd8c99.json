@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=398",
+    "name": "Combat Reflexes",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You are particularly swift at punishing foes who leave you openings.",
+    "description": "You are particularly swift at punishing foes who leave you openings. At the start of each of your turns when you regain your actions, you gain an additional reaction that can be used only to make an Attack of Opportunity.",
+    "economy": "none",
+    "trigger": ""
+}

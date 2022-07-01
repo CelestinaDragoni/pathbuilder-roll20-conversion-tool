@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=532",
+    "name": "Life Siphon",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Wizard"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You use some of the spell’s magic to heal yourself.",
+    "heightenable": false,
+    "description": "You use some of the spell's magic to heal yourself, regaining 1d8 Hit Points per level of the spell.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

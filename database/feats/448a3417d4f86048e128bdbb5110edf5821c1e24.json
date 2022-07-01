@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2519",
+    "name": "Startling Appearance (Fleshwarp)",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fleshwarp"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your appearance is enough to frighten without words.",
+    "description": "You are trained in Intimidation (or another skill of your choice, if you were already trained in Intimidation) and gain the Intimidating Glare skill feat as a bonus feat.Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
+    "economy": "none",
+    "trigger": ""
+}

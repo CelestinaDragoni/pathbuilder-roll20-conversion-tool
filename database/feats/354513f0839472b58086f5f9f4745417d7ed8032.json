@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3608",
+    "name": "No Stranger to Death",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Lastwall Sentry Dedication",
+    "summary": "Your regular exposure to the insidious putrescence of undeath inured you to its effects.",
+    "description": "Your regular exposure to the insidious putrescence of undeath inured you to its effects. You gain a +2 circumstance bonus to saving throws made against spells and effects with the death, disease, and evil traits. Whenever you become drained or sickened, reduce the status penalty you take from the condition by 1, to a minimum of 0.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1420",
+    "name": "Life Leap",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Gnome",
+        "Move",
+        "Necromancy",
+        "Teleportation"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You phase through a space that a living creature occupies in a flash, spontaneously appearing on the opposite side of it in a vibrant display of colorful light.",
+    "description": "You phase through a space that a living creature occupies in a flash, spontaneously appearing on the opposite side of it in a vibrant display of colorful light. You move from your current location to another location that's still adjacent to the same living creature, but on the opposite side or corner of the creature's space. To determine whether a position is valid, use the same rules as for flanking: a line through the center of the two spaces must pass through opposite sides or corners of the creature's space.\n\n You pass through the creature's life force, appearing in the selected location; this doesn't trigger reactions based on movement. You must be able to see your destination, and you can't move farther than your Speed would allow.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.\n\nMove: An action with this trait involves moving from one space to another.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Teleportation: Teleportation effects allow you to instantaneously move from one point in space to another. Teleportation does not usually trigger reactions based on movement.",
+    "economy": "1-action",
+    "trigger": ""
+}

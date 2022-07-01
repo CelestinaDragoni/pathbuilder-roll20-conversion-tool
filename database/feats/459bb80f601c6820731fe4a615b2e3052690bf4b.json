@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=146",
+    "name": "Brutal Bully",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 6,
+    "prereq": "Expert In Athletics",
+    "summary": "You push your foes around and leave bruises.",
+    "description": "You push your foes around and leave bruises. While raging, when you successfully Disarm, Grapple, Shove, or Trip a foe, you deal that foe bludgeoning damage equal to your Strength modifier; add this to the damage from a critical success to Trip.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=611",
+    "name": "Foul Miasma",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Disease",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You multiply the disease within a creature, drawing it into an infectious mist outside their body where it can spread to other creatures.",
+    "heightenable": false,
+    "description": "You multiply the disease within a creature, drawing it into an infectious mist outside their body where it can spread to other creatures. The target must attempt a Will save. If the target is willing, it can choose to take the effects of critical failure.\n\nCritical Success The target receives the benefit of a successful save against the lowest-level disease affecting it.\nSuccess The target is unaffected.\nFailure One randomly chosen disease affecting the target fills the air in a 15-foot emanation centered on the target. For the spell’s duration, any creature that enters or ends its turn within the area is exposed to that disease.\nCritical Failure As failure, except the miasma contains all the diseases affecting the target.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature affected by a disease",
+    "duration": "1 minute",
+    "saving": "Will"
+}

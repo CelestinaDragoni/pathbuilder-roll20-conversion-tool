@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=337",
+    "name": "Telepathy",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Linguistic",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Communicate telepathically with any creatures near you.",
+    "heightenable": true,
+    "description": "You can communicate telepathically with creatures within 30 feet. Once you establish a connection by communicating with a creature, the communication is two-way. You can communicate only with creatures that share a language with you.\n\n------\n\nHeightened (6th) Telepathy loses the linguistic trait. You can communicate telepathically with creatures using shared mental imagery even if you don't share a language.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "10 minutes",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1223",
+    "name": "Improvisational Warrior",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Shoony"
+    ],
+    "level": 9,
+    "prereq": "Improvisational Defender",
+    "summary": "You have increased skill with improvised weapons.",
+    "description": "When you use an improvised weapon, you apply the critical specialization of a brawling weapon to it. Depending on the shape and nature of the improvised weapon, your GM might determine another weapon group’s critical specialization is more appropriate.Traits\n\nShoony: Note from Nethys: no description was provided for this trait",
+    "economy": "none",
+    "trigger": ""
+}

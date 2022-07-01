@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=171",
+    "name": "Light",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Evocation",
+        "Light"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Make an object glow.",
+    "heightenable": true,
+    "description": "The object glows, casting bright light in a 20-foot radius (and dim light for the next 20 feet) like a torch. If you cast this spell again on a second object, the light spell on the first object ends.\n\n------\n\nHeightened (4th) The object sheds bright light in a 60-foot radius (and dim light for the next 60 feet).",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 object of 1 Bulk or less, either unattended or possessed by you or a willing ally",
+    "duration": "until the next time you make your daily preparations",
+    "saving": ""
+}

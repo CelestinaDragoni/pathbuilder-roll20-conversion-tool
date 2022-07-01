@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=80",
+    "name": "Disrupting Weapons",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Weapons deal positive damage to undead.",
+    "heightenable": true,
+    "description": "You infuse weapons with positive energy. Attacks with these weapons deal an extra 1d4 positive damage to undead.\n\n------\n\nHeightened (3rd) The damage increases to 2d4 damage.\nHeightened (5th) Target up to three weapons, and the damage increases to 3d4 damage.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "up to two weapons, each of which must be wielded by you or a willing ally, or else unattended",
+    "duration": "1 minute",
+    "saving": ""
+}

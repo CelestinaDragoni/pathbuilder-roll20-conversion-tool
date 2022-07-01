@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2435",
+    "name": "Uncanny Agility",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces.",
+    "description": "You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the Steady Balance skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

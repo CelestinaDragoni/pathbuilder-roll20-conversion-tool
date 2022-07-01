@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=720",
+    "name": "Monk's Flurry",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Monk Dedication",
+    "summary": "You gain the Flurry of Blows action.",
+    "description": "You gain the Flurry of Blows action. Flurry of Blows    FlourishMonk\nSource Core Rulebook pg. 156 2.0\n\n------\n\nMake two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to the Strikes normally. As it has the flourish trait, you can use Flurry of Blows only once per turn.\n\n------\n\nTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

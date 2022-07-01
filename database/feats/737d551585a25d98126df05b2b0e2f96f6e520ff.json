@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3494",
+    "name": "Their Master's Call",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Divine",
+        "Necromancy"
+    ],
+    "level": 12,
+    "prereq": "Undead Master Dedication; Call Companion, At Least One Inactive Undead Companion Whose Remains Or Anchor Are Currently In Your Possession.",
+    "summary": "In a pinch, you pull one of your inactive companions from their rest to provide a companion's support benefit.",
+    "description": "In a pinch, you pull one of your inactive companions from their rest to provide a companion's support benefit. A fragment of your companion materializes or assembles itself in an unoccupied square of your choice within 30 feet of you, grants you its support benefit, and then disappears on your next turn. If it takes any damage before your next turn, it disappears or collapses (as applicable) and the support benefit ends immediately.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=704",
+    "name": "Noxious Vapors",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Poison"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Form a toxic cloud that poisons and sickens.",
+    "heightenable": true,
+    "description": "You emit a cloud of toxic smoke that temporarily obscures you from sight. Each creature except you in the area when you Cast the Spell takes 1d6 poison damage (basic Fortitude save). A creature that critically fails the saving throw also becomes sickened 1. All creatures in the area become concealed, and all creatures outside the smoke become concealed to creatures within it. This smoke can be dispersed by a strong wind.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 round",
+    "saving": "basic Fortitude"
+}

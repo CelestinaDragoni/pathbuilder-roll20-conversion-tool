@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=771",
+    "name": "Heal Companion",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive",
+        "Ranger"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You harness positive energy to heal your animal companion's wounds.",
+    "heightenable": true,
+    "description": "You harness positive energy to heal your animal companion's wounds. You restore 1d10 Hit Points to your animal companion. The number of actions you spend Casting this Spell determines range and other parameters.\n     (somatic) The spell has a range of touch.\n     (somatic, verbal) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.\n\n------\n\nHeightened (+1) The amount of healing increases by 1d10, and the additional healing for the 2-action version increases by 8.",
+    "economy": "1-to-2-actions",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch or 30 feet",
+    "target": "your animal companion",
+    "duration": "",
+    "saving": ""
+}

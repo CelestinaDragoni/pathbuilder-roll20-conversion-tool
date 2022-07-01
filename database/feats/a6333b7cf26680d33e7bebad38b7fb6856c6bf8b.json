@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=982",
+    "name": "Forest Stealth",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 5,
+    "prereq": "Expert In Stealth",
+    "summary": "You are skilled at quickly hiding behind bits of underbrush or foliage.",
+    "description": "You are skilled at quickly hiding behind bits of underbrush or foliage. You Take Cover and then use that cover to Hide.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "1-action",
+    "trigger": ""
+}

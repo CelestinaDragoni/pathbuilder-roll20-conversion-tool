@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=627",
+    "name": "Door to Beyond",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality.",
+    "heightenable": true,
+    "description": "Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality. Air rushes through the cracks, drawing Large or smaller creatures and objects of light Bulk or less toward the center. Large or smaller creatures in the area must attempt a Fortitude save at the start of their turn; creatures that move into the area must attempt the save on entering.\n\nSuccess The creature is unaffected.\nFailure The creature is pulled 10 feet toward the door.\nCritical Failure The creature is pulled 20 feet toward the door.\n\nThe cracks of the door to beyond are too thin for anything to fully slip through, but decompressive effects deal 4d6 slashing damage to any creature or object that ends its turn in the door’s space. You are unaffected by your own door to beyond. You can Dismiss the spell.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "5 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "Fortitude"
+}

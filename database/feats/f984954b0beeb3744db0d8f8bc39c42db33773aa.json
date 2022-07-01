@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3411",
+    "name": "Lion's Might",
+    "source": "Pathfinder #172",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Bright Lion Dedication",
+    "summary": "You've trained with the weapons of the Bright Lions.",
+    "description": "You've trained with the weapons of the Bright Lions. You gain access to lion scythes and sun slings. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank with lion scythes and sun slings.Lion's Might Leads To...\n\nLion's FuryTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

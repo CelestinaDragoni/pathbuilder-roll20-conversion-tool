@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=826",
+    "name": "Quick Recognition",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Recognize Spell; Master In Arcana, Master In Nature, Occultism, Or Master In Religion",
+    "summary": "Identify spells as a free action.",
+    "description": "You Recognize Spells swiftly. Once per round, you can Recognize a Spell using a skill in which you’re a master as a free action.Quick Recognition Leads To...\n\nClever CounterspellTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

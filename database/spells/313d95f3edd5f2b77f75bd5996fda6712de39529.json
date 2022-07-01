@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=596",
+    "name": "Winter Bolt",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Cold",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You fling a hollow icicle filled with winter’s wrath.",
+    "heightenable": true,
+    "description": "You fling a hollow icicle filled with winter’s wrath. Make a spell attack against a target within range. The bolt deals 1d8 piercing damage and lodges in the target. At the end of the target’s next turn, the bolt shatters, releasing a whirl of snow and ice that deals 1d12 cold damage to the target and all adjacent creatures. The bolt can be removed with an Interact action, which causes it to melt harmlessly without detonating.\n\nCritical Success The initial bolt deals full damage and is especially well anchored, taking 2 Interact actions to remove. The bolt’s explosion deals double damage.\nSuccess The bolt and its explosion deal full damage.\n\n------\n\nHeightened (+1) The initial damage increases by 1d8 and the secondary damage increases by 1d12.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

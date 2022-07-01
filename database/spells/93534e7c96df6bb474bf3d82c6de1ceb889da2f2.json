@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=442",
+    "name": "Protector's Sphere",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "A protective aura emanates out from you, safeguarding you and your allies.",
+    "heightenable": true,
+    "description": "A protective aura emanates out from you, safeguarding you and your allies. You gain resistance 3 to all damage. Your allies also gain this resistance while they are within the area.\n\n------\n\nHeightened (+1) The resistance increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

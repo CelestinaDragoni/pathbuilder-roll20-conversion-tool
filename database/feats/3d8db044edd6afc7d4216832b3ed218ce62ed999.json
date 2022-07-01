@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1712",
+    "name": "Elemental Summons",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You can call the four elements to you.",
+    "description": "You can call the four elements to you. You can spend 10 minutes in concert with nature to replace one of the spells you've prepared in one of your druid spell slots with a summon elemental spell of the same level.",
+    "economy": "none",
+    "trigger": ""
+}

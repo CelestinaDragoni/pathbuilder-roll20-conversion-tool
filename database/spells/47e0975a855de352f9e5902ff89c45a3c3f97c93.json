@@ -1,0 +1,27 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=584",
+    "name": "Share Lore",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You share your knowledge with the touched creatures.",
+    "heightenable": true,
+    "description": "You share your knowledge with the touched creatures. Choose one Lore skill in which you are trained. The targets become trained in that Lore skill for the duration of the spell.\n\n------\n\nHeightened (3rd) The duration of the spell is 1 hour and you can target up to five creatures.\nHeightened (5th) The duration of the spell is 8 hours, you can target up to five creatures, and you can share up to two Lore skills in which you are trained.",
+    "economy": "none",
+    "components": [],
+    "trigger": "",
+    "range": "touch",
+    "target": "up to 3 creatures",
+    "duration": "10 minutes",
+    "saving": ""
+}

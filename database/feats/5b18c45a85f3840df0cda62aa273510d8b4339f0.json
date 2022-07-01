@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2550",
+    "name": "Genie Weapon Expertise",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ifrit",
+        "Oread",
+        "Suli",
+        "Sylph",
+        "Undine"
+    ],
+    "level": 13,
+    "prereq": "Genie Weapon Familiarity",
+    "summary": "Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in falchions, ranseurs, scimitars, tridents, and all geniekin weapons in which you are trained.",
+    "description": "Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in falchions, ranseurs, scimitars, tridents, and all geniekin weapons in which you are trained.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.\n\nOread: Oreads are planar scions descended from shaitans.Suli: Sulis are planar scions descended from jann.Sylph: Sylphs are planar scions descended from djinn.Undine: Undines are planar scions descended from marids.",
+    "economy": "none",
+    "trigger": ""
+}

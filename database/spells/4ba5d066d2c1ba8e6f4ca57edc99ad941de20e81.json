@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=943",
+    "name": "Magnetic Acceleration",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Magnetically launch an item to attack a foe.",
+    "heightenable": true,
+    "description": "You magnetize a small metal object, such as a nail or coin, and launch it away from you at massive speed. Make a ranged spell attack roll; if the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your attack roll with magnetic acceleration. On a hit, the target takes 3d6 bludgeoning damage and 3d6 piercing damage, or double damage on a critical hit.\n\n------\n\nHeightened (+1) The bludgeoning and piercing damage each increase by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature or object",
+    "duration": "",
+    "saving": ""
+}

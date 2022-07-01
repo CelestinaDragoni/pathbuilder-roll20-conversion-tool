@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2873",
+    "name": "Rapid Recharge",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 10,
+    "prereq": "Spellstrike",
+    "summary": "You tap into an arcane trick to recover your ability to meld spells and attacks.",
+    "description": "You tap into an arcane trick to recover your ability to meld spells and attacks. You recharge your Spellstrike.",
+    "economy": "free_action",
+    "trigger": ""
+}

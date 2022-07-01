@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=51",
+    "name": "Very, Very Sneaky",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 13,
+    "prereq": "Very Sneaky",
+    "summary": "Your ability to hide is so great, you can disappear straight from vision.",
+    "description": "You can move up to your Speed when you use the Sneak action, and you no longer need to have cover or greater cover or be concealed to Hide or Sneak.Traits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

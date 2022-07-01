@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2413",
+    "name": "Iruxi Spirit Strike",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "Your iruxi unarmed attacks channel the spiritual energy of your ancestors.",
+    "description": "Your iruxi unarmed attacks channel the spiritual energy of your ancestors. Any unarmed attacks you acquire from iruxi heritages or ancestry feats gain the effects of a ghost touch property rune.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

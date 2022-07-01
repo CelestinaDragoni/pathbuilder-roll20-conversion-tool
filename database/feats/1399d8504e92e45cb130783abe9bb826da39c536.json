@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1916",
+    "name": "Posse",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Exploration"
+    ],
+    "level": 4,
+    "prereq": "Bounty Hunter Dedication",
+    "summary": "By spending 1 minute giving guidance to help hunt down your prey, you instruct up to five willing creatures to assist you.",
+    "description": "By spending 1 minute giving guidance to help hunt down your prey, you instruct up to five willing creatures to assist you. They gain a +1 circumstance bonus to Seek your prey, to Track your prey, and to Gather Information about your prey. You and the creatures assisting you gain a +1 circumstance bonus to initiative rolls when entering combat with your prey.\n\n This benefit lasts until you designate a new prey or your prey dies, whichever comes first. An individual creature assisting you loses this benefit if they're out of your presence for too long to benefit from your instructions. This is usually 1 hour, but is determined by the GM.Traits\n\nArchetype: This feat belongs to an archetype.\n\nExploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.",
+    "economy": "none",
+    "trigger": ""
+}

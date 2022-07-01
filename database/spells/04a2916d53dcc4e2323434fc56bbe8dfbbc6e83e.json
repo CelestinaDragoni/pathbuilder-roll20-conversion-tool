@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=146",
+    "name": "Harm",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Negative energy harms the living or heals the undead, either a single creature or all in a burst.",
+    "heightenable": true,
+    "description": "You channel negative energy to harm the living or heal the undead. If the target is a living creature, you deal 1d8 negative damage to it, and it gets a basic Fortitude save. If the target is a willing undead creature, you restore that amount of Hit Points. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n     (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing an undead creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse negative energy in a 30-foot emanation. This targets all living and undead creatures in the area.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+    "economy": "1-to-3-actions",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "varies",
+    "target": "1 living creature or 1 willing undead creature",
+    "duration": "",
+    "saving": ""
+}

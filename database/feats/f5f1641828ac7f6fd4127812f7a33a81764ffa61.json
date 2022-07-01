@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1858",
+    "name": "Master Oracle Spellcasting",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 18,
+    "prereq": "Expert Oracle Spellcasting; Legendary In Religion",
+    "summary": "You gain the master spellcasting benefits.",
+    "description": "You gain the master spellcasting benefits.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

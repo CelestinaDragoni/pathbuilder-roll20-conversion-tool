@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=918",
+    "name": "Geyser",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Fire",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Blast foes upward with superheated water, causing them to fall and leaving concealing fog.",
+    "heightenable": true,
+    "description": "A powerful geyser blasts up from the ground, potentially pushing creatures on top of it into the air. The bottom of this spell's area must be on solid ground. Each creature in the area takes 3d6 bludgeoning damage and 4d6 fire damage, with a Reflex save. A creature pushed into the air by the geyser can't be pushed beyond the top of the geyser. After being pushed into the air, a creature falls unless it's flying or has some other means of staying aloft, taking falling damage (normally equal to half the distance it fell). After the geyser erupts, its area is filled with a cloud of steam for 1 round. All creatures in the steam are concealed, and all creatures outside the steam are concealed to creatures within it.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage and isn't pushed into the air.\nFailure The creature takes full damage and is pushed 20 feet into the air.\nCritical Failure The creature takes double damage and is pushed 40 feet into the air.\n\n------\n\nHeightened (+1) The damage increases by 1d6 bludgeoning and 1d6 fire.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "1 round",
+    "saving": "Reflex"
+}

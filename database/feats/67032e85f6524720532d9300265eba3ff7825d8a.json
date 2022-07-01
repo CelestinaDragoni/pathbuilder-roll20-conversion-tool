@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1924",
+    "name": "Defend Mount",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Cavalier Dedication",
+    "summary": "You interpose yourself between an attacker and your mount, defending your mount from harm.",
+    "description": "You interpose yourself between an attacker and your mount, defending your mount from harm. Use your own AC against the triggering attack instead your mount's AC. If the triggering attack hits, you take the effects of the attack instead of your mount.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An enemy makes an attack roll against your mount while you're riding it."
+}

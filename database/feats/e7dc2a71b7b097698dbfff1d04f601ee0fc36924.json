@@ -1,0 +1,20 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=148",
+    "name": "Dragon's Rage Breath",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Arcane",
+        "Barbarian",
+        "Concentrate",
+        "Evocation",
+        "Instinct",
+        "Rage"
+    ],
+    "level": 6,
+    "prereq": "Dragon Instinct",
+    "summary": "You exhale powerful draconic energy.",
+    "description": "You breathe deeply and exhale powerful energy in a 30-foot cone or 60-foot line, dealing 1d6 damage per level. The area and damage type match those of your dragon (see Table 3–4. If you used this ability in the last hour, the area and the damage are halved (15-foot cone or 30-foot line; 1d6 damage for every 2 levels). Each creature in the area must attempt a basic Reflex save.Table 3-4: Dragon Instincts\n\n Dragon TypeCategoryBreath Weapon BlackChromaticLine of acid BlueChromaticLine of electricity GreenChromaticCone of poison RedChromaticCone of fire WhiteChromaticCone of cold BrassMetallicLine of fire BronzeMetallicLine of electricity CopperMetallicLine of acid GoldMetallicCone of fire SilverMetallicCone of cold TraitsArcane: This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is magical.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Evocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Instinct: Instinct abilities require a specific instinct; you lose access if you perform acts anathema to your instinct.Rage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "2-action",
+    "trigger": ""
+}

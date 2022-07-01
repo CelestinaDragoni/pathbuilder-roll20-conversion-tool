@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1966",
+    "name": "Seeker Arrow",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Divination",
+        "Magical"
+    ],
+    "level": 14,
+    "prereq": "Eldritch Archer Dedication",
+    "summary": "Your shots zip around corners and fly at impossible angles to reach your target.",
+    "description": "Your shots zip around corners and fly at impossible angles to reach your target. Make a bow Strike against a foe you can see; the ammunition travels to your target, even around corners. You ignore the target's concealed condition and all cover.Traits\n\nArchetype: This feat belongs to an archetype.\n\nDivination: The divination school of magic typically involves obtaining or transferring information, or predicting events.Magical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.",
+    "economy": "1-action",
+    "trigger": ""
+}

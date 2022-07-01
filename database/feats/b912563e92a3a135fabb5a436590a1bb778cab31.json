@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2260",
+    "name": "Rugged Survivalist",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 12,
+    "prereq": "Swordmaster Dedication; Master In Survival",
+    "summary": "You've studied survival skills with the School of Swords experts and are comfortable spending long periods of time in the wilderness.",
+    "description": "You've studied survival skills with the School of Swords experts and are comfortable spending long periods of time in the wilderness. You don't get fatigued more quickly due to precipitation during overland travel, though you can otherwise be fatigued as normal. You can go 3 days + your Constitution modifier without water before you take damage from thirst and you can go 5 days + your Constitution modifier without food before you take damage from starvation.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

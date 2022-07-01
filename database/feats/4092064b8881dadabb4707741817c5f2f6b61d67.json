@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=744",
+    "name": "Basic Arcana",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Wizard Dedication",
+    "summary": "You gain a 1st- or 2nd-level wizard feat of your choice.",
+    "description": "You gain a 1st- or 2nd-level wizard feat of your choice.Basic Arcana Leads To...\n\nAdvanced ArcanaTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

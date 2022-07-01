@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=369",
+    "name": "Lunge",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Extending your body to its limits, you attack an enemy that would normally be beyond your reach.",
+    "description": "Extending your body to its limits, you attack an enemy that would normally be beyond your reach. Make a Strike with a melee weapon, increasing your reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, you can use the corresponding action instead of a Strike.Lunge Leads To...\n\nLunging Stance",
+    "economy": "1-action",
+    "trigger": ""
+}

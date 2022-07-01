@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=123",
+    "name": "Flesh to Stone",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Turn a living creature into a stone statue.",
+    "heightenable": false,
+    "description": "You try to turn the target's flesh into stone. The target must attempt a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target is slowed 1 for 1 round.\nFailure The target is slowed 1 and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition increases by 1 (or 2 on a critical failure). A successful save reduces the slowed condition by 1. When a creature is unable to act due to the slowed condition from flesh to stone, the creature is permanently non-magically petrified. The spell ends if the creature is petrified or the slowed condition is removed.\nCritical Failure As failure, but the target is initially slowed 2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "1 creature made of flesh",
+    "duration": "varies",
+    "saving": "Fortitude"
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=221",
+    "name": "Shining Oath",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion",
+        "Oath"
+    ],
+    "level": 2,
+    "prereq": "Tenets Of Good",
+    "summary": "You’ve sworn an oath to put the undead to rest.",
+    "description": "You’ve sworn an oath to put the undead to rest. Add the following tenet to your champion’s code after the other tenets: “You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.”\n\n Your Retributive Strike gains a +4 circumstance bonus to damage against an undead, or +6 if you have master proficiency with the weapon you used. Your Glimpse of Redemption’s resistance against damage from an undead is 7 + your level. If you use Liberating Step triggered by an undead, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.\n\n You don’t consider undead to be legitimate authorities, even in nations ruled by undead.Shining Oath Leads To...\n\nAura of LifeTraitsOath: Oaths add an additional tenet to your code. You can usually have only one feat with this trait.",
+    "economy": "none",
+    "trigger": ""
+}

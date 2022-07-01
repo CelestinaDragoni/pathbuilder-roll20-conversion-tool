@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=420",
+    "name": "Eradicate Undeath",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "A massive deluge of life energy causes the undead to fall apart.",
+    "heightenable": true,
+    "description": "A massive deluge of life energy causes the undead to fall apart. Each undead creature in the area takes 4d12 positive damage.\n\n------\n\nHeightened (+1) The damage increases by 1d12.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,36 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=949",
+    "name": "Mind of Menace",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Contingency",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Set a contingency to punish a foe's mental effect and protect yourself from it.",
+    "heightenable": false,
+    "description": "This spell wards against those who attempt to subvert your mind and turns mental magic back on them. When the spell is complete, you gain the Fight with Fear reaction; once you use the reaction, the spell ends.\n\n Fight with Fear     (concentrate, emotion, enchantment, fear, mental) Trigger A creature that you can see uses a mental effect against you; Effect The triggering creature must attempt a Will save, which has the following effects.\nSuccess The creature is unaffected.\nFailure The creature is frightened 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.\nCritical Failure The creature is frightened 2, and you're unaffected by the triggering mental effect.",
+    "economy": "reaction",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "A creature that you can see uses a mental effect against you; Effect The triggering creature must attempt a Will save, which has the following effects.",
+    "range": "",
+    "target": "",
+    "duration": "24 hours",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3450",
+    "name": "Staggering Blow",
+    "source": "Pathfinder #177",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Mammoth Lord Dedication",
+    "summary": "You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back.",
+    "description": "You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back. You Command an Animal to order your megafauna companion to spend both its actions making a single, powerful Strike. The attack deals an extra die of weapon damage, and if the attack hits and deals damage, the target is slowed 1 until the end of its next turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

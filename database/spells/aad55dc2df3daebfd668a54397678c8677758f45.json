@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=175",
+    "name": "Longstrider",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Increase your Speed for an hour.",
+    "heightenable": true,
+    "description": "You lengthen your stride beyond what should be possible. You gain a +10-foot status bonus to your Speed.\n\n------\n\nHeightened (2nd) The duration increases to 8 hours.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 hour",
+    "saving": ""
+}

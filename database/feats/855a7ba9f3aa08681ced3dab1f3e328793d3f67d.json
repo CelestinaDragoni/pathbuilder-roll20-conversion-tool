@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3405",
+    "name": "Form Lock (Wrestler)",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Attack"
+    ],
+    "level": 14,
+    "prereq": "Wrestler Dedication",
+    "summary": "Your ability to manipulate your enemy's body is potent enough that you can tear and break apart alternate forms.",
+    "description": "Your ability to manipulate your enemy's body is potent enough that you can tear and break apart alternate forms. Attempt an Athletics check to counteract a polymorph effect currently affecting the creature you have grabbed or restrained. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract; the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.Traits\n\nArchetype: This feat belongs to an archetype.\n\nAttack: An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty.",
+    "economy": "1-action",
+    "trigger": ""
+}

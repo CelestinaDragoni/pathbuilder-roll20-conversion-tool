@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=501",
+    "name": "Dragon Wings",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Morph",
+        "Sorcerer",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "Draconic wings sprout from your back.",
+    "heightenable": true,
+    "description": "Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. When this spell's duration would end, if you're still flying, you float to the ground, as feather fall. You can increase the Focus Point cost by 1 to gain the effects of dragon claws as long as the wings last.\n\n------\n\nHeightened (8th) The duration increases to 10 minutes.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

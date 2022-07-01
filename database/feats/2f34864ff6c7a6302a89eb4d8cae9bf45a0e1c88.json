@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3212",
+    "name": "Perfect Readiness",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "You prepare to fire with an instinctive speed and muscle memory that go beyond your conscious thoughts.",
+    "description": "You prepare to fire with an instinctive speed and muscle memory that go beyond your conscious thoughts. You're permanently quickened. You can use your extra action only to Step or Interact to reload.",
+    "economy": "none",
+    "trigger": ""
+}

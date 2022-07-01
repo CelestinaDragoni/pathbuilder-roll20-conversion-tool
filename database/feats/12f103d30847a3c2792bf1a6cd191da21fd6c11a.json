@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2405",
+    "name": "Flexible Tail",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You can perform simple Interact actions with your tail, such as opening an unlocked door.",
+    "description": "You can perform simple Interact actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.Flexible Tail Leads To...\n\nDangleTraitsLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "none",
+    "trigger": ""
+}

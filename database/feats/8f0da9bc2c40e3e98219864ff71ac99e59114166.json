@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3391",
+    "name": "Toppling Tentacles",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Black Tentacles",
+    "summary": "When you cast black tentacles, you can modify it to trip the targets.",
+    "description": "When you cast black tentacles, replace the spell's standard effects with the following: Tentacles slither along the ground in the area, attempting to hinder anyone within. Sticky black tentacles attempt to Trip each creature in the area. Attempt spell attack rolls against the Reflex DCs of each affected creature. Any creature you succeed against is knocked prone and takes 3d6 bludgeoning damage. Whenever a creature ends its turn in the area, the tentacles attempt to Trip that creature if it isn't already prone, and they deal 1d6 bludgeoning damage to any creature already prone. Creatures treat the spell's area as difficult terrain.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

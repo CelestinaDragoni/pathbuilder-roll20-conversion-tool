@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1259",
+    "name": "Expanded Luck",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 5,
+    "prereq": "Cat's Luck",
+    "summary": "You are luckier even than most catfolk.",
+    "description": "You are luckier even than most catfolk. You can trigger Cat's Luck when you fail or critically fail a Fortitude or Will saving throw in addition to Reflex saving throws. You still can use Cat's Luck only once per day.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

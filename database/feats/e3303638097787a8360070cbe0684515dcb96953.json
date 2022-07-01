@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1805",
+    "name": "Ricochet Feint",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 12,
+    "prereq": "Ricochet Stance (Rogue)",
+    "summary": "While in Ricochet Stance, you can bounce a thrown weapon off a foe to distract them.",
+    "description": "While in Ricochet Stance, you can bounce a thrown weapon off a foe to distract them. You can attempt a Feint against a creature within the first range increment of a thrown weapon you are wielding, rather than only creatures within your melee reach.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2266",
+    "name": "Fane's Fourberie",
+    "source": "PFS Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Rogue",
+        "Stance",
+        "Swashbuckler"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Stella Fane has perfected a technique for using playing cards as weapons that's one part sleight of hand and one part magic.",
+    "description": "Stella Fane has perfected a technique for using playing cards as weapons that's one part sleight of hand and one part magic. When you enter this stance, choose whether to treat playing cards in your possession as daggers or darts; you can wield a playing card in all ways as the chosen weapon until the stance ends. As long as the majority of the deck remains in your possession, any cards that are lost or thrown can be found after 1 minute. Otherwise, the remaining cards are likely lost or destroyed.\n\n A character who has this feat can enchant a single deck of playing cards as a magic weapon, etching fundamental and property runes directly onto the deck of cards.Traits\n\nStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.Perilous LarcenySource PFS Guide pg. 118\nPirate captain Stella Fane (CN female human privateer; Lost Omens Character Guide 119) joined the Pathfinder Society as a venture-captain as part of a deal to help the Society make it through the heavily armed naval blockades of Port Peril's Free Captains. Cunning and competitive, Stella's greatest weakness as a leader of the Society is her uncompromising hatred of the Chelaxian government. Those who can avoid ending up sunk or executed by Chelaxian naval commanders while assisting Stella may leave with a few more tricks than they had before seeing the skilled pirate in action. Fane's Fourberie and Stella's Stab and Snag, below, are class feats that rogues or swashbucklers can select. When you select either feat, it loses the trait from the other class.\n\nRelated Feats: Fane's Escape, Stella's Stab and Snag",
+    "economy": "1-action",
+    "trigger": ""
+}

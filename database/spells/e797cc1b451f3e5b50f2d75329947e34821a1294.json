@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=697",
+    "name": "Impaling Spike",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Skewer a creature with a cold iron spike.",
+    "heightenable": true,
+    "description": "You conjure a spike that thrusts up from the earth beneath a target creature, potentially impaling it. The spike is made of cold iron and deals 8d6 piercing damage. The target must attempt a Reflex save.\n\nCritical Success The target dodges the spike and is unaffected.\nSuccess The target is struck by the spike and takes half damage.\nFailure The target is impaled through a leg or another non-vital body part. The creature takes full damage and, if it's standing on solid ground, becomes immobilized. It can attempt to Escape (the DC is your spell DC). While it remains impaled, it takes damage from any weakness to cold iron it has at the end of each of its turns.\nCritical Failure As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is flat-footed as long as it's impaled.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": "Reflex"
+}

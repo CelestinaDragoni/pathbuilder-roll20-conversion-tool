@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1986",
+    "name": "Expert Herbalism",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Herbalist Dedication; Expert In Nature",
+    "summary": "Your advanced alchemy level for herbalism increases to your level – 3.",
+    "description": "Your advanced alchemy level for herbalism increases to your level – 3. You gain the formulas for elixirs of life as soon as your advanced alchemy level is high enough to create them: lesser at 8th level, moderate at 12th level, greater at 16th level, and major at 18th level.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

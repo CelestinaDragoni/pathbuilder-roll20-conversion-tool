@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3253",
+    "name": "Dazzling Bullet",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 6,
+    "prereq": "Pistol Phenom Dedication",
+    "summary": "Your tricks discombobulate your opponent, leaving spots in their vision from the bright flash of your gunshot reflected straight into their eyes.",
+    "description": "Your tricks discombobulate your opponent, leaving spots in their vision from the bright flash of your gunshot reflected straight into their eyes (or other visual organs). Attempt a Performance check against the target creature's Will DC and make a ranged firearm Strike against that target. If the Strike deals damage to the target creature and you succeed at the Performance check, the creature is dazzled for 1 round.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

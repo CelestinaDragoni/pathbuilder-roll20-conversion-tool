@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2070",
+    "name": "Additional Shadow Magic",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Shadow Magic",
+    "summary": "Choose an additional shadowdancer focus spell you haven't already selected from Shadow Magic.",
+    "description": "Choose an additional shadowdancer focus spell you haven't already selected from Shadow Magic. Increase the number of Focus Points in your pool by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

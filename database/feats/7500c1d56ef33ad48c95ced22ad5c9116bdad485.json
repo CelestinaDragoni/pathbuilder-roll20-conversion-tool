@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=572",
+    "name": "Delay Trap",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You can jam the workings of a trap to delay its effects.",
+    "description": "You can jam the workings of a trap to delay its effects. Attempt a Thievery check to Disable a Device on the trap; the DC to do so is increased by 5, and the effects are as follows.\n\nCritical Success You prevent the trap from being triggered, or you delay the activation until the start or end of your next turn (your choice).\nSuccess You prevent the trap from being triggered, or you delay the activation until the end of your next turn (whichever is worse for you; GM’s choice).\nFailure No effect.\nCritical Failure You’re flat-footed until the start of your next turn.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "reaction",
+    "trigger": "A trap within your reach is triggered."
+}

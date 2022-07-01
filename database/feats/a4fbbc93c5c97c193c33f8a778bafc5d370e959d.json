@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=173",
+    "name": "Reckless Abandon",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "Your blood boils when you take a beating, and you throw caution to the wind to finish the fight.",
+    "description": "Your blood boils when you take a beating, and you throw caution to the wind to finish the fight. You gain a +2 circumstance bonus to attack rolls, a –2 penalty to AC, and a –1 penalty to saves. These bonuses and penalties last until your Rage ends or until you are above half Hit Points, whichever comes first.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "free_action",
+    "trigger": "Your turn begins, and you are at half or fewer Hit Points."
+}

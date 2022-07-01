@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2390",
+    "name": "Kobold Weapon Expertise",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 13,
+    "prereq": "Kobold Weapon Familiarity",
+    "summary": "Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the crossbow, greatpick, light pick, pick, and spear, as well as any kobold weapons in which you are trained.",
+    "description": "Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the crossbow, greatpick, light pick, pick, and spear, as well as any kobold weapons in which you are trained.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

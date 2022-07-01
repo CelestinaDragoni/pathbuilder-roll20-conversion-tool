@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1772",
+    "name": "Ranger's Bramble",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 6,
+    "prereq": "Warden Spells",
+    "summary": "You can cause plants to grow and trap your foes with thorns.",
+    "description": "You can cause plants to grow and trap your foes with thorns. You gain the ranger's bramble warden spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

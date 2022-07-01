@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=147",
+    "name": "Haste",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Speed up a creature so it can attack or move more often.",
+    "heightenable": true,
+    "description": "Magic empowers the target to act faster. It gains the quickened condition and can use the extra action each round only for Strike and Stride actions.\n\n------\n\nHeightened (7th) You can target up to 6 creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3012",
+    "name": "Shadow Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Metamagic",
+        "Shadow"
+    ],
+    "level": 8,
+    "prereq": "Shadowcaster Dedication",
+    "summary": "You attach a piece of your shadow to a spell to cloud the senses and cause mischief.",
+    "description": "You attach a piece of your shadow to a spell to cloud the senses and cause mischief. If the next action you take is to Cast a Spell that has the shadow trait, choose one creature affected by the spell. This creature either gains a +2 status bonus to Stealth or takes a –2 status penalty to Perception (your choice). This lasts for 1 round. This choice and the effect occur after resolving any checks for the spell's initial effects. If the chosen creature is your enemy, it's affected only if your spell attack roll succeeded or if it failed its saving throw.\n\n The effects of Shadow Spell end if you use Shadow Spell again.Traits\n\nArchetype: This feat belongs to an archetype.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.Shadow: Magic with this trait involves shadows or the energy of the Shadow Plane. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.",
+    "economy": "1-action",
+    "trigger": ""
+}

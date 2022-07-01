@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1926",
+    "name": "Incredible Mount",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Impressive Mount",
+    "summary": "Under your care and training, your mount has realized its innate potential.",
+    "description": "Under your care and training, your mount has realized its innate potential. The mount you gained through the Cavalier Dedication feat becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.Incredible Mount Leads To...\n\nSpecialized MountTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

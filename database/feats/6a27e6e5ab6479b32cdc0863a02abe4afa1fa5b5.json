@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1906",
+    "name": "Beastmaster Bond",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Divination",
+        "Mental",
+        "Primal"
+    ],
+    "level": 10,
+    "prereq": "Beastmaster Dedication",
+    "summary": "You can communicate telepathically with your animal companions within 100 feet.",
+    "description": "You can communicate telepathically with your animal companions within 100 feet. If you're legendary in Nature, you can communicate telepathically with your animal companions anywhere on the planet.Traits\n\nArchetype: This feat belongs to an archetype.\n\nDivination: The divination school of magic typically involves obtaining or transferring information, or predicting events.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.",
+    "economy": "none",
+    "trigger": ""
+}

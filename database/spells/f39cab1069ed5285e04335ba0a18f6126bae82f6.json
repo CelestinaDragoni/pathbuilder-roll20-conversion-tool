@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1076",
+    "name": "Blackfinger's Blades",
+    "source": "Pathfinder #171",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Poison",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "You pray for swift and painful death to your enemies and find your and your allies' weapons blessed to deliver just that.",
+    "heightenable": false,
+    "description": "You pray for swift and painful death to your enemies and find your and your allies' weapons blessed to deliver just that. The target weapons are coated with giant scorpion venom with a DC equal to your spell DC. The effects remain on a weapon for 1 minute or until the weapon deals damage, whichever comes first.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "up to 4 weapons, each wielded by a separate willing creature within range",
+    "duration": "up to 1 minute",
+    "saving": ""
+}

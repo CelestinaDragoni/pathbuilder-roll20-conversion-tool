@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=548",
+    "name": "Magic Warrior Transformation",
+    "source": "World Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Polymorph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "transform into your totem animal.",
+    "heightenable": false,
+    "description": "You transform into the animal from your mask. You gain the effects of animal form, heightened to magic warrior transformation’s level, and you can transform into only the type of animal your mask represents.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

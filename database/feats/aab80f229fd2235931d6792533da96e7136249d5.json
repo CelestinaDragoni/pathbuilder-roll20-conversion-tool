@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=675",
+    "name": "Instinct Ability",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Barbarian Dedication",
+    "summary": "You gain the instinct ability for the instinct you chose for Barbarian Dedication.",
+    "description": "You gain the instinct ability for the instinct you chose for Barbarian Dedication.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

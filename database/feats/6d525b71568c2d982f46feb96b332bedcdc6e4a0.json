@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3338",
+    "name": "Execution",
+    "source": "Night of the Gray Death",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Vigilante"
+    ],
+    "level": 14,
+    "prereq": "Harsh Judgment; Vigilante Dedication; Member Of The Gray Gardeners",
+    "summary": "You swing wide, attempting to behead your condemned foe.",
+    "description": "You swing wide, attempting to behead your condemned foe. Make a melee Strike against your condemned foe. If you hit, your condemned foe takes 8d6 extra precision damage with a basic Fortitude save against your class DC or spell DC, whichever is higher. If the condemned foe is reduced to 0 Hit Points by the execution and requires a head to live, they die. For creatures with multiple heads, this usually kills the creature only if you sever its last head. The creature then becomes temporarily immune to your Execution for 1 day.Traits\n\nArchetype: This feat belongs to an archetype.\n\nVigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "2-action",
+    "trigger": ""
+}

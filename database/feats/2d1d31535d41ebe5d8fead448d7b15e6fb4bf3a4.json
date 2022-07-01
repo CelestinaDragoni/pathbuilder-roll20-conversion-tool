@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=880",
+    "name": "Unnerving Prowess",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Aldori Duelist Dedication",
+    "summary": "Make a free Demoralize check when you critically succeed with your dueling sword.",
+    "description": "Your incredible skill with your blade unnerves your foes. You attempt to Demoralize the target of your Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor do you take a penalty to the check if the target doesn’t understand your language.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": "You critically succeed at a Strike or Disarm with your Aldori dueling sword."
+}

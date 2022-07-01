@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=796",
+    "name": "Discern Secrets",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cantrip",
+        "Divination",
+        "Hex",
+        "Witch"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "You call upon your patron's power to better uncover secrets.",
+    "heightenable": true,
+    "description": "You call upon your patron's power to better uncover secrets. When you Cast the Spell, the target can Recall Knowledge, Seek, or Sense Motive. The target gains a +1 status bonus to the skill or Perception used for the roll, and this bonus remains as long as you Sustain the Spell. The target is temporarily immune to discern secrets for 1 minute.\n\n------\n\nHeightened (5th) You can target two creatures instead of one.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

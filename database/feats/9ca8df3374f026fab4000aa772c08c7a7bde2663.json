@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2421",
+    "name": "Mask of Pain",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Orc"
+    ],
+    "level": 9,
+    "prereq": "Orc Warmask; Expert In Intimidation",
+    "summary": "Your mask has grown into a manifestation of your pain, which you can release.",
+    "description": "Your mask has grown into a manifestation of your pain, which you can release. The creature you successfully Demoralized takes 2d6 mental damage, or 4d6 mental damage if you're legendary in Intimidation. The target is then temporarily immune to additional damage from Mask of Pain for 24 hours.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.",
+    "economy": "reaction",
+    "trigger": "You succeed at a Demoralize check."
+}

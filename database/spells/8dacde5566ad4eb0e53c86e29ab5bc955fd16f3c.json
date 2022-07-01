@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1120",
+    "name": "Lock Item",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "One object held by a creature becomes fused to that creature's hand and can't be put down.",
+    "heightenable": true,
+    "description": "One object held by a creature becomes fused to that creature's hand and can't be put down. To Disarm or Steal the item, the result of the skill check must exceed the spell's DC or the normal DC, whichever is higher. To voluntarily drop the weapon, the target must spend an Interact action rather than a free action, and then succeed at a Reflex save. On a failed save, the action is wasted, but on a success, they drop the item and the spell ends. An unwilling creature must attempt an initial Reflex save against lock item. A willing creature can choose to critically fail the saving throw.\n\nCritical Success The creature is unaffected.\nSuccess The creature is affected for 1 round.\nFailure The creature is affected for 4 rounds.\nCritical Failure The creature is affected for 1 minute.\n\n------\n\nHeightened (+2)  You can target either 1 additional object held by the same creature or 1 additional object held by 1 additional creature.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 object held by 1 creature and the creature holding it",
+    "duration": "varies",
+    "saving": "Reflex"
+}

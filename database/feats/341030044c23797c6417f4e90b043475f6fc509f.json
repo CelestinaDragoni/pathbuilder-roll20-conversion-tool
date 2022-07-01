@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=669",
+    "name": "Expert Alchemy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Alchemist Dedication; Expert In Crafting",
+    "summary": "Your advanced alchemy level increases to 3.",
+    "description": "Your advanced alchemy level increases to 3. At 10th level, it increases to 5.Expert Alchemy Leads To...\n\nMaster AlchemyTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

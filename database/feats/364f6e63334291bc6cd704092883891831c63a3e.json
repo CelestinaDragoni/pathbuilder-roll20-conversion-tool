@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3641",
+    "name": "Necromantic Deflection",
+    "source": "Knights of Lastwall",
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion",
+        "Druid"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You imbue your shield with life-giving energy to deflect harmful necromantic magic.",
+    "description": "You imbue your shield with life-giving energy to deflect harmful necromantic magic. When you have your shield raised, you gain the shield's circumstance bonus to your AC and saving throws against necromancy spells. If you have the Shield Block reaction, damage you take as a result of a necromancy spell can trigger that reaction, even if it isn't physical damage.Traits\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

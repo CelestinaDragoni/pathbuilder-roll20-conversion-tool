@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1927",
+    "name": "Trampling Charge",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 10,
+    "prereq": "Cavalier Dedication",
+    "summary": "You urge your mount forward, trampling enemies in your path.",
+    "description": "You urge your mount forward, trampling enemies in your path. You command your mount to Stride up to its Speed (or to Burrow, Climb, Fly, or Swim, if it has the corresponding movement type), moving through the spaces of any foes in your path up to one size smaller than your mount. Your mount deals damage equal to the melee Strike using its legs to each creature whose space you move through, subject to a basic Reflex save against your mount's Athletics DC. On a critical failure, the creature also becomes flat-footed until the end of your next turn. You can damage a given creature only once during this movement.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "3-action",
+    "trigger": ""
+}

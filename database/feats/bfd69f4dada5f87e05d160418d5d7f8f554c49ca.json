@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1996",
+    "name": "Spot Translate",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Auditory",
+        "Linguistic"
+    ],
+    "level": 4,
+    "prereq": "Linguist Dedication",
+    "summary": "You interpret a creature's words, repeating their message in a different language that you know.",
+    "description": "You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.Traits\n\nArchetype: This feat belongs to an archetype.\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.Linguistic: An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.",
+    "economy": "reaction",
+    "trigger": "Another creature within 60 feet uses a linguistic effect in a language you understand."
+}

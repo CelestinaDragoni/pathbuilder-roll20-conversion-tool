@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3137",
+    "name": "Recycled Cogwheel",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Trapsmith Dedication",
+    "summary": "You're able to scavenge the cogwheels from your daily quick-deploy snares that use gears.",
+    "description": "You're able to scavenge the cogwheels from your daily quick-deploy snares that use gears. This allows you to deconstruct a snare that didn't trigger in order to set the snare up somewhere else. Doing so takes the same number of actions as setting the snare did. When you do, you recover the snare and can deploy it in another location.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

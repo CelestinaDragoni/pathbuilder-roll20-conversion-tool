@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2649",
+    "name": "Fledgling Flight",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Strix"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You can fly through the air in short bursts at half your land Speed.",
+    "description": "You can fly through the air in short bursts at half your land Speed. If you don't end your movement on solid ground, you fall at the end of your turn.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "1-action",
+    "trigger": ""
+}

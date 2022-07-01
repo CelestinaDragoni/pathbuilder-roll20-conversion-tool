@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1262",
+    "name": "Aggravating Scratch",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk",
+        "Disease"
+    ],
+    "level": 9,
+    "prereq": "Claw Unarmed Attack",
+    "summary": "Your claws carry an irritant that is harmless to you but can be damaging to others.",
+    "description": "Your claws carry an irritant that is harmless to you but can be damaging to others. Your claw Strikes deal an additional 1d4 persistent poison damage on a critical hit.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.\n\nDisease: An effect with this trait applies one or more diseases. A disease is typically an affliction.",
+    "economy": "none",
+    "trigger": ""
+}

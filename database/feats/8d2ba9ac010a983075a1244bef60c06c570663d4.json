@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1231",
+    "name": "Iron Lung",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Golem Grafter Dedication",
+    "summary": "Your lungs are infused with the resilience of iron.",
+    "description": "Your lungs are infused with the resilience of iron. Treat the result of your save against an inhaled poison as one degree of success better than you rolled. Additionally, you gain the following ability.Exhale Poison    ArcaneNecromancyPoison\nSource Pathfinder #153: Life's Long Shadows pg. 74\nFrequency once per hour\nRequirements You were within the area of an inhaled poison within the last minute\n\n------\n\nYou sharply exhale the poison that previously surrounded you in a 15-foot cone. Creatures in the area are affected by the poison; the poison’s DC and effects are unchanged.\n\n------\n\nTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

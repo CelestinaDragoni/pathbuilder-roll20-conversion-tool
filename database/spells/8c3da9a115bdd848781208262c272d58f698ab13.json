@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=97",
+    "name": "Electric Arc",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Zap one or two creatures with lightning.",
+    "heightenable": true,
+    "description": "An arc of lightning leaps from one target to another. You deal electricity damage equal to 1d4 plus your spellcasting ability modifier.\n\n------\n\nHeightened (+1) The damage increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 or 2 creatures",
+    "duration": "",
+    "saving": ""
+}

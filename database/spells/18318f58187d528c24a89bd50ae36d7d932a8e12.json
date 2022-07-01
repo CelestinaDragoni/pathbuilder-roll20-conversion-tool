@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=482",
+    "name": "Abundant Step",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Monk",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You move so fast you blur across planar boundaries.",
+    "heightenable": false,
+    "description": "You move so fast you blur across planar boundaries. You teleport up to a distance equal to your Speed within your line of sight.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "15 feet or more",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

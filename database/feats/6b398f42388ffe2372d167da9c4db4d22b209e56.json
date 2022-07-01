@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3254",
+    "name": "Hot Foot",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Pistol Phenom Dedication",
+    "summary": "Using a carefully aimed shot, you make a creature “dance.”",
+    "description": "Using a carefully aimed shot, you make a creature “dance.” You shoot at the ground near a target's feet, causing them to react involuntarily; even mindless creatures have unconscious responses to dodge an attack, and you can capitalize off those uncontrollable reflexes to achieve your aim. As they dance to the sweet tune of your pistol's retort, you ensure your foe can't use whatever nasty surprise they had planned in store for you and your allies. Make an attack roll against the Reflex DC of a target creature within your firearm's first range increment.\n\nCritical Success The creature can't use reactions, is flat-footed, and takes a –2 circumstance penalty to Reflex saves. These effects last until the start of its next turn.\nSuccess The creature can't use reactions until the start of its next turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

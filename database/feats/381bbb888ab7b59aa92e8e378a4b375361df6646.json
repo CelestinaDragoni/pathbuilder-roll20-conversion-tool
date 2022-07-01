@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=203",
+    "name": "Allegro",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "You can quicken your allies with a fast-paced performance.",
+    "description": "You can quicken your allies with a fast-paced performance. You learn the allegro composition cantrip.",
+    "economy": "none",
+    "trigger": ""
+}

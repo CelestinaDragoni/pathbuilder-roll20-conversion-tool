@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1033",
+    "name": "Hobgoblin Weapon Discipline",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 5,
+    "prereq": "Hobgoblin Weapon Familiarity",
+    "summary": "You know how to efficiently utilize the weapons soldiers use in close quarters.",
+    "description": "You know how to efficiently utilize the weapons soldiers use in close quarters. Whenever you score a critical hit using a weapon of the polearm, spear, or sword group, you apply the weapon’s critical specialization effect.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

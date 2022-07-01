@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2199",
+    "name": "Heaven's Thunder",
+    "source": "Pathfinder #158",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Electricity",
+        "Evocation",
+        "Sonic"
+    ],
+    "level": 6,
+    "prereq": "Jalmeri Heavenseeker Dedication",
+    "summary": "With a loud shout, you unleash your ki in a crackling shroud of thunder and lightning that engulfs your body.",
+    "description": "With a loud shout, you unleash your ki in a crackling shroud of thunder and lightning that engulfs your body. Until the end of your next turn, your unarmed attacks and weapons you wield that have the monk trait deal additional electricity damage equal to one-half your level and additional sonic damage equal to one-half your level.\n\n If you also know the ki blast ki spell, you can choose to deal either electricity or sonic damage with the spell instead of force while this effect is active (ki blast loses the force trait and gains the electricity or sonic trait instead). Any creature who successfully Grapples you or is successfully Grappled by you also takes this damage immediately after the Grapple check is resolved.\nTraits\n\nArchetype: This feat belongs to an archetype.\n\nElectricity: Effects with this trait deal electricity damage. A creature with this trait has a magical connection to electricity.Evocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.Sonic: An effect with the sonic trait functions only if it makes sound, meaning it has no effect in an area of silence or in a vacuum. This is different from an auditory spell, which is effective only if the target can hear it. A sonic effect might deal sonic damage. A creature with this trait has a magical connection to powerful sound.",
+    "economy": "1-action",
+    "trigger": ""
+}

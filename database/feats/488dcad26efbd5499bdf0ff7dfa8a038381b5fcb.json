@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2265",
+    "name": "Stave Off Catastrophe",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 18,
+    "prereq": "Shoulder Catastrophe",
+    "summary": "You fully protect your allies from the worst blows.",
+    "description": "You fully protect your allies from the worst blows. When you use the Shoulder Catastrophe reaction, you can choose to take the full critical damage and effects from the attack, including effects that apply on a critical hit, and have your ally take no damage and avoid the attack's effects.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

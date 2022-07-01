@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=308",
+    "name": "Status",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Detection",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Keep track of a willing creature's location and well-being.",
+    "heightenable": true,
+    "description": "As long as you and the target are on the same plane of existence and both alive, you remain aware of its present state. You know the target's direction from you, distance from you, and any conditions affecting it.\n\n------\n\nHeightened (4th) The spell's range increases to 30 feet, and you can target up to 10 creatures.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing living creature",
+    "duration": "1 day",
+    "saving": ""
+}

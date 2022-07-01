@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=275",
+    "name": "Versatile Font",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 2,
+    "prereq": "Harmful Font Or Healing Font; Deity That Allows Clerics To Have Both Fonts",
+    "summary": "As you explore your deity’s aspects, you move beyond restrictions on healing or harming.",
+    "description": "As you explore your deity’s aspects, you move beyond restrictions on healing or harming. You can prepare either harm or heal in the spell slots gained from the harmful font or healing font.Versatile Font Leads To...\n\nEbb and Flow",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1000",
+    "name": "Fang Sharpener",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 1,
+    "prereq": "Irongut Goblin Heritage Or Razortooth Goblin Heritage",
+    "summary": "You have filed your teeth into jagged points and have an unusually powerful jaw, making your mouth a dangerous weapon.",
+    "description": "You have filed your teeth into jagged points and have an unusually powerful jaw, making your mouth a dangerous weapon. If you’re an irongut goblin, you gain a jaws unarmed attack that deals 1d4 piercing damage, and if you’re a razortooth goblin, your jaws unarmed attack deals 1d8 piercing damage and loses the finesse trait. Whenever you score a critical hit with your jaws unarmed attack, your target takes 1 persistent bleed damage per weapon damage die.Fang Sharpener Leads To...\n\nAnkle Bite, Hungry GoblinTraitsGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=225",
+    "name": "Mercy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "Your touch relieves fear and restores movement.",
+    "description": "Your touch relieves fear and restores movement. If the next action you use is to cast lay on hands, you can attempt to counteract a fear effect or an effect imposing the paralyzed condition on the target, in addition to the other benefits of lay on hands.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Mercy Leads To...Affliction Mercy, Blessed Spell, Elucidating Mercy, Greater Mercy, Invigorating Mercy, Ultimate MercyTraitsConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

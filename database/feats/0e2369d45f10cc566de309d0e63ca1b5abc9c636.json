@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1848",
+    "name": "Keen Recollection",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Investigator Dedication",
+    "summary": "You can recall all sorts of information.",
+    "description": "You can recall all sorts of information. You gain the keen recollection class feature.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

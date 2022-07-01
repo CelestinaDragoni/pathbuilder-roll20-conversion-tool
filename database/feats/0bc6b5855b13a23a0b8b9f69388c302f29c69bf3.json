@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3146",
+    "name": "Drive-By Attack",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 12,
+    "prereq": "Trick Driver Dedication",
+    "summary": "You can smoothly line up an attack without disrupting your control.",
+    "description": "You can smoothly line up an attack without disrupting your control. You Drive, gaining the effects of the Drive action for the same number of actions you spent to Drive-By Attack. At any point during your vehicle's movement, you Strike.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-to-3-actions",
+    "trigger": ""
+}

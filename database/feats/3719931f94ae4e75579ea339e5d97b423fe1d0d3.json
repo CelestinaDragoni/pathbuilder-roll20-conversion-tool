@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2478",
+    "name": "Intuitive Crafting",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aphorite"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your affinity with process and order makes you a natural artisan.",
+    "description": "Your affinity with process and order makes you a natural artisan. You gain the trained proficiency rank in Crafting (or another skill of your choice, if you're already trained in Crafting). You gain the Specialty Crafting skill feat in a specialty of your choice.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
+    "economy": "none",
+    "trigger": ""
+}

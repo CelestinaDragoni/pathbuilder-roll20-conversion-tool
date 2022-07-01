@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1528",
+    "name": "Guardian's Deflection (Swashbuckler)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You use your weapon to deflect the attack against your ally, granting a +2 circumstance bonus to their AC against the triggering attack.",
+    "description": "You use your weapon to deflect the attack against your ally, granting a +2 circumstance bonus to their AC against the triggering attack. This turns the triggering critical hit into a hit, or the triggering hit into a miss.",
+    "economy": "reaction",
+    "trigger": "An ally within your melee reach is hit by an attack, you can see the attacker, and a +2 circumstance bonus to AC would turn the critical hit into a hit or the hit into a miss."
+}

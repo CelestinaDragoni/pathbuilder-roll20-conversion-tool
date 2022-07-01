@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3473",
+    "name": "Expand Spiral",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Spiral Sworn",
+    "summary": "Your prayers encompass your companions, granting you the ability to share Pharasma's blessings.",
+    "description": "Your prayers encompass your companions, granting you the ability to share Pharasma's blessings. When you use Spiral Sworn, you can spend 2 actions instead of 1 to grant the benefits to all allies who are in the light of your spiral when you take the action.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

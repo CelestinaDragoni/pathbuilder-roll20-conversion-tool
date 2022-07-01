@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1320",
+    "name": "Soaring Flight",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Morph",
+        "Primal",
+        "Tengu",
+        "Transmutation"
+    ],
+    "level": 9,
+    "prereq": "Skyborn Tengu Heritage",
+    "summary": "To be a tengu is to be unburdened by the concerns of the world below.",
+    "description": "To be a tengu is to be unburdened by the concerns of the world below. You grow a pair of magical wings or expand your existing ones. For 5 minutes, you gain a fly Speed equal to your land Speed or 20 feet, whichever is greater.Soaring Flight Leads To...\n\nSoaring FormTraitsMorph: Effects that slightly alter a creature's form have the morph trait. Any Strikes specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to counteract the first (in the same manner as two polymorph effects, described in that trait).\n\nYour morph effects might also end if you are polymorphed and the polymorph effect invalidates or overrides your morph effect. The GM determines which morph effects can be used together and which can't.\n\nPrimal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.Tengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "2-action",
+    "trigger": ""
+}

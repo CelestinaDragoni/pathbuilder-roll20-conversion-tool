@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1030",
+    "name": "Agonizing Rebuke",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "When you terrorize your enemies, you also cause them painful mental distress.",
+    "description": "When you terrorize your enemies, you also cause them painful mental distress. When you successfully Demoralize a foe, that foe takes 1d4 mental damage at the start of each of its turns as long as it remains frightened and continues to engage in combat with you. If you have master proficiency in Intimidation, the damage increases to 2d4, and if you have legendary proficiency, the damage increases to 3d4.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

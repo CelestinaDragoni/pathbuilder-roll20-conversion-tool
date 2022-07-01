@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1779",
+    "name": "Impossible Snares",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 20,
+    "prereq": "Ubiquitous Snares",
+    "summary": "You can create endless shorter-lived snares, protecting your lair or using them against foes.",
+    "description": "You can create endless shorter-lived snares, protecting your lair or using them against foes. Once per minute, you can Craft one of the snares you've prepared for quick deployment without expending the prepared snare. Once deployed, such a snare lasts for 10 minutes before losing its effectiveness.",
+    "economy": "none",
+    "trigger": ""
+}

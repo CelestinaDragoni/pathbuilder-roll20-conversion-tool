@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2004",
+    "name": "Greater Magical Edification",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Magical Edification",
+    "summary": "You've continued to expand your compendium of tools to compile knowledge.",
+    "description": "You've continued to expand your compendium of tools to compile knowledge. You can cast comprehend language, mindlink, and secret page as innate occult spells, each once per day. When you cast secret page, it is automatically heightened to the same spell level as your cantrips from Magical Edification.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

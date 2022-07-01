@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1460",
+    "name": "Scalpel's Point",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 4,
+    "prereq": "Forensic Medicine Methodology",
+    "summary": "Your stratagems benefit from your precise knowledge of anatomy.",
+    "description": "Your stratagems benefit from your precise knowledge of anatomy. When you critically hit with an attack on which you substituted your attack roll due to Devising a Stratagem, if your attack dealt piercing or slashing damage, you also deal 1d6 persistent bleed damage to your target.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1060",
+    "name": "Shed Tail",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 5,
+    "prereq": "Tail Whip",
+    "summary": "You can shed your tail to escape.",
+    "description": "You can shed your tail to escape. You cease being grabbed, then Stride without triggering any reactions from the creature that grabbed you. It takes 1 week for your tail to fully grow back. Until it does, you can’t use your tail unarmed attack, and you take a –2 circumstance penalty on checks to Balance.Traits\n\nLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "reaction",
+    "trigger": "You become grabbed."
+}

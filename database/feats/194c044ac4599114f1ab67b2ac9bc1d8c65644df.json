@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=515",
+    "name": "Hazard Finder",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You have an intuitive ability to sense hazards.",
+    "description": "You have an intuitive ability to sense hazards. You gain a +1 circumstance bonus to Perception checks to find traps and hazards, to AC against their attacks, and to saves against their effects. You can find hazards that would normally require you to Search even if you aren’t Searching.",
+    "economy": "none",
+    "trigger": ""
+}

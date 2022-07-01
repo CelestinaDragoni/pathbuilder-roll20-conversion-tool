@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=783",
+    "name": "Feather Step",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 1,
+    "prereq": "Dexterity 14",
+    "summary": "Step into difficult terrain.",
+    "description": "You step carefully and quickly. You can Step into difficult terrain.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

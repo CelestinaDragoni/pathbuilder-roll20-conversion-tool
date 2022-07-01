@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2593",
+    "name": "Stormsoul",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lineage",
+        "Sylph"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your elemental ancestor's influence manifests in you as tumultuous, thundering storms, with dark clouds and bolts of lightning.",
+    "description": "Your elemental ancestor's influence manifests in you as tumultuous, thundering storms, with dark clouds and bolts of lightning. You gain resistance to electricity equal to half your level (minimum 1).Traits\n\nLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.\n\nSylph: Sylphs are planar scions descended from djinn.",
+    "economy": "none",
+    "trigger": ""
+}

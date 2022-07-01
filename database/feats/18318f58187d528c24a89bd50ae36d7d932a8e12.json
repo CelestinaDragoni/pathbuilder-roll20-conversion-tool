@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=449",
+    "name": "Abundant Step",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 6,
+    "prereq": "Incredible Movement; Ki Spells",
+    "summary": "You can teleport yourself a short distance.",
+    "description": "You can teleport yourself a short distance. You gain the abundant step ki spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

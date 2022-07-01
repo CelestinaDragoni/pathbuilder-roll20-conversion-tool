@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3113",
+    "name": "Basic Breakthrough",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Inventor Dedication",
+    "summary": "You gain a 1st- or 2nd-level inventor feat of your choice.",
+    "description": "You gain a 1st- or 2nd-level inventor feat of your choice.Basic Breakthrough Leads To...\n\nAdvanced BreakthroughTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

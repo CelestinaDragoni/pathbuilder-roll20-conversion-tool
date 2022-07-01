@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2709",
+    "name": "Innocent Butterfly",
+    "source": "Pathfinder #166",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Butterfly Blade Dedication",
+    "summary": "You know how to alter the perceptions of others.",
+    "description": "You know how to alter the perceptions of others. You can cast aura of the unremarkable once per day as an innate arcane spell. The spell uses your class DC or spell DC, whichever is higher.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

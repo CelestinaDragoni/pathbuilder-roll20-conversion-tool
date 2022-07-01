@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3115",
+    "name": "Advanced Breakthrough",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Basic Breakthrough",
+    "summary": "You gain one inventor feat.",
+    "description": "You gain one inventor feat. For the purpose of meeting its prerequisites, your inventor level is equal to half your character level.\n\nSpecial You can select this feat more than once. Each time you select it, you gain another inventor feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

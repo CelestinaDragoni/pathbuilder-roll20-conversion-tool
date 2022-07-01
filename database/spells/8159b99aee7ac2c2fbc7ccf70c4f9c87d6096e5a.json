@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=779",
+    "name": "Blinding Beauty",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Incapacitation",
+        "Sorcerer",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You channel the allure of your nymph bloodline into a terribly beautiful glance.",
+    "heightenable": false,
+    "description": "You channel the allure of your nymph bloodline into a terribly beautiful glance. Each enemy in the area must attempt a Will saving throw.\n\nCritical Success The creature is unaffected.\nSuccess The creature is dazzled until the start of its next turn.\nFailure The creature is blinded until the start of its next turn.\nCritical Failure The creature is blinded for 1 minute.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

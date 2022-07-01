@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1419",
+    "name": "Cautious Curiosity",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 9,
+    "prereq": "At Least One Arcane Or Occult Innate Spell Gained From A Gnome Heritage Or Gnome Ancestry Feat",
+    "summary": "You've learned a few magical techniques for getting yourself both into and out of trouble unnoticed.",
+    "description": "You've learned a few magical techniques for getting yourself both into and out of trouble unnoticed. You gain misdirection and silence as 2nd-level arcane or occult innate spells. The tradition of these spells must match the tradition you use for your gnome ancestry options. You can cast each spell once per day and can target only yourself.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "none",
+    "trigger": ""
+}

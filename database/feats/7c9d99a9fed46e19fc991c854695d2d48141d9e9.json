@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1747",
+    "name": "Cobra Envenom",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk",
+        "Poison"
+    ],
+    "level": 10,
+    "prereq": "Cobra Stance; Expert In Unarmed Attacks",
+    "summary": "You lash out with devious intent and the power to envenom your foe.",
+    "description": "You lash out with devious intent and the power to envenom your foe. Make a cobra fang Strike. Your reach with this Strike is 5 feet greater than normal. If this Strike hits, the target takes 1d4 persistent poison damage per weapon damage die.\n\nSpecial If you have this feat, the circumstance bonus to Fortitude saves and Fortitude DC granted by Cobra Stance increases from +1 to +2.Traits\n\nPoison: An effect with this trait delivers a poison or deals poison damage. An item with this trait is poisonous and might cause an affliction.",
+    "economy": "1-action",
+    "trigger": ""
+}

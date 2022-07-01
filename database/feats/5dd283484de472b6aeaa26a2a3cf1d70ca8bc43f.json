@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=975",
+    "name": "Elemental Wrath",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You are so attuned to the land that you can call forth a bolt of energy from your surroundings.",
+    "description": "You are so attuned to the land that you can call forth a bolt of energy from your surroundings. When you gain this feat, select acid, cold, electricity, or fire. You can call to the land to cast the acid splash cantrip as an innate primal spell at will, except the spell has only verbal components and deals the type of damage you chose instead of acid damage; the spell gains the trait appropriate to its damage instead of the acid trait. A cantrip is heightened to a spell level equal to half your level rounded up.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

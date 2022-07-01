@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3484",
+    "name": "Necromancer's Visage",
+    "source": "Book of the Dead",
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Necromancy",
+        "Oracle",
+        "Wizard"
+    ],
+    "level": 12,
+    "prereq": "Ability To Create Or Control Undead; Cleric With A Negative Font, Oracle Of Bones, Or Necromancer Wizard",
+    "summary": "Necromantic energy demonstrates your power over undead, creating a demeanor that commands their fear and respect.",
+    "description": "Necromantic energy demonstrates your power over undead, creating a demeanor that commands their fear and respect. Undead creatures can immediately sense your Necromancer's Visage and tend to act accordingly. If you take a hostile action against an undead creature, it becomes permanently immune to your Necromancer's Visage, and your Necromancer's Visage ends. You can spend 10 minutes to restore your Necromancer's Visage, though any creatures that became permanently immune remain so.\n\n Each time an undead creature 2 or more levels lower than you attacks you, it must attempt a Will save against your spell DC. If you're also affected by sanctuary or a similar effect, only one affects the attacker (you choose which).\n\nCritical Success The creature is permanently immune to your Necromancer's Visage.\nSuccess The creature can attempt its attack and any other attacks against you this turn.\nFailure The creature can't attack you and wastes the action. It can't attempt further attacks against you this turn.\nCritical Failure The creature wastes the action and can't attempt to attack you as long as your Necromancer's Visage persists.\n\nSpecial This feat has the trait matching your spellcasting tradition.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=357",
+    "name": "Vibrant Pattern",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Incapacitation",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Make a pattern of lights that dazzles and blinds.",
+    "heightenable": false,
+    "description": "You create a pattern of lights that pulses with intensity. Creatures are dazzled while inside the pattern.\n\n In addition, a creature must attempt a Will saving throw if it's inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a Seek or Interact action on the pattern. A creature currently blinded by the pattern doesn't need to attempt new saving throws.\n\nSuccess The creature is unaffected.\nFailure The creature is blinded by the pattern. If it exits the pattern, it can attempt a new save to recover from the blinded condition at the end of each of its turns, to a maximum duration of 1 minute.\nCritical Failure The creature is blinded for 1 minute.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

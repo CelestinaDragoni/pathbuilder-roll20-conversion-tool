@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1717",
+    "name": "Wandering Oasis",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 12,
+    "prereq": "Master In Survival",
+    "summary": "You're surrounded by soothing energy.",
+    "description": "You're surrounded by soothing energy. You and allies within 60 feet of you are protected from severe environmental heat and cold. If you're legendary in Survival, you and those allies are also protected from extreme environmental heat and cold.",
+    "economy": "none",
+    "trigger": ""
+}

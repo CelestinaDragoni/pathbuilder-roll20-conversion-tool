@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1193",
+    "name": "Staff Acrobat Dedication",
+    "source": "Pathfinder #151",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained With At Least One Of The Following Weapons: Staff, Bo Staff, Halfling Sling Staff, Or Any Weapon In The Spear Or Polearm Group (Referred To In This Archetype As “Your Staff”); Dexterity 16; Trained In Acrobatics And Athletics",
+    "summary": "Gain bonuses when using your staff as an implement to aid Acrobatics and Athletics actions.",
+    "description": "When you High Jump, Leap, or Long Jump while wielding your staff, you gain a +2 circumstance bonus to any Athletics check required and add 5 feet to the distance you can Leap vertically and horizontally. You can Shove and Trip even if you don’t have a free hand, provided you are wielding your staff. Finally, when you roll a success on a check to Balance while wielding your staff, you get a critical success instead.\n\nSpecial You cannot select another dedication feat until you have gained two other feats from the staff acrobat archetype.Staff Acrobat Dedication Leads To...Bullying Staff, Levering Strike, Pivot Strike, Staff Sweep, Whirlwind StanceTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

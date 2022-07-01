@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1949",
+    "name": "Mighty Dragon Shape",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 18,
+    "prereq": "Shape Of The Dragon",
+    "summary": "You've practiced and increased your draconic might, allowing you to take your draconic form more often.",
+    "description": "You've practiced and increased your draconic might, allowing you to take your draconic form more often. You can use Shape of the Dragon once per hour instead of once per day.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

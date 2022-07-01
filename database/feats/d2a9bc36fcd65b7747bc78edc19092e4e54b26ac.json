@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=212",
+    "name": "Perfect Encore",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 20,
+    "prereq": "Magnum Opus",
+    "summary": "You develop another incredible creation.",
+    "description": "You develop another incredible creation. You gain an additional 10th-level spell slot.",
+    "economy": "none",
+    "trigger": ""
+}

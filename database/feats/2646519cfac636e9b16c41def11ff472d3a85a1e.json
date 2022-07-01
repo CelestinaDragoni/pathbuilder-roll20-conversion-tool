@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1593",
+    "name": "Subtle Delivery",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You can capably deliver toxins with a blowgun.",
+    "description": "You can capably deliver toxins with a blowgun. Your blowgun Strikes can apply injury poisons even if they deal no damage due to a creature's resistance. If you critically succeed at an attack roll using a blowgun loaded with a dart you've poisoned and the target rolls a failure on the poison's initial save, the target critically fails instead.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

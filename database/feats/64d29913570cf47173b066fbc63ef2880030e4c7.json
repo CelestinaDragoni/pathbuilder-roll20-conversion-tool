@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=685",
+    "name": "Master Bard Spellcasting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 18,
+    "prereq": "Expert Bard Spellcasting; Legendary In Occultism",
+    "summary": "You gain the master spellcasting benefits for bard spellcasting.",
+    "description": "You gain the master spellcasting benefits.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

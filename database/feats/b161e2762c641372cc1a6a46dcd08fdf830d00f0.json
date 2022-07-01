@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2314",
+    "name": "Cat Nap",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk",
+        "Concentrate",
+        "Exploration"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You can briefly sleep to regain your energy quickly.",
+    "description": "You can briefly sleep to regain your energy quickly. Once per hour, by sleeping for 10 minutes, you can gain temporary Hit Points equal to your level that last for 10 minutes.Cat Nap Leads To...\n\nFocused Cat NapTraitsCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Exploration: An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.",
+    "economy": "none",
+    "trigger": ""
+}

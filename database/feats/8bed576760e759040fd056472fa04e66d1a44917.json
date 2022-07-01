@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1845",
+    "name": "Basic Deduction",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Investigator Dedication",
+    "summary": "You gain a 1st- or 2nd-level investigator feat of your choice.",
+    "description": "You gain a 1st- or 2nd-level investigator feat of your choice.Basic Deduction Leads To...\n\nAdvanced DeductionTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

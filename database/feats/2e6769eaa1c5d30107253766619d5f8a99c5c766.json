@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2770",
+    "name": "Hybrid Shape",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Anadi"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Mastery of your shapeshifting lets you combine the best features of your humanoid and spider forms.",
+    "description": "Mastery of your shapeshifting lets you combine the best features of your humanoid and spider forms. When using your Change Shape ability, you can assume a bipedal hybrid shape. This form gains all the benefits of your spider shape as well as the ability to use items and take manipulate actions just as easily as your human shape.Traits\n\nAnadi: Anadis are peaceful, reclusive humanoids who live deep within woodlands, jungles, and other untamed areas of wilderness. Their natural forms resemble humanoid spiders covered in beautiful and distinctive markings of varying colors.",
+    "economy": "none",
+    "trigger": ""
+}

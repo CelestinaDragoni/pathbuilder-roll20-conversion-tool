@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=413",
+    "name": "Death's Call",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Seeing another pass from this world to the next invigorates you.",
+    "heightenable": false,
+    "description": "Seeing another pass from this world to the next invigorates you. You gain temporary Hit Points equal to the triggering creature's level plus your spellcasting ability modifier. If the triggering creature was undead, double the number of temporary Hit Points you gain. These last for the duration of the spell, and the spell ends if all the temporary Hit Points are depleted earlier.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "A living creature within 20 feet of you dies, or an undead creature within 20 feet of you is destroyed.",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

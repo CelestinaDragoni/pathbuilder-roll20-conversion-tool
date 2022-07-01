@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=388",
+    "name": "Blind-Fight",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fighter",
+        "Investigator",
+        "Ranger",
+        "Rogue"
+    ],
+    "level": 8,
+    "prereq": "Master In Perception",
+    "summary": "Your battle instincts make you more aware of concealed and invisible opponents.",
+    "description": "Your battle instincts make you more aware of concealed and invisible opponents. You don’t need to succeed at a flat check to target concealed creatures. You’re not flat-footed to creatures that are hidden from you (unless you’re flat-footed to them for reasons other than the hidden condition), and you need only a successful DC 5 flat check to target a hidden creature.\n\n While you’re adjacent to an undetected creature of your level or lower, it is instead only hidden from you.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

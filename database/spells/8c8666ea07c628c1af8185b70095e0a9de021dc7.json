@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=267",
+    "name": "Scintillating Pattern",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Incapacitation",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Cause an array of color that dazzles, confuses, and stuns.",
+    "heightenable": false,
+    "description": "A field of cascading, ever-changing colors manifests in the air. Creatures are dazzled while inside the pattern, as are those within 20 feet of the pattern's area. A creature must attempt a Will save if it is inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a Seek or Interact action on the pattern. A creature currently affected by the pattern doesn't need to attempt new saves.\n\nSuccess The creature is unaffected.\nFailure The creature is confused for 1d4 rounds.\nCritical Failure The creature is stunned for 1d4 rounds. After the stunned condition ends, the creature is confused for the remaining duration of the spell.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

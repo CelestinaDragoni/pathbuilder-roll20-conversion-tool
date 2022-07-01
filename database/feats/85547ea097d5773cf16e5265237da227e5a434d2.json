@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2588",
+    "name": "Continuous Assault",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Suli"
+    ],
+    "level": 13,
+    "prereq": "Elemental Assault",
+    "summary": "You can use Elemental Assault once per hour instead of once per day.",
+    "description": "You can use Elemental Assault once per hour instead of once per day.Traits\n\nSuli: Sulis are planar scions descended from jann.",
+    "economy": "none",
+    "trigger": ""
+}

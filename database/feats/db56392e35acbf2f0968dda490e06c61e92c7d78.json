@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1738",
+    "name": "Cobra Stance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk",
+        "Stance"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs.",
+    "description": "You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs. While in this stance, the only Strikes you can make are cobra fang unarmed attacks. These deal 1d4 poison damage; are in the brawling group; and have the agile, deadly d10, finesse, nonlethal, poison, and unarmed traits.\n\n While in Cobra Stance, you gain a +1 circumstance bonus to Fortitude saves and your Fortitude DC, and you gain poison resistance equal to half your level.Cobra Stance Leads To...\n\nCobra EnvenomTraitsStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1581",
+    "name": "Witch's Communion",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Witch"
+    ],
+    "level": 10,
+    "prereq": "Witch's Charge",
+    "summary": "You can keep watch over multiple charges.",
+    "description": "You can keep watch over multiple charges. Each day during your preparations, you can designate a number of charges equal to your Intelligence modifier instead of just one.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2989",
+    "name": "Burning Spell",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Fire",
+        "Metamagic"
+    ],
+    "level": 6,
+    "prereq": "Elementalist Dedication",
+    "summary": "You enhance your spell with elemental fire, causing it to set the target on fire.",
+    "description": "You enhance your spell with elemental fire, causing it to set the target on fire. If the next action you use is to Cast a non-cantrip Spell that deals damage at a single target, the spell deals additional persistent fire damage equal to the spell level, in addition to its other effects. This has no effect if the spell already deals persistent fire damage. The spell gains the fire trait.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFire: Effects with the fire trait deal fire damage or either conjure or manipulate fire. Those that manipulate fire have no effect in an area without fire. Creatures with this trait consist primarily of fire or have a magical connection to that element. Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely hostile to non-fire creatures.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

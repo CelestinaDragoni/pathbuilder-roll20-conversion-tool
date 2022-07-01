@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2350",
+    "name": "Undead Companion",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 5,
+    "prereq": "An Animal Companion Or A Familiar",
+    "summary": "Your companion is also touched by undeath, a mix of a traditional companion and a skeleton, zombie, or stranger form of unlife.",
+    "description": "Your companion is also touched by undeath, a mix of a traditional companion and a skeleton, zombie, or stranger form of unlife. Your companion gains the undead trait instead of the animal trait and gains negative healing. It otherwise uses the normal rules for an animal companion or familiar; that means it can still be affected by many conditions or effects to which most undead are immune.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

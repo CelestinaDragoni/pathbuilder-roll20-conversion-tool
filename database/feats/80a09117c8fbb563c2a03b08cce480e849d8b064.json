@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=419",
+    "name": "Stance Savant (Fighter)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "When there’s imminent danger, you drop into a stance with a mere thought.",
+    "description": "When there’s imminent danger, you drop into a stance with a mere thought. Use an action that has the stance trait.",
+    "economy": "free_action",
+    "trigger": "You roll initiative."
+}

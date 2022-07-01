@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2011",
+    "name": "Rallying Charge",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Open",
+        "Visual"
+    ],
+    "level": 6,
+    "prereq": "Marshal Dedication",
+    "summary": "Your fearless charge into battle reinvigorates your allies to carry on the fight.",
+    "description": "Your fearless charge into battle reinvigorates your allies to carry on the fight. You Stride up to your Speed and make a melee Strike. If your Strike hits and damages an enemy, each ally within 60 feet who saw you hit gains temporary Hit Points equal to your Charisma modifier. These temporary Hit Points last until the start of your next turn.Traits\n\nArchetype: This feat belongs to an archetype.\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.Visual: A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.",
+    "economy": "2-action",
+    "trigger": ""
+}

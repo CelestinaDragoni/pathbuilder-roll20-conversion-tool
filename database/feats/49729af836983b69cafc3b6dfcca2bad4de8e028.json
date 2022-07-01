@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=109",
+    "name": "Expanded Splash",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 10,
+    "prereq": "Calculated Splash",
+    "summary": "The particularly volatile compounds that you brew into your bombs result in them creating especially large and powerful explosions.",
+    "description": "The particularly volatile compounds that you brew into your bombs result in them creating especially large and powerful explosions. When you throw an alchemical bomb that has the splash trait, you can add your Intelligence modifier to the bomb’s usual splash damage, and it deals splash damage to every creature within 10 feet of the target.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Expanded Splash Leads To...Controlled Blast, Mega Bomb",
+    "economy": "none",
+    "trigger": ""
+}

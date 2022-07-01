@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2171",
+    "name": "Paragon Battle Medicine",
+    "source": "Legends",
+    "rarity": "Rare",
+    "traits": [
+        "General",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Battle Medicine; Master In Medicine",
+    "summary": "Kassi Aziril taught you her techniques that originated the modern use of Battle Medicine.",
+    "description": "Kassi Aziril taught you her techniques that originated the modern use of Battle Medicine. When you successfully use Battle Medicine, you can also reduce the target's sickened, enfeebled, or clumsy condition by 1 (this has no effect if you are subject to an effect continually applying the clumsy condition, like enlarge). If you are legendary in Medicine, you can choose to reduce the target's frightened or stunned condition by 1 instead, and if you have the Godless Healing feat, you can choose to reduce the target's stupefied or drained condition by 1 instead. If you have the Mortal Healing feat, you can reduce all available conditions by 1 for a target who hasn't benefited from positive or healing magic in the last 24 hours, and if you roll a critical success before applying the effects of the feat, you reduce all available conditions by 2 for that target instead.\nTraits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nRare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.Kassi's TechniquesSource Legends pg. 71\nWhile Kassi shares her greatest discoveries with the entire medical community, some of her techniques are either still experimental or extremely difficult to perform. Any students who Kassi takes on gain access to her techniques.\n\nRelated Feats: Medical Researcher",
+    "economy": "none",
+    "trigger": ""
+}

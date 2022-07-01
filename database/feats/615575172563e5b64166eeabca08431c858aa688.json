@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2493",
+    "name": "Greater Animal Senses",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Beastkin"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your senses advance to match those of your animal aspect.",
+    "description": "Your senses advance to match those of your animal aspect. You gain one of the following senses available to your inherent animal: echolocation (imprecise) 30 feet or tremorsense (imprecise) 30 feet. If your inherent animal doesn't typically have a specific type of sense, you can't gain the sense with this feat.\n\nSpecial You can select this feat multiple times, either choosing a different sense or improving an imprecise sense granted by this feat to a precise sense.Traits\n\nBeastkin: Humanoids that can partially or fully transform into animal forms.",
+    "economy": "none",
+    "trigger": ""
+}

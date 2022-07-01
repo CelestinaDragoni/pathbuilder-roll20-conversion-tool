@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1282",
+    "name": "Elite Dracomancer",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 13,
+    "prereq": "Dracomancer",
+    "summary": "Your magic rivals that of lesser dragons.",
+    "description": "Your magic rivals that of lesser dragons. Choose one 3rd-level spell and one 4th-level spell from those listed for a dragon spellcaster of your draconic exemplar's type (such as paralyze and stinking cloud for a black dragon exemplar). Links to all types of dragons can be found here. You can cast each of these spells once per day as arcane innate spells.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

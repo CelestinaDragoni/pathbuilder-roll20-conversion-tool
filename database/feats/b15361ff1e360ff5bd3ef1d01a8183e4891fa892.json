@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2545",
+    "name": "Elemental Eyes",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ifrit",
+        "Oread",
+        "Suli",
+        "Sylph",
+        "Undine"
+    ],
+    "level": 1,
+    "prereq": "Low-light Vision",
+    "summary": "You can see in the darkness as easily as an elemental.",
+    "description": "You can see in the darkness as easily as an elemental. You gain darkvision.\n\nSpecial You can select this feat only at 1st level, and you can't retrain into or out of this feat.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.\n\nOread: Oreads are planar scions descended from shaitans.Suli: Sulis are planar scions descended from jann.Sylph: Sylphs are planar scions descended from djinn.Undine: Undines are planar scions descended from marids.",
+    "economy": "none",
+    "trigger": ""
+}

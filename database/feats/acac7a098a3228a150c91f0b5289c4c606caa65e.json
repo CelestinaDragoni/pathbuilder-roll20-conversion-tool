@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2828",
+    "name": "Tongue Tether",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 9,
+    "prereq": "Snaptongue Grippli Heritage",
+    "summary": "Your tongue can momentarily latch on as readily as your hands.",
+    "description": "Your tongue can momentarily latch on as readily as your hands. So long as you can freely open your mouth, you do not need free hands in order to Disarm, Grab an Edge, or Trip. If you have the Long Tongue feat, you can Disarm, Grab an Edge, and Trip with your tongue at a distance that is 5 feet beyond your normal reach.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

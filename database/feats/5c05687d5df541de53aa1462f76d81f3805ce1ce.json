@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3553",
+    "name": "Turn to Mist",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Divine",
+        "Transmutation"
+    ],
+    "level": 10,
+    "prereq": "Vampire Dedication",
+    "summary": "You turn into vapor, gaining the effects of gaseous form.",
+    "description": "You turn into vapor, gaining the effects of gaseous form.Turn to Mist Leads To...\n\nMist EscapeTraitsArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "1-action",
+    "trigger": ""
+}

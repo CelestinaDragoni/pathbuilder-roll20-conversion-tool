@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2973",
+    "name": "Fire Resistance",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 4,
+    "prereq": "Flame Order",
+    "summary": "Your connection to heat and flame means that fire is reluctant to bring its full force to bear against you.",
+    "description": "Your connection to heat and flame means that fire is reluctant to bring its full force to bear against you. You gain fire resistance equal to half your level, and you gain a +1 circumstance bonus to saving throws against fire effects.",
+    "economy": "none",
+    "trigger": ""
+}

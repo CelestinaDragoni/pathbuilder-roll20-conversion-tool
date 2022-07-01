@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=721",
+    "name": "Summon Instrument",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Conjuration"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Conjure a musical instrument.",
+    "heightenable": true,
+    "description": "You materialize a handheld musical instrument in your grasp. The instrument is typical for its type, but it plays only for you. The instrument vanishes when the spell ends. If you cast summon instrument again, any instrument you previously summoned disappears.\n\n------\n\nHeightened (5th) The instrument is instead a virtuoso handheld instrument.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 hour",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2494",
+    "name": "Animal Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Beastkin"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Your shapeshifting grants you a magical connection to the animal world.",
+    "description": "Your shapeshifting grants you a magical connection to the animal world. You can cast animal messenger, calm emotions (animals only), and speak with animals as 2nd-level primal innate spells once per day each. These spells use your class DC or spell DC, whichever is higher.Traits\n\nBeastkin: Humanoids that can partially or fully transform into animal forms.",
+    "economy": "none",
+    "trigger": ""
+}

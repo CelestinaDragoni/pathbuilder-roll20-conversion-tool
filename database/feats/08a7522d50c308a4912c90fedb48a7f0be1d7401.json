@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1394",
+    "name": "Summon Fiendish Kin",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 13,
+    "prereq": "Any Tiefling Lineage Feat",
+    "summary": "You have a deep connection to the fiendish realms, allowing you to summon a fiend matching your own lineage.",
+    "description": "You have a deep connection to the fiendish realms, allowing you to summon a fiend matching your own lineage. Once per day, you can cast summon fiend as a 5th-level divine innate spell. The fiend you summon must match your own lineage.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

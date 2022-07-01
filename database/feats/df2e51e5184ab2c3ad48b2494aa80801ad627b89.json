@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3385",
+    "name": "Lingering Flames",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Fireball",
+    "summary": "When you cast fireball, you can modify its effects to set creatures in its area aflame.",
+    "description": "When you cast fireball, you can modify its effects, decreasing the base damage to 5d6 and causing it to deal 2 persistent fire damage to creatures that fail their save, doubled as normal on a critical failure. If you do, replace its heightened entry with the following.\n\n Heightened (+1) The damage is increased by 1d6 and the persistent fire damage is increased by 2.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

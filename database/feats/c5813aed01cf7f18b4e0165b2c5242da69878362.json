@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1407",
+    "name": "Ancestral Linguistics",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 1,
+    "prereq": "At Least 100 Years Old",
+    "summary": "Over your extensive lifespan, you've studied many languages.",
+    "description": "Over your extensive lifespan, you've studied many languages. During your daily preparations, you can recede into old memories to become fluent in one common language or one other language you have access to. You know this language until you prepare again. Since this knowledge is temporary, you can't use it as a prerequisite for a permanent character option.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

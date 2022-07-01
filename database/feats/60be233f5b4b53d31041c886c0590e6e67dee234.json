@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=795",
+    "name": "Incredible Investiture",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 11,
+    "prereq": "Charisma 16",
+    "summary": "Invest up to 12 magic items.",
+    "description": "You have an incredible ability to invest more magic items. Increase your limit on invested items from 10 to 12.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

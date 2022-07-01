@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2524",
+    "name": "Uncanny Awareness",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fleshwarp"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You have a keen sense of movement around you.",
+    "description": "You have a keen sense of movement around you. You gain motion sense as an imprecise sense out to 30 feet. Motion sense allows you to detect nearby motion through vibration and air movement.Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
+    "economy": "none",
+    "trigger": ""
+}

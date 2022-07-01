@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1113",
+    "name": "Tempest-Sun Shielding",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Tempest-sun Redirection",
+    "summary": "You transform unrealized spell energy into a protective shield.",
+    "description": "You transform unrealized spell energy into a protective shield. If you’re a spontaneous spellcaster, expend a spell slot; if you’re a prepared spellcaster, expend a spell prepared in a spell slot. Reduce the triggering damage by an amount equal to four times the level of the expended slot or spell.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "You or an ally within 30 feet takes damage."
+}

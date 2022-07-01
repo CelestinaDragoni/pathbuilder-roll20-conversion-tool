@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3236",
+    "name": "Bullet Dancer Burn",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Bullet Dancer Dedication",
+    "summary": "The fiery blaze of your weapons combined with your unorthodox technique leaves your opponents with little opportunity to capitalize on any gaps in your defenses, or properly defend themselves against your onslaught.",
+    "description": "The fiery blaze of your weapons combined with your unorthodox technique leaves your opponents with little opportunity to capitalize on any gaps in your defenses, or properly defend themselves against your onslaught. While in Bullet Dancer Stance, when you successfully Strike an opponent with a bayonet or reinforced stock attached to your firearm, the next ranged Strike you make against that opponent doesn't trigger reactions that would trigger on a ranged attack, such as Attack of Opportunity. While in Bullet Dancer Stance, when you make a successful ranged Strike against an opponent within your melee reach using a firearm, the next reinforced stock or bayonet attack attached to that firearm deals an additional 1 fire damage per weapon damage die.\n\n The benefit on your next Strike from either use of Bullet Dancer Burn is lost if not used by the end of your next turn.Bullet Dancer Burn Leads To...\n\nBullet Dancer ReloadTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

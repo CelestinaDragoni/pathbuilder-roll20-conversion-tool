@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=177",
+    "name": "Contagious Rage",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Barbarian",
+        "Rage",
+        "Visual"
+    ],
+    "level": 20,
+    "prereq": "Share Rage",
+    "summary": "You can drive your allies into a frenzy, granting them incredible benefits.",
+    "description": "You can drive your allies into a frenzy, granting them incredible benefits. You can ignore the requirements on Share Rage, using it multiple times in a Rage. Allies affected by Share Rage who accept your anathema for the duration of the Rage gain your instinct ability and the specialization ability it gains from weapon specialization, but not greater weapon specialization.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.Visual: A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.",
+    "economy": "none",
+    "trigger": ""
+}

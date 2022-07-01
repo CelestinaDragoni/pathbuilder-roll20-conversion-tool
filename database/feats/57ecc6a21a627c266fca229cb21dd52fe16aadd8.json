@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1671",
+    "name": "Accelerating Touch",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 4,
+    "prereq": "Devotion Spell (Lay On Hands)",
+    "summary": "Your healing energies are infused with bounding energy.",
+    "description": "Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your lay on hands gains a +10-foot status bonus to its Speed until the end of its next turn.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

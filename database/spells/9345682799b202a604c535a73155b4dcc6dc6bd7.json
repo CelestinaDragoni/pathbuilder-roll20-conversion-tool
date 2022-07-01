@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=945",
+    "name": "Magnetic Repulsion",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Push metal away, defending against metal weapons and armored foes.",
+    "heightenable": true,
+    "description": "You adjust your magnetic polarity, causing metal objects to jump and shudder away from you. Attacks made with metal objects against you take a –1 status penalty, and the squares adjacent to you are difficult terrain for creatures wearing metal armor. For creatures made entirely of metal, the penalty to their attack rolls is –2 and the squares adjacent to you are greater difficult terrain.\n\n While this spell is active, you require an additional Interact action before using a metal object (including to Strike with a metal weapon), and if you're wearing metal armor, you're slowed 1.\n\n------\n\nHeightened (+3) The status penalty to attack rolls increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=755",
+    "name": "Incendiary Aura",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cursebound",
+        "Evocation",
+        "Fire",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You surround yourself with a combustible aura.",
+    "heightenable": true,
+    "description": "You surround yourself with a combustible aura. Each time a creature within the emanation takes fire damage, it catches on fire, taking 2d4 persistent fire damage.\n\n------\n\nHeightened (+2) Increase the persistent damage by 1d4 and the radius of the emanation by 5 feet.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=510",
+    "name": "Skirmish Strike",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Flourish",
+        "Ranger",
+        "Rogue"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "Your feet and weapon move in tandem.",
+    "description": "Your feet and weapon move in tandem. Either Step and then Strike, or Strike and then Step.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

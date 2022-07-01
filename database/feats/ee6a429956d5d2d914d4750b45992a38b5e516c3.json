@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=543",
+    "name": "Masterful Companion",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 18,
+    "prereq": "Masterful Hunter; Animal Companion",
+    "summary": "Your animal companion shares your incredible hunting skills, allowing it to take down your shared prey with ease.",
+    "description": "Your animal companion shares your incredible hunting skills, allowing it to take down your shared prey with ease. When you Hunt Prey, your animal companion gains the masterful hunter benefit associated with your hunter’s edge, rather than just your original hunter’s edge benefit.",
+    "economy": "none",
+    "trigger": ""
+}

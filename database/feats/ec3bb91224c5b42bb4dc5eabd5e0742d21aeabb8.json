@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2254",
+    "name": "Reflexive Grip",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Swordmaster Dedication",
+    "summary": "You keep hold of your weapons even when knocked out.",
+    "description": "You keep hold of your weapons even when knocked out. You gain a +2 circumstance bonus to your Reflex DC when defending against checks to Disarm you. In addition, when you fall unconscious, you don't drop any weapons that you're currently wielding, though somebody else can remove them from you.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

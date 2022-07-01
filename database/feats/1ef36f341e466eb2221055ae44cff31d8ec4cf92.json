@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2270",
+    "name": "Blazing Talon Surge",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fire",
+        "Flourish",
+        "Monk"
+    ],
+    "level": 6,
+    "prereq": "Rain Of Embers Stance",
+    "summary": "You rush forward and latch onto your enemy with talons of hungering fire.",
+    "description": "You rush forward and latch onto your enemy with talons of hungering fire. Stride once. If you end your movement within reach of at least one enemy, you can make a fire talon Strike against that enemy that deals an additional 1d4 persistent fire damage. If it hits and deals damage, you can attempt an Athletics check to Grapple the creature you hit.Blazing Talon Surge Leads To...\n\nExplosive Death DropTraitsFire: Effects with the fire trait deal fire damage or either conjure or manipulate fire. Those that manipulate fire have no effect in an area without fire. Creatures with this trait consist primarily of fire or have a magical connection to that element. Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely hostile to non-fire creatures.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.Rain of Embers StyleSource PFS Guide pg. 118\nThe martial artist Meleeka Sanvara (CN female human monk) originally met agents of the Pathfinder Society as an enemy when the agents were sent to retrieve an artifact she had stolen. Now, Meleeka works as a Pathfinder agent and occasionally shares the knowledge of her family's unique martial arts techniques with agents who earn her trust.\n\nRelated Feats: Explosive Death Drop, Rain of Embers Stance",
+    "economy": "2-action",
+    "trigger": ""
+}

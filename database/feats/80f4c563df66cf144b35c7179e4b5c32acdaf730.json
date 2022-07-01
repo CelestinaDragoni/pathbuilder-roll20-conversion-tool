@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3067",
+    "name": "Overdrive Ally",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor",
+        "Manipulate"
+    ],
+    "level": 8,
+    "prereq": "Overdrive",
+    "summary": "You quickly fling some of your powered-up mechanisms to an ally, sharing your benefits with them briefly.",
+    "description": "You quickly fling some of your powered-up mechanisms to an ally, sharing your benefits with them briefly. Choose an ally within 30 feet. Until the end of their next turn, that ally's Strikes deal additional damage equal to half your Intelligence modifier, or your full Intelligence modifier if you were in critical overdrive. The ally doesn't gain the increased damage from expert, master, or legendary overdrive.Overdrive Ally Leads To...\n\nShared OverdriveTraitsManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "1-action",
+    "trigger": ""
+}

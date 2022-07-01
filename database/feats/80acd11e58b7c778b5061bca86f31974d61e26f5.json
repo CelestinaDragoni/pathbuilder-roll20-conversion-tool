@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2648",
+    "name": "Feathered Cloak",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Strix"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "To blend in with the grounded and wingless, you fold your wings just so on your back, creating the illusion of a feathered cloak.",
+    "description": "To blend in with the grounded and wingless, you fold your wings just so on your back, creating the illusion of a feathered cloak. You receive a +2 circumstance bonus to Deception checks to Impersonate a version of yourself who is not a strix.\n\n Additionally, your folded wings help you obscure objects on your person, providing a +2 circumstance bonus to Stealth checks to Conceal an Object.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "none",
+    "trigger": ""
+}

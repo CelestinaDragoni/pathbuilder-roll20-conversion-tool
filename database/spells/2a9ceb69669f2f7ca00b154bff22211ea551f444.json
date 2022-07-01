@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1021",
+    "name": "Tortoise and the Hare",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Quicken an ally and slow a foe.",
+    "heightenable": false,
+    "description": "You prove that slow and steady doesn't always win the race by turning a foe into a proverbial tortoise and yourself or an ally into a hare, siphoning some of the foe's speed and granting it to the other target. The effects depend on the foe's Fortitude save.\n\nCritical Success The targets are unaffected.\nSuccess The foe is slowed 1 for 1 round, and the other target is unaffected.\nFailure The foe is slowed 1 for 3 rounds and the other target is quickened for 1 round. It can use the extra action to Step, Stride, or Strike.\nCritical Failure The foe is slowed 1 for 3 minutes and the other target is quickened for 1 minute. It can use the extra action to Step, Stride, or Strike.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 foe, and either yourself or 1 ally",
+    "duration": "",
+    "saving": ""
+}

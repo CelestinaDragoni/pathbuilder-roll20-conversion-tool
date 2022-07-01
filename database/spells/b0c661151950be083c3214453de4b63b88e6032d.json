@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=326",
+    "name": "Sunburst",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Fire",
+        "Light",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "A globe of sunlight deals fire damage, hurts undead, and overcomes darkness.",
+    "heightenable": true,
+    "description": "A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to all creatures in the area, plus 8d10 additional positive damage to undead creatures. Each creature in the area must attempt a Reflex save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage.\nCritical Failure The creature takes full damage and becomes blinded permanently.\n\n If the globe overlaps with an area of magical darkness, sunburst attempts to counteract the darkness effect.\n\n------\n\nHeightened (+1) The fire damage increases by 1d10, and the positive damage against undead increases by 1d10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

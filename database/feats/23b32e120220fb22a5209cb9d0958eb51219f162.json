@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2389",
+    "name": "Hatchling Flight",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 13,
+    "prereq": "Winglets",
+    "summary": "You can fly a little!",
+    "description": "You can fly a little! You Fly up to half your Speed. If you don't end your movement on solid ground, you fall at the end of your turn.Hatchling Flight Leads To...\n\nWyrmling FlightTraitsKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "1-action",
+    "trigger": ""
+}

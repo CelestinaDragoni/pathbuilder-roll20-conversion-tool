@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=589",
+    "name": "Leave an Opening",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "When you hit hard enough, you leave an opening so your ally can jump in on the action.",
+    "description": "When you hit hard enough, you leave an opening so your ally can jump in on the action. Whenever you critically hit a flat-footed opponent with a melee attack and deal damage, the target triggers an Attack of Opportunity reaction from one ally of your choice who has that reaction, as if the enemy had used a manipulate action.",
+    "economy": "none",
+    "trigger": ""
+}

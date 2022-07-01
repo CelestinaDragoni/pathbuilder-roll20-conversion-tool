@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2824",
+    "name": "Long Tongue",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 5,
+    "prereq": "Snaptongue Grippli Heritage",
+    "summary": "You've learned to stretch your exceptionally long tongue beyond its original limits.",
+    "description": "You've learned to stretch your exceptionally long tongue beyond its original limits. When you use your tongue to deliver touch range spells or perform very simple Interact actions, you can do so at a distance that is 5 feet beyond your usual reach.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

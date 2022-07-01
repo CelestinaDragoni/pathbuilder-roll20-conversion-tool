@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=6",
+    "name": "Air Walk",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Air",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Walk on air as though it were solid ground.",
+    "heightenable": false,
+    "description": "The target can walk on air as if it were solid ground. It can ascend and descend in this way at a maximum of a 45-degree angle.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "5 minutes",
+    "saving": ""
+}

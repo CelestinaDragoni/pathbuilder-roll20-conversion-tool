@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=368",
+    "name": "Intimidating Strike",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Fear",
+        "Fighter",
+        "Mental"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Your blow not only wounds creatures but also shatters their confidence.",
+    "description": "Your blow not only wounds creatures but also shatters their confidence. Make a melee Strike. If you hit and deal damage, the target is frightened 1, or frightened 2 on a critical hit.Traits\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.\n\nFear: Fear effects evoke the emotion of fear. Effects with this trait always have the mental and emotion traits as well.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "2-action",
+    "trigger": ""
+}

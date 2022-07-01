@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1116",
+    "name": "Enhance Senses",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "You enhance the target's senses.",
+    "heightenable": true,
+    "description": "You enhance the target's senses. The target gains low-light vision, and all of the target's imprecise senses have their distances doubled. If the target already has low-light vision, they gain darkvision.\n\n------\n\nHeightened (+2)  The number of targets increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 willing creature",
+    "duration": "1 hour",
+    "saving": ""
+}

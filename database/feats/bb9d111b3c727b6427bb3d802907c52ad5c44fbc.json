@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=110",
+    "name": "Greater Debilitating Bomb",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 10,
+    "prereq": "Debilitating Bomb",
+    "summary": "You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs.",
+    "description": "You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use Debilitating Bomb, add the following to the list you can choose from: clumsy 1, enfeebled 1, stupefied 1, or –10-foot status penalty to Speeds.Greater Debilitating Bomb Leads To...\n\nTrue Debilitating Bomb",
+    "economy": "none",
+    "trigger": ""
+}

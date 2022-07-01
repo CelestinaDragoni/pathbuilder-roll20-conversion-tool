@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1191",
+    "name": "Lobbed Attack",
+    "source": "Pathfinder #151",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Juggler Dedication; Master In Performance",
+    "summary": "Make an unexpected ranged attack with a Juggled item.",
+    "description": "You make a thrown ranged Strike with the required weapon, using the weapon’s normal range increment. This attack doesn’t trigger reactions, and if the target has never seen you use this feat before, the target is flat-footed against this attack.TraitsArchetype: This feat belongs to an archetype.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "1-action",
+    "trigger": ""
+}

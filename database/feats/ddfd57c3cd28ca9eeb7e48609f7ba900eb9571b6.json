@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2362",
+    "name": "Morrigna's Spider Affinity",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Duskwalker"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Much like morrignas, you feel an affinity for spiders.",
+    "description": "Much like morrignas, you feel an affinity for spiders. You can cast animal messenger (spiders only), speak with animals (spiders only), and spider climb each once per day as 2nd-level divine innate spells.Traits\n\nDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+    "economy": "none",
+    "trigger": ""
+}

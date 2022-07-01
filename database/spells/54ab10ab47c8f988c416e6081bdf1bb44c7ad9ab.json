@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=490",
+    "name": "Wind Jump",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Air",
+        "Monk",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You gain a fly Speed equal to your Speed.",
+    "heightenable": true,
+    "description": "You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.\n\n------\n\nHeightened (6th) At the end of your turn, you can attempt a DC 30 Acrobatics check to find purchase in midair. If you succeed, you don't fall.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

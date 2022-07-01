@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1880",
+    "name": "Magical Scholastics",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Archaeologist Dedication",
+    "summary": "While study is key to your success, a bit of magic is a helpful tool in discovering the secrets of the past.",
+    "description": "While study is key to your success, a bit of magic is a helpful tool in discovering the secrets of the past. You gain detect magic, guidance, and read aura as occult innate cantrips.Magical Scholastics Leads To...\n\nGreater Magical ScholasticsTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

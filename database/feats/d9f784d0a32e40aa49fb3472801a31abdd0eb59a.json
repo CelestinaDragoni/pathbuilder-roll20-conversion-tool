@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3011",
+    "name": "Disciple of Shade",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Shadowcaster Dedication",
+    "summary": "You've delved deeper into the mysteries of shadow and become blessed with magical power that increases your skills in the arts of deception and persuasion.",
+    "description": "You've delved deeper into the mysteries of shadow and become blessed with magical power that increases your skills in the arts of deception and persuasion. You gain the inscrutable mask domain spell. Increase the number of Focus Points in your focus pool by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

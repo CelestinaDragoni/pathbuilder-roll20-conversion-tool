@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2344",
+    "name": "Nocturnal Charm",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "The supernatural charm of your vampiric progenitor hangs about you, and you've learned to use it on mortals.",
+    "description": "The supernatural charm of your vampiric progenitor hangs about you, and you've learned to use it on mortals. Against humanoids (or other creatures of your type, if you're not a humanoid), you gain a +1 circumstance bonus to Deception checks to Lie, and to Diplomacy checks to Gather Information and Make an Impression.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

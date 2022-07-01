@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1371",
+    "name": "Spirit Soother",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Duskwalker"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You are attuned to the minute sounds and sensations of restless spirits.",
+    "description": "You are attuned to the minute sounds and sensations of restless spirits. Even if you aren't Searching, you can attempt a check to find haunts that normally require you to be Searching. You still need to meet any other requirements to find the haunt.Traits\n\nDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2809",
+    "name": "Watchful Gaze",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Goloma"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You use your many eyes to look in all directions at once, making you extremely observant for a short period of time.",
+    "description": "You use your many eyes to look in all directions at once, making you extremely observant for a short period of time. You gain all-around vision until the start of your next turn. This lets you see in all directions and prevents you from being flanked.Watchful Gaze Leads To...\n\nConstant GazeTraitsConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nGoloma: Insular humanoids that bear countless eyes.",
+    "economy": "1-action",
+    "trigger": ""
+}

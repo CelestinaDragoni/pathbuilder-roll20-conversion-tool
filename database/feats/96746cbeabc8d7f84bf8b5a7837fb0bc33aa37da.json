@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2235",
+    "name": "Transcribe Moment",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Scrollmaster Dedication",
+    "summary": "You gain the transcribe moment focus spell.",
+    "description": "You gain the transcribe moment focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by spending 10 minutes to study a text or record notes on your recent experiences.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

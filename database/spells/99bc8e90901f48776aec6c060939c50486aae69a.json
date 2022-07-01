@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=675",
+    "name": "Blood Vendetta",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Curse",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Cause a creature that attacks you to start bleeding.",
+    "heightenable": true,
+    "description": "You curse the target, punishing it for having the audacity to spill your blood. The target takes 2d6 persistent bleed damage and must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target takes half the persistent bleed damage.\nFailure The target takes the full persistent bleed damage. Until the bleeding stops, the target has weakness 1 to piercing and slashing damage.\nCritical Failure As failure, but the target takes double the persistent bleed damage.\n\n------\n\nHeightened (+2) The persistent bleed damage increases by 2d6.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "A creature deals piercing, slashing, or persistent bleed damage to you; Requirements You can bleed.",
+    "range": "30 feet",
+    "target": "the triggering creature",
+    "duration": "varies",
+    "saving": "Will"
+}

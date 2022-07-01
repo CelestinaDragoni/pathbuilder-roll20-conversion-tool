@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=922",
+    "name": "Flicker",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Lion Blade Dedication",
+    "summary": "You use your movements and disguises to make yourself a flickering blur.",
+    "description": "You use your movements and disguises to make yourself a flickering blur. You gain concealment until your next turn. As usual for concealment involving an obvious visual manifestation, you can’t use this concealment to Hide.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

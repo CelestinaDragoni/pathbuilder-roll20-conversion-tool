@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=370",
+    "name": "Water Breathing",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Allow creatures to breathe underwater.",
+    "heightenable": true,
+    "description": "The targets can breathe underwater.\n\n------\n\nHeightened (3rd) The duration increases to 8 hours.\nHeightened (4th) The duration increases to until your next daily preparations.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "up to 5 creatures",
+    "duration": "1 hour",
+    "saving": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1706",
+    "name": "Ebb and Flow",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Concentrate",
+        "Metamagic"
+    ],
+    "level": 14,
+    "prereq": "Versatile Font",
+    "summary": "You can pull forth both positive and negative energy simultaneously to harm your enemies and heal your allies.",
+    "description": "You can pull forth both positive and negative energy simultaneously to harm your enemies and heal your allies. If your next action is to cast a 1-action or 2-action heal or harm spell, choose one creature in range that would be harmed by the spell, and choose another creature within range that would be healed by the spell. Your heal or harm targets both creatures.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

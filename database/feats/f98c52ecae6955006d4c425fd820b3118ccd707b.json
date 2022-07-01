@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2381",
+    "name": "Kobold Weapon Familiarity",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've trained with weapons ideal for subterranean efficiency.",
+    "description": "You've trained with weapons ideal for subterranean efficiency. You are trained with the crossbow, greatpick, light pick, pick, and spear. You also gain access to all uncommon kobold weapons. For the purpose of determining your proficiency, martial kobold weapons are simple weapons, and advanced kobold weapons are martial weapons.Kobold Weapon Familiarity Leads To...\n\nKobold Weapon Expertise, Kobold Weapon InnovatorTraitsKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

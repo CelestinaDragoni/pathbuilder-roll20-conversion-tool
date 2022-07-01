@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=276",
+    "name": "Channel Smite",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Divine",
+        "Necromancy"
+    ],
+    "level": 4,
+    "prereq": "Harmful Font Or Healing Font",
+    "summary": "You siphon the destructive energies of positive or negative energy through a melee attack and into your foe.",
+    "description": "You siphon the destructive energies of positive or negative energy through a melee attack and into your foe. Make a melee Strike and add the spell’s damage to the Strike’s damage. This is negative damage if you expended a harm spell or positive damage if you expended a heal spell. The spell is expended with no effect if your Strike fails or hits a creature that isn’t damaged by that energy type (such as if you hit a non-undead creature with a heal spell).Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.",
+    "economy": "2-action",
+    "trigger": ""
+}

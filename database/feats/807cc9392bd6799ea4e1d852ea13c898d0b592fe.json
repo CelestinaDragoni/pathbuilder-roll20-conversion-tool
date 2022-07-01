@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3548",
+    "name": "Nocturnal Kindred",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Vampire Dedication; Trained In Nature",
+    "summary": "You have an innate connection with other creatures of the night and understand some of them.",
+    "description": "You have an innate connection with other creatures of the night and understand some of them. You can ask questions of, receive answers from, and use Diplomacy with bats, rats, and wolves. You also gain a +1 circumstance bonus to Make an Impression on such animals.\n\n Once per day, you can cast animal allies as a divine innate spell, using your class DC or spell DC, whichever is higher. The creatures it summons are bats, rats, and wolves. At 5th level and every 2 levels thereafter, the spell is heightened by an additional level, to a maximum of a 9th-level animal allies when you are 19th level.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

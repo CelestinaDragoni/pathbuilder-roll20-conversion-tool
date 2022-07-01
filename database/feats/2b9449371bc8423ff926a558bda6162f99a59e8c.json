@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1757",
+    "name": "Medusa's Wrath",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 16,
+    "prereq": "Ki Spells",
+    "summary": "You learn a monstrous ki technique that infuses your blows with the petrifying power of a medusa's gaze.",
+    "description": "You learn a monstrous ki technique that infuses your blows with the petrifying power of a medusa's gaze. You gain the medusa's wrath ki spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

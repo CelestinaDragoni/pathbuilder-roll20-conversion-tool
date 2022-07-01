@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1802",
+    "name": "Methodical Debilitations",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 10,
+    "prereq": "Mastermind Racket; Debilitating Strike",
+    "summary": "You strategically craft your debilitations to lessen or negate an enemy's tactical advantages.",
+    "description": "You strategically craft your debilitations to lessen or negate an enemy's tactical advantages. Add the following debilitations to the list you can choose from when you use Debilitating Strike. Debilitation The target can't flank other creatures, and it can't provide flanking for its allies.Debilitation The target doesn't gain a circumstance bonus to AC from Raising a Shield, lesser cover, or standard cover; it gains only a +2 circumstance bonus to AC from greater cover or Taking Cover.",
+    "economy": "none",
+    "trigger": ""
+}

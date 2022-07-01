@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1664",
+    "name": "Desperate Prayer",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You call out to your deity in a plea for their aid.",
+    "description": "You call out to your deity in a plea for their aid. You instantly recover 1 Focus Point.",
+    "economy": "free_action",
+    "trigger": "You begin your turn and have no Focus Points in your pool."
+}

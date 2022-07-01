@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=81",
+    "name": "Supernatural Charm",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Half-Elf"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "The elven magic in your blood manifests as a force you can use to become more appealing or alluring.",
+    "description": "The elven magic in your blood manifests as a force you can use to become more appealing or alluring. You can cast 1st-level charm as an arcane innate spell once per day.Traits\n\nHalf-Elf: A creature with this trait is part human and part elf. An ability with this trait can be used or selected only by half-elves.",
+    "economy": "none",
+    "trigger": ""
+}

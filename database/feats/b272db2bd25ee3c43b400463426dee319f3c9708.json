@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1399",
+    "name": "Defy the Darkness",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 5,
+    "prereq": "Darkvision",
+    "summary": "Using ancient dwarven methods developed to fight enemies wielding magical darkness, you've honed your darkvision and sworn not to use such magic yourself.",
+    "description": "Using ancient dwarven methods developed to fight enemies wielding magical darkness, you've honed your darkvision and sworn not to use such magic yourself. You gain greater darkvision, enabling you to see through magical darkness even if it normally hampers darkvision (such as the darkness created by a 4th-level darkness spell). You can't cast spells with the darkness trait, use item activations with the darkness trait, or use any other ability with the darkness trait.Traits\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "none",
+    "trigger": ""
+}

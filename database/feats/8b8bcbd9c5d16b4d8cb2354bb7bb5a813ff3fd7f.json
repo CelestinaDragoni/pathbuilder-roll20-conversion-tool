@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1446",
+    "name": "Flexible Studies",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've collected a cross-section of information on various disciplines you can refer to when preparing for various tasks.",
+    "description": "You've collected a cross-section of information on various disciplines you can refer to when preparing for various tasks. During your daily preparations, you can cram on a certain subject to become temporarily trained in one skill of your choice. This proficiency lasts until you prepare again. As this proficiency is temporary, you can't use it as a prerequisite for a skill increase or a permanent character option like a feat.",
+    "economy": "none",
+    "trigger": ""
+}

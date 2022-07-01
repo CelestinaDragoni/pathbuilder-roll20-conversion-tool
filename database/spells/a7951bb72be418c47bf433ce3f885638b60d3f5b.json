@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=241",
+    "name": "Purify Food and Drink",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Make beverages and meals safe.",
+    "heightenable": false,
+    "description": "You remove toxins and contaminations from food and drink, making them safe to consume. This spell doesn't prevent future contamination, natural decay, or spoilage. One cubic foot of liquid is roughly 8 gallons.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 cubic foot of contaminated food or water",
+    "duration": "",
+    "saving": ""
+}

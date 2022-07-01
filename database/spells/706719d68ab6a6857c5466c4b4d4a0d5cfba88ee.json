@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=833",
+    "name": "Spellmaster's Ward",
+    "source": "PFS Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You create one or more glowing protective runes that revolve around you.",
+    "heightenable": true,
+    "description": "You create one or more glowing protective runes that revolve around you. For each additional action you use when Casting the Spell, increase the number of runes you create by one, to a maximum of three runes for 3 actions. When you next take damage from a spell, a rune is expended to prevent 2d6 of that spell's damage. If damage from the triggering spell remains, additional runes are expended until the damage is completely negated, or until all runes have been spent, whichever comes first.\n\n------\n\nHeightened (+1) Each rune prevents an additional 1 damage.",
+    "economy": "1-to-3-actions",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

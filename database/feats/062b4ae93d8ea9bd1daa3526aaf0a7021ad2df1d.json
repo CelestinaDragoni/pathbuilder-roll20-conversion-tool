@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1472",
+    "name": "Reason Rapidly",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "Your mind works through clues at an unbelievable speed.",
+    "description": "Your mind works through clues at an unbelievable speed. You instantly use up to five Recall Knowledge actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can't use them for these actions.",
+    "economy": "1-action",
+    "trigger": ""
+}

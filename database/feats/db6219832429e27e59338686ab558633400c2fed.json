@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1982",
+    "name": "Herbalist Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Natural Medicine; Trained In Nature",
+    "summary": "You can create remedies and other herbal products.",
+    "description": "You can create remedies and other herbal products. You gain the basic alchemy benefits, though they apply only for herbal items: alchemical items with the healing trait, plus antidote and antiplague. You gain batches of infused reagents per day equal to your level or half your level if you didn't make your daily preparations in the wilderness. Your advanced alchemy level for creating these is 1 and doesn't increase on its own. You become an expert in Nature and can use Nature instead of Crafting to Craft herbal items. You don't need to be trained in Crafting or have the Alchemical Crafting feat to do so, and you can use healer's tools instead of alchemist's tools.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the herbalist archetype.Herbalist Dedication Leads To...\n\nEndemic Herbs, Expert Herbalism, Fresh Ingredients, Gravelands Herbalist, Poultice PreparationTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

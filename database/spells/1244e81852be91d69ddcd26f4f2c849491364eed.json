@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1103",
+    "name": "Hallowed Ground",
+    "source": "Book of the Dead",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Good",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "One small space becomes inhospitable to undead as you fill it with life-infused benevolent magic.",
+    "heightenable": true,
+    "description": "One small space becomes inhospitable to undead as you fill it with life-infused benevolent magic. Each undead creature in the area takes 1d6 positive damage and 1d4 good damage when you Cast the Spell, with a basic Fortitude save. After that, undead creatures have weakness 1 to positive damage and your necromancy spells while in the area.\n\n This spell also automatically attempts to counteract any attempt to raise undead in the area (if either the undead would appear in the area or the effect's caster or creator is in it). \n\nIf you Cast this Spell again, any previous hallowed ground you had cast ends.\n\n------\n\nHeightened (+2) The positive damage increases by 1d6, good damage increases by 1d4, and weakness increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

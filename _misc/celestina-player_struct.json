@@ -1,0 +1,2185 @@
+{
+    "name": "Celestina",
+    "class": "Sorcerer",
+    "level": 20,
+    "ancestry": "Human",
+    "heritage": "Tiefling",
+    "background": "Academy Dropout",
+    "alignment": "CN",
+    "gender": "Female",
+    "age": "Unknown",
+    "deity": "Calistria",
+    "languages": [
+        "Abyssal",
+        "Celestial",
+        "Common",
+        "Infernal",
+        "Necril"
+    ],
+    "abilities": {
+        "strength": 10,
+        "dexterity": 20,
+        "constitution": 18,
+        "intelligence": 16,
+        "wisdom": 18,
+        "charisma": 22
+    },
+    "ancestryHP": 8,
+    "classHP": 6,
+    "bonusHP": 0,
+    "toughness": true,
+    "speed": 25,
+    "speedBonus": 5,
+    "skills": {
+        "acrobatics": 4,
+        "arcana": 2,
+        "athletics": 0,
+        "crafting": 0,
+        "deception": 8,
+        "diplomacy": 6,
+        "intimidation": 2,
+        "medicine": 0,
+        "nature": 0,
+        "occultism": 2,
+        "performance": 2,
+        "religion": 8,
+        "society": 0,
+        "stealth": 0,
+        "survival": 0,
+        "thievery": 0
+    },
+    "skillsMod": {
+        "acrobatics": "dexterity",
+        "arcana": "intelligence",
+        "athletics": "strength",
+        "crafting": "intelligence",
+        "deception": "charisma",
+        "diplomacy": "charisma",
+        "intimidation": "charisma",
+        "medicine": "wisdom",
+        "nature": "wisdom",
+        "occultism": "intelligence",
+        "performance": "charisma",
+        "religion": "wisdom",
+        "society": "intelligence",
+        "stealth": "dexterity",
+        "survival": "wisdom",
+        "thievery": "dexterity"
+    },
+    "improvisation": true,
+    "perception": 4,
+    "initiative": true,
+    "armorSkills": {
+        "unarmored": 4,
+        "light": 0,
+        "medium": 0,
+        "heavy": 0
+    },
+    "weaponSkills": {
+        "unarmed": 4,
+        "simple": 4,
+        "martial": 0
+    },
+    "magicSkills": {
+        "arcane": 0,
+        "divine": 8,
+        "occult": 0,
+        "primal": 0
+    },
+    "saveSkills": {
+        "fortitude": 4,
+        "reflex": 4,
+        "will": 6
+    },
+    "stat": "charisma",
+    "dc": 8,
+    "heritageAncestoryFeats": [
+        {
+            "url": "",
+            "name": "Tiefling",
+            "source": "",
+            "rarity": "",
+            "traits": [],
+            "level": 1,
+            "prereq": "",
+            "summary": "",
+            "description": "",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=70",
+            "name": "Natural Ambition",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "Human"
+            ],
+            "level": 1,
+            "prereq": "&Mdash;",
+            "summary": "You were raised to be ambitious and always reach for the stars, leading you to progress quickly in your chosen field.",
+            "description": "You were raised to be ambitious and always reach for the stars, leading you to progress quickly in your chosen field. You gain a 1st-level class feat for your class. You must meet the prerequisites, but you can select the feat later in the character creation process in order to determine which prerequisites you meet.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=2452",
+            "name": "Devil in Plain Sight",
+            "source": "Ancestry Guide",
+            "rarity": "Common",
+            "traits": [
+                "Concentrate",
+                "Divine",
+                "Polymorph",
+                "Tiefling",
+                "Transmutation"
+            ],
+            "level": 5,
+            "prereq": "&Mdash;",
+            "summary": "You've learned to draw your fiendish nature into a small ball of corruption and hide it in your soul.",
+            "description": "You've learned to draw your fiendish nature into a small ball of corruption and hide it in your soul. Your obviously fiendish traits disappear, including any tails, horns, and cloven hooves, though hints remain (claws turn into jagged nails or eyes retain an odd hue, for instance). You're still recognizably yourself, but now appear as a typical, non-tiefling member of your base ancestry. Using Devil in Plain Sight counts as creating a disguise when using Deception to Impersonate, and your transformation automatically defeats Perception DCs to determine if you're a normal member of your base ancestry; only creatures actively rolling Perception to examine you might notice the disguise. While in your shapeshifted form, you can't use unarmed attacks, innate spells, or other abilities that require physical features you receive from a tiefling ancestry feat\u2014for instance, you can't use the Skillful Tail feat. You can remain in your alternate form indefinitely, and can shift back to your tiefling form by using this action again.Devil in Plain Sight Leads To...\n\nFinest TrickTraitsConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Polymorph: These effects transform the target into a new form. A target can't be under the effect of more than one polymorph effect at a time. If it comes under the effect of a second polymorph effect, the second polymorph effect attempts to counteract the first. If it succeeds, it takes effect, and if it fails, the spell has no effect on that target. Any Strikes specifically granted by a polymorph effect are magical. Unless otherwise stated, polymorph spells don't allow the target to take on the appearance of a specific individual creature, but rather just a generic creature of a general type or ancestry.\n\n If you take on a battle form with a polymorph spell, the special statistics can be adjusted only by circumstance bonuses, status bonuses, and penalties. Unless otherwise noted, the battle form prevents you from casting spells, speaking, and using most manipulate actions that require hands. (If there's doubt about whether you can use an action, the GM decides.) Your gear is absorbed into you; the constant abilities of your gear still function, but you can't activate any items.Tiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something\u2019s form.",
+            "economy": "2-action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1391",
+            "name": "Light from Darkness",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Tiefling"
+            ],
+            "level": 9,
+            "prereq": "&Mdash;",
+            "summary": "You've battled the fiendish power within your nature and come out on top; whatever you decide to do with your life, for good or evil, will be your choice and your choice alone.",
+            "description": "You've battled the fiendish power within your nature and come out on top; whatever you decide to do with your life, for good or evil, will be your choice and your choice alone. This struggle has granted you powerful resistance against the divine. You gain a +1 circumstance bonus to all saving throws against divine effects.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1392",
+            "name": "Fiend's Door",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Tiefling"
+            ],
+            "level": 13,
+            "prereq": "&Mdash;",
+            "summary": "Like many fiends, you have the supernatural ability to teleport yourself to safety.",
+            "description": "Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast dimension door as a 5th-level divine innate spell.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1443",
+            "name": "Heroic Presence",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Emotion",
+                "Human",
+                "Mental"
+            ],
+            "level": 17,
+            "prereq": "&Mdash;",
+            "summary": "The blood of heroes courses through your veins, and you inspire your allies to dig deep and find a new level of resolve.",
+            "description": "The blood of heroes courses through your veins, and you inspire your allies to dig deep and find a new level of resolve. You grant up to 10 willing creatures within 30 feet the effects of a 6th-level zealous conviction, though the effect automatically ends on a target if you give that target a command they would normally find repugnant. This action has the auditory trait or visual trait, depending on how you inspire your allies.Traits\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+            "economy": "1-action",
+            "trigger": ""
+        }
+    ],
+    "classFeats": [
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=603",
+            "name": "Dangerous Sorcery",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "Sorcerer"
+            ],
+            "level": 1,
+            "prereq": "&Mdash;",
+            "summary": "Your legacy grants you great destructive power.",
+            "description": "Your legacy grants you great destructive power. When you Cast a Spell from your spell slots, if the spell deals damage and doesn\u2019t have a duration, you gain a status bonus to that spell\u2019s damage equal to the spell\u2019s level.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=181",
+            "name": "Reach Spell",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Bard",
+                "Cleric",
+                "Concentrate",
+                "Druid",
+                "Metamagic",
+                "Oracle",
+                "Sorcerer",
+                "Witch",
+                "Wizard"
+            ],
+            "level": 1,
+            "prereq": "&Mdash;",
+            "summary": "You can extend your spells\u2019 range.",
+            "description": "You can extend the range of your spells. If the next action you use is to Cast a Spell that has a range, increase that spell\u2019s range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, you extend its range to 30 feet.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell\u2019s effect, not of the metamagic action itself.",
+            "economy": "1-action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=183",
+            "name": "Cantrip Expansion",
+            "source": "Secrets of Magic",
+            "rarity": "Common",
+            "traits": [
+                "Bard",
+                "Cleric",
+                "Magus",
+                "Oracle",
+                "Sorcerer",
+                "Witch",
+                "Wizard"
+            ],
+            "level": 2,
+            "prereq": "&Mdash;",
+            "summary": "Study broadens your range of simple spells.",
+            "description": "A greater understanding of your magic broadens your range of simple spells.\n\nPrepared Caster (Cleric, Wizard, etc.): You can prepare two additional cantrips each day.\nSpontaneous Caster (Bard, Sorcerer, etc.): Add two additional cantrips from your spell list to your repertoire.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=614",
+            "name": "Advanced Bloodline",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "Sorcerer"
+            ],
+            "level": 6,
+            "prereq": "Bloodline Spell",
+            "summary": "You have studied your bloodline to learn the secrets of its magic.",
+            "description": "You have studied your bloodline to learn the secrets of its magic. You gain the advanced bloodline spell associated with your bloodline. Increase the number of Focus Points in your focus pool by 1.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1647",
+            "name": "Soulsight",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Bard",
+                "Sorcerer"
+            ],
+            "level": 8,
+            "prereq": "[Sorcerer] Bloodline That Grants Divine Or Occult Spells",
+            "summary": "Your muse has opened your senses to the world beyond.",
+            "description": "Your muse has opened your senses to the world beyond. You gain spiritsense as an imprecise sense with a range of 60 feet. Spiritsense enables you to sense the spirits of creatures, including living creatures, most non-mindless undead, and haunts within the listed range. As with your hearing and other imprecise senses, you still need to Seek to locate an undetected creature. As spiritsense detects spiritual essence, not physical bodies, it can detect spirits projected by spells such as project image or possessing otherwise soulless objects. It can't detect soulless bodies, constructs, or objects, and like most senses, it doesn't penetrate through solid objects.Soulsight Leads To...\n\nShared Sight",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=199",
+            "name": "Quickened Casting",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Bard",
+                "Concentrate",
+                "Metamagic",
+                "Oracle",
+                "Sorcerer",
+                "Witch",
+                "Wizard"
+            ],
+            "level": 10,
+            "prereq": "&Mdash;",
+            "summary": "You are able to quickly cast a spell.",
+            "description": "If your next action is to cast a cantrip or a spell that is at least 2 levels lower than the highest level spell slot you have, reduce the number of actions to cast it by 1 (minimum 1 action).\n\nSpecial This can only be used on a cantrip or spell from the class matching the one you gained this feat from.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell\u2019s effect, not of the metamagic action itself.",
+            "economy": "free_action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=618",
+            "name": "Greater Bloodline",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "Sorcerer"
+            ],
+            "level": 10,
+            "prereq": "Bloodline Spell",
+            "summary": "Further communion with the legacy of your bloodline has uncovered greater secrets.",
+            "description": "Further communion with the legacy of your bloodline has uncovered greater secrets. You gain the greater bloodline spell associated with your bloodline. Increase the number of Focus Points in your focus pool by 1.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1828",
+            "name": "Spell Shroud",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Concentrate",
+                "Metamagic",
+                "Sorcerer"
+            ],
+            "level": 14,
+            "prereq": "&Mdash;",
+            "summary": "Your spell shrouds you in a billowing cloud.",
+            "description": "Your spell shrouds you in a billowing cloud. If your next action is to Cast a Spell that targets you, you surround yourself in a 15-foot emanation of dense magical mist that lasts until the start of your next turn. All creatures within the cloud become concealed, and all creatures outside the cloud are concealed to creatures within it.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell\u2019s effect, not of the metamagic action itself.",
+            "economy": "1-action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=206",
+            "name": "Effortless Concentration",
+            "source": "Secrets of Magic",
+            "rarity": "Common",
+            "traits": [
+                "Bard",
+                "Druid",
+                "Sorcerer",
+                "Summoner",
+                "Witch",
+                "Wizard"
+            ],
+            "level": 16,
+            "prereq": "&Mdash;",
+            "summary": "You can maintain a spell with hardly a thought.",
+            "description": "You maintain a spell with hardly a thought. You immediately gain the effects of the Sustain a Spell action, allowing you to extend the duration of one of your active class spells.",
+            "economy": "free_action",
+            "trigger": "Your turn begins."
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1831",
+            "name": "Echoing Spell",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Concentrate",
+                "Metamagic",
+                "Sorcerer"
+            ],
+            "level": 18,
+            "prereq": "&Mdash;",
+            "summary": "You time the components of your spell with exacting precision, setting up a resonance that duplicates the spell's effects.",
+            "description": "You time the components of your spell with exacting precision, setting up a resonance that duplicates the spell's effects. If your next action is to Cast a Spell of 4th level or lower that has no duration, the spell's energy reverberates and echoes. You can Cast the Spell a second time before the end of your next turn without expending a spell slot.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell\u2019s effect, not of the metamagic action itself.",
+            "economy": "1-action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=631",
+            "name": "Bloodline Perfection",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "Sorcerer"
+            ],
+            "level": 20,
+            "prereq": "Bloodline Paragon",
+            "summary": "You command the ultimate powers of your bloodline and tradition.",
+            "description": "You command the ultimate powers of your bloodline and tradition. You gain an additional 10th-level spell slot.",
+            "economy": "none",
+            "trigger": ""
+        }
+    ],
+    "skillFeats": [
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=766",
+            "name": "Charming Liar",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 1,
+            "prereq": "Trained In Deception",
+            "summary": "Improve a target's attitude with your lies.",
+            "description": "Your charm allows you to win over those you lie to. When you get a critical success using the Lie action, the target\u2019s attitude toward you improves by one step, as though you\u2019d succeeded at using Diplomacy to Make an Impression. This works only once per conversation, and if you critically succeed against multiple targets using the same result, you choose one creature\u2019s attitude to improve. You must be lying to impart seemingly important information, inflate your status, or ingratiate yourself, which trivial or irrelevant lies can\u2019t achieve.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=2114",
+            "name": "Bon Mot",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "Auditory",
+                "Concentrate",
+                "Emotion",
+                "General",
+                "Linguistic",
+                "Mental",
+                "Skill"
+            ],
+            "level": 1,
+            "prereq": "Trained In Diplomacy",
+            "summary": "Distract a foe with a witty quip.",
+            "description": "You launch an insightful quip at a foe, distracting them. Choose a foe within 30 feet and roll a Diplomacy check against the target's Will DC.\n\nCritical Success The target is distracted and takes a \u20133 status penalty to Perception and Will saves for 1 minute. The target can end the effect early with a retort to your Bon Mot. This can either be a single action that has the concentrate trait or an appropriate skill action to frame their retort. The GM determines which skill actions qualify, though they must take at least 1 action. Typically, the retort needs to use a linguistic Charisma-based skill action.\nSuccess As critical success, but the penalty is \u20132.\nCritical Failure Your quip is atrocious. You take the same penalty an enemy would take had you succeeded. This ends after 1 minute or if you issue another Bon Mot and succeed.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Emotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.General: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Linguistic: An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "1-action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=765",
+            "name": "Cat Fall",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 1,
+            "prereq": "Trained In Acrobatics",
+            "summary": "Treat falls as shorter than they are.",
+            "description": "Your catlike aerial acrobatics allow you to cushion your falls. Treat falls as 10 feet shorter. If you\u2019re an expert in Acrobatics, treat falls as 25 feet shorter. If you\u2019re a master in Acrobatics, treat them as 50 feet shorter. If you\u2019re legendary in Acrobatics, you always land on your feet and don\u2019t take damage, regardless of the distance of the fall.Cat Fall Leads To...\n\nLeshy GlideTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=2124",
+            "name": "Doublespeak",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 7,
+            "prereq": "Master In Deception",
+            "summary": "Pass a secret message to allies in your conversation.",
+            "description": "You are skilled at saying one thing while meaning something different. You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your Deception DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=842",
+            "name": "Slippery Secrets",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 7,
+            "prereq": "Master In Deception",
+            "summary": "Evade attempts to uncover your true nature.",
+            "description": "You elude and evade attempts to uncover your true nature or intentions. When a spell or magical effect tries to read your mind, detect whether you are lying, or reveal your alignment, you can attempt a Deception check against the spell or effect\u2019s DC. If you succeed, the effect reveals nothing.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1183",
+            "name": "Sacred Defense",
+            "source": "Gods & Magic",
+            "rarity": "Common",
+            "traits": [
+                "Divine",
+                "General",
+                "Skill"
+            ],
+            "level": 7,
+            "prereq": "You Follow A Deity; Master In Religion",
+            "summary": "You call upon your deity to grant you their protective blessing",
+            "description": "You call upon your deity to grant you their protective blessing. Attempt a DC 30 Religion check. If you have legendary proficiency in Religion, you can instead attempt a DC 40 Religion check to increase the temporary Hit Points you gain on a successful check to 15 (25 on a critical success).\n\nCritical Success You gain 10 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.\nSuccess You gain 5 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.\nCritical Failure Your deity withholds their blessing. You cannot attempt to call to your deity again for 1 day.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "1-action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=823",
+            "name": "Quick Disguise",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 2,
+            "prereq": "Expert In Deception",
+            "summary": "Set up a disguise in only half the time.",
+            "description": "You can set up a disguise in half the usual time (generally 5 minutes). If you\u2019re a master, it takes one-tenth the usual time (usually 1 minute). If you\u2019re legendary, you can create a full disguise and Impersonate as a 3-action activity.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "",
+            "name": "Cognitive Crossover",
+            "source": "",
+            "rarity": "",
+            "traits": [],
+            "level": 1,
+            "prereq": "",
+            "summary": "",
+            "description": "",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=2121",
+            "name": "Discreet Inquiry",
+            "source": "Advanced Player's Guide",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 2,
+            "prereq": "Expert In Deception Or Expert In Diplomacy",
+            "summary": "Gather Information without revealing your motive.",
+            "description": "You are subtle in your efforts to learn the things you need to know. When Gathering Information, you can hide the true subject of your inquiry among other topics of little interest to you without increasing the difficulty of the check or taking more time to Gather Information. Anyone trying to Gather Information to determine if someone else was asking around about the topic in question must exceed your Deception DC or the normal DC to Gather Information about your inquiries, whichever is higher, or else they don't learn of your efforts.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=775",
+            "name": "Divine Guidance",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 15,
+            "prereq": "Legendary In Religion",
+            "summary": "Find guidance in the writings of your faith.",
+            "description": "You\u2019re so immersed in divine scripture that you find meaning and guidance in your texts in any situation. Spend 10 minutes Deciphering Writing on religious scriptures of your deity or philosophy while thinking about a particular problem or conundrum you face, and then attempt a Religion check (DC determined by the GM). If you succeed, you unearth a relevant passage, parable, or aphorism that can help you move forward or change your thinking to help solve your conundrum. For example, the GM might provide you with a cryptic poem or hint that can guide you to the next step of solving your problem.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        }
+    ],
+    "generalFeats": [
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=794",
+            "name": "Incredible Initiative",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General"
+            ],
+            "level": 1,
+            "prereq": "&Mdash;",
+            "summary": "+2 to initiative rolls.",
+            "description": "You react more quickly than others can. You gain a +2 circumstance bonus to initiative rolls.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=861",
+            "name": "Untrained Improvisation",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General"
+            ],
+            "level": 3,
+            "prereq": "&Mdash;",
+            "summary": "Become more adept at using untrained skills.",
+            "description": "You\u2019ve learned how to handle situations when you\u2019re out of your depth. Your proficiency bonus to untrained skill checks is equal to half your level instead of +0. If you\u2019re 7th level or higher, the bonus increases to your full level instead. This doesn\u2019t allow you to use the skill\u2019s trained actions.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=1174",
+            "name": "Battle Prayer",
+            "source": "Gods & Magic",
+            "rarity": "Common",
+            "traits": [
+                "Divine",
+                "General",
+                "Skill"
+            ],
+            "level": 7,
+            "prereq": "You Follow A Deity; Master In Religion",
+            "summary": "Calling out to your deity, you recite scripture to harm a foe",
+            "description": "Calling out to your deity, you recite scripture to harm a foe. When you select this feat, choose chaos, evil, good, or law. Your choice must match one of your deity\u2019s alignment components. This action has the trait corresponding to the chosen alignment.\n\n Attempt a Religion check against the Will DC of a foe within 30 feet. The foe is then temporarily immune to Battle Prayers from your deity for 1 day.\n\nCritical Success You deal 2d6 damage of the chosen alignment type, or 6d6 damage if you have legendary proficiency in Religion.\nSuccess You deal 1d6 damage of the chosen alignment type, or 3d6 damage if you have legendary proficiency in Religion.\nFailure There is no effect.\nCritical Failure The backlash of your foe\u2019s will against your prayer prevents you from using Battle Prayer again for 10 minutes.Traits\n\nDivine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "1-action",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=855",
+            "name": "Toughness",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General"
+            ],
+            "level": 1,
+            "prereq": "&Mdash;",
+            "summary": "Increase your maximum HP and reduce the DCs of recovery checks.",
+            "description": "You can withstand more punishment than most before succumbing. Increase your maximum Hit Points by your level. The DC of recovery checks is equal to 9 + your dying condition value.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+            "economy": "none",
+            "trigger": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=784",
+            "name": "Fleet",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General"
+            ],
+            "level": 1,
+            "prereq": "&Mdash;",
+            "summary": "Increase your Speed by 5 feet.",
+            "description": "You move more quickly on foot. Your Speed increases by 5 feet.Fleet Leads To...\n\nSkitterTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+            "economy": "none",
+            "trigger": ""
+        }
+    ],
+    "bonusFeats": [
+        {
+            "url": "https:\/\/2e.aonprd.com\/Feats.aspx?ID=776",
+            "name": "Dubious Knowledge",
+            "source": "Core Rulebook",
+            "rarity": "Common",
+            "traits": [
+                "General",
+                "Skill"
+            ],
+            "level": 1,
+            "prereq": "Trained In A Skill With The Recall Knowledge Action",
+            "summary": "Learn true and erroneous knowledge on failed check.",
+            "description": "You're a treasure trove of information, but not all of it comes from reputable sources. When you fail (but don't critically fail) a Recall Knowledge check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don't have any way to differentiate which is which.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+            "economy": "none",
+            "trigger": ""
+        }
+    ],
+    "prepared": false,
+    "spontaneous": true,
+    "slots": [
+        5,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        2
+    ],
+    "points": 3,
+    "coreSpells": [
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=79",
+                "name": "Disrupt Undead",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Cantrip",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": true,
+                "focus": false,
+                "level": 1,
+                "summary": "Damage undead with positive energy.",
+                "heightenable": true,
+                "description": "You lance the target with energy. You deal 1d6 positive damage plus your spellcasting ability modifier. The target must attempt a basic Fortitude save. If the creature critically fails the save, it is also enfeebled 1 for 1 round.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "30 feet",
+                "target": "1 undead creature",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=924",
+                "name": "Haunting Hymn",
+                "source": "Secrets of Magic",
+                "traditions": [
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Auditory",
+                    "Cantrip",
+                    "Evocation",
+                    "Sonic"
+                ],
+                "cantrip": true,
+                "focus": false,
+                "level": 1,
+                "summary": "A powerful hymn harms and deafens.",
+                "heightenable": true,
+                "description": "You echo a jarring hymn that only creatures in the area can hear. The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic Fortitude save. If a target critically fails the save, it's also deafened for 1 minute.\n\n------\n\nHeightened (+2) The damage increases by 1d6.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "",
+                "target": "",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=307",
+                "name": "Stabilize",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Cantrip",
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": true,
+                "focus": false,
+                "level": 1,
+                "summary": "Stabilize a dying creature.",
+                "heightenable": false,
+                "description": "Positive energy shuts death's door. The target loses the dying condition, though it remains unconscious at 0 Hit Points.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "30 feet",
+                "target": "1 dying creature",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=280",
+                "name": "Shield",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Abjuration",
+                    "Cantrip",
+                    "Force"
+                ],
+                "cantrip": true,
+                "focus": false,
+                "level": 1,
+                "summary": "A shield of magical force blocks attacks and magic missiles.",
+                "heightenable": true,
+                "description": "You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.\n\n While the spell is in effect, you can use the Shield Block reaction with your magic shield. The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the magic missile spell.\n\n Heightening the spell increases the shield's Hardness.\n\n------\n\nHeightened (3rd) The shield has Hardness 10.\nHeightened (5th) The shield has Hardness 15.\nHeightened (7th) The shield has Hardness 20.\nHeightened (9th) The shield has Hardness 25.",
+                "economy": "1-action",
+                "components": [
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "",
+                "target": "",
+                "duration": "until the start of your next turn",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=84",
+                "name": "Divine Lance",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Attack",
+                    "Cantrip",
+                    "Evocation"
+                ],
+                "cantrip": true,
+                "focus": false,
+                "level": 1,
+                "summary": "Throw divine energy that damages based on your deity's alignment.",
+                "heightenable": true,
+                "description": "You unleash a beam of divine energy. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or if your deity is true neutral. Make a ranged spell attack roll against the target's AC. On a hit, the target takes damage of the chosen alignment type equal to 1d4 + your spellcasting ability modifier (double damage on a critical hit). The spell gains the trait of the alignment you chose.\n\n------\n\nHeightened (+1) The damage increases by 1d4.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "30 feet",
+                "target": "1 creature",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=61",
+                "name": "Daze",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Cantrip",
+                    "Enchantment",
+                    "Mental",
+                    "Nonlethal"
+                ],
+                "cantrip": true,
+                "focus": false,
+                "level": 1,
+                "summary": "Damage a creature's mind and possibly stun it.",
+                "heightenable": true,
+                "description": "You cloud the target's mind and daze it with a mental jolt. The jolt deals mental damage equal to your spellcasting ability modifier; the target must attempt a basic Will save. If the target critically fails the save, it is also stunned 1.\n\n------\n\nHeightened (+2) The damage increases by 1d6.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "60 feet",
+                "target": "1 creature",
+                "duration": "1 round",
+                "saving": "Will"
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=171",
+                "name": "Light",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Occult",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Cantrip",
+                    "Evocation",
+                    "Light"
+                ],
+                "cantrip": true,
+                "focus": false,
+                "level": 1,
+                "summary": "Make an object glow.",
+                "heightenable": true,
+                "description": "The object glows, casting bright light in a 20-foot radius (and dim light for the next 20 feet) like a torch. If you cast this spell again on a second object, the light spell on the first object ends.\n\n------\n\nHeightened (4th) The object sheds bright light in a 60-foot radius (and dim light for the next 60 feet).",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "1 object of 1 Bulk or less, either unattended or possessed by you or a willing ally",
+                "duration": "until the next time you make your daily preparations",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=25",
+                "name": "Bless",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Enchantment",
+                    "Mental"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Strengthen allies' attacks in an aura around you.",
+                "heightenable": false,
+                "description": "Blessings from beyond help your companions strike true. You and your allies gain a +1 status bonus to attack rolls while within the emanation. Once per turn, starting the turn after you cast bless, you can use a single action, which has the concentrate trait, to increase the emanation's radius by 5 feet. Bless can counteract bane.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "",
+                "target": "",
+                "duration": "1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=182",
+                "name": "Magic Weapon",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Transmutation"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Make a weapon temporarily magical.",
+                "heightenable": false,
+                "description": "The weapon glimmers with magic and energy. The target becomes a +1 striking weapon, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "1 weapon that is unattended or wielded by you or a willing ally",
+                "duration": "1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=78",
+                "name": "Dispel Magic",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Occult",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Abjuration"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 2,
+                "summary": "End a spell or suppress an item's magic.",
+                "heightenable": false,
+                "description": "You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an artifact or similar item, you automatically fail.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "1 spell effect or unattended magic item",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=287",
+                "name": "Silence",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Illusion"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 2,
+                "summary": "Mute all sound from a creature.",
+                "heightenable": true,
+                "description": "The target makes no sound, preventing creatures from noticing it using hearing or other senses alone. The target can't use sonic attacks, nor can it use actions with the auditory trait. This prevents it from casting spells that include verbal components.\n\n------\n\nHeightened (4th) The spell effect emanates from the touched creature, silencing all sound in or passing through a 10- foot radius and preventing any auditory and sonic effects in the affected area. While within the radius, creatures are subject to the same effects as the target. Depending upon the position of the effect, a creature might notice the lack of sound reaching it (blocking off the noise coming from a party, for example).",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "1 willing creature",
+                "duration": "1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=306",
+                "name": "Spiritual Weapon",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evocation",
+                    "Force"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 2,
+                "summary": "Materialize a deific weapon of force that appears and attacks repeatedly.",
+                "heightenable": true,
+                "description": "A weapon made of pure magical force materializes and attacks foes you designate within range. This weapon has a ghostly appearance and manifests as a club, a dagger, or your deity's favored weapon.\n\n When you cast the spell, the weapon appears next to a foe you choose within range and makes a Strike against it. Each time you Sustain the Spell, you can move the weapon to a new target within range (if needed) and Strike with it. The spiritual weapon uses and contributes to your multiple attack penalty.\n\n The weapon's Strikes are melee spell attacks. Regardless of its appearance, the weapon deals force damage equal to 1d8 plus your spellcasting ability modifier. You can deal damage of the type normally dealt by the weapon instead of force damage (or any of the available damage types for a versatile weapon). No other statistics or traits of the weapon apply, and even a ranged weapon attacks adjacent creatures only. Despite making a spell attack, the spiritual weapon is a weapon for purposes of triggers, resistances, and so forth.\n\n The weapon doesn't take up space, grant flanking, or have any other attributes a creature would. The weapon can't make any attack other than its Strike, and feats or spells that affect weapons do not apply to it.\n\n------\n\nHeightened (+2) The weapon's damage increases by 1d8.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "",
+                "duration": "sustained up to 1 minute",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=988",
+                "name": "Rouse Skeletons",
+                "source": "Secrets of Magic",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Occult"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Necromancy"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 3,
+                "summary": "Rouse a squadron of skeletons to claw your foes.",
+                "heightenable": true,
+                "description": "Misshapen skeletal forms erupt from a solid surface, such as a stone floor, and fill the burst. The area they fill is difficult terrain. Their grasping claws deal 2d6 slashing damage to creatures on the ground in the area when the skeletons first appear (basic Reflex save).\n\n On subsequent rounds, the first time you Sustain the Spell each round, you can move the area of skeletons up to 20 feet within the range of the spell and deal 2d6 slashing damage (basic Reflex save) to each creature in their new area.\n\n Damaging or destroying the skeletons is irrelevant, as new bones pull forth from the ground to repair and replace any that are obliterated.\n\n------\n\nHeightened (+2) The damage increases by 1d6.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "60 feet",
+                "target": "",
+                "duration": "sustained up to 1 minute",
+                "saving": "Reflex"
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=55",
+                "name": "Crisis of Faith",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Enchantment",
+                    "Mental"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 3,
+                "summary": "Cause mental damage and possibly make a worshipper unable to cast spells.",
+                "heightenable": true,
+                "description": "You assault the target's faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. The effects are determined by its Will save.\nCritical Success The target is unaffected.\nSuccess The target takes half damage.\nFailure The target takes full damage; if the target can cast divine spells, it's stupefied 1 for 1 round.\nCritical Failure The target takes double damage, is stupefied 1 for 1 round, and can't cast divine spells for 1 round.\n\n To many deities, casting this spell on a follower of your own deity without significant cause is anathema.\n\n------\n\nHeightened (+1) The damage increases by 2d6 (or by 2d8 if the target is a divine spellcaster).",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "30 feet",
+                "target": "1 creature",
+                "duration": "",
+                "saving": "WillYou assault the target's faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. The effects are determined by its Will save.Critical Success The target is unaffected.Success The target takes half damage.Failure The target takes full damage"
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=251",
+                "name": "Remove Disease",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 3,
+                "summary": "Cure a disease afflicting a creature.",
+                "heightenable": false,
+                "description": "Healing magic purges disease from a creature's body. You attempt to counteract one disease afflicting the target.",
+                "economy": "none",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "1 creature",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=269",
+                "name": "Searing Light",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Attack",
+                    "Evocation",
+                    "Fire",
+                    "Good",
+                    "Light"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 3,
+                "summary": "A ray of burning light deals extra damage to undead and counteracts darkness.",
+                "heightenable": true,
+                "description": "You shoot a blazing ray of light tinged with holy energy. Make a ranged spell attack. The ray deals 5d6 fire damage. If the target is a fiend or undead, you deal an extra 5d6 good damage.\n\nCritical Success The target takes double fire damage, as well as double good damage if a fiend or undead.\nSuccess The target takes full damage.\n\n If the light passes through an area of magical darkness or targets a creature affected by magical darkness, searing light attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell's target.\n\n------\n\nHeightened (+1) The fire damage increases by 2d6, and the good damage against fiends and undead increases by 2d6.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "1 creature",
+                "duration": "",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=312",
+                "name": "Stoneskin",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Abjuration",
+                    "Earth"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 4,
+                "summary": "Harden a creature's skin into durable stone.",
+                "heightenable": true,
+                "description": "The target's skin hardens like stone. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, stoneskin's duration decreases by 1 minute.\n\n------\n\nHeightened (6th) The resistance increases to 10.\nHeightened (8th) The resistance increases to 15.\nHeightened (10th) The resistance increases to 20.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "1 creature",
+                "duration": "20 minutes",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=86",
+                "name": "Divine Wrath",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evocation"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 4,
+                "summary": "Damage and hinder creatures of alignments opposed by your deity.",
+                "heightenable": true,
+                "description": "You can channel the fury of your deity against foes of opposed alignment. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. You deal 4d10 damage of the alignment you chose; each creature in the area must attempt a Fortitude save. Creatures that match the alignment you chose are unaffected. Those that neither match nor oppose it treat the result of their saving throw as one degree better.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and is sickened 1.\nCritical Failure The creature takes full damage and is sickened 2; while it is sickened, it is also slowed 1.\n\n------\n\nHeightened (+1) The damage increases by 1d10.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "",
+                "duration": "",
+                "saving": "FortitudeYou can channel the fury of your deity against foes of opposed alignment. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. You deal 4d10 damage of the alignment you chose"
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=128",
+                "name": "Freedom of Movement",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Abjuration"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 4,
+                "summary": "A creature overcomes hindrances to its movement.",
+                "heightenable": false,
+                "description": "You repel effects that would hinder a creature or slow its movement. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to Escape an effect that has them immobilized, grabbed, or restrained, they automatically succeed unless the effect is magical and of a higher level than the freedom of movement spell.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "1 creature touched",
+                "duration": "10 minutes",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=86",
+                "name": "Divine Wrath",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evocation"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 4,
+                "summary": "Damage and hinder creatures of alignments opposed by your deity.",
+                "heightenable": true,
+                "description": "You can channel the fury of your deity against foes of opposed alignment. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. You deal 4d10 damage of the alignment you chose; each creature in the area must attempt a Fortitude save. Creatures that match the alignment you chose are unaffected. Those that neither match nor oppose it treat the result of their saving throw as one degree better.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and is sickened 1.\nCritical Failure The creature takes full damage and is sickened 2; while it is sickened, it is also slowed 1.\n\n------\n\nHeightened (+1) The damage increases by 1d10.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "",
+                "duration": "",
+                "saving": "FortitudeYou can channel the fury of your deity against foes of opposed alignment. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. You deal 4d10 damage of the alignment you chose"
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=29",
+                "name": "Breath of Life",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 5,
+                "summary": "React to revive a creature at the moment of its death.",
+                "heightenable": false,
+                "description": "Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore Hit Points to the target equal to 4d8 plus your spellcasting ability modifier. You can't use breath of life if the triggering effect was disintegrate or a death effect.",
+                "economy": "reaction",
+                "components": [
+                    "Verbal"
+                ],
+                "trigger": "A living creature within range would die.",
+                "range": "60 feet",
+                "target": "the triggering creature",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=926",
+                "name": "Healing Well",
+                "source": "Secrets of Magic",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 5,
+                "summary": "Create a well that you and your allies can use to heal.",
+                "heightenable": true,
+                "description": "You call forth a well of healing that you and your allies can draw from later. The well appears as a disc of shimmering light on the ground in a square you touch. At any time during the duration, if you or an ally are adjacent to the well, that character can Interact to tap into the well's power, recovering 4d8 Hit Points. When the well has been tapped five times, the spell ends. The well is made of insubstantial energy, allowing creatures to move through it and even end their turn in its space.\n\n If you use an ability that increases the amount of healing this spell grants, that increase applies only to the first time someone taps the well.\n\n------\n\nHeightened (+1) The healing increases by 3.",
+                "economy": "3-action",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "30 feet",
+                "target": "",
+                "duration": "1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=120",
+                "name": "Flame Strike",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evocation",
+                    "Fire"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 5,
+                "summary": "Call divine fire from the sky.",
+                "heightenable": true,
+                "description": "You call a rain of divine fire that plummets down from above, dealing 8d6 fire damage. Because the flame is infused with divine energy, creatures in the area apply only half their usual fire resistance. Creatures that are immune to fire, instead of gaining the usual benefit of immunity, treat the results of their saving throws as one degree of success better.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "",
+                "duration": "",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=114",
+                "name": "Field of Life",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 6,
+                "summary": "Create a positive energy field that heals those within.",
+                "heightenable": true,
+                "description": "A field of positive energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any undead creature that starts its turn in the area takes 1d8 positive damage.\n\n------\n\nHeightened (8th) The healing and damage increase to 1d10.\nHeightened (9th) The healing and damage increase to 1d12.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "30 feet",
+                "target": "",
+                "duration": "sustained up to 1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=894",
+                "name": "Devil Form",
+                "source": "Secrets of Magic",
+                "traditions": [
+                    "Arcane",
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evil",
+                    "Lawful",
+                    "Polymorph",
+                    "Transmutation"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 6,
+                "summary": "Turn into a devil battle form.",
+                "heightenable": false,
+                "description": "You bind yourself to the power of Hell, transforming into a Medium devil battle form. When you cast this spell, choose barbazu, erinys, osyluth, or sarglagon. If you choose osyluth or sarglagon, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form you gain the devil and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.5 temporary Hit Points, resistance 5 to physical damage (except silver), and weakness 5 to good.Resistance 10 to fire.Darkvision.One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +20, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.Athletics modifier of +23, unless your own modifier is higher. You also gain specific abilities based on the type of devil you choose:Barbazu Speed 35 feet; Melee     glaive (deadly d8, forceful, reach 10 feet), Damage 2d8+10 slashing plus 1d6 evil and 1d6 persistent bleed; Melee     beard, Damage 3d8 piercing plus 1d6 evil; Melee     claw (agile), Damage 3d6 slashing plus 1d6 evil.Erinyes Speed 25 feet, fly 40 feet; Melee     longsword (versatile P), Damage 1d8+10 slashing plus 1d6 evil and 1d6 fire; Ranged     composite longbow (deadly d10, range increment 100 feet, volley), Damage 1d8 piercing plus 1d6 evil and 1d6 fire.Osyluth Speed 35 feet, fly 30 feet; Melee     jaws, Damage 2d10+10 piercing plus 1d6 evil; Melee     claw (agile, reach 10 feet), Damage 2d6 slashing plus 1d6 evil; Melee     stinger (reach 15 feet), Damage 1d10 piercing plus 1d6 evil and 1d6 poison; Ranged     bone shard (range increment 30 feet), Damage 2d6 piercing plus 1d6 evil.Sarglagon Speed 25 feet, fly 25 feet, swim 30 feet; Melee     fangs, Damage 2d10+10 piercing plus 1d6 evil; Melee     tentacle arm (agile), Damage 1d8 bludgeoning plus 1d6 evil and 1d6 poison.",
+                "economy": "1-to-2-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "",
+                "target": "",
+                "duration": "1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=24",
+                "name": "Blade Barrier",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evocation",
+                    "Force"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 6,
+                "summary": "Form a wall of swords made of force.",
+                "heightenable": true,
+                "description": "Blades of force form a churning wall. The wall is a straight line 20 feet high, 120 feet long, and 2 inches thick, and it provides cover. The wall deals 7d8 force damage to each creature that's in the wall's space when it is created, that attempts to pass through the wall, or that ends its turn inside the wall. A basic Reflex save reduces the damage. A  creature that succeeds at this save when the wall is created is pushed to the nearest space on the side of its choice. Creatures trying to move through the wall fail to do so if they critically fail the save, ending their movement adjacent to the wall.\n\n------\n\nHeightened (+1) The damage increases by 1d8.",
+                "economy": "3-action",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "",
+                "duration": "1 minute",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=862",
+                "name": "Angel Form",
+                "source": "Secrets of Magic",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Good",
+                    "Polymorph",
+                    "Transmutation"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 7,
+                "summary": "Transform into an angel battle form.",
+                "heightenable": true,
+                "description": "Invoking the celestial realms, you transform into a Medium angel battle form. When you cast this spell, choose balisse, choral, monadic deva, or movanic deva. The battle form is Small if you choose choral. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.40 temporary Hit Points and weakness 10 to evil damage.Darkvision.One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the enfeebled condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.Athletics modifier of +25, unless your own modifier is higher. You also gain specific abilities based on the type of angel you choose:Balisse Speed 30 feet, fly 40 feet; Perception modifier of +26 to detect lies and illusions unless your own modifier is higher; Melee     scimitar (forceful, sweep), Damage 2d6+12 slashing plus 1d6 fire and 1d6 good.Choral Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory; Melee     fist (agile), Damage 2d6+12 bludgeoning plus 1d6 good; Ranged     piercing hymn (range 90 feet), Damage 1d6+12 sonic plus 1d6 good, and deafened for 1 round on a critical hit.Monadic Deva Speed 30 feet, fly 40 feet; +2 status bonus on saves against death effects and effects that manipulate souls; Melee     holy mace (shove), Damage 2d6+12 bludgeoning plus 1d6 force and 1d6 good.Movanic Deva Speed 30 feet, fly 40 feet; resistance 10 to negative; Melee     bastard sword (two-hand d12), Damage 1d8+12 slashing plus 1d6 fire and 1d6 good.\n\n------\n\nHeightened (9th) Your battle form is Large. You must have space to expand, or the spell is lost. You instead gain 60 temporary Hit Points, weakness 15 to evil damage, attack modifier +30, damage bonus +20, and Athletics +33.",
+                "economy": "1-to-2-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "",
+                "target": "",
+                "duration": "1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=222",
+                "name": "Plane Shift",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Occult",
+                    "Primal"
+                ],
+                "rarity": "Uncommon",
+                "traits": [
+                    "Conjuration",
+                    "Teleportation"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 7,
+                "summary": "Transport creatures to another plane of existence.",
+                "heightenable": false,
+                "description": "You and your allies traverse the barriers between planes of existence. The targets move to another plane, such as the Plane of Fire, the Shadow Plane, or the Abyss. You must have specific knowledge of the destination plane and use a magic tuning fork created from material from that plane as a focus for the spell. While the tuning forks for most prominent planes are uncommon, just like the spell plane shift, more obscure planes and demiplanes often have rare tuning forks.\n\n The spell is highly imprecise, and you appear 1d20x25 miles from the last place one of the targets (of your choice) was located the last time that target traveled to the plane. If it's the first time traveling to a particular plane for all targets, you appear at a random location on the plane. Plane shift doesn't provide a means of return travel, though casting plane shift again allows you to return to your previous plane unless there are extenuating circumstances.",
+                "economy": "none",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "1 willing creature, or up to 8 willing creatures joining hands",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=82",
+                "name": "Divine Decree",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evocation"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 7,
+                "summary": "Creatures of alignments opposed by your deity are damaged, enfeebled, paralyzed, or banished.",
+                "heightenable": true,
+                "description": "You utter a potent litany from your faith, a mandate that harms those who oppose your ideals. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. You deal 7d10 damage to creatures in the area; each creature must attempt a Fortitude save. Creatures with an alignment that matches the one you chose are unaffected by the spell. Those that neither match nor oppose it treat the result of their saving throw as one degree better and don't suffer effects other than damage.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and is enfeebled 2 for 1 minute.\nCritical Failure The creature takes double damage and is enfeebled 2 for 1 minute. On your home plane, a creature that critically fails is banished with the effect of a failed banishment save. A 10th-level creature or lower must attempt a Will save. On a failure, it's paralyzed for 1 minute; on a critical failure, it dies.\n\n------\n\nHeightened (+1) The damage increases by 1d10, and the level of creatures that must attempt a second save on a critical failure increases by 2.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "40 feet",
+                "target": "",
+                "duration": "varies",
+                "saving": "Fortitude"
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=201",
+                "name": "Moment of Renewal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 8,
+                "summary": "Give a day's recovery in an instant.",
+                "heightenable": false,
+                "description": "The targets experience a day's worth of recovery in an instant. Any detrimental effects that would be gone after 24 hours end, though this doesn't shorten the duration of any active spells affecting the targets. The targets regain Hit Points and recover from conditions as if they had taken 24 hours of rest, but they do not make their daily preparations again or gain any benefits of rest other than healing. The targets are then temporarily immune for 1 day.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "touch",
+                "target": "up to 6 creatures",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=896",
+                "name": "Divine Armageddon",
+                "source": "Secrets of Magic",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Necromancy",
+                    "Negative",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 8,
+                "summary": "Call on your deity to bring about a cataclysm.",
+                "heightenable": true,
+                "description": "You call forth a divine cataclysm from your deity, destroying living and undead creatures in the area alike. Creatures in the area take 10d6 negative damage and 10d6 alignment damage (good, evil, lawful, or chaotic), chosen from among the alignments your deity has. If your deity is true neutral, increase the negative damage by 4d6 instead of dealing alignment damage. A creature harmed by positive damage, such as one with negative healing, takes positive damage instead of negative damage from this spell.\n\n You can't cast this spell if you don't have a deity. This spell gains the trait corresponding to the alignment damage dealt.\n\n------\n\nHeightened (+1) The damage increases by 1d6 negative damage, 1d6 alignment damage, and 1d6 additional negative and positive damage for a true neutral deity.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "120 feet",
+                "target": "",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=81",
+                "name": "Divine Aura",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Abjuration"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 8,
+                "summary": "Allies in an aura have better defenses and are protected against one alignment.",
+                "heightenable": false,
+                "description": "Divine power wards the targets, granting each a +1 status bonus to AC and saves while in the area.\n\n Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. The bonuses granted by the spell increase to +2 against attacks by\u2014and effects created by\u2014creatures with an alignment opposite to the spell (lawful if you chose chaotic, evil if you chose good). These bonuses increase to +4 against effects created by such creatures that attempt to impose the controlled condition on a target of your divine aura, as well as against attacks made by creatures summoned by anything opposite in alignment to your divine aura.\n\n When a creature of opposite alignment hits a target with a melee attack, the creature must succeed at a Will save or be blinded for 1 minute. It's then temporarily immune for 1 minute.\n\n The first time you Sustain the Spell each round, the divine aura's radius grows 10 feet.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "",
+                "target": "allies in the area",
+                "duration": "sustained up to 1 minute",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "",
+                "name": "Weapon of Judgement",
+                "source": "",
+                "traditions": [],
+                "rarity": "",
+                "traits": [],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "",
+                "heightenable": "",
+                "description": "",
+                "economy": "none",
+                "components": [],
+                "trigger": "",
+                "range": "",
+                "target": "",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=191",
+                "name": "Meteor Swarm",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Evocation",
+                    "Fire"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 9,
+                "summary": "Call down four blazing meteors that explode.",
+                "heightenable": true,
+                "description": "You call down four meteors that explode in a fiery blast. Each meteor deals 6d10 bludgeoning damage to any creatures in the 10-foot burst at the center of its area of effect before exploding, dealing 14d6 fire damage to any creatures in its 40-foot burst. The meteors' central 10-foot bursts can't overlap, and a creature takes the same amount of fire damage no matter how many overlapping explosions it's caught in. The saving throw applies to both the bludgeoning and the fire damage.\n\n------\n\nHeightened (+1) The bludgeoning damage increases by 1d10, and the fire damage increases by 2d6.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "500 feet",
+                "target": "",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=186",
+                "name": "Massacre",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Death",
+                    "Necromancy",
+                    "Negative"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 9,
+                "summary": "Instantly kill multiple creatures.",
+                "heightenable": true,
+                "description": "You unleash a wave of necromantic energy to snuff out the life force of those in its path. Each living creature of 17th level or lower in the line must attempt a Fortitude save. If the damage from massacre reduces a creature to 0 Hit Points, that creature dies instantly. If massacre doesn't kill even a single creature, the negative energy violently explodes back toward you, dealing an additional 30 negative damage to every living creature in the line (even those above 17th level) and 30 negative damage to you.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes 9d6 negative damage.\nFailure The creature takes 100 negative damage.\nCritical Failure The creature dies.\n\n------\n\nHeightened (10th) The spell can affect creatures up to 19th level. Increase the damage to 10d6 on a success, and to 115 on a failure.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "",
+                "target": "",
+                "duration": "",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=148",
+                "name": "Heal",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 1,
+                "summary": "Positive energy heals the living or harms the undead, either a single creature or all in a burst.",
+                "heightenable": true,
+                "description": "You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.\n\n    (somatic) The spell has a range of touch.\n    (somatic, verbal) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.\n    (material, somatic, verbal) You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.\n\n------\n\nHeightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.",
+                "economy": "1-to-3-actions",
+                "components": [
+                    "Somatic",
+                    "Verbal",
+                    "Material"
+                ],
+                "trigger": "",
+                "range": "varies",
+                "target": "1 willing living creature or 1 undead",
+                "duration": "",
+                "saving": ""
+            }
+        ],
+        [
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=262",
+                "name": "Revival",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Divine",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Healing",
+                    "Necromancy",
+                    "Positive"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 10,
+                "summary": "Heal creatures in an area and return the dead to life temporarily.",
+                "heightenable": false,
+                "description": "A burst of healing energy soothes living creatures and temporarily rouses those recently slain. All living targets regain 10d8+40 Hit Points. In addition, you return any number of dead targets to life temporarily, with the same effects and limitations as raise dead. The raised creatures have a number of temporary Hit Points equal to the Hit Points you gave living creatures, but no normal Hit Points. The raised creatures can't regain Hit Points or gain temporary Hit Points in other ways, and once revival's duration ends, they lose all temporary Hit Points and die. Revival can't resurrect creatures killed by disintegrate or a death effect. It has no effect on undead.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "30 feet",
+                "target": "dead creatures and living creatures of your choice within range",
+                "duration": "sustained up to 1 minute",
+                "saving": ""
+            },
+            {
+                "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=32",
+                "name": "Cataclysm",
+                "source": "Core Rulebook",
+                "traditions": [
+                    "Arcane",
+                    "Primal"
+                ],
+                "rarity": "Common",
+                "traits": [
+                    "Acid",
+                    "Air",
+                    "Cold",
+                    "Earth",
+                    "Electricity",
+                    "Evocation",
+                    "Fire",
+                    "Water"
+                ],
+                "cantrip": false,
+                "focus": false,
+                "level": 10,
+                "summary": "Call an instant, damaging cataclysm.",
+                "heightenable": false,
+                "description": "You call upon the unimaginable power of world-ending cataclysms, ripping a small piece of each cataclysm and combining them together into one horrifically powerful attack. The following effects come down upon all creatures in the area. Treat the resistances of creatures in the area as if they were 10 lower for the purpose of determining the cataclysm's damage. Each creature attempts one basic Reflex save that applies to all five types of damage. Flesh-dissolving acid rain deals 3d10 acid damage. A roaring earthquake shakes and bludgeons creatures on the ground, dealing 3d10 bludgeoning damage. A blast of freezing wind deals 3d10 cold damage. Incredible lightning lashes the area, dealing 3d10 electricity damage. Beating winds churn across the sky, dealing 3d10 bludgeoning damage to creatures flying in the area. An instant tsunami sweeps over creatures in the area, dealing 3d10 bludgeoning damage with the water trait (doubled for creatures swimming in the area). A massive wildfire burns in a sudden inferno, dealing 3d10 fire damage.",
+                "economy": "2-action",
+                "components": [
+                    "Somatic",
+                    "Verbal"
+                ],
+                "trigger": "",
+                "range": "1,000 feet",
+                "target": "",
+                "duration": "",
+                "saving": ""
+            }
+        ]
+    ],
+    "focusSpells": [
+        {
+            "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=494",
+            "name": "Angelic Halo",
+            "source": "Core Rulebook",
+            "traditions": [
+                "Focus"
+            ],
+            "rarity": "Uncommon",
+            "traits": [
+                "Abjuration",
+                "Good",
+                "Sorcerer"
+            ],
+            "cantrip": false,
+            "focus": true,
+            "level": 1,
+            "summary": "You gain an angelic halo with an aura that increases allies\u2019 healing from the heal spell.",
+            "heightenable": false,
+            "description": "You gain an angelic halo with an aura that increases allies' healing from the heal spell. Allies in your halo's emanation who are healed by a heal spell gain a status bonus to Hit Points regained equal to double the heal spell's level.",
+            "economy": "1-action",
+            "components": [
+                "Verbal"
+            ],
+            "trigger": "",
+            "range": "",
+            "target": "",
+            "duration": "1 minute",
+            "saving": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=495",
+            "name": "Angelic Wings",
+            "source": "Core Rulebook",
+            "traditions": [
+                "Focus"
+            ],
+            "rarity": "Uncommon",
+            "traits": [
+                "Evocation",
+                "Light",
+                "Sorcerer"
+            ],
+            "cantrip": false,
+            "focus": true,
+            "level": 3,
+            "summary": "Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed.",
+            "heightenable": true,
+            "description": "Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as feather fall.\n\n------\n\nHeightened (5th) The duration increases to 1 minute.",
+            "economy": "2-action",
+            "components": [
+                "Somatic",
+                "Verbal"
+            ],
+            "trigger": "",
+            "range": "",
+            "target": "",
+            "duration": "3 rounds",
+            "saving": ""
+        },
+        {
+            "url": "https:\/\/2e.aonprd.com\/Spells.aspx?ID=497",
+            "name": "Celestial Brand",
+            "source": "Core Rulebook",
+            "traditions": [
+                "Focus"
+            ],
+            "rarity": "Uncommon",
+            "traits": [
+                "Curse",
+                "Necromancy",
+                "Sorcerer"
+            ],
+            "cantrip": false,
+            "focus": true,
+            "level": 5,
+            "summary": "A blazing symbol appears on the target, marking it for divine justice.",
+            "heightenable": true,
+            "description": "A blazing symbol appears on the target, cursing it to face divine justice. You and your allies receive a +1 status bonus to your attack rolls and skill checks against it. Anytime a good creature damages it, the good creature deals an additional 1d4 good damage. The target is then temporarily immune for 1 minute.\n\n------\n\nHeightened (+2) The good damage increases by 1.",
+            "economy": "1-action",
+            "components": [
+                "Somatic"
+            ],
+            "trigger": "",
+            "range": "30 feet",
+            "target": "1 evil creature",
+            "duration": "1 round",
+            "saving": ""
+        }
+    ],
+    "innateSpells": [
+        {
+            "url": "",
+            "name": "Fiend's Door",
+            "source": "",
+            "traditions": [],
+            "rarity": "",
+            "traits": [],
+            "cantrip": false,
+            "focus": false,
+            "level": 1,
+            "summary": "",
+            "heightenable": "",
+            "description": "",
+            "economy": "none",
+            "components": [],
+            "trigger": "",
+            "range": "",
+            "target": "",
+            "duration": "",
+            "saving": ""
+        }
+    ]
+}

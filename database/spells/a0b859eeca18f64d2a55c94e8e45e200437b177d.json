@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=111",
+    "name": "Feather Fall",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "React to slow a creature’s fall.",
+    "heightenable": false,
+    "description": "You cause the air itself to arrest a fall. The target's fall slows to 60 feet per round, and the portion of the fall during the spell's duration doesn't count when calculating falling damage. If the target reaches the ground while the spell is in effect, it takes no damage from the fall. The spell ends as soon as the target lands.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "a creature within range is falling",
+    "range": "60 feet",
+    "target": "1 falling creature",
+    "duration": "1 minute",
+    "saving": ""
+}

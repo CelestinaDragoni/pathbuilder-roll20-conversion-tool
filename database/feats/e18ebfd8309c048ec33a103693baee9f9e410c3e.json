@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1796",
+    "name": "Inspired Stratagem",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fortune",
+        "Linguistic",
+        "Rogue"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You quickly advise your ally, using your earlier planning to make sure luck can't throw a wrench in the cogs of your schemes.",
+    "description": "You quickly advise your ally, using your earlier planning to make sure luck can't throw a wrench in the cogs of your schemes. The ally rolls the triggering check twice and takes the better of the two results. That ally then becomes temporarily immune to your Inspired Stratagem until your next daily preparations.Traits\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.\n\nLinguistic: An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.",
+    "economy": "reaction",
+    "trigger": "One of the required allies is about to attempt an attack roll or skill check."
+}

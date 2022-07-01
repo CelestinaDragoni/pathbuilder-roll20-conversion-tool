@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1863",
+    "name": "Swashbuckler's Riposte",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Swashbuckler Dedication",
+    "summary": "You've learned to riposte against ill-conceived attacks.",
+    "description": "You've learned to riposte against ill-conceived attacks. You gain the Opportune Riposte reaction.Opportune Riposte    Swashbuckler\nSource Advanced Player's Guide pg. 86 2.0\nTrigger A foe within your reach critically fails a Strike against you.\n\n------\n\nYou take advantage of an opening from your enemy's fumbled attack. You either make a melee Strike against the triggering foe or attempt to Disarm it of the weapon it used for the Strike.\n\n------\n\nTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A foe within your reach critically fails a Strike against you.You take advantage of an opening from your enemy's fumbled attack. You either make a melee Strike against the triggering foe or attempt to Disarm it of the weapon it used for the Strike.Traits"
+}

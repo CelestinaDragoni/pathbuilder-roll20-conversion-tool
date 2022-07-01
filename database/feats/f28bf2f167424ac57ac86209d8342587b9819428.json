@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2370",
+    "name": "Recognize Ambush",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your combat training has honed you to be ready for an attack at all times.",
+    "description": "Your combat training has honed you to be ready for an attack at all times. You Interact to draw a weapon.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "free_action",
+    "trigger": "You roll initiative."
+}

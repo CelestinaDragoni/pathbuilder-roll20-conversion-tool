@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1855",
+    "name": "Advanced Mysteries",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Basic Mysteries",
+    "summary": "You gain one oracle feat.",
+    "description": "You gain one oracle feat. For meeting its prerequisites, your oracle level is equal to half your level.\n\nSpecial You can select this feat more than once. Each time, you gain another oracle feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1546",
+    "name": "Reflexive Riposte",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 10,
+    "prereq": "Opportune Riposte",
+    "summary": "You can riposte almost without a thought.",
+    "description": "You can riposte almost without a thought. At the start of each of your turns when you regain your actions, you gain an additional reaction that can be used only to perform an Opportune Riposte.",
+    "economy": "none",
+    "trigger": ""
+}

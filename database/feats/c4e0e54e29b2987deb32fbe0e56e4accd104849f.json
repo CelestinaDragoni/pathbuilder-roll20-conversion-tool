@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1952",
+    "name": "Dual-Weapon Reload",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Dual-weapon Warrior Dedication",
+    "summary": "You carry your ammunition in a way that allows you to reload while holding two weapons.",
+    "description": "You carry your ammunition in a way that allows you to reload while holding two weapons. You Interact to reload a one-handed ranged weapon you're holding. Unlike most Interact actions, you don't need a free hand to reload your ranged weapon in this way.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1055",
+    "name": "Pulverizing Cascade",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Druid",
+        "Evocation",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You raise a pair of towering waves and slam them into each other, crushing creatures caught between them.",
+    "heightenable": true,
+    "description": "You raise a pair of towering waves and slam them into each other, crushing creatures caught between them. Creatures in the area take 5d6 bludgeoning damage with a basic Reflex save.\n\n------\n\nHeightened (+1) Increase the damage by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2166",
+    "name": "Janatimo's Lessons",
+    "source": "Legends",
+    "rarity": "Rare",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Uzunjati Recollection",
+    "summary": "Thanks to Janatimo's secret techniques, you can weave your knowledge and words into powerful tools to assist your allies in life-threatening situations.",
+    "description": "Thanks to Janatimo's secret techniques, you can weave your knowledge and words into powerful tools to assist your allies in life-threatening situations. When you use Uzunjati Recollection to tell a story and Recall Knowledge about a creature during a combat encounter, if you succeed at both checks, your story carries deeper meaning. This grants your allies a +1 circumstance bonus to their next attack roll and saving throw against the creature during that encounter, as well as to their AC against that creature's next attack roll during that encounter. If you critically succeed at both checks, the bonuses also apply to all attack rolls, saves, and AC against that creature for 2 rounds.\nTraits\n\nArchetype: This feat belongs to an archetype.\n\nRare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.Janatimo's Secret LessonsSource Legends pg. 61\nAs a storyteller, Janatimo loves sharing his knowledge with others and helping expand their worldviews, so most of his innovations have passed on to the Uzunjati or the world at large. But there are a few small things he keeps to himself and his closest friends and students, among those a special Uzunjati storytelling technique that could be used to harm the innocent if it fell into the wrong hands.",
+    "economy": "none",
+    "trigger": ""
+}

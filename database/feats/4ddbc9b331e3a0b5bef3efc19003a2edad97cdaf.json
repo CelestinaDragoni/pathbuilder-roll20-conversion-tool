@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=996",
+    "name": "Intuitive Illusions",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 5,
+    "prereq": "Illusion Sense",
+    "summary": "Illusion magic comes to you so naturally that you can effortlessly sustain your magical ruses.",
+    "description": "Illusion magic comes to you so naturally that you can effortlessly sustain your magical ruses. You immediately gain the effects of a Sustain a Spell action to extend the duration of one of your active illusion spells.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "free_action",
+    "trigger": "Your turn begins."
+}

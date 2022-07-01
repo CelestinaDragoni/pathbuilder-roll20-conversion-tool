@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1576",
+    "name": "Incredible Familiar (Witch)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Witch"
+    ],
+    "level": 8,
+    "prereq": "Enhanced Familiar",
+    "summary": "Your familiar is imbued with even more magic than other familiars.",
+    "description": "Your familiar is imbued with even more magic than other familiars. You can select a base of six familiar or master abilities each day, instead of four.\n\nSpecial Add the bonus familiar abilities you gain for being a witch to this amount.",
+    "economy": "none",
+    "trigger": ""
+}

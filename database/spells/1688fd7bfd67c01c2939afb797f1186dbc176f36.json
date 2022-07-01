@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=458",
+    "name": "Tidal Surge",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Evocation",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You call forth a tremendous wave to move the target either in a body of water or on the ground.",
+    "heightenable": false,
+    "description": "You call forth a tremendous wave to move the target either in a body of water or on the ground. The target must attempt a Fortitude save.\n\nFailure You move the target 5 feet in any direction along the ground or 10 feet in any direction through a body of water.\nCritical Failure You move the target up to 10 feet in any direction along the ground or 20 feet in any direction through a body of water.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

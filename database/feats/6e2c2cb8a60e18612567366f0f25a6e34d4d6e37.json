@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2067",
+    "name": "Shadowdancer Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 8,
+    "prereq": "Expert In Performance And Master In Stealth",
+    "summary": "You dedicate yourself to the shadows.",
+    "description": "You dedicate yourself to the shadows. Your coloring becomes gray and gloomy, your senses adjust to the darkness, and you can sneak through darkness with ease. You gain greater darkvision. You also gain a +2 circumstance bonus to Stealth checks when you are within dim light or darkness.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the shadowdancer archetype.Shadowdancer Dedication Leads To...\n\nShadow Magic, Shadow Master, Shadow Sneak AttackTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

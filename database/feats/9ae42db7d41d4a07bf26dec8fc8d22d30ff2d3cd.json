@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1304",
+    "name": "Quick Stow (Ratfolk)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 5,
+    "prereq": "Cheek Pouches",
+    "summary": "You are adept at quickly moving items into your cheek pouches.",
+    "description": "You are adept at quickly moving items into your cheek pouches. You Interact to store one held item in your cheek pouches (provided it fits).Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "free_action",
+    "trigger": ""
+}

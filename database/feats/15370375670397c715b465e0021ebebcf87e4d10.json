@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3244",
+    "name": "Collapse Wall",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Demolitionist Dedication",
+    "summary": "You detonate the required bombs in order to bring a wall down on a creature.",
+    "description": "You detonate the required bombs in order to bring a wall down on a creature. If your bombs deal enough damage to reduce the wall's Hit Points below its Broken Threshold, the wall partially collapses on the creature. The creature takes bludgeoning damage equal to the damage dealt to the wall (basic Reflex save; the DC for this save is equal to your class DC or spell DC, whichever is higher). On a failure, they must spend an Interact action to dig themselves out of the collapse, and on a critical failure, they must spend 2 Interact actions to do so.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature moves into the bombs' splash area."
+}

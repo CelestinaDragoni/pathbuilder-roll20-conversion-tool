@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1616",
+    "name": "Instinctive Strike",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Manipulate",
+        "Rage"
+    ],
+    "level": 8,
+    "prereq": "Acute Scent Or Precise Or Imprecise Scent",
+    "summary": "You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location.",
+    "description": "You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location. Make a melee Strike against an opponent that isn't hiding its scent with an effect like negate aroma. This attack ignores any flat check required due to the target being concealed or hidden.Traits\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "2-action",
+    "trigger": ""
+}

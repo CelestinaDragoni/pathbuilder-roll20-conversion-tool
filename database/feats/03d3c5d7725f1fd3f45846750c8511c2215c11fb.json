@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2633",
+    "name": "Fey Cantrips",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sprite"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've learned the cantrips sprites have used since time immemorial.",
+    "description": "You've learned the cantrips sprites have used since time immemorial. You gain dancing lights and ghost sound as primal innate cantrips. If you have the grig heritage, you also gain detect magic, and if you have the draxie heritage, you gain prestidigitation.Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

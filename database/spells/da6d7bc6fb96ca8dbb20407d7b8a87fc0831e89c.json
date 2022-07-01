@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=737",
+    "name": "Clinging Shadows Stance",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Monk",
+        "Shadow",
+        "Stance"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You adopt the stance of clinging shadows.",
+    "heightenable": false,
+    "description": "You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 negative damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits. \n\nWhile in clinging shadows stance, you gain a +2 circumstance bonus to Athletics checks to Grapple, and to the DC for creatures to Escape from you.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "until you leave the stance",
+    "saving": ""
+}

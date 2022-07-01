@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=274",
+    "name": "Shadow Siphon",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Shadow"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "React to lessen the damage from an enemy's spell by making it partially illusion.",
+    "heightenable": false,
+    "description": "Exchanging material energy with that of the Shadow Plane, you transform the triggering spell into a partially illusory version of itself. Attempt to counteract the target spell. If the attempt is successful, any creatures that would be damaged by the spell instead take only half as much damage, but the spell otherwise works as normal. Treat shadow siphon's counteract level as 2 higher for this attempt.",
+    "economy": "reaction",
+    "components": [
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "A spell or magical effect deals damage",
+    "range": "60 feet",
+    "target": "the triggering spell",
+    "duration": "",
+    "saving": ""
+}

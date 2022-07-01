@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2384",
+    "name": "Winglets",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You're among the few kobolds who grow a set of draconic wings later in life.",
+    "description": "You're among the few kobolds who grow a set of draconic wings later in life. The wings are initially small and weak; while not enough for full flight, a strong flap allows you to jump further. When Leaping horizontally, you move an additional 5 feet (this additional distance isn't cumulative with the increased Leap distance from the Powerful Leap feat). You don't automatically fail your checks to High Jump or Long Jump if you don't Stride at least 10 feet first. In addition, when you attempt a Long Jump, you can jump a distance up to 10 feet longer than you normally would based on the result of your Athletics check, though you still can't jump farther than your Speed.Winglets Leads To...\n\nHatchling FlightTraitsKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

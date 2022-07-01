@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2955",
+    "name": "Initial Eidolon Ability",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Summoner Dedication",
+    "summary": "Your link to your eidolon becomes stronger, granting it a new ability.",
+    "description": "Your link to your eidolon becomes stronger, granting it a new ability. Your eidolon gains the initial ability for an eidolon of its type.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

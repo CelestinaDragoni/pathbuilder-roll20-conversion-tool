@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2292",
+    "name": "Peri Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 9,
+    "prereq": "Emberkin",
+    "summary": "The shimmering embers of the righteous peris crackle at your fingertips.",
+    "description": "The shimmering embers of the righteous peris crackle at your fingertips. You can cast glitterdust and status each once per day as 2nd-level divine innate spells.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=651",
+    "name": "Blightburn Blast",
+    "source": "Pathfinder #155",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Disease",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Inflict a creature with blightburn sickness.",
+    "heightenable": false,
+    "description": "You channel a blast of powerful blightburn radiation from your hands. You deal 4d6 poison damage to creatures in the area. Creatures who fail their save are afflicted with stage 1 of blightburn sickness (on a critical failure, the creature moves immediately to stage 2). The level of blightburn sickness caused by this spell is equal to twice the spell's level, and the disease's save DC uses the caster's DC.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "15-foot cone",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

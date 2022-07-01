@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2520",
+    "name": "Finned Ridges",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fleshwarp"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "The ridges and flaps of your skin steer you through the water.",
+    "description": "The ridges and flaps of your skin steer you through the water. You gain a swim Speed of 15 feet.Traits\n\nFleshwarp: A humanoid transformed so completely by outside forces that they are now a unique ancestry",
+    "economy": "none",
+    "trigger": ""
+}

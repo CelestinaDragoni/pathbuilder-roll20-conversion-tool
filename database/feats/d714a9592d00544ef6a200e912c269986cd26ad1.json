@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2000",
+    "name": "Loremaster Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In At Least One Skill To Decipher Writing",
+    "summary": "You've compiled a vast repository of information that touches on nearly every subject.",
+    "description": "You've compiled a vast repository of information that touches on nearly every subject. You are trained in Loremaster Lore, a special Lore skill that can be used only to Recall Knowledge, but on any topic. If you have legendary proficiency in a skill used to Decipher Writing, you gain expert proficiency in Loremaster Lore, but you can't increase your proficiency rank in Loremaster Lore by any other means. You can take feats in the loremaster's additional feats entry even if you don't meet the enigma muse prerequisite. \n\nIf you have the Bardic Lore class feat, you gain a +1 circumstance bonus to skill checks with Bardic Lore.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the loremaster archetype.Loremaster Dedication Leads To...\n\nMagical Edification, Orthographic Mastery, Quick StudyTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

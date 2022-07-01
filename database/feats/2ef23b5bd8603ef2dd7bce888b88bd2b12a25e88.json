@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=575",
+    "name": "Opportune Backstab",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "When your enemy is hit by your ally, you capitalize upon the distraction.",
+    "description": "When your enemy is hit by your ally, you capitalize upon the distraction. Make a Strike against the triggering creature.",
+    "economy": "reaction",
+    "trigger": "A creature within your melee reach is hit by a melee attack from one of your allies."
+}

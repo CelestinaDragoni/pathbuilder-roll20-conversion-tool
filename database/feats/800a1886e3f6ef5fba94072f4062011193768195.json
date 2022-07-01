@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=190",
+    "name": "Triple Time",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You learn to speed up yourself and your allies with your performance.",
+    "description": "You learn the triple time composition cantrip, which speeds up you and your allies for a round.",
+    "economy": "none",
+    "trigger": ""
+}

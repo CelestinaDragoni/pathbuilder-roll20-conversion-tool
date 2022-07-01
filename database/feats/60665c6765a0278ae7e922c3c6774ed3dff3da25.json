@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2028",
+    "name": "Doctor's Visitation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 4,
+    "prereq": "Medic Dedication",
+    "summary": "You move to provide immediate care to those who need it.",
+    "description": "You move to provide immediate care to those who need it. Stride, then use one of the following: Battle Medicine or Treat Poison. You can spend a second action to instead Stride and then Administer First Aid or Treat a Condition (if you have it).Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-to-2-actions",
+    "trigger": ""
+}

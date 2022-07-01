@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1464",
+    "name": "Thorough Research",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "When you succeed at a Recall Knowledge check, you learn an additional fact about the subject.",
+    "description": "When you succeed at a Recall Knowledge check, you learn an additional fact about the subject. When you critically succeed at a Recall Knowledge check, you can gain even more additional information or context than normal, at the GM's discretion.Thorough Research Leads To...\n\nJust the Facts",
+    "economy": "none",
+    "trigger": ""
+}

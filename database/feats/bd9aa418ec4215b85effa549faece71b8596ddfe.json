@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2167",
+    "name": "Rescuer's Press",
+    "source": "Legends",
+    "rarity": "Rare",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Lastwall Sentry Dedication",
+    "summary": "Any shield you wield gains the shove trait.",
+    "description": "Any shield you wield gains the shove trait. When you Shove using a shield and Stride as part of that action, you can move an additional 5 feet to either side of the creature you Shoved. In addition, if you are in the Everstand Stance and successfully Shove a creature using a shield that you wield two-handed, you can increase the distance of your Shove to 10 feet.Traits\n\nArchetype: This feat belongs to an archetype.\n\nRare: This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of Recall Knowledge checks related to these creatures is increased by 5.Knights in TrainingSource Legends pg. 68\nThe following feats represent benefits of training from the Iomedars (Kalabrynne for knight vigilant, Clarethe for knight reclaimant, either for Lastwall sentry).\n\nRelated Feats: Shall Not Falter, Shall Not Rout, Vigil's Walls Rise Anew!",
+    "economy": "none",
+    "trigger": ""
+}

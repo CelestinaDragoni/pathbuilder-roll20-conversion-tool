@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=300",
+    "name": "Fast Channel",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 14,
+    "prereq": "Harmful Font Or Healing Font",
+    "summary": "Divine power is always at your fingertips, swiftly responding to your call.",
+    "description": "Divine power is always at your fingertips, swiftly responding to your call. When you cast harm or heal by spending 2 actions, you can get the effects of the 3-action version instead of the 2-action version.\n\n You can do this with harm if you have harmful font or heal if you have healing font (or both if you have Versatile Font).",
+    "economy": "none",
+    "trigger": ""
+}

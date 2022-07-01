@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=248",
+    "name": "Liberating Stride",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 12,
+    "prereq": "Liberator Cause",
+    "summary": "Your allies can move farther when you release them from harm.",
+    "description": "Instead of you taking a Step at the end of your Liberating Step, the triggering ally can Stride up to half their Speed. Even if you have exalt, only the triggering ally gains this benefit.",
+    "economy": "none",
+    "trigger": ""
+}

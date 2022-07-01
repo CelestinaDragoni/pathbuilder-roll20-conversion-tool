@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=393",
+    "name": "Champion's Sacrifice",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Champion"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 6,
+    "summary": "You form a link with an ally, allowing you to take harm in their stead.",
+    "heightenable": false,
+    "description": "You form a link with an ally, allowing you to take harm in their stead. All the effects of the hit or failed save are applied to you instead of the ally. For example, if the target critically fails a saving throw against a fireball, you would take double damage. These effects ignore any resistances, immunities, or other abilities you have that might mitigate them in any way, although those of the target apply before you take the effect.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "An ally is hit by a Strike, or an ally fails a saving throw against an effect that doesn't affect you.",
+    "range": "30 feet",
+    "target": "1 ally",
+    "duration": "",
+    "saving": ""
+}

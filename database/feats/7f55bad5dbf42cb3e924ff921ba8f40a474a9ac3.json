@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3337",
+    "name": "Strident Command",
+    "source": "Night of the Gray Death",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Vigilante Dedication; Voice Of Authority; Member Of The Gray Gardeners; Master In Intimidation",
+    "summary": "The common folk heed your demands, and though your true foes rarely bend to your commands, when they do the hesitation can cost them the battle.",
+    "description": "The common folk heed your demands, and though your true foes rarely bend to your commands, when they do the hesitation can cost them the battle. You can cast command once every 10 minutes as a 1st-level occult innate spell. \n\nIf you're in your vigilante identity, you can command the target only to approach you, drop prone, or stand in place. If you're in your social identity, you can command the target only to run away or release what the target is holding.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

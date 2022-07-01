@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=872",
+    "name": "Careful Explorer",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Pathfinder Agent Dedication",
+    "summary": "You gain a sixth sense for traps, noticing them even when you're not trying to.",
+    "description": "You’ve explored enough dusty tombs and hidden vaults to gain a sixth sense about traps, and you sometimes notice them even when you’re not trying to. Even if you aren’t Searching in exploration mode, you get a check to find traps that normally require you to Search for them. You still need to meet any other requirements to find the trap.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

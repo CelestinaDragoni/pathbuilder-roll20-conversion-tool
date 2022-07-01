@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=923",
+    "name": "Different Worlds",
+    "source": "Pathfinder #147",
+    "rarity": "Uncommon",
+    "traits": [
+        "General"
+    ],
+    "level": 1,
+    "prereq": "Ability To Select Ancestry Feats From Multiple Ancestries",
+    "summary": "Create a second identity for yourself with a different name, history, and background.",
+    "description": "Your separate experiences in different societies have evolved into entirely separate lives. Create a second identity for yourself with a different name, history, and background. This identity must correspond to one of the ancestries whose ancestry feats you can select. You gain the trained proficiency rank in the Lore skill from the second background you chose (but you don’t gain any of the background’s other benefits), and you gain a +4 circumstance bonus to Deception checks when making a statement that would be true of your second identity or when disguising yourself as your second identity.TraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.Lacunafex LoreSource Pathfinder #147: Tomorrow Must Burn pg. 72\nIf the PCs earn Mialari Docur's trust and prove their worth by defeating the Scarlet Triad, she rewards them by granting them access to several feats and spells she and her students have developed over the years.\n\nRelated Feats: Reveal Machinations, Secret Speech, Silver's Refrain, Tweak Appearances",
+    "economy": "none",
+    "trigger": ""
+}

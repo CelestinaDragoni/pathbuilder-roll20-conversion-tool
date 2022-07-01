@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=112",
+    "name": "Potent Poisoner",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 10,
+    "prereq": "Powerful Alchemy",
+    "summary": "By concentrating your poisons’ toxic components, you make them harder for victims to resist.",
+    "description": "By concentrating your poisons’ toxic components, you make them harder for victims to resist. When you craft an alchemical item with the poison trait by any means, the DC is increased by up to 4, to a maximum of your class DC.",
+    "economy": "none",
+    "trigger": ""
+}

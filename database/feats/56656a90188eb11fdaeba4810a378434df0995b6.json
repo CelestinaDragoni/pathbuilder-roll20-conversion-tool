@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1008",
+    "name": "Hungry Goblin",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Goblin"
+    ],
+    "level": 9,
+    "prereq": "Fang Sharpener",
+    "summary": "You’ll eat anything and anyone.",
+    "description": "You’ll eat anything and anyone. Whenever you inflict persistent bleed damage with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.Traits\n\nGoblin: A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.",
+    "economy": "none",
+    "trigger": ""
+}

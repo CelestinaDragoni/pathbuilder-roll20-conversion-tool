@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=730",
+    "name": "Pied Piping",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Composition",
+        "Enchantment",
+        "Incapacitation",
+        "Mental",
+        "Sonic"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 10,
+    "summary": "Your performance enraptures those who hear it, compelling them to follow you about in admiration.",
+    "heightenable": false,
+    "description": "Your performance enraptures those who hear it, compelling them to follow you about in admiration. Each creature within the emanation must attempt a Will save when you Cast the Spell or the first time they enter the area, after which they become temporarily immune for 1 day. Once per turn, you can spend a single action, which has the concentrate trait, to increase the emanation's radius by 5 feet. You can Dismiss the spell.\n\nCritical Success The creature is unaffected.\nSuccess The creature is fascinated with you.\nFailure The creature uses all its actions to move toward you and compliment your performance. This effect ends if a hostile action is used against the affected creature.\nCritical Failure The target gains the minion trait and is controlled by you. This effect ends if a hostile action is used against the affected creature, or if you direct the creature to use any action that causes it harm.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "Will"
+}

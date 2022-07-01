@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2928",
+    "name": "Flexible Transmogrification",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You've learned how to transmogrify your eidolon to suit the circumstances of the day.",
+    "description": "You've learned how to transmogrify your eidolon to suit the circumstances of the day. Each day, choose one evolution feat of 6th level or lower during your daily preparations. Your eidolon gains that feat until your next daily preparations.",
+    "economy": "none",
+    "trigger": ""
+}

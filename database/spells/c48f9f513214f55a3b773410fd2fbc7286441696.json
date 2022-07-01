@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1034",
+    "name": "Winning Streak",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Quicken a target and make its critical hits spread the quickness.",
+    "heightenable": false,
+    "description": "The target is energized by its good fortune as it spreads to others—as long as they keep winning. It gains the quickened condition for 1 round. If the target or one of their allies within 20 feet gets a critical success on an attack roll against a significant foe, whoever got the critical success becomes quickened if they weren't already, and the duration of the winning streak is extended by another round. Creatures quickened by the spell can use the extra action to Strike, Step, or Stride. If a full round passes without the target or one their allies critically succeeding on an attack roll against a significant foe, the winning streak breaks and the spell ends.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "20 feet",
+    "target": "1 creature",
+    "duration": "1 round (see text)",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2970",
+    "name": "Fire Lung",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 1,
+    "prereq": "Flame Order",
+    "summary": "A lifetime of proximity to flames has inured your lungs and eyes to smoke.",
+    "description": "A lifetime of proximity to flames has inured your lungs and eyes to smoke. You can breathe normally in areas of ash and smoke without risk of suffocation, and you ignore the concealed condition from smoke. You need only a successful DC 10 flat check to recover from persistent fire damage, rather than DC 15 (and the DC when receiving particularly effective assistance is 5 instead of 10).",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=189",
+    "name": "Melodious Spell",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard",
+        "Concentrate",
+        "Manipulate",
+        "Metamagic"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You subtly weave your spellcasting into your performance.",
+    "description": "You subtly weave your spellcasting into your performance. If the next action you take is to Cast a Spell, attempt a Performance check against all observers’ Perception DCs. If your Performance check is successful against an observer’s Perception DC, that observer doesn’t notice that you are Casting a Spell, even though normally spells have sensory manifestations that would make spellcasting obvious to those around you, and verbal, somatic, and material components are extremely overt. You hide all of these as part of an ordinary performance.\n\n This hides only the spell’s spellcasting actions and manifestations, not its effects, so an observer might still see a ray streak out from you or see you vanish.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

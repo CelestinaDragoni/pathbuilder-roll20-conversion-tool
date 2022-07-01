@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=278",
+    "name": "Directed Channel",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You can shape the energy you channel in a single direction, reaching farther and in a more directed fashion.",
+    "description": "You can shape the energy you channel in a single direction, reaching farther and in a more directed fashion. When you cast a version of harm or heal that has an area, you can make its area a 60-foot cone instead of a 30-foot emanation.",
+    "economy": "none",
+    "trigger": ""
+}

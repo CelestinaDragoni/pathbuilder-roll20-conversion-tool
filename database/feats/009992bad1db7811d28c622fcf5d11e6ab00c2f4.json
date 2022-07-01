@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=699",
+    "name": "Expert Cleric Spellcasting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Basic Cleric Spellcasting; Master In Religion",
+    "summary": "You gain the expert spellcasting benefits for cleric spellcasting.",
+    "description": "You gain the expert spellcasting benefits.Expert Cleric Spellcasting Leads To...\n\nMaster Cleric SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

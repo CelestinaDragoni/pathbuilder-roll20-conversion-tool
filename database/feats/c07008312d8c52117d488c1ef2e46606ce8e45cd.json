@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=13",
+    "name": "Elven Lore",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You’ve studied in traditional elven arts, learning about arcane magic and the world around you.",
+    "description": "You've studied in traditional elven arts, learning about arcane magic and the world around you. You gain the trained proficiency rank in Arcana and Nature. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Elven Lore.\nTraits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

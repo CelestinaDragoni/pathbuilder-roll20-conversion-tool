@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1215",
+    "name": "Esteemed Visitor",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Shoony"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your polite manners and natural ability to comfort others make it easy for you to break down cultural barriers and earn strangers’ trust.",
+    "description": "Your polite manners and natural ability to comfort others make it easy for you to break down cultural barriers and earn strangers’ trust. While you are in a settlement, when you roll a critical failure on a Diplomacy check to Gather Information or Make an Impression, you get a failure instead.Traits\n\nShoony: Note from Nethys: no description was provided for this trait",
+    "economy": "none",
+    "trigger": ""
+}

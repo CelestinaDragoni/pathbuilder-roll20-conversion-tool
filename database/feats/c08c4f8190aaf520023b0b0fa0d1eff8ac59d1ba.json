@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2023",
+    "name": "Clear the Way",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Mauler Dedication",
+    "summary": "You put your body behind your massive weapon and swing, shoving enemies to clear a wide path.",
+    "description": "You put your body behind your massive weapon and swing, shoving enemies to clear a wide path. You attempt to Shove up to five creatures adjacent to you, rolling a separate Athletics check for each target. Then Stride up to half your Speed. This movement doesn't trigger reactions from any of the creatures you successfully Shoved.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

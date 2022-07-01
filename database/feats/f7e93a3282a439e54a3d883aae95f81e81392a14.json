@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2216",
+    "name": "Performance Weapon Expert",
+    "source": "Pathfinder #159",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 16,
+    "prereq": "Provocator Dedication; Expert In Any Kind Of Weapon Or Unarmed Attack",
+    "summary": "Your experience has made you better with a wide variety of weapons.",
+    "description": "Your experience has made you better with a wide variety of weapons. Your proficiency ranks for simple weapons and martial weapons increase to expert, as does your proficiency rank for your chosen advanced weapon.\nTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

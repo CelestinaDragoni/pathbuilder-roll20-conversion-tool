@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1122",
+    "name": "Purifying Icicle",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cold",
+        "Evocation",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You evoke life essence into the form of water and freeze it, then launch the icicle at a foe.",
+    "heightenable": true,
+    "description": "You evoke life essence into the form of water and freeze it, then launch the icicle at a foe. Make a spell attack roll. On a success, the icicle deals 2d6 piercing damage and 1d6 cold damage, and if the target is undead, the icicle deals an additional 1d4 positive damage. On a critical success, the target takes double damage and takes a –10-foot circumstance penalty to its Speeds for 1 round as the icicle lodges inside them before melting away.\n\n------\n\nHeightened (+1)  The piercing damage and cold damage each increase by 1d6. The positive damage increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

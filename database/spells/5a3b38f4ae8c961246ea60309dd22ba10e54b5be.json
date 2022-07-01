@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=837",
+    "name": "Divinity Leech",
+    "source": "Pathfinder #162",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Enchantment"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "You disrupt the connection between a divine caster or deific servitor and their deity, blocking their use of divine power.",
+    "heightenable": false,
+    "description": "You disrupt the connection between a divine caster or deific servitor and their deity, blocking their use of divine power. If the target fails its save, it is fatigued. For the spell's duration, whenever the target casts a divine spell, you regain 6d6 HP and the target must attempt another Will save with the following effects.\n\nCritical Success The target is unaffected.\nSuccess Each target of the divine spell has an outcome one degree of success better than the result it rolled.\nFailure The divine spell is lost and target is stunned 1.\nCritical Failure As failure, but the target is stunned for 1 round.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

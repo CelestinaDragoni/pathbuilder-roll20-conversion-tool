@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1377",
+    "name": "Fiendish Eyes",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 1,
+    "prereq": "Low-light Vision",
+    "summary": "You can see in the darkness as easily as a fiend.",
+    "description": "You can see in the darkness as easily as a fiend. You gain darkvision.\n\nSpecial You can select this feat only at 1st level, and you can't retrain into or out of this feat.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

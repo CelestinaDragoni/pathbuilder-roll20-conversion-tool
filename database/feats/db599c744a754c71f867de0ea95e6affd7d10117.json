@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=473",
+    "name": "Ironblood Surge",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "Ironblood Stance",
+    "summary": "You steel yourself, preparing to resist oncoming attacks and using your muscles to absorb the impact.",
+    "description": "You steel yourself, preparing to resist oncoming attacks and using your muscles to absorb the impact. You gain the benefits of your iron sweep’s parry trait (a +1 circumstance bonus to AC until the start of your next turn) and your resistance from Ironblood Stance increases to your Strength modifier (if it’s higher) for the same duration.",
+    "economy": "1-action",
+    "trigger": ""
+}

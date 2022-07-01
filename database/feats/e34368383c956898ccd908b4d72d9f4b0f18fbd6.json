@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=670",
+    "name": "Master Alchemy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Expert Alchemy; Master In Crafting",
+    "summary": "Your advanced alchemy level increases to 7.",
+    "description": "Your advanced alchemy level increases to 7. For every level you gain beyond 12th, your advanced alchemy level increases by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

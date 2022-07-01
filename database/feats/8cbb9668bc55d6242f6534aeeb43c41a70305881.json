@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2821",
+    "name": "Nocturnal Grippli",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You tend to do most of your hunting and work at night and have adapted to the requirements of nocturnal life.",
+    "description": "You tend to do most of your hunting and work at night and have adapted to the requirements of nocturnal life. You gain darkvision, allowing you to see in darkness and dim light just as well as you can in bright light. However, in darkness, you see in black and white only.\n\nSpecial You can take this feat only at 1st level, and you can’t retrain out of this feat or into this feat.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

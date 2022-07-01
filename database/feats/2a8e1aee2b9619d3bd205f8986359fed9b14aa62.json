@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3465",
+    "name": "Consecrated Aura",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Archetype",
+        "Aura",
+        "Positive"
+    ],
+    "level": 14,
+    "prereq": "Hallowed Necromancer Dedication",
+    "summary": "Your body radiates positive energy, making your very presence disorienting to undead and encouraging them to move away from you.",
+    "description": "Your body radiates positive energy, making your very presence disorienting to undead and encouraging them to move away from you. The effect plays upon the instincts flowing through their bodies from negative energy and can thus affect even mindless creatures. You gain an aura of positive energy in a 20-foot emanation. Each undead creature that ends its turn in your aura must succeed at a Will save against your spell DC or become frightened 1 (frightened 2 on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute.\n\nSpecial Your aura gains the trait of the magical tradition for the spells you used to qualify for Hallowed Necromancer Dedication.Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nArchetype: This feat belongs to an archetype.Aura: An aura is an emanation that continually ebbs out from you, affecting creatures within a certain radius. Aura can also refer to the magical signature of an item or a creature with a strong alignment.Positive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
+    "economy": "none",
+    "trigger": ""
+}

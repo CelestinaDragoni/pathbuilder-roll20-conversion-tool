@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1515",
+    "name": "Flying Blade",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 1,
+    "prereq": "Precise Strike",
+    "summary": "You've learned to apply your flashy techniques to thrown weapons as easily as melee attacks.",
+    "description": "You've learned to apply your flashy techniques to thrown weapons as easily as melee attacks. When you have panache, you apply your precise strike damage on ranged Strikes you make with a thrown weapon within that weapon's first range increment. The thrown weapon must be an agile or finesse weapon. This also allows you to make a thrown weapon ranged Strike for Confident Finisher and any other finisher that includes a Strike that can benefit from your precise strike.",
+    "economy": "none",
+    "trigger": ""
+}

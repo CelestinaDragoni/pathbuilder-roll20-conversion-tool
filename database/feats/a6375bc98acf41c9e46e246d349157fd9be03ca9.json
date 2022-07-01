@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3591",
+    "name": "Hilt Hammer",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Knight Reclaimant Dedication",
+    "summary": "You know how to turn any weapon into a bone-crushing implement of skeletal destruction.",
+    "description": "You know how to turn any weapon into a bone-crushing implement of skeletal destruction. Melee weapons you wield gain the versatile B trait. You can use the weapon only to deal bludgeoning damage when making melee attacks. At the GM's discretion, specific weapons might not be able to gain the versatile B trait.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

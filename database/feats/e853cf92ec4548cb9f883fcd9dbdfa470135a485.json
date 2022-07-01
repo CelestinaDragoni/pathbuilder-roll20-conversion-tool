@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3079",
+    "name": "Paragon Companion",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 14,
+    "prereq": "Incredible Construct Companion",
+    "summary": "Your construct companion has reached the pinnacle of form and function.",
+    "description": "Your construct companion has reached the pinnacle of form and function. Your construct companion becomes a paragon construct companion.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2843",
+    "name": "Secret Eyes",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Shisk"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You can call forth an invisible eye to let you peek on secrets.",
+    "description": "You can call forth an invisible eye to let you peek on secrets. Once per day, you can cast prying eye as an innate occult spell.Traits\n\nShisk: Secretive humanoids covered in bony plumage that reside underground.",
+    "economy": "none",
+    "trigger": ""
+}

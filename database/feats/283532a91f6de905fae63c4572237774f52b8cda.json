@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1069",
+    "name": "Daring Act",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Firebrand Braggart Dedication; Trained In Acrobatics Or Athletics",
+    "summary": "You attempt a death-defying maneuver to distract your enemies.",
+    "description": "You attempt a death-defying maneuver to distract your enemies. Select one foe within reach and attempt either an Acrobatics or Athletics check against your target’s Reflex DC. If you succeed, you can Stride up to half your Speed (or up to your full Speed if you critically succeed) without triggering reactions from the target due to your movement, and the target is flat-footed against the next melee attack you attempt against it before the end of your turn.Daring Act Leads To...\n\nDaredevil's Gambit, Daring FlourishTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

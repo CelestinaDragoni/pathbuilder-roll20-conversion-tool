@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=414",
+    "name": "Desperate Finisher",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "You throw everything into one last press.",
+    "description": "You throw everything into one last press. Use a single action that you know with the press trait as part of Desperate Finisher. You forgo the ability to use reactions until the start of your next turn.",
+    "economy": "reaction",
+    "trigger": "You complete the last action on your turn, and your turn has not ended yet."
+}

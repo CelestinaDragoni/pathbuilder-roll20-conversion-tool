@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3221",
+    "name": "Firearm Expert",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Gunslinger Dedication; Expert In Any Kind Of Weapon Or Unarmed Attack",
+    "summary": "You've become an expert with your chosen weapons.",
+    "description": "You've become an expert with your chosen weapons. Your proficiency ranks for simple and martial crossbows and simple and martial firearms increase to expert.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

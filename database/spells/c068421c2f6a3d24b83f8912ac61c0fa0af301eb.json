@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=572",
+    "name": "Cup of Dust",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Curse",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "You curse the target with a thirst no drink can quench.",
+    "heightenable": true,
+    "description": "You curse the target with a thirst no drink can quench. You can Dismiss the spell. The target must attempt a Fortitude save.\n\nCritical Success The creature is unaffected and is temporarily immune for 1 hour.\nSuccess The creature is fatigued for 1 round.\nFailure The creature is immediately afflicted by thirst as if it hadn’t had a drink in days. It becomes fatigued and takes 1d4 damage each hour that can’t be healed until it quenches its thirst. No amount of drinking can quench the creature’s thirst during the spell’s duration.\nCritical Failure As failure but the creature takes 2d4 damage each hour, twice as much as usual for thirst.\n\n------\n\nHeightened (+3) The thirst becomes more unbearable, increasing the damage each hour by 1d4, or by 2d4 on a critical failure.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 living creature",
+    "duration": "1 day",
+    "saving": "Fortitude"
+}

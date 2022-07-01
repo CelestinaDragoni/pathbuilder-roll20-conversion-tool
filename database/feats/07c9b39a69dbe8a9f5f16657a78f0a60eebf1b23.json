@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3359",
+    "name": "Basic Captivator Spellcasting",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Captivator Dedication",
+    "summary": "Your innate ability to fascinate others develops into full-fledged spellcasting.",
+    "description": "Your innate ability to fascinate others develops into full-fledged spellcasting. This spellcasting comes naturally and instinctively to you, rather than as a product of training. Choose a 1st-level occult spell from either the enchantment or illusion school. You can Cast this Spell as an occult innate spell. At 6th level, you gain a 2nd-level spell, and at 8th level, you gain a 3rd-level spell. Each of these spells must be from either the enchantment or illusion school.Basic Captivator Spellcasting Leads To...\n\nCaptivating Intensity, Countercharm, Expert Captivator SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

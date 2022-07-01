@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2403",
+    "name": "Lightning Tongue",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lizardfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your tongue darts out faster than the eye can see to retrieve loose objects.",
+    "description": "Your tongue darts out faster than the eye can see to retrieve loose objects. You Interact to pick up a single unattended object of light Bulk or less within 10 feet of you. If you don't have enough hands free to hold the object, it falls to the ground in your space.Lightning Tongue Leads To...\n\nTongue DisarmTraitsLizardfolk: These reptilian humanoids, also known as iruxi, are extremely adaptable and patient.",
+    "economy": "1-action",
+    "trigger": ""
+}

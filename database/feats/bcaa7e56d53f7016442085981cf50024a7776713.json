@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3003",
+    "name": "Shifting Terrain",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Rough Terrain Stance; Master In Nature",
+    "summary": "You slam your fist into the ground or twirl your arms about to cause the terrain around you to shift and ripple, potentially throwing others off balance.",
+    "description": "You slam your fist into the ground or twirl your arms about to cause the terrain around you to shift and ripple, potentially throwing others off balance. Each creature within your area of difficult terrain from Rough Terrain Stance must attempt a Reflex saving throw against your spell DC with the following effects. After you use this action, you can't use it again for 1d4 rounds.\n\nCritical Success The creature is unaffected.\nSuccess The creature is clumsy 1 for 1 round.\nFailure The creature is clumsy 2 for 1 round.\nCritical Failure The creature is clumsy 2 for 1 round and falls prone.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

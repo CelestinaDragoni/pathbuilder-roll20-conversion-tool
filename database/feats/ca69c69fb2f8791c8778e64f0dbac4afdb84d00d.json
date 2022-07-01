@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1070",
+    "name": "Bravo's Determination",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Firebrand Braggart Dedication; Expert In Deception",
+    "summary": "Your confidence borders on self-delusion, but it keeps you going against overwhelming odds.",
+    "description": "Your confidence borders on self-delusion, but it keeps you going against overwhelming odds. Attempt a Deception check against the attack DC of the triggering Strike. You take a penalty to this check equal to twice your wounded value, if any. If the triggering attack was a critical hit, use the result one degree of success worse than what you rolled.\n\nCritical Success You avoid being knocked out and remain at 1 Hit Point.\nSuccess You avoid being knocked out and remain at 1 Hit Point, but you increase your wounded value by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A foe’s Strike reduces you to 0 Hit Points; you were not at 1 Hit Point and you would not be killed."
+}

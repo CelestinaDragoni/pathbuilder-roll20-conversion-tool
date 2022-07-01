@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2227",
+    "name": "Diverse Recognition",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 8,
+    "prereq": "Pathfinder Agent Dedication; Master In A Skill Used To Recall Knowledge",
+    "summary": "Your Pathfinder training allows you to quickly size up numerous threats.",
+    "description": "Your Pathfinder training allows you to quickly size up numerous threats. Attempt to Recall Knowledge against a different kind of creature you can see using the same skill. You must still meet the requirements to attempt this check.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "free_action",
+    "trigger": "You successfully Recall Knowledge about a creature you can see, using a skill in which you are a master."
+}

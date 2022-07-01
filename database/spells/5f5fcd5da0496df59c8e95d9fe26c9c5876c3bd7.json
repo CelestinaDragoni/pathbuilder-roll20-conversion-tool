@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=65",
+    "name": "Detect Alignment",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Detection",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "See auras of a chosen alignment.",
+    "heightenable": true,
+    "description": "Your eyes glow as you sense aligned auras. Choose chaotic, evil, good, or lawful. You detect auras of that alignment. You receive no information beyond presence or absence. You can choose not to detect creatures or effects you're aware have that alignment.\n\n Only creatures of 6th level or higher—unless divine spellcasters, undead, or beings from the Outer Sphere—have alignment auras.\n\n------\n\nHeightened (2nd) You learn each aura's location and strength.Alignment AuraThe strength of an alignment aura depends on the level of the creature, item, or spell. The auras of undead, clerics and other divine spellcasters with a patron deity, and creatures from the Outer Sphere are one step stronger than normal (faint instead of none, for example).Alignment Aura Creature or Item LevelSpell or Effect LevelAura Strength 0-5—None 6-100-3Faint 11-154-7Moderate 16-208-9Powerful 21+10Overwhelming",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

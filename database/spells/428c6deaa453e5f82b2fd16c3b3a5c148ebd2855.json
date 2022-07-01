@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1102",
+    "name": "Incendiary Fog",
+    "source": "Pathfinder #177",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Conjuration",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "You summon a cloud of flammable black dust.",
+    "heightenable": false,
+    "description": "You summon a cloud of flammable black dust. The cloud functions as obscuring mist. If any open flame or fire effect is within the spell's area when it's cast, or later enters or occurs within the area, the cloud ignites. Creatures in the cloud take 10d6 fire damage (basic Reflex save), and the spell ends.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "see below"
+}

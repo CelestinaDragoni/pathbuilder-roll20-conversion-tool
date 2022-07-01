@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=136",
+    "name": "Glitterdust",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Sparkling dust breaks invisibility and impedes vision.",
+    "heightenable": false,
+    "description": "Creatures in the area are outlined by glittering dust. Each creature must attempt a Reflex save. If a creature has its invisibility negated by this spell, it is concealed instead of invisible. This applies both if the creature was already invisible and if it benefits from new invisibility effects before the end of the invisibility negation effect from this spell.\n\nCritical Success The target is unaffected.\nSuccess The target's invisibility is negated for 2 rounds.\nFailure The target is dazzled for 1 minute and its invisibility is negated for 1 minute.\nCritical Failure The target is blinded for 1 round and dazzled for 10 minutes. Its invisibility is negated for 10 minutes.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

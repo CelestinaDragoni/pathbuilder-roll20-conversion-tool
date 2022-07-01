@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1396",
+    "name": "Relentless Wings",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 17,
+    "prereq": "Fiendish Wings",
+    "summary": "Your wings are now a permanent part of your physiology.",
+    "description": "Your wings are now a permanent part of your physiology. You gain the effects of Fiendish Wings at all times, rather than just once per day for 10 minutes.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

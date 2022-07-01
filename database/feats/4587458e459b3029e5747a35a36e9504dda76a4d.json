@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=338",
+    "name": "Plant Shape",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 10,
+    "prereq": "Leaf Order Or Wild Shape",
+    "summary": "You can take the form of a plant creature.",
+    "description": "You can take the form of a plant creature. Add the forms listed in plant form to your wild shape list; if you don't have wild shape, you can instead cast plant form once per day, heightened to the same level as your highest-level druid spell slot. Whenever you're polymorphed into another form using wild shape, you gain resistance 5 to poison.Plant Shape Leads To...\n\nReactive Transformation",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2554",
+    "name": "Inner Fire",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ifrit"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You can call the fire inside you into the palm of your hand.",
+    "description": "You can call the fire inside you into the palm of your hand. You can cast the produce flame cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.Traits\n\nIfrit: Ifrits are planar scions descended from efreet.",
+    "economy": "none",
+    "trigger": ""
+}

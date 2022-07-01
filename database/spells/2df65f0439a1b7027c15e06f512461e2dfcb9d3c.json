@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1098",
+    "name": "Boneshaker",
+    "source": "Pathfinder #176",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You reach out a hand and seize a creature's skeleton from afar, harming their body and potentially wrenching them by the bones to move them against their will.",
+    "heightenable": true,
+    "description": "You reach out a hand and seize a creature's skeleton from afar, harming their body and potentially wrenching them by the bones to move them against their will. The number of actions you spend when Casting this Spell determines the spell's effects. Regardless of the number of actions spent to Cast this Spell, the target must attempt a Fortitude save.\n\n    (somatic, verbal) You clench your fist, painfully compressing the target's bones and dealing 3d8 bludgeoning damage.\n     (material, somatic, verbal) As the 2-action version, plus you pull the target's body by their bones, moving them around like an awkward marionette. This movement follows the rules for forced movement.\n\nCritical Success The target is unaffected.\nSuccess The target takes half damage. If you cast the 3-action version, you can move the target up to 5 feet; it can choose to fall prone to avoid moving.\nFailure The target takes full damage and is enfeebled 1. If you cast the 3-action version, you can move the target up to 15 feet; it can fall prone to avoid moving.\nCritical Failure The target takes double damage and is enfeebled 2. If you cast the 3-action version, you can move the target up to 25 feet, then knock the target prone; if you attempt to move the target to a hazardous location, such as into a pool of acid or off a cliff, it can fall prone to avoid moving.\n\n------\n\nHeightened (+2) The damage increases by 3d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "100 feet",
+    "target": "1 creature with a skeleton",
+    "duration": "",
+    "saving": "FortitudeYou reach out a hand and seize a creature's skeleton from afar, harming their body and potentially wrenching them by the bones to move them against their will. The number of actions you spend when Casting this Spell determines the spell's effects. Regardless of the number of actions spent to Cast this Spell, the target must attempt a Fortitude save.    (somatic, verbal) You clench your fist, painfully compressing the target's bones and dealing 3d8 bludgeoning damage.     (material, somatic, verbal) As the 2-action version, plus you pull the target's body by their bones, moving them around like an awkward marionette. This movement follows the rules for forced movement.Critical Success The target is unaffected.Success The target takes half damage. If you cast the 3-action version, you can move the target up to 5 feet"
+}

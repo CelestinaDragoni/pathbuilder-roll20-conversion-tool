@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2937",
+    "name": "Ever-Vigilant Senses",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon has enhanced senses.",
+    "description": "Your eidolon has enhanced senses. It gains a +2 circumstance bonus to Perception, and can't be flanked except by creatures that are higher level than it. It can see invisible creatures and objects; they appear translucent and are concealed. When your eidolon moves within 30 feet of an illusion that can be disbelieved, the GM rolls a secret check to disbelieve it, even if your eidolon didn't spend an action to Interact.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

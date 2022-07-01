@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3470",
+    "name": "Spiral Sworn",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Divine",
+        "Evocation"
+    ],
+    "level": 6,
+    "prereq": "Soul Warden Dedication",
+    "summary": "You trace a spiral in the air while intoning prayers to Pharasma, gaining her blessing for a time.",
+    "description": "You trace a spiral in the air while intoning prayers to Pharasma, gaining her blessing for a time. For 3 rounds, your Strikes and spells deal additional damage against undead, creatures in possession of an imprisoned soul, or creatures you have witnessed create or command undead. You gain a status bonus to damage with your Strikes against these creatures equal to the number of weapon damage dice. Spells you cast from spell slots gain a status bonus to damage against these creatures equal to the level of the spell; this bonus applies only to spells that deal damage and don't have a duration. If your spiral is glowing, you can target a willing creature in its light. If you do, that creature gains the bonuses instead of you.Spiral Sworn Leads To...\n\nExpand SpiralTraitsArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Evocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.",
+    "economy": "1-action",
+    "trigger": ""
+}

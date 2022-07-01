@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=736",
+    "name": "Basic Blood Potency",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Sorcerer Dedication",
+    "summary": "You gain a 1st- or 2nd-level sorcerer feat.",
+    "description": "You gain a 1st- or 2nd-level sorcerer feat.Basic Blood Potency Leads To...\n\nAdvanced Blood PotencyTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

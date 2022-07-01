@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2707",
+    "name": "Mastermind's Eye",
+    "source": "Pathfinder #166",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Butterfly Blade Dedication",
+    "summary": "When you identify a creature with Recall Knowledge, that creature is flat-footed to you.",
+    "description": "When you succeed at identifying a creature using Recall Knowledge, that creature is flat-footed against your attacks until the start of your next turn; if you critically succeed, it's flat-footed against your attacks for 1 minute. This feat serves as the rogue's mastermind racket for the purpose of meeting prerequisites.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

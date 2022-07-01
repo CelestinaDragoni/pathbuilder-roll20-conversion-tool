@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2827",
+    "name": "Ricocheting Leap",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 9,
+    "prereq": "Wall Jump; Master In Athletics",
+    "summary": "You quickly use your momentum to topple and spring off of foes.",
+    "description": "You quickly use your momentum to topple and spring off of foes. You can use Wall Jump to make additional jumps off of creatures larger than you as if they were walls. Once per turn when you make an additional jump off of a creature in this way, you can also attempt to Shove or Trip that creature as a free action.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

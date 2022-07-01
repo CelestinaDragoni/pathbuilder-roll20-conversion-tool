@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=244",
+    "name": "Blade of Justice",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You call upon divine power and make a weapon or unarmed Strike against a foe you have witnessed harming an ally or innocent.",
+    "description": "You call upon divine power and make a weapon or unarmed Strike against a foe you have witnessed harming an ally or innocent. The Strike deals two extra weapon damage dice if the target of your Strike is evil. Whether or not the target is evil, you can convert all the physical damage from the attack into good damage, and if you are a paladin, the Strike applies all effects that normally apply on a Retributive Strike (such as divine smite).",
+    "economy": "2-action",
+    "trigger": ""
+}

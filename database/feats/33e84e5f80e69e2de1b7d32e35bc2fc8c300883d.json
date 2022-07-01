@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2704",
+    "name": "Butterfly Blade Dedication",
+    "source": "Pathfinder #166",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 4,
+    "prereq": "Trained In Butterfly Swords",
+    "summary": "You've trained in one of Goka's oldest traditions of espionage, intimidation, and combat mastery.",
+    "description": "You become trained in Deception and Stealth; if you were already trained, you become an expert instead. Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with butterfly swords. You gain access to butterfly swords.\n\nSpecial You cannot select another dedication feat until you have gained two other feats from this archetype.Butterfly Blade Dedication Leads To...Butterfly's Kiss, Butterfly's Sting, Deadly Butterfly, Innocent Butterfly, Mastermind's EyeTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

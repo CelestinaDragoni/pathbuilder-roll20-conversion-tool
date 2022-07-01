@@ -1,0 +1,282 @@
+/**
+ * Roll20 Pathfinder 2e Struct Doc
+ */
+
+// Standard Attribs Struct
+{
+    "name": "KEY",
+    "current": "VALUE",
+    "max": "OPTIONAL_MAX_VALUE",
+    "id": "UUID"
+}
+
+// Action ENUM
+[
+    none,
+    1-action,
+    2-action,
+    3-action,
+    1-to-2-actions,
+    1-to-2-actions,
+    1-to-3-actions,
+    reaction
+    free_action
+    other
+]
+
+// Rank ENUM
+[
+    0 // Untrained
+    2 // Trained
+    4 // Expert
+    6 // Master
+    8 // Legendary
+]
+
+// Prof ENUM
+[
+    0 => U,
+    2 => T,
+    4 => E,
+    6 => M,
+    8 => L
+]
+
+// Player Header
+name                                                        <STRING> (Root of Character Object, Not In Attribs Array)
+bio                                                         <STRING>
+ancestry_heritage                                           <STRING>
+deity                                                       <STRING>
+player_name                                                 <STRING>
+xp                                                          <STRING>
+class                                                       <STRING>
+background                                                  <STRING>
+size                                                        <STRING>
+alignment                                                   <STRING>
+traits                                                      <STRING>
+
+// Player Details
+weight                                                      <STRING>
+height                                                      <STRING>
+gender_pronouns                                             <STRING>
+age                                                         <STRING>
+birthplace                                                  <STRING>
+nationality                                                 <STRING>
+ethnicity                                                   <STRING>
+appearance                                                  <STRING>
+attitude                                                    <STRING>
+beliefs                                                     <STRING>
+likes                                                       <STRING>
+dislikes                                                    <STRING>
+catchphrases                                                <STRING>
+campaign_notes_organizations                                <STRING>
+campaign_notes_enemies                                      <STRING>
+campaign_notes_allies                                       <STRING>
+campaign_notes_organizations                                <STRING>
+
+// Stats
+speed                                                       <STRING>
+strength_score                                              <STRING>
+strength                                                    <INT>
+strength_modifier                                           <INT>
+dexterity_score                                             <STRING>
+dexterity                                                   <INT>
+dexterity_modifier                                          <INT>
+intelligence_score                                          <STRING>
+intelligence                                                <INT>
+intelligence_modifier                                       <INT>
+wisdom_score                                                <STRING>
+wisdom                                                      <INT>
+wisdom_modifier                                             <INT>
+charisma_score                                              <STRING>
+charisma                                                    <INT>
+charisma_modifier                                           <INT>
+
+// Skill Scores
+acrobatics                                                  <INT> (Total)
+acrobatics_proficiency_display                              <ENUM> (PROF)
+acrobatics_item                                             <STRING>
+acrobatics_temporary                                        <STRING>
+acrobatics_armor                                            <STRING>
+acrobatics_rank                                             <ENUM> (Rank)
+arcana                                                      <INT> (Total)
+arcana_proficiency_display                                  <ENUM> (PROF)
+arcana_item                                                 <STRING>
+arcana_temporary                                            <STRING>
+arcana_armor                                                <STRING>
+arcana_rank                                                 <ENUM> (Rank)
+crafting                                                    <INT> (Total)
+crafting_proficiency_display                                <ENUM> (PROF)
+crafting_item                                               <STRING>
+crafting_temporary                                          <STRING>
+crafting_armor                                              <STRING>
+crafting_rank                                               <ENUM> (Rank)
+diplomacy                                                   <INT> (Total)
+diplomacy_proficiency_display                               <ENUM> (PROF)
+diplomacy_item                                              <STRING>
+diplomacy_temporary                                         <STRING>
+diplomacy_armor                                             <STRING>
+diplomacy_rank                                              <ENUM> (Rank)
+intimidation                                                <INT> (Total)
+intimidation_proficiency_display                            <ENUM> (PROF)
+intimidation_item                                           <STRING>
+intimidation_temporary                                      <STRING>
+intimidation_armor                                          <STRING>
+intimidation_rank                                           <ENUM> (Rank)
+medicine                                                    <INT> (Total)
+medicine_proficiency_display                                <ENUM> (PROF)
+medicine_item                                               <STRING>
+medicine_temporary                                          <STRING>
+medicine_armor                                              <STRING>
+medicine_rank                                               <ENUM> (Rank)
+nature                                                      <INT> (Total)
+nature_proficiency_display                                  <ENUM> (PROF)
+nature_item                                                 <STRING>
+nature_temporary                                            <STRING>
+nature_armor                                                <STRING>
+nature_rank                                                 <ENUM> (Rank)
+occultism                                                   <INT> (Total)
+occultism_proficiency_display                               <ENUM> (PROF)
+occultism_item                                              <STRING>
+occultism_temporary                                         <STRING>
+occultism_armor                                             <STRING>
+occultism_rank                                              <ENUM> (Rank)
+performance                                                 <INT> (Total)
+performance_proficiency_display                             <ENUM> (PROF)
+performance_item                                            <STRING>
+performance_temporary                                       <STRING>
+performance_armor                                           <STRING>
+performance_rank                                            <ENUM> (Rank)
+religion                                                    <INT> (Total)
+religion_proficiency_display                                <ENUM> (PROF)
+religion_item                                               <STRING>
+religion_temporary                                          <STRING>
+religion_armor                                              <STRING>
+religion_rank                                               <ENUM> (Rank)
+society                                                     <INT> (Total)
+society_proficiency_display                                 <ENUM> (PROF)
+society_item                                                <STRING>
+society_temporary                                           <STRING>
+society_armor                                               <STRING>
+society_rank                                                <ENUM> (Rank)
+stealth                                                     <INT> (Total)
+stealth_proficiency_display                                 <ENUM> (PROF)
+stealth_item                                                <STRING>
+stealth_temporary                                           <STRING>
+stealth_armor                                               <STRING>
+stealth_rank                                                <ENUM> (Rank)
+survival                                                    <INT> (Total)
+survival_proficiency_display                                <ENUM> (PROF)
+survival_item                                               <STRING>
+survival_temporary                                          <STRING>
+survival_armor                                              <STRING>
+survival_rank                                               <ENUM> (Rank)
+thievery                                                    <INT> (Total)
+thievery_proficiency_display                                <ENUM> (PROF)
+thievery_item                                               <STRING>
+thievery_temporary                                          <STRING>
+thievery_armor                                              <STRING>
+thievery_rank                                               <ENUM> (Rank)
+perception                                                  <INT> (Total)
+perception_proficiency_display                              <ENUM> (PROF)
+perception_item                                             <STRING>
+perception_temporary                                        <STRING>
+perception_rank                                             <ENUM> (Rank)
+initiative_modifier                                         <STRING>
+
+// Weapon Prof
+weapon_proficiencies_simple_rank                            <ENUM> (Rank)
+weapon_proficiencies_martial_rank                           <ENUM> (Rank)
+
+// HP
+hit_points_ancestry                                         <STRING>
+hit_points_class                                            <STRING>
+hit_points_other                                            <STRING>
+hit_points                                                  <INT>
+
+// Ancestry Feats / Abilities Keys
+repeating_feat-ancestry_%s_feat_ancestry                    <STRING> (Title)
+repeating_feat-ancestry_%s_feat_ancestry_type               <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_level              <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_traits             <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_prerequisites      <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_action             <ENUM> (Action)
+repeating_feat-ancestry_%s_feat_ancestry_trigger            <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_requirements       <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_frequency          <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_benefits           <STRING>
+repeating_feat-ancestry_%s_feat_ancestry_notes              <STRING>
+
+// Skill Feats Keys
+repeating_feat-skill_%s_feat_skill                          <STRING> (Title)
+repeating_feat-skill_%s_feat_skill_skill                    <STRING>
+repeating_feat-skill_%s_feat_skill_level                    <STRING>
+repeating_feat-skill_%s_feat_skill_traits                   <STRING>
+repeating_feat-skill_%s_feat_skill_prerequisites            <STRING>
+repeating_feat-skill_%s_feat_skill_action                   <ENUM> (Action)
+repeating_feat-skill_%s_feat_skill_trigger                  <STRING>
+repeating_feat-skill_%s_feat_skill_requirements             <STRING>
+repeating_feat-skill_%s_feat_skill_frequency                <STRING>
+repeating_feat-skill_%s_feat_skill_benefits                 <STRING>
+repeating_feat-skill_%s_feat_skill_notes                    <STRING>
+
+// General Feats Keys
+repeating_feat-general_%s_feat_general                      <STRING> (Title)
+repeating_feat-general_%s_feat_general_level                <STRING>
+repeating_feat-general_%s_feat_general_traits               <STRING>
+repeating_feat-general_%s_feat_general_prerequisites        <STRING>
+repeating_feat-general_%s_feat_general_action               <ENUM> (Action)
+repeating_feat-general_%s_feat_general_trigger              <STRING>
+repeating_feat-general_%s_feat_general_requirements         <STRING>
+repeating_feat-general_%s_feat_general_frequency            <STRING>
+repeating_feat-general_%s_feat_general_benefits             <STRING>
+repeating_feat-general_%s_feat_general_notes                <STRING>
+
+// Class Feats Keys
+repeating_feat-class_%s_feat_class                          <STRING> (Title)
+repeating_feat-class_%s_feat_class_type                     <STRING>
+repeating_feat-class_%s_feat_class_level                    <STRING>
+repeating_feat-class_%s_feat_class_traits                   <STRING>
+repeating_feat-class_%s_feat_class_prerequisites            <STRING>
+repeating_feat-class_%s_feat_class_action                   <ENUM> (Action)
+repeating_feat-class_%s_feat_class_trigger                  <STRING>
+repeating_feat-class_%s_feat_class_requirements             <STRING>
+repeating_feat-class_%s_feat_class_frequency                <STRING>
+repeating_feat-class_%s_feat_class_benefits                 <STRING>
+repeating_feat-class_%s_feat_class_notes                    <STRING>
+
+// Bonus Feats Keys
+repeating_feat-bonus_%s_feat_bonus                          <STRING> (Title)
+repeating_feat-bonus_%s_feat_bonus_level                    <STRING>
+repeating_feat-bonus_%s_feat_bonus_traits                   <STRING>
+repeating_feat-bonus_%s_feat_bonus_prerequisites            <STRING>
+repeating_feat-bonus_%s_feat_bonus_action                   <ENUM> (Action)
+repeating_feat-bonus_%s_feat_bonus_trigger                  <STRING>
+repeating_feat-bonus_%s_feat_bonus_requirements             <STRING>
+repeating_feat-bonus_%s_feat_bonus_frequency                <STRING>
+repeating_feat-bonus_%s_feat_bonus_benefits                 <STRING>
+repeating_feat-bonus_%s_feat_bonus_notes                    <STRING>
+
+// Magic Per/Day
+cantrips_per_day (current, max subkeys)                     <STRING>
+level_[1-10]_per_day (current, max subkeys)                 <STRING>
+
+// Magic Traditions
+spellcaster_prepared => prepared                            <STRING>
+spellcaster_spontaneous => spontaneous                      <STRING>
+magic_tradition_arcane_rank                                 <ENUM> (Rank)
+magic_tradition_arcane_proficiency                          <ENUM> (If Trained, Rank+Level Else 0)
+magic_tradition_primal_rank                                 <ENUM> (Rank)
+magic_tradition_primal_proficiency                          <ENUM> (If Trained, Rank+Level Else 0)
+magic_tradition_occult_rank                                 <ENUM> (Rank)
+magic_tradition_occult_proficiency                          <ENUM> (If Trained, Rank+Level Else 0)
+magic_tradition_divine_rank                                 <ENUM> (Rank)
+magic_tradition_divine_proficiency                          <ENUM> (If Trained, Rank+Level Else 0)
+
+// Magic (Sloted) Keys
+
+// Magic (Cantrips) Keys
+
+// Magic (Focus) Keys
+
+// Magic (Inante) Keys

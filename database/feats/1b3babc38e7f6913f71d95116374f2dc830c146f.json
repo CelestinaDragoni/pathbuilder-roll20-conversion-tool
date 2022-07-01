@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2933",
+    "name": "Airborne Form",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 14,
+    "prereq": "Glider Form",
+    "summary": "Your eidolon can fly.",
+    "description": "Your eidolon can fly. It gains a fly Speed equal to its Speed.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

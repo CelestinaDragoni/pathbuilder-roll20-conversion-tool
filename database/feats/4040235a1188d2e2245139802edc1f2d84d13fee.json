@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2906",
+    "name": "Skilled Partner",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon gains a 1st-level skill feat and a 2nd-level or lower skill feat.",
+    "description": "Your eidolon gains a 1st-level skill feat and a 2nd-level or lower skill feat. At 7th level, your eidolon gains an additional skill feat, of 7th level or lower.",
+    "economy": "none",
+    "trigger": ""
+}

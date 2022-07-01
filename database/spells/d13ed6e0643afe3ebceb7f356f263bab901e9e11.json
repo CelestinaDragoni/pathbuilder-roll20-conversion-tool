@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=977",
+    "name": "Puff of Poison",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Evocation",
+        "Inhaled",
+        "Poison"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Exhale toxins to poison a foe.",
+    "heightenable": true,
+    "description": "You exhale a shimmering cloud of toxic breath at an enemy's face. The target takes poison damage equal to your spellcasting modifier and 2 persistent poison damage, depending on its Fortitude save.\n\nCritical Success The creature is unaffected.\nSuccess The target takes half initial and persistent damage.\nFailure The target takes full initial and persistent damage.\nCritical Failure The target takes double initial and persistent damage.\n\n------\n\nHeightened (+2) The initial poison damage increases by 1d8 and the persistent poison damage increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "5 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

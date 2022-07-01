@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=884",
+    "name": "Necromantic Resistance",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Lastwall Sentry Dedication",
+    "summary": "Gain resistance to necromancy effects and damage.",
+    "description": "As part of your training, you’ve inured yourself against necromancy through repeated exposure. You gain a +1 circumstance bonus to saves against necromancy effects and gain resistance to negative damage equal to half your level.Necromantic Resistance Leads To...\n\nNecromantic Tenacity, Withstand DeathTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

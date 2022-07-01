@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1039",
+    "name": "Hasted Assault",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Magus",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 7,
+    "summary": "You call upon your magic to speed up your attacks.",
+    "heightenable": false,
+    "description": "You call upon your magic to speed up your attacks. You gain the quickened condition and can use the extra action each round for only Strike actions.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

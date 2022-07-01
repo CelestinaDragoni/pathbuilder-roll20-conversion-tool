@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2433",
+    "name": "Ratfolk Growth",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "You call upon the familial bonds you share with other ysoki to defend them in battle.",
+    "description": "You call upon the familial bonds you share with other ysoki to defend them in battle. You can cast enlarge as a 6th-level primal innate spell once per day. You can target only yourself and other ratfolk with this spell.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

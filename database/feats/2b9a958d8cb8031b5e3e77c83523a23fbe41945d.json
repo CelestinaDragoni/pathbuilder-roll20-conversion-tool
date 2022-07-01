@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1135",
+    "name": "Surreptitious Spellcaster",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Spellmaster Dedication",
+    "summary": "You’ve learned that it pays for a Pathfinder to be able to cast spells without being noticed.",
+    "description": "You’ve learned that it pays for a Pathfinder to be able to cast spells without being noticed. You gain the Conceal Spell wizard class feat, though it’s not a wizard feat for you. You also gain a +2 circumstance bonus to Stealth checks to Conceal a Spell and to Deception checks to conceal verbal components.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

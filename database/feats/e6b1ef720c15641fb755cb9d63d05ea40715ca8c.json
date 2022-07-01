@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3117",
+    "name": "Basic Modification",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Inventor Dedication",
+    "summary": "You've learned to modify your innovation in order to enhance its capabilities beyond what an ordinary piece of equipment can accomplish.",
+    "description": "You've learned to modify your innovation in order to enhance its capabilities beyond what an ordinary piece of equipment can accomplish. You gain a basic modification of your choice for your innovation (page 16). Your innovation must meet any requirements for the modification you choose, as normal.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

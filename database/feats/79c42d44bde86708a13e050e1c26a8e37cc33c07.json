@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2544",
+    "name": "Mischievous Tail",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ganzi"
+    ],
+    "level": 13,
+    "prereq": "Skillful Tail (Ganzi)",
+    "summary": "Your tail can bedevil your foes.",
+    "description": "Your tail can bedevil your foes. You can Disarm and Trip creatures with your tail, even if you don't have a free hand. All restrictions of Skillful Tail otherwise continue to apply. If you have Smashing Tail, your tail unarmed attack gains the disarm and trip traits.Traits\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a protean",
+    "economy": "none",
+    "trigger": ""
+}

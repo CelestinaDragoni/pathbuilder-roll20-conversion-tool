@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1387",
+    "name": "Daemon Magic",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 9,
+    "prereq": "Grimspawn",
+    "summary": "The magic of Abaddon runs through your blood, and you can wield that power.",
+    "description": "The magic of Abaddon runs through your blood, and you can wield that power. You can cast death knell and false life each once per day as 2nd-level divine innate spells.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

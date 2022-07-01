@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1680",
+    "name": "Elucidating Mercy",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 10,
+    "prereq": "Mercy",
+    "summary": "Your mercy grants clarity to those around you just when they need it most.",
+    "description": "Your mercy grants clarity to those around you just when they need it most. When you use Mercy, you can instead attempt a counteract check to remove the confused or stupefied conditions, using the source of that condition to determine the counteract level and DC. If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns at the end of your next turn.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "none",
+    "trigger": ""
+}

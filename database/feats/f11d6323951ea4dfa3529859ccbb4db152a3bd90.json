@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1875",
+    "name": "Dodge Away",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Acrobat Dedication",
+    "summary": "You use your acrobatic prowess to evade an attack, using momentum to keep yourself moving, if you choose.",
+    "description": "You use your acrobatic prowess to evade an attack, using momentum to keep yourself moving, if you choose. You gain a +1 circumstance bonus to AC against the triggering attack. If the attack misses you, you can Step after the Strike. If you're a master in Acrobatics, you can move 10 feet on this Step instead of 5 feet.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "You are the target of a melee attack."
+}

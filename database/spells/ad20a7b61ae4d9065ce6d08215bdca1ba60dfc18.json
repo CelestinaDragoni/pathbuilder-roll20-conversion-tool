@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=924",
+    "name": "Haunting Hymn",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Cantrip",
+        "Evocation",
+        "Sonic"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "A powerful hymn harms and deafens.",
+    "heightenable": true,
+    "description": "You echo a jarring hymn that only creatures in the area can hear. The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic Fortitude save. If a target critically fails the save, it's also deafened for 1 minute.\n\n------\n\nHeightened (+2) The damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

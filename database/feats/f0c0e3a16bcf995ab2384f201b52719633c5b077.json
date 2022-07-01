@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2077",
+    "name": "Giant Snare",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Snarecrafter Dedication",
+    "summary": "You can create bigger snares for quick deployment, making it more likely for a creature to walk into your snares.",
+    "description": "You can create bigger snares for quick deployment, making it more likely for a creature to walk into your snares. When you prepare snares for quick deployment, you can prepare some of them as giant snares. A giant snare takes up a 10-foot-by-10-foot area but costs two of your quick deployment snares. A giant snare can trigger from a creature entering any portion of its area, and all its effects apply over the full area.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

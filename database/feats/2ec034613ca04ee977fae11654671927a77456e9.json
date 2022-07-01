@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3178",
+    "name": "Grit and Tenacity",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Fortune",
+        "Gunslinger"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You call upon deep reserves of toughness and mental fortitude to power through an otherwise debilitating effect.",
+    "description": "You call upon deep reserves of toughness and mental fortitude to power through an otherwise debilitating effect. Reroll the triggering save with a +2 circumstance bonus; you must use the second result.Grit and Tenacity Leads To...\n\nUnshakable GritTraitsFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "reaction",
+    "trigger": "You fail a Fortitude or Will save."
+}

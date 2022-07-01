@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=521",
+    "name": "Master Monster Hunter",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 10,
+    "prereq": "Monster Hunter; Master In Nature",
+    "summary": "You have a nearly encyclopedic knowledge of all creatures of the world.",
+    "description": "You have a nearly encyclopedic knowledge of all creatures of the world. You can use Nature to Recall Knowledge to identify any creature. In addition, you gain the benefits of Monster Hunter (and Monster Warden, if you have it) on a success as well as a critical success.Master Monster Hunter Leads To...\n\nLegendary Monster Hunter",
+    "economy": "none",
+    "trigger": ""
+}

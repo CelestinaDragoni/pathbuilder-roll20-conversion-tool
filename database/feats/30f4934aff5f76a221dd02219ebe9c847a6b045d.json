@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=55",
+    "name": "Halfling Weapon Familiarity",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You favor traditional halfling weapons, so you’ve learned how to use them more effectively.",
+    "description": "You favor traditional halfling weapons, so you've learned how to use them more effectively. You have the trained proficiency with the sling, halfling sling staff, and shortsword. You gain access to all uncommon halfling weapons. For the purpose of determining your proficiency, martial halfling weapons are simple weapons and advanced halfling weapons are martial weapons.Halfling Weapon Familiarity Leads To...\n\nHalfling Weapon Expertise, Halfling Weapon TricksterTraitsHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

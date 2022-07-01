@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=665",
+    "name": "Agonizing Despair",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Mentally damage and frighten a creature.",
+    "heightenable": true,
+    "description": "Your target's mind tumbles down a deep well of dread, dwelling so intently on deep-seated fears that it's painful. The target takes 4d6 mental damage with a Will saving throw.\n\nCritical Success The target is unaffected.\nSuccess The target takes half damage and becomes frightened 1.\nFailure The target takes full damage and becomes frightened 2.\nCritical Failure The target takes double damage and becomes frightened 3.\n\n------\n\nHeightened (+1) Increase the damage by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

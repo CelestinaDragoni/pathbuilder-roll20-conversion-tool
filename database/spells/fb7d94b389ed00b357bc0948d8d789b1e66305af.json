@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=477",
+    "name": "Storm Lord",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Air",
+        "Druid",
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 9,
+    "summary": "The sky above you darkens in a matter of moments, swirling with ominous clouds punctuated by flashes of lighting.",
+    "heightenable": false,
+    "description": "The sky above you darkens in a matter of moments, swirling with ominous clouds punctuated by flashes of lighting. The first time each round you Sustain the Spell, you can select one of the following effects to occur in the area.Calm No additional effect.Fog Heavy fog rolls in, concealing the area with the effects of obscuring mist.Rain Torrential rain falls from the sky, dousing ordinary flames. Creatures in the area take a –2 circumstance penalty to Acrobatics and Perception checks. Wind Powerful winds buffet the area in all directions. Ranged attacks take a –4 circumstance penalty, and all flying is against the wind and counts as moving through difficult terrain. In addition, once per round you can use a single action, which has the concentrate and manipulate traits, to call down a bolt of lightning, striking any target in range that you can see. You deal 10d6 electricity damage to the target; it must attempt a basic Reflex save. On a failure, it is also deafened for 1 round.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

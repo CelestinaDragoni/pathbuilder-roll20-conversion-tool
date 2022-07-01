@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=390",
+    "name": "Loremaster's Etude",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Divination",
+        "Fortune"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You call upon your muse’s deep mysteries, granting the target a greater ability to think and recall information.",
+    "heightenable": false,
+    "description": "You call upon your muse's deep mysteries, granting the target a greater ability to think and recall information. Roll the triggering Recall Knowledge skill check twice and use the better result.",
+    "economy": "free_action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "You or an ally within range attempts a skill check to Recall Knowledge",
+    "range": "30 feet",
+    "target": "you or the triggering ally",
+    "duration": "",
+    "saving": ""
+}

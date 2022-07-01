@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=593",
+    "name": "Cognitive Loophole",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "You can find a loophole in a mental effect to temporarily overcome it.",
+    "description": "You can find a loophole in a mental effect to temporarily overcome it. Until the end of your next turn, you ignore a single mental effect that meets the requirement. You can suppress a particular effect using Cognitive Loophole only once.\n\nSpecial You can use this reaction even if the mental effect is preventing you from using reactions.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "reaction",
+    "trigger": "Your turn ends."
+}

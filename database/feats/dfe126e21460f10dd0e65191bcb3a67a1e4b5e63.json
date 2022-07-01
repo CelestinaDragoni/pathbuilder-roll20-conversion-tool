@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2025",
+    "name": "Hammer Quake",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish",
+        "Open"
+    ],
+    "level": 14,
+    "prereq": "Mauler Dedication",
+    "summary": "You smash the ground with your weapon, knocking nearby creatures to the ground.",
+    "description": "You smash the ground with your weapon, knocking nearby creatures to the ground. Choose a square within your reach, including your own space. If there's a foe in the chosen square, Strike that foe with the required weapon. Then attempt to Trip every foe in the chosen square plus each square adjacent to that square, ignoring Trip's requirement that you have a hand free. This counts as three attacks toward your multiple attack penalty, but the penalty doesn't increase until after you've made the Strike, if any, and all the Trip attempts.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.Open: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
+    "economy": "3-action",
+    "trigger": ""
+}

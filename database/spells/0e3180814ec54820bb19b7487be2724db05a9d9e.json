@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=803",
+    "name": "Personal Blizzard",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Hex",
+        "Witch"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You summon an isolated blizzard of obscuring, scouring ice to follow your target.",
+    "heightenable": true,
+    "description": "You summon an isolated blizzard of obscuring, scouring ice to follow your target. The target attempts a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target takes 1d6 cold damage, and the spell ends.\nFailure The target takes 1d6 cold damage and 1d6 persistent cold damage. (The persistent damage automatically ends when the spell ends.) It is concealed to other creatures, and other creatures are concealed to it.\nCritical Failure As failure, but both the cold damage and the persistent cold damage increase to 2d6.\n\n------\n\nHeightened (+1) The cold damage and persistent cold damage increase by 1 (2 on a critical failure).",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Fortitude"
+}

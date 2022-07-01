@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1820",
+    "name": "Ancestral Mage",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 10,
+    "prereq": "Ancestral Blood Magic",
+    "summary": "The magic of your ancestry and bloodline are one and the same.",
+    "description": "The magic of your ancestry and bloodline are one and the same. Add any innate spells you have from a heritage or an ancestry feat to your spell repertoire, meaning you can cast them using your spell slots.",
+    "economy": "none",
+    "trigger": ""
+}

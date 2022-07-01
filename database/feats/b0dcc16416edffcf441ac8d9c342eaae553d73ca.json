@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2740",
+    "name": "Six Pillars Stance",
+    "source": "Pathfinder #167",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Stance"
+    ],
+    "level": 10,
+    "prereq": "Sixth Pillar Dedication",
+    "summary": "You stand firm, steeling your mind and body, allowing you to use your magic unperturbed.",
+    "description": "You stand firm, steeling your mind and body, allowing you to use your magic unperturbed. While in this stance, you gain a +4 circumstance bonus to AC against reactions triggered by using actions with the concentrate or manipulate traits. In addition, when you cast a spell that requires one or more actions while in this stance, your unarmed Strikes gain a +1 circumstance bonus to damage.Traits\n\nArchetype: This feat belongs to an archetype.\n\nStance: A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.",
+    "economy": "1-action",
+    "trigger": ""
+}

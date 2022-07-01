@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2950",
+    "name": "Basic Magus Spellcasting",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Magus Dedication",
+    "summary": "You gain the basic bounded spellcasting benefits.",
+    "description": "You gain the basic bounded spellcasting benefits.Basic Magus Spellcasting Leads To...\n\nExpert Magus SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

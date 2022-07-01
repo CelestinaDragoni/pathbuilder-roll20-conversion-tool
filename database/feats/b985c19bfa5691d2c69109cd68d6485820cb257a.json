@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3048",
+    "name": "Prototype Companion",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy minion.",
+    "description": "You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy minion. You gain a prototype construct companion.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=747",
+    "name": "Brain Drain",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cursebound",
+        "Enchantment",
+        "Mental",
+        "Oracle"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You probe the target's mind to glean knowledge.",
+    "heightenable": true,
+    "description": "You probe the target's mind to glean knowledge. This deals 1d8 mental damage with a basic Will save. If the target fails the save, you sort through the stolen memories to attempt a single check to Recall Knowledge. Choose a skill that has the Recall Knowledge action, and use the target's skill modifier for the check.\n\n------\n\nHeightened (+1) The mental damage increases by 1d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

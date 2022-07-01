@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2797",
+    "name": "Gnoll Weapon Practicality",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Gnoll"
+    ],
+    "level": 5,
+    "prereq": "Gnoll Weapon Familiarity",
+    "summary": "You have come to know gnoll weapons as you know yourself.",
+    "description": "Whenever you critically hit using flails, khopeshes, mambeles, spears, and war flails, you apply the weapon's critical specialization effect.Gnoll Weapon Practicality Leads To...\n\nGnoll Weapon ExpertiseTraitsGnoll: Gnolls are humanoids that resemble hyenas.",
+    "economy": "none",
+    "trigger": ""
+}

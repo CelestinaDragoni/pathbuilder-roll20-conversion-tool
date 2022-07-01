@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1305",
+    "name": "Rat Magic",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "There always seems to be a little rat around to carry messages for you.",
+    "description": "There always seems to be a little rat around to carry messages for you. You can cast animal messenger once per day as a primal innate spell. When you do, the animal that responds is always a rat. If there are no rats within range, the spell is lost.Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2081",
+    "name": "Deeper Dabbler",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Talisman Dabbler Dedication",
+    "summary": "With some streamlining to your process and a deeper collection of talisman materials, you make a greater number of talismans every day.",
+    "description": "With some streamlining to your process and a deeper collection of talisman materials, you make a greater number of talismans every day. You can create two additional talismans during your daily preparations.\n\nSpecial You can select this feat a second time if you are 14th level or higher.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

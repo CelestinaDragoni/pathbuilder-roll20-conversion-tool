@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2366",
+    "name": "Yamaraj's Grandeur",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Duskwalker"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "You have been granted a sliver of the power of the yamaraj, the magistrates of the dead who agreed to allow duskwalkers to exist at all.",
+    "description": "You have been granted a sliver of the power of the yamaraj, the magistrates of the dead who agreed to allow duskwalkers to exist at all. You exhale a blast of icy wind and ravenous insects. This is a 30-foot cone that deals 14d6 slashing damage and 4d6 persistent slashing damage (basic Reflex save using your class DC or spell DC, whichever is higher). On a critical failure, targets also become sickened 2.Traits\n\nDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+    "economy": "2-action",
+    "trigger": ""
+}

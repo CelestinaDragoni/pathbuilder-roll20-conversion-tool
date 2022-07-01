@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3388",
+    "name": "Smoldering Explosion",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Fireball",
+    "summary": "When you cast fireball, you can modify the spell to leave behind a brief cloud of smoke in its area.",
+    "description": "When you cast fireball heightened to at least 4th level, you can modify the spell to add the following to its standard effects: Your fireball leaves behind a brief cloud of smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of obscuring mist, except that it lasts only 1 round.Smoldering Explosion Leads To...\n\nChoking SmokeTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

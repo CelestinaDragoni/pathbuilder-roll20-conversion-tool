@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=442",
+    "name": "Stunning Fist",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 2,
+    "prereq": "Flurry Of Blows",
+    "summary": "The focused power of your flurry threatens to overwhelm your opponent.",
+    "description": "The focused power of your flurry threatens to overwhelm your opponent. When you target the same creature with two Strikes from your Flurry of Blows, you can try to stun the creature. If either Strike hits and deals damage, the target must succeed at a Fortitude save against your class DC or be stunned 1 (or stunned 3 on a critical failure). This is an incapacitation effect.Stunning Fist Leads To...\n\nTriangle Shot",
+    "economy": "none",
+    "trigger": ""
+}

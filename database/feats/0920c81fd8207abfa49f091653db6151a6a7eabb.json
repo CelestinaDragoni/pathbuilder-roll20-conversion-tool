@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=528",
+    "name": "Second Sting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Press",
+        "Ranger"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You read your prey’s movements and transform them into openings, so failures with one weapon set up glancing blows with the other.",
+    "description": "You read your prey’s movements and transform them into openings, so failures with one weapon set up glancing blows with the other. Make a melee Strike with one of the required weapons against your hunted prey. The Strike gains the following failure effect. \n\nFailure You deal the damage the other required weapon would have dealt on a hit, excluding all damage dice. (This removes dice from weapon runes, spells, and special abilities, not just weapon damage dice.)Traits\n\nPress: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the Ready activity.",
+    "economy": "1-action",
+    "trigger": ""
+}

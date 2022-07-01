@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=609",
+    "name": "Bottle the Storm",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "When lightning is turned at you, you store the charge safely within yourself, unleashing it when the time is right.",
+    "heightenable": true,
+    "description": "When lightning is turned at you, you store the charge safely within yourself, unleashing it when the time is right. You gain electricity resistance 10 against the triggering effect. If you successfully prevent damage in this way, at any time during the spell’s duration, you can spend a single action, which has the attack trait, to expend the charge and make a melee spell attack at an adjacent target or a ranged spell attack at a target within 60 feet. This attack deals electricity damage equal to the damage prevented by bottle the storm. If you cast bottle the storm a second time before the original duration elapses, or if you do not make this attack, the stored charge dissipates harmlessly.\n\n------\n\nHeightened (7th) The resistance increases to 15, and you can immediately make the spell attack roll granted by bottle the storm as part of the reaction used to cast the spell.\nHeightened (10th) The resistance increases to 20, and you can immediately make the spell attack roll granted by bottle the storm as part of the reaction used to cast the spell.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "You would take electricity damage.",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

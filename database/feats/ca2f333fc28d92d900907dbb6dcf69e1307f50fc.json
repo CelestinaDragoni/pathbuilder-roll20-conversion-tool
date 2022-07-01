@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=555",
+    "name": "Distracting Feint",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 2,
+    "prereq": "Scoundrel Racket",
+    "summary": "Your Feints are far more distracting than normal, drawing your foes’ attention and allowing you and your allies to take greater advantage.",
+    "description": "Your Feints are far more distracting than normal, drawing your foes’ attention and allowing you and your allies to take greater advantage. While a creature is flat-footed by your Feint, it also takes a –2 circumstance penalty to Perception checks and Reflex saves.",
+    "economy": "none",
+    "trigger": ""
+}

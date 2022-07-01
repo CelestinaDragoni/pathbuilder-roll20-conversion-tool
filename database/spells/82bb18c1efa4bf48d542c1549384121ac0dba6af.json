@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=958",
+    "name": "Nullify",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 10,
+    "summary": "React to automatically counteract a spell and take backlash damage.",
+    "heightenable": false,
+    "description": "You instantly destroy the incoming spell, though at the cost of sending magical feedback through your body. You automatically counteract the spell, but the feedback brings you unavoidable harm. You lose 1d8 Hit Points per level of the triggering spell.",
+    "economy": "reaction",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "a foe within range casts a 9th-level or lower spell",
+    "range": "120 feet",
+    "target": "the triggering spell",
+    "duration": "",
+    "saving": ""
+}

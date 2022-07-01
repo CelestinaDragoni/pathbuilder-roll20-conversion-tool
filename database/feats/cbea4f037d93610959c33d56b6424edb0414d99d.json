@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2540",
+    "name": "Glory and Valor!",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Ganzi",
+        "Healing",
+        "Necromancy",
+        "Primal"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You are descended from the einherji, the worthy warriors of chaos.",
+    "description": "You are descended from the einherji, the worthy warriors of chaos. You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.Traits\n\nAuditory: Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a proteanHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Primal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.",
+    "economy": "1-action",
+    "trigger": ""
+}

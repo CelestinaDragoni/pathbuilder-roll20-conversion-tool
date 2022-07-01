@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=486",
+    "name": "Swift River",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 18,
+    "prereq": "&Mdash;",
+    "summary": "You flow like water, avoiding all restraints.",
+    "description": "You flow like water, avoiding all restraints. End one status penalty to your speed, or end one immobilized or slowed condition affecting you.",
+    "economy": "free_action",
+    "trigger": "Your turn ends and you have a status penalty to your Speed or are immobilized or slowed."
+}

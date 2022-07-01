@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1117",
+    "name": "Persistent Creation",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Halcyon Speaker Dedication",
+    "summary": "You can cast creation as an innate spell at will, choosing whether it is arcane or primal each time.",
+    "description": "You can cast creation as an innate spell at will, choosing whether it is arcane or primal each time. The created object lasts until you spend 1 hour not within its immediate vicinity or until it is destroyed. Such objects are called persistent creations. If you cast creation again, any persistent creation you previously created with the spell immediately disintegrates.Persistent Creation Leads To...\n\nCharged CreationTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

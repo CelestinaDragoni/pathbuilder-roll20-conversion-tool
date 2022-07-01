@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=730",
+    "name": "Advanced Trickery",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Basic Trickery",
+    "summary": "You gain one rogue feat.",
+    "description": "You gain one rogue feat. For the purpose of meeting its prerequisites, your rogue level is equal to half your character level.\n\nSpecial You can select this feat more than once. Each time you select it, you gain another rogue feat.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

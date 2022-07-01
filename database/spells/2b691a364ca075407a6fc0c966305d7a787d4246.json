@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=386",
+    "name": "Inspire Courage",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Cantrip",
+        "Composition",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "You inspire your allies with words or tunes of encouragement.",
+    "heightenable": false,
+    "description": "You inspire your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 round",
+    "saving": ""
+}

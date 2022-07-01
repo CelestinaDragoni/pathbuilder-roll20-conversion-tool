@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=324",
+    "name": "Summon Giant",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Conjure a giant to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure a giant to fight for you. This works like summon animal, except you summon a common creature that has the giant trait and whose level is 5 or lower, such as those below.\n\n------\n\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel 3 GiantsOgre Warrior (CE)Level 4 GiantsOgre Glutton (CE)Level 5 GiantsTroll (CE)Level 6 GiantsCave Giant (CE), Ettin (CE), Wood Giant (CG)Level 7 GiantsHill Giant (CE), Ogre Boss (CE)Level 8 GiantsMarsh Giant (CE), Onidoshi (LE), Stone Giant (N)Level 9 GiantsDesert Giant (LN), Frost Giant (CE)Level 10 GiantsFire Giant (LE), Troll King (CE)Level 11 GiantsCloud Giant (N)Level 12 GiantsAthach (CE), Taiga Giant (CN), Tomb Giant (NE)Level 13 GiantsIce Yai (CE), Shadow Giant (LE), Storm Giant (CG)Level 14 GiantsFire Yai (LE), Plague Giant (NE)Level 15 GiantsTaiga Yai (NE)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

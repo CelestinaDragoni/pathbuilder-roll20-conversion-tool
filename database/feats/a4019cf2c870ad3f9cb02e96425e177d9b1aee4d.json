@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3413",
+    "name": "Greater Sun Blessing",
+    "source": "Pathfinder #172",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Blessing Of The Sun Gods",
+    "summary": "Your connection to the Old Sun Gods grows stronger.",
+    "description": "Your connection to the Old Sun Gods grows stronger. You gain an advanced domain spell from a domain you chose with Blessing of the Sun Gods. Increase the number of Focus Points in your focus pool by 1.\n\nSpecial You can select this feat multiple times. Each time you do so, you must select a different domain for which you have an initial domain spell from Blessing of the Sun Gods.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

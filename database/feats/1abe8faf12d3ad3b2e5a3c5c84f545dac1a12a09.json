@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1666",
+    "name": "Ongoing Selfishness",
+    "source": "Advanced Player's Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Champion"
+    ],
+    "level": 1,
+    "prereq": "Desecrator Cause",
+    "summary": "Your powerful personality and incredible ego demand that you protect yourself above all else.",
+    "description": "Your powerful personality and incredible ego demand that you protect yourself above all else. After you use Selfish Shield, you gain resistance to all further damage from the triggering enemy until the end of the turn on which you used the reaction. This resistance is equal to half your Selfish Shield resistance.Traits\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

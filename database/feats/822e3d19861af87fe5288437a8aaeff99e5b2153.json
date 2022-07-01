@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1854",
+    "name": "First Revelation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Oracle Dedication",
+    "summary": "You gain your mystery's initial revelation spell.",
+    "description": "You gain your mystery's initial revelation spell. Casting this spell progresses your curse. Use the minor curse from your mystery, but when you progress it again, instead of your mystery's moderate curse effect, you become flat-footed in addition to the effects of the minor curse.\n\n If you don't have one, you gain a focus pool of 1 Focus Point. You can Refocus by reconciling the conflicting nature of your mystery, which also reduces your curse to minor.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

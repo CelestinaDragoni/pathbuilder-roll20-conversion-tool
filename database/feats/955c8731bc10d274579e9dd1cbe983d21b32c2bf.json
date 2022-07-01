@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2061",
+    "name": "Expert Disassembler",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Scrounger Dedication; Master In Crafting",
+    "summary": "You can apply the same techniques you use to reverse engineer objects to disable them.",
+    "description": "You can apply the same techniques you use to reverse engineer objects to disable them. You can use Crafting instead of Thievery to Disable a Device or Pick a Lock.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

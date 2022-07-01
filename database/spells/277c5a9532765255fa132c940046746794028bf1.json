@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=731",
+    "name": "Song of Marching",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Cantrip",
+        "Composition",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 3,
+    "summary": "You maintain a brisk performance that keeps allies on the move.",
+    "heightenable": true,
+    "description": "You maintain a brisk performance that keeps allies on the move. You and your allies in the area can Hustle for the spell's duration, even though you are also Sustaining the Spell. You and your allies then become temporarily immune for 1 day.\n\n------\n\nHeightened (6th) You can Sustain the Spell for up to 2 hours.\nHeightened (9th) You can Sustain the Spell for up to 4 hours.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained up to 1 hour",
+    "saving": ""
+}

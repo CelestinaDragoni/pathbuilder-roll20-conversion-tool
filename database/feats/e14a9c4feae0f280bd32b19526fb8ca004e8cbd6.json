@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3395",
+    "name": "Disengaging Twist",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Wrestler Dedication",
+    "summary": "Your ability to twist your opponents' bodies into painful locks and holds makes you particularly adept at escaping such predicaments.",
+    "description": "Your ability to twist your opponents' bodies into painful locks and holds makes you particularly adept at escaping such predicaments. Attempt an Athletics check to Escape the triggering condition. You gain a +2 circumstance bonus to this check.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature gives you the grabbed or restrained condition."
+}

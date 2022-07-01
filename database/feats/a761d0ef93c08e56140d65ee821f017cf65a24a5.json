@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=34",
+    "name": "Gnome Weapon Innovator",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 5,
+    "prereq": "Gnome Weapon Familiarity",
+    "summary": "You produce outstanding results when wielding unusual weapons.",
+    "description": "You produce outstanding results when wielding unusual weapons. Whenever you critically hit using a glaive, kukri, or gnome weapon, you apply the weapon's critical specialization effect.\nTraits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "none",
+    "trigger": ""
+}

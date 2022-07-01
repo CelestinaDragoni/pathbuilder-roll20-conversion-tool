@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1728",
+    "name": "Resounding Bravery",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 8,
+    "prereq": "Bravery",
+    "summary": "Even your fears serve as fuel for your fighting spirit.",
+    "description": "Even your fears serve as fuel for your fighting spirit. When you critically succeed at a Will save against a foe's ability, you gain a +1 status bonus to saves and a number of temporary Hit Points equal to half your level for 1 minute. These benefits are doubled if you critically succeed against a fear effect.",
+    "economy": "none",
+    "trigger": ""
+}

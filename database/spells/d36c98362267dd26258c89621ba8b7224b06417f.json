@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=67",
+    "name": "Detect Poison",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Detection",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Determine whether an object or creature is poisonous or venomous.",
+    "heightenable": true,
+    "description": "You detect whether a creature is venomous or poisonous, or if an object is poison or has been poisoned. You do not ascertain whether the target is poisonous in multiple ways, nor do you learn the type or types of poison. Certain substances, like lead and alcohol, are poisons and so mask other poisons.\n\n------\n\nHeightened (2nd) You learn the number and types of poison.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 object or creature",
+    "duration": "",
+    "saving": ""
+}

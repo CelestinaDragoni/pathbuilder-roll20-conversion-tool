@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1768",
+    "name": "Hunter's Luck",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 4,
+    "prereq": "Warden Spells",
+    "summary": "Your recollection of monsters is magically enhanced by luck.",
+    "description": "Your recollection of monsters is magically enhanced by luck. You gain the monster hunter's luck warden spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

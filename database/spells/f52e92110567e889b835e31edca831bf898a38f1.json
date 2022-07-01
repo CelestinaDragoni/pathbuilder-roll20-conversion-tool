@@ -1,0 +1,34 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=455",
+    "name": "Sweet Dream",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Auditory",
+        "Cleric",
+        "Enchantment",
+        "Linguistic",
+        "Mental",
+        "Sleep"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "With soothing song or tales, you lull the target into an enchanting dream.",
+    "heightenable": false,
+    "description": "With soothing song or tales, you lull the target into an enchanting dream. When you cast the spell, the target falls unconscious if it wasn't already. While unconscious, it experiences a dream of your choice. If it sleeps for at least 1 minute, it gains the benefit of the dream for the remainder of the spell's duration. Dream of Insight +1 status bonus to Intelligence-based skill checks Dream of Glamour +1 status bonus to Charisma-based skill checks Dream of Voyaging +5-foot status bonus to Speed If you Cast this Spell again, the effects of any previous sweet dream you cast end.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 willing creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

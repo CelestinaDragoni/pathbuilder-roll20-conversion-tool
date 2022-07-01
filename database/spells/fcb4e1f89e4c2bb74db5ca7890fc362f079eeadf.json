@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1086",
+    "name": "Wall of Shadow",
+    "source": "Pathfinder #172",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Darkness",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "You form a wall of pure darkness in a straight line up to 60 feet long and 10 feet high.",
+    "heightenable": true,
+    "description": "You form a wall of pure darkness in a straight line up to 60 feet long and 10 feet high. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. The wall stands vertically and, if you wish, can be of a shorter length or height. The wall prevents light from passing through and appears as a sheet of pure darkness to creatures observing it. Creatures without darkvision or those unable to see through darkness can't see creatures on the other side of the wall. The wall is too thin for creatures to Hide in the darkness itself, but creatures can Hide from creatures on the other side of the wall as normal.\n\n------\n\nHeightened (5th) Creatures with darkvision (but not greater darkvision) can barely see through the wall. They treat targets seen through the wall as concealed.\nHeightened (7th) Creatures with greater darkvision can barely see through the darkness. They treat targets seen through the wall as concealed. All other creatures are unable to see through the darkness at all.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

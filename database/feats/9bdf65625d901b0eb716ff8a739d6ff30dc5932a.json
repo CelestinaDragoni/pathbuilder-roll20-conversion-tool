@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2396",
+    "name": "Thorned Seedpod",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 9,
+    "prereq": "Seedpod",
+    "summary": "When your seedpods strike a felling blow, they burst into viciously thorny vines.",
+    "description": "When your seedpods strike a felling blow, they burst into viciously thorny vines. When you critically succeed at a seedpod Strike, vines twist and stab your foe, dealing 1d4 persistent piercing damage.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

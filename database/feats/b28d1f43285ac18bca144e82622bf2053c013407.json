@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3055",
+    "name": "Advanced Construct Companion",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 4,
+    "prereq": "Construct Companion",
+    "summary": "You've upgraded your construct companion's power and decision-making ability.",
+    "description": "You've upgraded your construct companion's power and decision-making ability. It becomes an advanced construct companion. During an encounter, even if you don't use the Command a Minion action, your construct companion can still use 1 action on your turn that round to Stride or Strike.Advanced Construct Companion Leads To...\n\nIncredible Construct Companion",
+    "economy": "none",
+    "trigger": ""
+}

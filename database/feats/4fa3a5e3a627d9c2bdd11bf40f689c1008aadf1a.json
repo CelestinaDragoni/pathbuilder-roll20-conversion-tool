@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2293",
+    "name": "Enforced Order",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 13,
+    "prereq": "Lawbringer",
+    "summary": "You never fail to strike down the ever-expanding reaches of chaos.",
+    "description": "You never fail to strike down the ever-expanding reaches of chaos. All your weapon and unarmed Strikes deal 1 additional lawful damage and have the lawful and magical traits.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "none",
+    "trigger": ""
+}

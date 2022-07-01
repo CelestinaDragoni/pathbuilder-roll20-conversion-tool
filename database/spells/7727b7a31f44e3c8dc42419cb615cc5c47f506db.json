@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=732",
+    "name": "Song of Strength",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Cantrip",
+        "Composition",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "You bolster your allies' physical strength with a hearty exhortation.",
+    "heightenable": false,
+    "description": "You bolster your allies' physical strength with a hearty exhortation. You and your allies gain a +1 status bonus to Athletics checks and to their DCs against Athletics skill actions such as Disarm, Shove, and Trip. \n\nSpecial If you have the inspire heroics composition spell, you can use that composition to improve the bonus granted by song of strength in the same way as inspire courage or inspire defense.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 round",
+    "saving": ""
+}

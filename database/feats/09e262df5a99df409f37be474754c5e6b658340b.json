@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=603",
+    "name": "Dangerous Sorcery",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your legacy grants you great destructive power.",
+    "description": "Your legacy grants you great destructive power. When you Cast a Spell from your spell slots, if the spell deals damage and doesn’t have a duration, you gain a status bonus to that spell’s damage equal to the spell’s level.",
+    "economy": "none",
+    "trigger": ""
+}

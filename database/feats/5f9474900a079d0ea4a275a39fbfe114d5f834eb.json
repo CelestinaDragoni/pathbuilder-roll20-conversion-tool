@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2093",
+    "name": "Stunning Appearance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Vigilante"
+    ],
+    "level": 16,
+    "prereq": "Startling Appearance (Vigilante)",
+    "summary": "Your sudden appearance leaves your foe unable to respond.",
+    "description": "Your sudden appearance leaves your foe unable to respond. When you use Startling Appearance, if your foe's level is equal to or lower than yours, they are also stunned 1 on a hit, or stunned 2 on a critical hit.Traits\n\nArchetype: This feat belongs to an archetype.\n\nVigilante: Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a vigilante.",
+    "economy": "none",
+    "trigger": ""
+}

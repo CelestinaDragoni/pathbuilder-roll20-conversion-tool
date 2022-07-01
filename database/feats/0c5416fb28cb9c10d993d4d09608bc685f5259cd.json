@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=735",
+    "name": "Basic Sorcerer Spellcasting",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Sorcerer Dedication",
+    "summary": "You gain the basic spellcasting benefits for sorcerer spellcasting.",
+    "description": "You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the sorcerer archetype, add a spell of the appropriate spell level to your repertoire: a common spell of your bloodline’s tradition, one of your bloodline’s granted spells, or another spell you have learned or discovered.Basic Sorcerer Spellcasting Leads To...\n\nBloodline Breadth, Expert Sorcerer SpellcastingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

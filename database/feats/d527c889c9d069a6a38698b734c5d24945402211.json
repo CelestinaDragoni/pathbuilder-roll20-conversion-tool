@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2429",
+    "name": "Ratfolk Roll",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Move",
+        "Ratfolk"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Your ability to curl up into a tight ball comes in handy.",
+    "description": "Your ability to curl up into a tight ball comes in handy. You roll up into a ball and move up to four times your Speed in a straight line down an incline. If you reach the bottom of the incline or hit an obstacle during this first turn of movement, you stop rolling safely. Otherwise, you automatically keep rolling at this Speed during subsequent turns until you hit the bottom of the incline or an obstacle ends this movement (which can happen in the middle of your turn). You're slowed 2 each turn after the first that you keep rolling, and if you hit an obstacle on a turn after the first, you and the obstacle both take 4d6 bludgeoning damage and you stop rolling.Traits\n\nMove: An action with this trait involves moving from one space to another.\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "2-action",
+    "trigger": ""
+}

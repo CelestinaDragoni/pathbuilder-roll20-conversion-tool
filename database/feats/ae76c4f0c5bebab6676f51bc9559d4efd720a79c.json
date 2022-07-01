@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1696",
+    "name": "Premonition of Avoidance",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your deity grants you limited foresight, warning you of dangers an instant before they occur.",
+    "description": "Your deity grants you limited foresight, warning you of dangers an instant before they occur. You gain a +2 circumstance bonus to the triggering saving throw.Premonition of Avoidance Leads To...\n\nShared Avoidance",
+    "economy": "reaction",
+    "trigger": "You attempt a saving throw against a hazard, but you haven't rolled yet."
+}

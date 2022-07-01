@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1751",
+    "name": "Focused Shot",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Monk"
+    ],
+    "level": 12,
+    "prereq": "Monastic Archer Stance",
+    "summary": "You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy.",
+    "description": "You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy. Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's concealed condition and all cover.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "1-action",
+    "trigger": ""
+}

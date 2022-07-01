@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=560",
+    "name": "Tireless Worker",
+    "source": "Pathfinder #148",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Temporarily suppress a negative condition.",
+    "heightenable": false,
+    "description": "You suppress your choice of one of the following conditions that’s affecting the target: clumsy, encumbered, enfeebled, or fatigued. If you don’t remove the effect that caused the condition, the condition returns after the spell’s duration expires.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "sustained for up to 1 minute",
+    "saving": ""
+}

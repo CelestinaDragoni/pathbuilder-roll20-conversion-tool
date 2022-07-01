@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1640",
+    "name": "Assured Knowledge",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 6,
+    "prereq": "Enigma Muse",
+    "summary": "You can procure information with confidence.",
+    "description": "You can procure information with confidence. Whenever you Recall Knowledge using any skill (including Bardic Lore), you can forgo rolling your check to instead receive a result of 10 + your proficiency bonus (don't apply any other bonuses, penalties, or modifiers). As long as you are an expert in a skill, you meet the prerequisites for the Automatic Knowledge skill feat in that skill, even if you don't have Assurance in that skill.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Assured Knowledge Leads To...Enigma's Knowledge",
+    "economy": "none",
+    "trigger": ""
+}

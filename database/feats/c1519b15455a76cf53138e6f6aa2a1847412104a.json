@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=537",
+    "name": "Legendary Monster Hunter",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Ranger"
+    ],
+    "level": 16,
+    "prereq": "Master Monster Hunter; Legendary In Nature",
+    "summary": "Your knowledge of monsters is so incredible that it reveals glaring flaws in your prey.",
+    "description": "Your knowledge of monsters is so incredible that it reveals glaring flaws in your prey. Your bonus from Monster Hunter (and the bonus from Monster Warden if you have it) increases from +1 to +2 for you and any allies who benefit.",
+    "economy": "none",
+    "trigger": ""
+}

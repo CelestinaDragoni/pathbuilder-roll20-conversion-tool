@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=310",
+    "name": "Metamagic Channel",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric",
+        "Concentrate"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "Deep understanding of divine revelations into the nature of vital essence allows you to freely manipulate the effects of your positive or negative energy.",
+    "description": "Deep understanding of divine revelations into the nature of vital essence allows you to freely manipulate the effects of your positive or negative energy. Use 1 metamagic action that you can perform that normally takes 1 action and can be applied to the harm or heal spell. If you use it in this way, its effects apply only to a harm or heal spell.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "free_action",
+    "trigger": ""
+}

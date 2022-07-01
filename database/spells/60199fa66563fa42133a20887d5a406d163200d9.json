@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=882",
+    "name": "Chromatic Image",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Colorful mirror images damage foes who destroy them.",
+    "heightenable": false,
+    "description": "You call forth three illusory images of yourself, and each of the four of you takes on a different color, your colors all shifting each time someone attacks you. This has the effects of mirror image, except that whenever a foe destroys one of the images, roll 1d4 to see which color the image was when it was destroyed. The attacker takes the corresponding effect. Red 5 fire damage and 5 mental damage.Orange 5 acid damage and 5 mental damage.Yellow 5 electricity damage and 5 mental damage.Green 5 poison damage and 5 mental damage, plus it's frightened 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

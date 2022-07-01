@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1972",
+    "name": "Familiar Conduit",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Conjuration",
+        "Metamagic"
+    ],
+    "level": 4,
+    "prereq": "Familiar Master Dedication; Able To Cast Spells",
+    "summary": "Under your tutelage, your familiar has grown attuned to the hidden currents of the world and can serve as a conduit for your magic.",
+    "description": "Under your tutelage, your familiar has grown attuned to the hidden currents of the world and can serve as a conduit for your magic. If the next action you use is to Cast a Spell that has a range, the spell uses the familiar as its origin point.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.Metamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

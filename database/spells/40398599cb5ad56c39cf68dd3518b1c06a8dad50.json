@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=309",
+    "name": "Stinking Cloud",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Poison"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Form a cloud that sickens creatures.",
+    "heightenable": false,
+    "description": "You create a cloud of putrid mist in the area. The cloud functions as obscuring mist except it sickens creatures that end their turns within the cloud. (The concealed condition is not a poison effect.)\n\nCritical Success The creature is unaffected.\nSuccess The creature is sickened 1.\nFailure The creature is sickened 1 and slowed 1 while in the cloud.\nCritical Failure The creature is sickened 2 and slowed 1 until it leaves the cloud.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": "Fortitude"
+}

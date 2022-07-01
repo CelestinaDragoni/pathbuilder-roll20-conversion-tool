@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1112",
+    "name": "Rain-Scribe Mobility",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Magaambyan Attendant Dedication; Rain-scribes Affiliation",
+    "summary": "You surround yourself in a mantle of Rain-Scribe magic and Stride twice; difficult terrain does not reduce your Speed, even if the difficult terrain has been manipulated by magic.",
+    "description": "You surround yourself in a mantle of Rain-Scribe magic and Stride twice; difficult terrain does not reduce your Speed, even if the difficult terrain has been manipulated by magic. Your magic clears the difficult terrain in each square you entered; until your next turn, those squares aren’t difficult terrain for any creature walking through them (or are normal difficult terrain if they were previously greater difficult terrain).Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

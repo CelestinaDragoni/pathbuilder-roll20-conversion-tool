@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1853",
+    "name": "Basic Oracle Spellcasting",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Oracle Dedication",
+    "summary": "You gain the basic spellcasting benefits.",
+    "description": "You gain the basic spellcasting benefits. When you gain a spell slot of a new level from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered to your repertoire, of that spell level.Basic Oracle Spellcasting Leads To...\n\nExpert Oracle Spellcasting, Mysterious BreadthTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3406",
+    "name": "Cloud Walk",
+    "source": "Pathfinder #171",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Dragon Disciple Dedication",
+    "summary": "Your growing link to cloud dragons has granted you the ability to walk on clouds.",
+    "description": "Your growing link to cloud dragons has granted you the ability to walk on clouds. Once per hour, you can cast air walk on yourself as an innate arcane spell, but only to walk on clouds or fog.TraitsArchetype: This feat belongs to an archetype.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.Bloodsalt Dragon Disciple FeatsSource Pathfinder #171: Hurricane's Howl pg. 79\nThe following archetype feats are for the dragon disciple archetype. You must take the Dragon Disciple Dedication feat before selecting any of these feats, and you must select cloud dragon (which is associated with the electricity energy type) as the type of dragon you've studied. The feats below are dragon disciple archetype feats. By studying the ruins (see the AP for full details), you gain access to the dragon disciple archetype and to these feats\n\n If you have the draconic sorcerer bloodline, you must choose cloud dragon as your dragon type. This choice affects the dragon breath and dragon claws bloodline spells and several of the feats below.\n\n\nRelated Feats: Deflecting Cloud, Mighty Wings, Shape of the Cloud Dragon",
+    "economy": "none",
+    "trigger": ""
+}

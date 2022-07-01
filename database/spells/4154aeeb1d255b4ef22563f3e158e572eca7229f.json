@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=517",
+    "name": "Tentacular Limbs",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Morph",
+        "Sorcerer",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Your arms turn into long, pliable tentacles, increasing your reach when you’re delivering touch range spells and making unarmed Strikes with your arms.",
+    "heightenable": true,
+    "description": "Your arms turn into long, pliable tentacles, increasing your reach when you're delivering touch range spells and making unarmed Strikes with your arms (such as fist and claw Strikes) to 10 feet. This doesn't change the reach of your melee weapon attacks. During the duration, whenever you Cast a Spell, you can add an additional action to that spell's casting to temporarily extend your reach to 20 feet to deliver that spell.\n\n------\n\nHeightened (+2) When you add an additional action to a spell to temporarily extend your reach, your reach increases by an additional 10 feet to deliver that spell.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

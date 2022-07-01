@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2151",
+    "name": "Skitter",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 3,
+    "prereq": "Fleet; Dexterity 16",
+    "summary": "Crawl up to half your Speed.",
+    "description": "You can scoot swiftly across the ground. You can Crawl up to half your Speed. Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

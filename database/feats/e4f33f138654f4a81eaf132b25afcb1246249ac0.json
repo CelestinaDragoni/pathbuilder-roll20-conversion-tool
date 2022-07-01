@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=153",
+    "name": "Renewed Vigor",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Concentrate",
+        "Rage"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You pause to recover your raging vigor.",
+    "description": "You pause to recover your raging vigor. You gain temporary Hit Points equal to half your level plus your Constitution modifier.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

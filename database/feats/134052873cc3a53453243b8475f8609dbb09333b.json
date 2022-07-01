@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3219",
+    "name": "Practiced Reloads",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Gunslinger Dedication",
+    "summary": "You've mastered the reloading techniques and methods usually practiced by only the most dedicated firearm professionals.",
+    "description": "You've mastered the reloading techniques and methods usually practiced by only the most dedicated firearm professionals. You gain the slinger's reload for the way you selected with Gunslinger's Dedication.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

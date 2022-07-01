@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=664",
+    "name": "Shadow Jump",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Conjuration",
+        "Shadow",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You instantly transport yourself from one shadow to another.",
+    "heightenable": true,
+    "description": "You instantly transport yourself from one shadow to another. Teleport yourself and any items you're wearing and holding from your current space to a clear space you can see that's in dim light or darkness and within range. You can transport your familiar with this spell, but if shadow jump would bring any other creature with you—even if you're carrying the creature in an extradimensional container—the spell is disrupted.\n\n------\n\nHeightened (8th) When you arrive at your destination, you can become invisible until the end of your next turn or until you are no longer in an area of dim light or darkness, whichever comes first. The invisibility is an illusion effect.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

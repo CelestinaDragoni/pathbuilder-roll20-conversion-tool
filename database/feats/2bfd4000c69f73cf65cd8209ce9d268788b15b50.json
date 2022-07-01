@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2679",
+    "name": "Riptide",
+    "source": "Absalom, City of Lost Omens",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 9,
+    "prereq": "Drag Down; Expert In Athletics",
+    "summary": "Drag a grabbed creature into nearby water",
+    "description": "You Stride up to 10 feet to enter the water, bringing the grabbed creature with you into the water.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "reaction",
+    "trigger": "You successfully Grapple a creature of the same size as you or smaller."
+}

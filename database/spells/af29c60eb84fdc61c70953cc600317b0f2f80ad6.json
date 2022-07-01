@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=659",
+    "name": "Undermine Reality",
+    "source": "Pathfinder #156",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion",
+        "Incapacitation",
+        "Shadow"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "You lash a target with tendrils of shadow that steal some of its substance, making it quasi-real.",
+    "heightenable": false,
+    "description": "You lash a target with tendrils of shadow that steal some of its substance, making it quasi-real. As long as it is quasi-real, its Strikes deal half damage, it can't critically succeed at any skill check, and creatures attempting saving throws against its spells and effects get a result one degree of success better than they rolled. The target must attempt a Will saving throw.\n\nCritical Success The target is unaffected.\nSuccess The target is quasi-real until the end of its next turn.\nFailure The target is quasi-real for 1 minute. At the end of each of its turns, it can attempt another Will save, ending the spell on a success.\nCritical Failure The target is quasi-real for an unlimited duration.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "one creature",
+    "duration": "varies",
+    "saving": ""
+}

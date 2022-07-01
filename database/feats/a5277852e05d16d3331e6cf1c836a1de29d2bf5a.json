@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1729",
+    "name": "Cut from the Air",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "You can knock aside ranged attacks.",
+    "description": "You can knock aside ranged attacks. You gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, you knocked or cut it out of the air.Cut from the Air Leads To...\n\nSmash from the Air",
+    "economy": "reaction",
+    "trigger": "You are the target of a physical ranged Strike."
+}

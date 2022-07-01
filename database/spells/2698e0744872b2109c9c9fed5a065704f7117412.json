@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=729",
+    "name": "Ode to Ouroboros",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Composition",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "Your ode temporarily staves off death.",
+    "heightenable": false,
+    "description": "Your ode temporarily staves off death. The target's dying condition remains 1 below the value at which it dies. This doesn't help prevent death from effects that kill the target without increasing its dying condition, such as disintegrate and death effects.",
+    "economy": "reaction",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "a creature's dying value would reach the value at which they would die.",
+    "range": "60 feet",
+    "target": "the triggering creature",
+    "duration": "",
+    "saving": ""
+}

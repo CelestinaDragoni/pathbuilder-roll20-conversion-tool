@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=459",
+    "name": "Touch of Obedience",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Your imperious touch erodes the target’s willpower, making it easier to control.",
+    "heightenable": false,
+    "description": "Your imperious touch erodes the target's willpower, making it easier to control. The target attempts a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target is stupefied 1 until the end of your current turn.\nFailure The target is stupefied 1 until the end of your next turn.\nCritical Failure The target is stupefied 1 for 1 minute.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 living creature",
+    "duration": "varies",
+    "saving": "Will"
+}

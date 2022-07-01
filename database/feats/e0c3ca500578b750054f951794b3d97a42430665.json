@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2394",
+    "name": "Anchoring Roots",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Small roots sprout from your feet, steadying you as you move.",
+    "description": "Small roots sprout from your feet, steadying you as you move. You gain the Steady Balance skill feat, even if you aren't trained in Acrobatics, and you can use the Anchor action.\n\n Anchor     Effect You send your roots deeper into the ground, making it harder for you to stumble. Until you move, you gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to Shove or Trip you (or a +4 circumstance bonus if you're a root leshy). This bonus also applies to saving throws against spells or effects that attempt to move you or knock you prone. If an effect forces you to move, you move only half the normal distance, as some of the effort goes to tearing out the roots. At the GM's discretion, this ability might not work on ground that's more resilient than stone, such as metal flooring or magically-reinforced masonry.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "1-action",
+    "trigger": ""
+}

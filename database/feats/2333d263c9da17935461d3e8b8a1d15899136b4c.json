@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3526",
+    "name": "Storm Shroud",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Conjuration",
+        "Divine"
+    ],
+    "level": 8,
+    "prereq": "Mummy Dedication",
+    "summary": "You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain.",
+    "description": "You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create— typically earth for sand and water for rain, snow, or clouds. You become concealed for 1 minute. You can't use this concealment to Hide or Sneak, as normal for concealment that makes your position obvious.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Conjuration: Effects and magic items with this trait are associated with the conjuration school of magic, typically involving summoning, creation, teleportation, or moving things from place to place.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.",
+    "economy": "2-action",
+    "trigger": ""
+}

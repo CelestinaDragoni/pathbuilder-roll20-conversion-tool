@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2746",
+    "name": "Demon's Hair",
+    "source": "Pathfinder #168",
+    "rarity": "Uncommon",
+    "traits": [
+        "Witch"
+    ],
+    "level": 20,
+    "prereq": "Living Hair",
+    "summary": "Your hair constantly wriggles and writhes.",
+    "description": "Your hair constantly wriggles and writhes like that of your rival, Syu Tak-nwa. Your damage die of your hair unarmed Strike increases by one step and it gains the reach and versatile slashing traits. Your familiar assumes partial control over your hair; as long as your familiar is alive and within 30 feet, you are permanently quickened, and you can use the extra action only to make a hair Strike. You can deliver hexes through your hair. When you successfully cast a non-cantrip hex that requires 2 or more actions to cast and that doesn't require a spell attack roll, if your target is within your reach, as part of the spellcasting activity you can make a hair Strike against them before applying any effects of the hex. If this Strike misses, the hex has no effect.\n\nSpecial If your hair already has the reach trait, it instead gains the sweep trait.TraitsUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.\n\nCapstone FeatsSource Pathfinder #168: King of the Mountain pg. 75\nPlayer characters can select one of the following new class feats for their 20th-level class feat upon entering the Glass Lighthouse or by meditating on the cushion in area H4.\n\nRelated Feats: All the Time in the World, Dance of Intercession, Everdistant Defense, Extradimensional Stash, Head of the Night Parade, Heart of the Kaiju, Plum Deluge, Ruby Resurrection, Scapegoat Parallel Self, Sever Space, Time Dilation Cascade, Vitality-Manipulating Stance, Vivacious Afterimage, Whirlwind Toss, Worldsphere Gravity",
+    "economy": "none",
+    "trigger": ""
+}

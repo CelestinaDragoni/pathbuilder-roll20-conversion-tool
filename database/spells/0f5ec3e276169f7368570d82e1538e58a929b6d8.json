@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=169",
+    "name": "Know Direction",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Detection",
+        "Divination"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Find true north.",
+    "heightenable": true,
+    "description": "In your mind's eye, you see a path northward. You immediately know which direction is north (if it exists at your current location).\n\n------\n\nHeightened (7th) You can instead know the direction to a familiar location, such as a previous home or a favorite tavern.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

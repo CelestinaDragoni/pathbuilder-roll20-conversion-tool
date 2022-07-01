@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=809",
+    "name": "Wilding Word",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cantrip",
+        "Enchantment",
+        "Hex",
+        "Witch"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 1,
+    "summary": "With a few words, you convince a wild creature you are a kindred spirit, making it reluctant to harm you.",
+    "heightenable": false,
+    "description": "With a few words, you convince a wild creature you are a kindred spirit, making it reluctant to harm you. The target must attempt a Will save. Regardless of the outcome, the target is then temporarily immune for 1 minute.\n\nCritical Success The target is unaffected.\nSuccess When the target attempts an attack roll or skill check that would harm you, it takes a –2 status penalty to its roll.\nFailure As success, but the target also becomes sickened 1 each time it damages you.\nCritical Failure As success, but the target also becomes sickened 2 each time it damages you.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 animal, fungus, or plant",
+    "duration": "sustained up to 1 minute",
+    "saving": "Will"
+}

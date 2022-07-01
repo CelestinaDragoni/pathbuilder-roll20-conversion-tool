@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2712",
+    "name": "Disrupting Strikes",
+    "source": "Pathfinder #166",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Ghost Eater Dedication",
+    "summary": "You call forth positive energy from within to help you destroy undead.",
+    "description": "You call forth positive energy from within to help you destroy undead. Your weapon and unarmed Strikes gain the effects of a disrupting property rune until the start of your next turn.\n\n If you're 14th level or higher, your Strikes instead gain the effects of a greater disrupting property rune. The DC for the rune's effect is equal to your class DC or spell DC, whichever is higher.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

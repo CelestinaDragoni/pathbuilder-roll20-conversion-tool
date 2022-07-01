@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=460",
+    "name": "Mixed Maneuver",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 8,
+    "prereq": "Master In Athletics",
+    "summary": "You combine two different maneuvers together into a single flowing whole.",
+    "description": "You combine two different maneuvers together into a single flowing whole. Choose any two of Grapple, Shove, and Trip. Attempt both of the attacks you chose against the same or different creatures, but don’t apply the multiple attack penalty until after resolving both attacks.",
+    "economy": "2-action",
+    "trigger": ""
+}

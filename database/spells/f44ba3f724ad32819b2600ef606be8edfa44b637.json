@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=21",
+    "name": "Bind Soul",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evil",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 9,
+    "summary": "Imprison a dead creature's soul.",
+    "heightenable": false,
+    "description": "You wrench the target's soul away before it can pass on to the afterlife and imprison it in a black sapphire.\n\n While the soul is in the gem, the target can't be returned to life through any means, even powerful magic such as wish. If the gem is destroyed or bind soul is counteracted on the gem, the soul is freed. The gem has AC 16 and Hardness 10. A gem can't hold more than one soul, and any attempt wastes the spell.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature that died within the last minute",
+    "duration": "unlimited",
+    "saving": ""
+}

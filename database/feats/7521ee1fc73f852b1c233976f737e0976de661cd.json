@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2774",
+    "name": "Web Hunter",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Anadi"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Through the careful cultivation of highly sensitive hairs, you've developed the ability to sense creatures without seeing them.",
+    "description": "Through the careful cultivation of highly sensitive hairs, you've developed the ability to sense creatures without seeing them. You gain imprecise tremorsense at a range of 15 feet. When you and a creature are both touching the same anchored, threadlike object (such as a rope, webbing, or wire), your imprecise tremorsense can sense that creature at a range of 60 feet.Traits\n\nAnadi: Anadis are peaceful, reclusive humanoids who live deep within woodlands, jungles, and other untamed areas of wilderness. Their natural forms resemble humanoid spiders covered in beautiful and distinctive markings of varying colors.",
+    "economy": "none",
+    "trigger": ""
+}

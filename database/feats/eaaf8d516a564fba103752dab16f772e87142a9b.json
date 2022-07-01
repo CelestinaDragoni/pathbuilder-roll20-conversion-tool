@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3142",
+    "name": "Take the Wheel",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish"
+    ],
+    "level": 4,
+    "prereq": "Trick Driver Dedication; Expert In Driving Lore",
+    "summary": "Diving into a moving vehicle and seizing the controls is nothing new for you.",
+    "description": "Diving into a moving vehicle and seizing the controls is nothing new for you. You Board and Take Control of the adjacent vehicle.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

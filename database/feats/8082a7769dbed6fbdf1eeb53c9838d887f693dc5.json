@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1741",
+    "name": "Gorilla Pound",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Flourish",
+        "Mental",
+        "Monk"
+    ],
+    "level": 6,
+    "prereq": "Gorilla Stance; Expert In Intimidation",
+    "summary": "You pound your chest before slamming into your foes.",
+    "description": "You pound your chest before slamming into your foes. Attempt an Intimidation check to Demoralize, then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's frightened condition.\n\nSpecial If you have this feat, while you are in Gorilla Stance, you gain a climb Speed of 15 feet.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "1-action",
+    "trigger": ""
+}

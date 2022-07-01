@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3071",
+    "name": "Helpful Tinkering",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor",
+        "Manipulate"
+    ],
+    "level": 10,
+    "prereq": "Offensive Boost",
+    "summary": "You don't just tinker with your own innovation, you fiddle with your allies' weapons as well (for their benefit, of course).",
+    "description": "You don't just tinker with your own innovation, you fiddle with your allies' weapons as well (for their benefit, of course). Choose an ally in your reach and one of their weapons. Attempt a Crafting check against a high DC for your level.\n\nSuccess For 1 minute, the chosen ally's Strikes with the chosen weapon gain the same offensive boost your innovation has.\nCritical Failure Your ally takes damage of the type and amount that your offensive boost normally deals on a successful Strike.Traits\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "1-action",
+    "trigger": ""
+}

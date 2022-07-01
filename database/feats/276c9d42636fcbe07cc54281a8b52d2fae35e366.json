@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2454",
+    "name": "Qlippoth Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 9,
+    "prereq": "Riftmarked",
+    "summary": "You've deeply studied the secrets of your blood and can force reality to act against its own wishes.",
+    "description": "You've deeply studied the secrets of your blood and can force reality to act against its own wishes. You can cast blur and silence once per day each as 2nd-level divine innate spells.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

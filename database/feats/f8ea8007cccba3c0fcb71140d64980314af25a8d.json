@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2872",
+    "name": "Meteoric Spellstrike",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Arcane",
+        "Evocation",
+        "Magus"
+    ],
+    "level": 10,
+    "prereq": "Spellstrike, Starlit Span Hybrid Study",
+    "summary": "A trail of energy flows from your target back to you.",
+    "description": "A trail of energy flows from your target back to you. Make a Spellstrike with a ranged weapon or ranged unarmed attack against a target within the ranged weapon or unarmed attack's first range increment. The spell you cast for the Spellstrike can't be a cantrip or focus spell. Each creature in a line between you and the target, excluding you and the target, takes damage equal to double the spell's level. Determine the damage type as described in Arcane Cascade.Traits\n\nArcane: This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is magical.\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.",
+    "economy": "2-action",
+    "trigger": ""
+}

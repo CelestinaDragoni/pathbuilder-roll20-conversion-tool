@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2645",
+    "name": "Story Crooner",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Strix"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You're a talented story weaver and use your voice effectively.",
+    "description": "You're a talented story weaver and use your voice effectively. You are trained in Performance. If you would automatically become trained in Performance, you instead become trained in a skill of your choice. You also gain the Impressive Performance skill feat and gain a +1 circumstance bonus when Performing for an audience of strix.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "none",
+    "trigger": ""
+}

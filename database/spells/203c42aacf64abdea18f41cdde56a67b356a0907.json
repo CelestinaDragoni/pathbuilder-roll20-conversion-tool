@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=99",
+    "name": "Endure Elements",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Protect a creature from severe cold or heat.",
+    "heightenable": true,
+    "description": "You shield the target against dangerous temperatures. Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).\n\n------\n\nHeightened (3rd) The target is protected from severe cold and heat.\nHeightened (5th) The target is protected from severe cold, severe heat, extreme cold, and extreme heat.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "until the next time you make your daily preparations",
+    "saving": ""
+}

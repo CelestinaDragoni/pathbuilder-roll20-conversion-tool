@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3594",
+    "name": "Shepherd of Desolation",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Aura"
+    ],
+    "level": 12,
+    "prereq": "Knight Reclaimant Dedication; Survivor Of Desolation",
+    "summary": "You know how to keep others alive in the Gravelands' murkiest shadows.",
+    "description": "You know how to keep others alive in the Gravelands' murkiest shadows. Allies within 10 feet of you gain the benefit of Survivor of Desolation. If you are a champion, this aura is a champion aura, even though you gained it from Knight Reclaimant instead of a champion feat or feature.Traits\n\nArchetype: This feat belongs to an archetype.\n\nAura: An aura is an emanation that continually ebbs out from you, affecting creatures within a certain radius. Aura can also refer to the magical signature of an item or a creature with a strong alignment.",
+    "economy": "none",
+    "trigger": ""
+}

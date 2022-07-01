@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=447",
+    "name": "Retributive Pain",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric",
+        "Mental",
+        "Nonlethal"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "You vengefully reflect your pain upon your tormentor.",
+    "heightenable": false,
+    "description": "You vengefully reflect your pain upon your tormentor. The target takes mental damage equal to half the amount it dealt to you when it triggered the spell.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "A creature in range damages you.",
+    "range": "30 feet",
+    "target": "the triggering creature",
+    "duration": "",
+    "saving": ""
+}

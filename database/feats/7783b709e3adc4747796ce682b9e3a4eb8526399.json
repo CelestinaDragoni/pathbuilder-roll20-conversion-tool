@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2642",
+    "name": "Invisible Trickster",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sprite"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You have learned how to become invisible and remain so.",
+    "description": "You have learned how to become invisible and remain so. You can cast 4th-level invisibility as a primal innate spell once per hour.Traits\n\nSprite: A family of diminutive winged fey with a strong connection to primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=62",
+    "name": "Deafness",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Make a creature deaf.",
+    "heightenable": false,
+    "description": "The target loses hearing; it must attempt a Fortitude save. The target is then temporarily immune for 1 minute.\n\nCritical Success The target is unaffected.\nSuccess The target is deafened for 1 round.\nFailure The target is deafened for 10 minutes.\nCritical Failure The target is deafened permanently.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": "FortitudeThe target loses hearing"
+}

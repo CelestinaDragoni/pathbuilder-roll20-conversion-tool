@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3397",
+    "name": "Suplex",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Wrestler Dedication",
+    "summary": "Flexing your entire body, you heave your opponent over your head and slam them into the ground.",
+    "description": "Flexing your entire body, you heave your opponent over your head and slam them into the ground. Make an unarmed melee Strike against the creature you have grabbed or restrained; on a success, the target lands prone, and on a critical success, the target lands prone and takes an additional 2d6 bludgeoning damage. Regardless of whether the Strike is successful, you immediately release your hold on the target.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

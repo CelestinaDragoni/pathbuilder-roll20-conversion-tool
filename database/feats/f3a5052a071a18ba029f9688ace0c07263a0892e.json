@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=878",
+    "name": "Duelist's Edge",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Aldori Duelist Dedication",
+    "summary": "Increase your initiative with the dueling sword.",
+    "description": "You hone your reaction time through duels and learn to draw your weapon seamlessly as you begin a fight. You gain a +2 circumstance bonus to the triggering initiative roll, and you can immediately Interact to draw your Aldori dueling sword.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "free_action",
+    "trigger": "You roll initiative, and you can observe at least one opponent."
+}

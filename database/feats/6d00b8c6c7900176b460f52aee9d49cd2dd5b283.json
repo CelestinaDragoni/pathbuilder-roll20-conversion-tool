@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2094",
+    "name": "Viking Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In Athletics",
+    "summary": "Vikings spend long periods of time at sea, only to leap from their boats at a moment's notice, charge through the surf, and take their enemies by storm.",
+    "description": "Vikings spend long periods of time at sea, only to leap from their boats at a moment's notice, charge through the surf, and take their enemies by storm. You're trained in Sailing Lore. When moving through water using your land Speed, you ignore difficult terrain resulting from shallow water, such as in bogs or on beaches. In addition, if you roll a success for your Athletics check to Swim, you get a critical success instead.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the viking archetype.Viking Dedication Leads To...\n\nHurling Charge, Second Shield, Viking Vindicator, Viking Weapon FamiliarityTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

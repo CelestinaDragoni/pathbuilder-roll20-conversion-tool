@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3155",
+    "name": "Cover Fire",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You lay down suppressive fire to protect allies by forcing foes to take cover from your wild attacks.",
+    "description": "You lay down suppressive fire to protect allies by forcing foes to take cover from your wild attacks. Make a firearm or crossbow Strike; the target must decide before you roll your attack whether it will duck out of the way. If the target ducks, it gains a +2 circumstance bonus to AC against your attack, or a +4 circumstance bonus to AC if it has cover. It also takes a –2 circumstance penalty to ranged attack rolls until the end of its next turn. If the target chooses not to duck, you gain a +1 circumstance bonus to your attack roll for that Strike.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1746",
+    "name": "Pinning Fire",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "You target your opponent's clothing, equipment, or loose flesh with piercing projectiles to pin them to the ground or a nearby surface.",
+    "description": "You target your opponent's clothing, equipment, or loose flesh with piercing projectiles to pin them to the ground or a nearby surface. If both your attacks hit, the target must succeed at a Reflex save against your class DC or become immobilized until it or an adjacent creature succeeds at a DC 10 Athletics check to remove the pinning projectiles. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.",
+    "economy": "free_action",
+    "trigger": "You use Flurry of Blows to make two ranged piercing weapon Strikes against the same target."
+}

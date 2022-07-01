@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3407",
+    "name": "Shape of the Cloud Dragon",
+    "source": "Pathfinder #171",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Dragon Disciple Dedication",
+    "summary": "You've discovered how to transform yourself into a cloud dragon.",
+    "description": "You've discovered how to transform yourself into a cloud dragon. Once per day, you can cast 7th-level dragon form as an innate arcane spell, transforming into a cloud dragon. The spell automatically heightens to 8th level if you're 16th level and 9th level if you're 18th level. On a critical hit with an unarmed Strike gained from dragon form, you recharge the spell's breath weapon immediately.\n\n While in this form, you gain the following cloud dragon–specific abilities: Cloud cloud walk (you can walk on clouds or fog); Melee    jaws, Damage 2d10 piercing plus 1d12 electricity; Melee     claw (agile), Damage 3d10 slashing; Melee     tail (reach 10 feet), Damage 3d10 bludgeoning; Melee     horn (reach 10 feet), Damage 3d8 piercing; breath weapon 30-foot cone, 6d12 electricity.Special You can use this feat in place of Shape of the Dragon to fulfill feat requirements.TraitsArchetype: This feat belongs to an archetype.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.Bloodsalt Dragon Disciple FeatsSource Pathfinder #171: Hurricane's Howl pg. 79\nThe following archetype feats are for the dragon disciple archetype. You must take the Dragon Disciple Dedication feat before selecting any of these feats, and you must select cloud dragon (which is associated with the electricity energy type) as the type of dragon you've studied. The feats below are dragon disciple archetype feats. By studying the ruins (see the AP for full details), you gain access to the dragon disciple archetype and to these feats\n\n If you have the draconic sorcerer bloodline, you must choose cloud dragon as your dragon type. This choice affects the dragon breath and dragon claws bloodline spells and several of the feats below.\n\n\nRelated Feats: Cloud Walk, Deflecting Cloud, Mighty Wings",
+    "economy": "1-action",
+    "trigger": ""
+}

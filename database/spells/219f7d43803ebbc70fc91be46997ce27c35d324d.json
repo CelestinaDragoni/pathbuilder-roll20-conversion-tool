@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=412",
+    "name": "Dazzling Flash",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Evocation",
+        "Light",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You raise your religious symbol and create a blinding flash of light.",
+    "heightenable": true,
+    "description": "You raise your religious symbol and create a blinding flash of light. Each creature in the area must attempt a Fortitude save.\n\nCritical Success The creature is unaffected.\nSuccess The creature is dazzled for 1 round.\nFailure The creature is blinded for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.\nCritical Failure The creature is blinded for 1 round and dazzled for 1 hour.\n\n------\n\nHeightened (3rd) The area increases to a 30-foot cone.",
+    "economy": "2-action",
+    "components": [
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

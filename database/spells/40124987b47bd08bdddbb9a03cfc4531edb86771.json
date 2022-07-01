@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1061",
+    "name": "Inscrutable Mask",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion",
+        "Shadow"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You shroud your form and features in an impenetrable mask of shadow.",
+    "heightenable": true,
+    "description": "You shroud your form and features in an impenetrable mask of shadow. The mask grants you a +1 status bonus to Deception checks to Lie or Feint, Intimidation checks to Demoralize, and Stealth checks to Hide in areas of dim light or darkness.\n\n------\n\nHeightened (6th) The status bonus increases to +2.\nHeightened (9th) The status bonus increases to +3.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "10 minutes",
+    "saving": ""
+}

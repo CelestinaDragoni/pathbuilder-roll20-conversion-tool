@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=556",
+    "name": "Minor Magic",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You’ve dabbled in a variety of tricks, gaining minor magical abilities from a particular tradition.",
+    "description": "You’ve dabbled in a variety of tricks, gaining minor magical abilities from a particular tradition. Choose arcane, divine, occult, or primal magic, and gain two cantrips from the common cantrips available to that tradition. Your key spellcasting ability is Charisma, and you're trained in spell attack rolls and DCs for the tradition of your chosen cantrips.",
+    "economy": "none",
+    "trigger": ""
+}

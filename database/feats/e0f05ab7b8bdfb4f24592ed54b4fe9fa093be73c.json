@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1104",
+    "name": "Adaptive Mask Familiar",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Mask Familiar",
+    "summary": "Your mask familiar adapts quickly to material form, allowing it to gain more familiar and master abilities.",
+    "description": "Your mask familiar adapts quickly to material form, allowing it to gain more familiar and master abilities. You select four master and familiar abilities each day instead of two.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

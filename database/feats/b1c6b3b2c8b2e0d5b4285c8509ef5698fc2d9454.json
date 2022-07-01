@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1408",
+    "name": "Elven Aloofness",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "As much as you might care for them, you've come to terms with the ephemeral nature of non-elves, and it makes their threats feel less troublesome.",
+    "description": "As much as you might care for them, you've come to terms with the ephemeral nature of non-elves, and it makes their threats feel less troublesome. If a non-elf rolls a failure on a check to Coerce you using Intimidation, it gets a critical failure instead (and thus can't try to Coerce you again for 1 week). When a non-elf attempts to Demoralize you, you become temporarily immune for 1 day, instead of 10 minutes.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1020",
+    "name": "Timely Tutor",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Connect your eidolon or familiar to the Akashic Record to briefly grant it knowledge.",
+    "heightenable": false,
+    "description": "You serve as an astral connection between your eidolon or familiar and the Akashic Record—a demiplane consisting of a comprehensive psychic library—then turn to the creature for advice. If you cast this spell on your familiar, your familiar adds your spellcasting ability modifier on checks to Recall Knowledge with the Lore skill of your choice, much like it does for Acrobatics and Stealth. Your familiar must have the speech familiar ability in order to share any information it learns with you. If you cast this spell on your eidolon, it instead becomes trained in the Lore skill.\n\n If you lose physical contact with the target, its connection to the Akashic Record is severed and timely tutor immediately ends.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "your eidolon or familiar",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

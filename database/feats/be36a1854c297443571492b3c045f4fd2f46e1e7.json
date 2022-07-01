@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1175",
+    "name": "Bless Tonic",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "General",
+        "Positive",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Deity Who Grants Heal Divine Font; Master In Crafting",
+    "summary": "You channel positive energy into restoratives that ward against harm",
+    "description": "You channel positive energy into restoratives that ward against harm. When you Craft an alchemical item that restores Hit Points (rather than create it with advanced alchemy, Quick Alchemy, or another means), it becomes a blessed alchemical item and gains the positive trait. For example, an elixir of life would become a blessed elixir of life. When a creature regains Hit Points using a blessed alchemical item, the overflowing energy grants them negative resistance 5 for 1 round, or negative resistance 10 if you are legendary in Crafting.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nPositive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

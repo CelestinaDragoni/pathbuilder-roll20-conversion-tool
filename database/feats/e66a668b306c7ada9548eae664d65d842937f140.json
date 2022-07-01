@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1048",
+    "name": "Lucky Keepsake",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 9,
+    "prereq": "Leshy Superstition",
+    "summary": "You have a keepsake that grants you luck.",
+    "description": "You have a keepsake that grants you luck. You gain a +1 circumstance bonus to saves against spells and magical effects at all times, not just when you use Leshy Superstition. If you lose the keepsake, you lose the bonus until you designate a new keepsake, typically over the course of a week.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

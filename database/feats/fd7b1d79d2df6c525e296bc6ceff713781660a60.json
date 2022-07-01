@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2309",
+    "name": "Aquatic Camouflage",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Azarketi"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You blend into the waves.",
+    "description": "You blend into the waves. While fully submerged in water, as long as an observer is at least 20 feet away from you, you don't need cover from that observer to Hide or Sneak.Traits\n\nAzarketi: Amphibious humanoids who live among the seas of the Inner Sea region, said to have descended from the people of Azlant. Sometimes known as gillmen or Low Azlanti.\n\nAzarketis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

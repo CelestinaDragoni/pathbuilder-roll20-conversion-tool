@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2739",
+    "name": "Sixth Pillar Dedication",
+    "source": "Pathfinder #167",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 8,
+    "prereq": "Ability To Cast Spells; Dexterity 14; Expert In Acrobatics",
+    "summary": "You use your physical discipline to channel your magic.",
+    "description": "You use your physical discipline to channel your magic. If your proficiency rank in unarmed attacks is at least expert, your proficiency rank in spell attacks increases to expert. Likewise, if your proficiency rank in spell attacks is at least expert, your proficiency rank in unarmed attacks improves to expert. You become an expert in Athletics, or in another trained skill if you were already expert in Athletics.\n\nSpecial You can't select another dedication feat until you've gained two other feats from the Sixth Pillar archetype.Sixth Pillar Dedication Leads To...Maneuvering Spell, Six Pillars Stance, Sixth Pillar Mastery, Touch FocusTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=346",
+    "name": "True Target",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination",
+        "Fortune",
+        "Prediction"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "You delve into the possible futures of the next few seconds to understand all the ways your foe might avoid harm.",
+    "heightenable": false,
+    "description": "You delve into the possible futures of the next few seconds to understand all the ways your foe might avoid harm, then cast out a vision of that future to those around you. Designate a creature. The first time each target makes an attack roll against that creature during true target's duration, the attacker rolls twice and uses the better result. The attacker also ignores circumstance penalties to the attack roll and any flat check required due to the designated creature being concealed or hidden.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "4 creatures",
+    "duration": "until the start of your next turn",
+    "saving": ""
+}

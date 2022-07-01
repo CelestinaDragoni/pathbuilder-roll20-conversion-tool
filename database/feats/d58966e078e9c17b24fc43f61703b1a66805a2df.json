@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=239",
+    "name": "Litany Against Sloth",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 10,
+    "prereq": "Devotion Spells; Tenets Of Good",
+    "summary": "You rail against the sin of sloth, turning a foe’s laziness against it.",
+    "description": "You rail against the sin of sloth, turning a foe’s laziness against it. You can cast the litany against sloth devotion spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

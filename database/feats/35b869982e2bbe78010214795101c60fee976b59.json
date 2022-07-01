@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3462",
+    "name": "Death Warden",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Positive"
+    ],
+    "level": 6,
+    "prereq": "Hallowed Necromancer Dedication",
+    "summary": "With your intimate familiarity with the duality of positive and negative energy, you're able to stand as a bulwark against death and undeath alike.",
+    "description": "With your intimate familiarity with the duality of positive and negative energy, you're able to stand as a bulwark against death and undeath alike. You gain resistance to negative damage equal to half your level and a +1 status bonus to saving throws against effects with the negative trait.Traits\n\nArchetype: This feat belongs to an archetype.\n\nPositive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
+    "economy": "none",
+    "trigger": ""
+}

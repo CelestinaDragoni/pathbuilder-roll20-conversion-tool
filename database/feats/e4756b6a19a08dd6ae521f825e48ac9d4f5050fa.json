@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2369",
+    "name": "Stone Face",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Through conditioning or experience, you've mastered the art of composure, even in the face of fear.",
+    "description": "Through conditioning or experience, you've mastered the art of composure, even in the face of fear. You gain a +1 circumstance bonus to saves against effects with the fear trait, and a +2 circumstance bonus to your Will DC against Intimidate skill actions, such as Demoralize.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

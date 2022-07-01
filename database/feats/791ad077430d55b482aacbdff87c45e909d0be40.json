@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=601",
+    "name": "Reactive Distraction",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Manipulate",
+        "Rogue"
+    ],
+    "level": 20,
+    "prereq": "Perfect Distraction; Legendary In Deception",
+    "summary": "You reactively switch with your decoy to foil your foe.",
+    "description": "You reactively switch with your decoy to foil your foe. You use Perfection Distraction, even if you were observed, as long as you end the movement of your Sneak while concealed or in a location with cover or greater cover. Your decoy is targeted by the attack or effect instead of you. In the case of an area effect, if your Sneak doesn’t move you out of the area, both you and the decoy are targeted by the effect.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "reaction",
+    "trigger": "You would be hit by an attack or targeted by an effect, or you are within an effect’s area."
+}

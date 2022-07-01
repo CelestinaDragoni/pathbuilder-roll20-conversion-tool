@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=7",
+    "name": "Boulder Roll",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Dwarf"
+    ],
+    "level": 5,
+    "prereq": "Rock Runner",
+    "summary": "Your dwarven build allows you to push foes around, just like a mighty boulder.",
+    "description": "Your dwarven build allows you to push foes around, just like a mighty boulder tumbles through a subterranean cavern. Take a Step into the square of a foe that is your size or smaller, and the foe must move into the empty space directly behind it. The foe must move even if doing so places it in harm's way. The foe can attempt a Fortitude saving throw against your Athletics DC to block your Step. If the foe attempts this saving throw, unless it critically succeeds, it takes bludgeoning damage equal to your level plus your Strength modifier.\n\n If the foe can't move into an empty space (if it is surrounded by solid objects or other creatures, for example), your Boulder Roll has no effect.\nTraits\n\nDwarf: A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have darkvision. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.",
+    "economy": "2-action",
+    "trigger": ""
+}

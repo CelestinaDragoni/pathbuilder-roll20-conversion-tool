@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3549",
+    "name": "Daywalker",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Archetype",
+        "Divine"
+    ],
+    "level": 6,
+    "prereq": "Vampire Dedication",
+    "summary": "Through a profane pledge or a bloodline quirk, you can tolerate the sun's light.",
+    "description": "Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the advanced undead benefits and can't be destroyed by sunlight. This doesn't prevent you from becoming slowed by exposure to the sun.Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nArchetype: This feat belongs to an archetype.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2977",
+    "name": "Fiery Retort",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Druid",
+        "Evocation",
+        "Fire"
+    ],
+    "level": 8,
+    "prereq": "Flame Order",
+    "summary": "Ignoring your pain, you sear your attacker with a wave of flame.",
+    "description": "Ignoring your pain, you sear your attacker with a wave of flame. The triggering opponent takes fire damage equal to your level. Traits\n\nEvocation: Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.\n\nFire: Effects with the fire trait deal fire damage or either conjure or manipulate fire. Those that manipulate fire have no effect in an area without fire. Creatures with this trait consist primarily of fire or have a magical connection to that element. Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely hostile to non-fire creatures.",
+    "economy": "reaction",
+    "trigger": "An opponent adjacent to you hits you with a melee weapon or a melee unarmed attack."
+}

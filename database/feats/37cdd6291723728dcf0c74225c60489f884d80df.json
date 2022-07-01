@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2443",
+    "name": "Jinx Glutton",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 13,
+    "prereq": "Eat Fortune",
+    "summary": "You can Eat Fortune once per hour, rather than once per day.",
+    "description": "You can Eat Fortune once per hour, rather than once per day.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

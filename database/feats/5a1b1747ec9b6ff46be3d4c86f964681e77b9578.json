@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=312",
+    "name": "Leshy Familiar",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 1,
+    "prereq": "Leaf Order",
+    "summary": "You gain a leshy familiar, a tiny plant that embodies one of the many spirits of nature.",
+    "description": "You gain a leshy familiar, a Tiny plant that embodies one of the many spirits of nature. Other than taking the form of a plant instead of an animal, this familiar uses all the same rules as other familiars, which are detailed here.",
+    "economy": "none",
+    "trigger": ""
+}

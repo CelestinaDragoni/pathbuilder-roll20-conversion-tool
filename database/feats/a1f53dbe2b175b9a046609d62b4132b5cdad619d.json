@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2068",
+    "name": "Shadow Sneak Attack",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Shadowdancer Dedication",
+    "summary": "You gain the sneak attack class feature, except you deal 1d6 precision damage regardless of your level.",
+    "description": "You gain the sneak attack class feature, except you deal 1d6 precision damage regardless of your level. Sneak attack from multiple sources isn't cumulative. If you have sneak attack from more than one source, use only the highest number of dice when you sneak attack rather than adding the amounts together.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

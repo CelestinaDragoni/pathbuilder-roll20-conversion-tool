@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=667",
+    "name": "Quick Alchemy",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Alchemist Dedication",
+    "summary": "You gain the Quick Alchemy action.",
+    "description": "You gain the Quick Alchemy action. Quick Alchemy    AlchemistManipulate\nSource Core Rulebook pg. 72 2.0\nCost 1 batch of infused reagents\nRequirements You have the formula for the alchemical item you're creating, and you're either holding or wearing alchemist's tools.\n\n------\n\nYou swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single alchemical item of your advanced alchemy level or lower that's in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a Crafting check. This item has the infused trait, but it remains potent only until the start of your next turn.\n\n------\n\nTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

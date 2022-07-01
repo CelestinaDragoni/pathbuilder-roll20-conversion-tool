@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1229",
+    "name": "Quicken Heartbeat",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Golem Grafter Dedication",
+    "summary": "You’ve replaced your heart with one made of animated quicksilver and living adamantine.",
+    "description": "You’ve replaced your heart with one made of animated quicksilver and living adamantine. You reduce your slowed condition by 1. Alternatively, if you are not slowed, you are quickened 1 during your next turn, and can use your extra action to Stride or Strike.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

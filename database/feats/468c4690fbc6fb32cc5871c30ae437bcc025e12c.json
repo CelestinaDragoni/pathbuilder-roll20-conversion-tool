@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3529",
+    "name": "Terrain Form",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate",
+        "Divine",
+        "Transmutation"
+    ],
+    "level": 10,
+    "prereq": "Mummy Dedication",
+    "summary": "You crumble to pieces, becoming composed of the very terrain to which you're bound, with the effects of the gaseous form spell, or you reconstitute into your normal form.",
+    "description": "You crumble to pieces, becoming composed of the very terrain to which you're bound, with the effects of the gaseous form spell, or you reconstitute into your normal form. The substance you're formed of depends upon your bound terrain, and the action gains the corresponding trait or traits.\n\n \nArctic Snow (water) \nDesert Sand (earth) \nMountain Cloud (water) \nSwamp Mud (earth, water)Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Transmutation: Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something’s form.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=854",
+    "name": "Stumbling Curse",
+    "source": "Pathfinder #169",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Curse",
+        "Hex",
+        "Transmutation",
+        "Witch"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "With a twist of a finger, you send a creature careening on a haphazard trajectory.",
+    "heightenable": false,
+    "description": "With a twist of a finger, you send a creature careening on a haphazard trajectory. The target must attempt a Reflex save.\n\nCritical Success The target is unaffected.\nSuccess The target takes a –2 status penalty to Athletics and Acrobatics checks.\nFailure As success, and each time the target Strides, it uses the first 5 feet of movement of the Stride to move 5 feet in a random direction (this is forced movement). This has no effect on a creature with only 5 feet of movement.\nCritical Failure As failure, except you control the direction of the target's first 5 feet of movement of the Stride.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Reflex"
+}

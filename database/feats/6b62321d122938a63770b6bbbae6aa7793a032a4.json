@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=255",
+    "name": "Wyrmbane Aura",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 14,
+    "prereq": "Dragonslayer Oath",
+    "summary": "Your aura protects against destructive energies and dragons’ breath.",
+    "description": "Your aura protects against destructive energies and dragons’ breath. You and all allies within 15 feet gain resistance equal to your Charisma modifier to acid, cold, electricity, fire, and poison. If the source of one of these types of damage is a dragon’s breath, increase the resistance to half your level.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1091",
+    "name": "Lure Dream",
+    "source": "Monsters of Myth",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Rare",
+    "traits": [
+        "Conjuration",
+        "Dream"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "You reach out to the dream realm, beckoning an animate dream to your side.",
+    "heightenable": false,
+    "description": "You reach out to the dream realm, beckoning an animate dream to your side. This works like summon animal, except you summon an animate dream.",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3191",
+    "name": "Deadeye",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Concentrate",
+        "Gunslinger"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You relax your eyes, taking in the presence of hidden things, granting you the ability to locate invisible creatures.",
+    "description": "You relax your eyes, taking in the smallest movements of objects, stirring of grass and leaves, and other signs of the presence of hidden things, granting you the ability to locate invisible creatures. Until the start of your next turn, you can see invisible creatures and objects as silhouettes defined by the movement of air, slight depressions in the ground, and other tells that less-keen eyes would overlook, which makes them merely concealed from you.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "1-action",
+    "trigger": ""
+}

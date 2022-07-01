@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3562",
+    "name": "Numb",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Zombie Dedication",
+    "summary": "As your body continues to rot and putrefy, your senses deaden and your undead powers grow.",
+    "description": "As your body continues to rot and putrefy, your senses deaden and your undead powers grow. You gain the advanced undead benefits, as well as a +1 circumstance bonus on saving throws against emotion and pain effects. While your body is deteriorated, your numbness amplifies in two ways: the circumstance bonus from this feat increases to +2, and if you roll a success on a saving throw against an emotion or pain effect, you get a critical success instead.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

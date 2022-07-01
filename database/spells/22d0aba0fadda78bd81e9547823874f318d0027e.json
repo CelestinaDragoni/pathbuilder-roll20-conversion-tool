@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1115",
+    "name": "Empathic Link",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Emotion",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "You forge a bond between yourself and the target, enabling you to feel each other's emotions.",
+    "heightenable": true,
+    "description": "You forge a bond between yourself and the target, enabling you to feel each other's emotions. You and the target can communicate empathetically, sharing emotions, at a distance of up to 1 mile.\n\n------\n\nHeightened (4th)  You can target up to 4 willing creatures, and the duration increases to 8 hours.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "1 hour",
+    "saving": ""
+}

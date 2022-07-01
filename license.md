@@ -1,3 +1,5 @@
+# Software License (Not Including Data Components)
+
 Pathbuilder JSON to VTT Roll20 Import for Pathfiner 2e
 
 Takes Pathbuilder 2e JSON files and converts them for use in Roll20 (Imported via VTT Enhancement Suite)

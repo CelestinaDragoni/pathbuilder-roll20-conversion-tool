@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=952",
+    "name": "Wavetouched Paragon",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 5,
+    "prereq": "Bonuwat Ethnicity",
+    "summary": "You have been blessed by the sea, granting you the ability to swim like a fish.",
+    "description": "You have been blessed by the sea, granting you the ability to swim like a fish. You gain a 15-foot swim Speed.\n\nSpecial If you have the Bonuwat Wavetouched background, you can take this feat at 1st level instead of 5th.Traits\n\nHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

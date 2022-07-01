@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3499",
+    "name": "Ghostly Grasp",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Ghost Dedication",
+    "summary": "Your control over your ghostly form grows.",
+    "description": "Your control over your ghostly form grows. You gain the advanced undead benefits and can interact with physical objects, with limits. You can attempt Strength-based skill checks against physical creatures and objects. You can Interact with physical objects, but the action has no effect unless you succeed at a DC 20 Athletics or DC 20 Thievery check.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3138",
+    "name": "Repurposed Parts",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Trapsmith Dedication",
+    "summary": "You are familiar with the fittings and cogwheels of your snares and can repurpose parts from prepared quick-deploy snares to assemble a new creation on the fly.",
+    "description": "You are familiar with the fittings and cogwheels of your snares and can repurpose parts from prepared quick-deploy snares to assemble a new creation on the fly. Using two of the snares you prepared for quick deployment during daily preparations, you can quickly deploy a different snare that you know how to Craft, even if you didn't prepare that snare during your daily preparations.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

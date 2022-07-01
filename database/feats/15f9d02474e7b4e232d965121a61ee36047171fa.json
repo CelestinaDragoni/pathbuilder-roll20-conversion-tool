@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1073",
+    "name": "Demanding Challenge",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Boaster's Challenge",
+    "summary": "If your skill check to challenge a foe is a success, the target of your challenge takes a –1 circumstance penalty to attack rolls (or –2 if you critically succeed) until the end of your next turn.",
+    "description": "If your skill check to challenge a foe is a success, the target of your challenge takes a –1 circumstance penalty to attack rolls (or –2 if you critically succeed) until the end of your next turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

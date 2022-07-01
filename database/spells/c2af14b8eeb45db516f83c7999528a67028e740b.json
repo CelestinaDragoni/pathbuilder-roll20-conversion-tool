@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=573",
+    "name": "Endure",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You invigorate the touched creature’s mind and urge it to press on.",
+    "heightenable": true,
+    "description": "You invigorate the touched creature’s mind and urge it to press on. You grant the touched creature 5 temporary Hit Points.\n\n------\n\nHeightened (+1) Increase the temporary Hit Points by 5.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "1 round",
+    "saving": ""
+}

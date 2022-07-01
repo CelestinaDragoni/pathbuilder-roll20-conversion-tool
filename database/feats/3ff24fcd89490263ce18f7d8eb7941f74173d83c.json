@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2281",
+    "name": "Ghost Strike",
+    "source": "Pathfinder #163",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Ghost Hunter Dedication",
+    "summary": "You can infuse a weapon you are carrying with magical energies that allow it to strike true against incorporeal undead.",
+    "description": "Once per day, you can infuse a weapon you are carrying with magical energies that allow it to strike true against incorporeal undead. The weapon gains the effects of the ghost touch property rune for 10 minutes.\n\n At 10th level, you can apply this effect to two weapons instead of one.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "2-action",
+    "trigger": ""
+}

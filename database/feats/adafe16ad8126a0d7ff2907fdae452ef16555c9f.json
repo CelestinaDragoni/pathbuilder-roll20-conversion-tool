@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2164",
+    "name": "Prayer Attack",
+    "source": "Legends",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate"
+    ],
+    "level": 14,
+    "prereq": "Red Mantis Assassin Dedication",
+    "summary": "You've mastered the signature assassination style of the Red Mantis.",
+    "description": "You've mastered the signature assassination style of the Red Mantis. Attempt to Feint an enemy within 30 feet. If your Feint is successful, when you use Prayer Attack on subsequent turns you automatically make the target flat-footed against your melee attacks for that turn without rolling a check to Feint, so as long as you remain visible to the target and the target remains within 30 feet of you. If you use your Prayer Attack against a different target, you must attempt to Feint the target normally.\n\n When you use Prayer Attack, your next successful Strike with a sawtooth saber that turn deals 2d6 persistent bleed damage to the target.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.Secrets of the VernaiSource Legends pg. 57\nThe Red Mantis Assassin archetype appears on page 71 of the Lost Omens World Guide. Of the additional options below, only Prayer Attack is available freely to Red Mantis assassins without prior permission from the Blood Mistress. Those who dare learn these rare abilities without her permission run the risk of being cast out of the society and hunted down by their former allies. In theory, a daring infiltration of the Crimson Citadel could allow one to study hidden texts and learn these techniques, but the chambers within and below this fortress are among the most dangerous in the region, so such an attempt should not be made lightly!\n\nRelated Feats: Achaekek's Grip, Fading, Vernai Training",
+    "economy": "1-action",
+    "trigger": ""
+}

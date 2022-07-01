@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=150",
+    "name": "Hideous Laughter",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Fits of laughter make a creature unable to take all its actions.",
+    "heightenable": false,
+    "description": "The target is overtaken with uncontrollable laughter. It must attempt a Will save.\n\nCritical Success The target is unaffected.\nSuccess The target is plagued with uncontrollable laugher. It can't use reactions.\nFailure The target is slowed 1 and can't use reactions.\nCritical Failure The target falls prone and can't use actions or reactions for 1 round. It then suffers the failure effects.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 living creature",
+    "duration": "sustained",
+    "saving": "Will"
+}

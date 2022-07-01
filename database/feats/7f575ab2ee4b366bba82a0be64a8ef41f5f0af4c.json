@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2598",
+    "name": "Djinni Magic",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sylph"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "The magic of djinn runs through your blood.",
+    "description": "The magic of djinn runs through your blood. You can cast gust of wind and invisibility once per day each as 2nd-level arcane innate spells.Traits\n\nSylph: Sylphs are planar scions descended from djinn.",
+    "economy": "none",
+    "trigger": ""
+}

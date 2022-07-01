@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=906",
+    "name": "Nameless Anonymity",
+    "source": "World Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Magic Warrior Dedication",
+    "summary": "Your mask protects you further from divination.",
+    "description": "Your mask protects you further from divination. Once per day, you can cast nondetection on yourself, heightened to the highest level of spell you can cast; the spell ends immediately if your mask is removed for even a moment. The spell is of the same tradition as your focus spells.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

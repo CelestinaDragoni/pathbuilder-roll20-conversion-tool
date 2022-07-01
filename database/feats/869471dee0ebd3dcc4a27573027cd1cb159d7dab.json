@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2317",
+    "name": "Winter Cat Senses",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Catfolk"
+    ],
+    "level": 1,
+    "prereq": "Winter Catfolk Heritage",
+    "summary": "Your eyes are keen and accustomed to winter conditions.",
+    "description": "Your eyes are keen and accustomed to winter conditions. You ignore concealment caused by ice and snow.Traits\n\nCatfolk: A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.",
+    "economy": "none",
+    "trigger": ""
+}

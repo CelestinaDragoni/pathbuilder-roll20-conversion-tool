@@ -1,0 +1,21 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=194",
+    "name": "Steady Spellcasting",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Oracle",
+        "Sorcerer",
+        "Witch",
+        "Wizard"
+    ],
+    "level": 6,
+    "prereq": "&Mdash;",
+    "summary": "You don’t lose spells easily.",
+    "description": "Confident in your technique, you don’t easily lose your concentration when you Cast a Spell. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn’t disrupted.Steady Spellcasting Leads To...\n\nWard Casting",
+    "economy": "none",
+    "trigger": ""
+}

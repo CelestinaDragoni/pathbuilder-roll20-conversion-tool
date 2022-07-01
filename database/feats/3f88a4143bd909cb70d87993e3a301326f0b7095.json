@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3430",
+    "name": "Climate Adaptation",
+    "source": "Pathfinder #176",
+    "rarity": "Uncommon",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "Like evergreen trees, which stay healthy and vibrant from winter through summer, you too can adapt to a variety of extreme climates.",
+    "description": "Like evergreen trees, which stay healthy and vibrant from winter through summer, you too can adapt to a variety of extreme climates. You're unaffected by mild cold or heat environmental effects, and when you're in severe cold or heat, you take the effects of mild cold or heat instead (see Table 10–13). This doesn't protect you from extreme or incredible cold or heat.TraitsLeshy: Leshies are living plants animated by primal magic.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

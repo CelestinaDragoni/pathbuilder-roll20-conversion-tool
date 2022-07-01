@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3547",
+    "name": "Manipulative Charm",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Vampire Dedication; Trained In Deception Or Diplomacy",
+    "summary": "Against humanoids, you gain a +1 circumstance bonus to Deception checks to Lie, and to Diplomacy checks to Gather Information and Make an Impression. Once per day, you can cast charm as a divine innate spell using your class DC or spell DC, whichever is higher.",
+    "description": "Against humanoids, you gain a +1 circumstance bonus to Deception checks to Lie, and to Diplomacy checks to Gather Information and Make an Impression.\n\n Once per day, you can cast charm as a divine innate spell using your class DC or spell DC, whichever is higher. Casting it requires staring into the target's eyes, giving the spell the visual trait. At 5th level and every 2 levels thereafter, the spell is heightened by an additional level, to a maximum of a 9th-level charm when you are 19th level.Manipulative Charm Leads To...\n\nDominating GazeTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

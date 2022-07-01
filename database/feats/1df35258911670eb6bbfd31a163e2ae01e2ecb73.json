@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2794",
+    "name": "Pack Hunter",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Gnoll"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You were taught how to hunt as part of a pack.",
+    "description": "You were taught how to hunt as part of a pack. You gain a +2 circumstance bonus to checks to Aid, and your allies gain a +2 circumstance bonus to checks to Aid you.Pack Hunter Leads To...\n\nPack StalkerTraitsGnoll: Gnolls are humanoids that resemble hyenas.",
+    "economy": "none",
+    "trigger": ""
+}

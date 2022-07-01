@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2893",
+    "name": "Unfetter Eidolon",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You can allow your eidolon to travel far from your side.",
+    "description": "You can allow your eidolon to travel far from your side. You learn the unfetter eidolon link spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

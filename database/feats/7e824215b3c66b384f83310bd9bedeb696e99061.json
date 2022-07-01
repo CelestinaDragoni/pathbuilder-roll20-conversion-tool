@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2189",
+    "name": "Ooze Empathy",
+    "source": "The Slithering",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Oozemorph Dedication; At Least Two Other Class Feats From The Oozemorph Archetype",
+    "summary": "You can connect with oozes (and other amorphous aberrations, at the GM's discretion) on a rudimentary level.",
+    "description": "You can connect with oozes (and other amorphous aberrations, at the GM's discretion) on a rudimentary level. You can use Diplomacy to Make an Impression on oozes and to make very simple Requests of them. In most instances, oozes will give you time to make your case.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

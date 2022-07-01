@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=43",
+    "name": "Collective Transposition",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration",
+        "Teleportation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 6,
+    "summary": "Teleport up to two creatures to new positions near you.",
+    "heightenable": true,
+    "description": "You teleport the targets to new positions within the area. The creatures must each be able to fit in their new space, and their positions must be unoccupied, entirely within the area, and in your line of sight. Unwilling creatures can attempt a Will save.\n\nCritical Success The target can teleport if it wants, but it chooses the destination within range.\nSuccess The target is unaffected.\nFailure You teleport the target and choose its destination.\n\n------\n\nHeightened (+1) The number of targets increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "up to 2 creatures",
+    "duration": "",
+    "saving": ""
+}

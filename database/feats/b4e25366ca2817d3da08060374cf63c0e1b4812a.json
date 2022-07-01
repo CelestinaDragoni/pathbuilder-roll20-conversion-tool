@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=977",
+    "name": "Share Thoughts",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 1,
+    "prereq": "Mualijae Ethnicity, Ilverani Ethnicity, Or Vourinoi Ethnicity",
+    "summary": "You have an uncanny knack of communicating with other elves without speaking, though this habit that is often uncomfortable to observers.",
+    "description": "You have an uncanny knack of communicating with other elves without speaking, though this habit that is often uncomfortable to observers. You can cast mindlink as an innate occult spell once per day, but you can target only other elves or half-elves.Share Thoughts Leads To...\n\nSense ThoughtsTraitsElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

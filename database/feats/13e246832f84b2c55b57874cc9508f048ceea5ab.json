@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1432",
+    "name": "Step Lively",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You are an expert at avoiding the lumbering footsteps of larger creatures.",
+    "description": "You are an expert at avoiding the lumbering footsteps of larger creatures. You Step to another space adjacent to the enemy.Step Lively Leads To...\n\nDance UnderfootTraitsHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "reaction",
+    "trigger": "A Large or larger enemy ends a move action adjacent to you."
+}

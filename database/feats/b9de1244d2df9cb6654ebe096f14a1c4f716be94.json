@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=353",
+    "name": "Hierophant's Power",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "You have entwined yourself with the natural world, and its full power flows through you.",
+    "description": "You have entwined yourself with the natural world, and its full power flows through you. You gain an additional 10th-level spell slot.",
+    "economy": "none",
+    "trigger": ""
+}

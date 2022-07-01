@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=164",
+    "name": "Invisibility",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "A creature can’t be seen until it attacks.",
+    "heightenable": true,
+    "description": "Cloaked in illusion, the target becomes invisible. This makes it undetected to all creatures, though the creatures can attempt to find the target, making it hidden to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.\n\n------\n\nHeightened (4th) The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

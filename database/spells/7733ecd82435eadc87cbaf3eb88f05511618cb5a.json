@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1049",
+    "name": "Lifelink Surge",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Healing",
+        "Necromancy",
+        "Positive",
+        "Summoner"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 2,
+    "summary": "You make a quick gesture, tracing the link between yourself and your eidolon and drawing on your connection to slowly strengthen your shared life force.",
+    "heightenable": true,
+    "description": "You make a quick gesture, tracing the link between yourself and your eidolon and drawing on your connection to slowly strengthen your shared life force. Your eidolon gains fast healing 4 for 4 rounds.\n\n------\n\nHeightened (+1) The fast healing increases by 2.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "4 rounds",
+    "saving": ""
+}

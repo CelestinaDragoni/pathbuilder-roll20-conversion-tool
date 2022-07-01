@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=662",
+    "name": "Dance of Darkness",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Darkness",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You dance, Striding up to half your Speed.",
+    "heightenable": false,
+    "description": "You dance, Striding up to half your Speed. At either the start or end of your Stride, you create an area of magical darkness in a 10-foot burst centered on your location. This area is filled with magical darkness that works the same way as that created by a darkness spell of the same level. When you create the darkness, attempt a Performance check to dance, with a standard DC for your level, to determine the duration of the darkness.\n\nCritical Success 1 minute\nSuccess 2 rounds\nFailure 1 round",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "varies",
+    "saving": ""
+}

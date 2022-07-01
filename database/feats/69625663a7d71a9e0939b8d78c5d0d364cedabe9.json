@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2688",
+    "name": "Additional Circus Trick",
+    "source": "Come One, Come All, to the Extinction Curse Player’s Guide!",
+    "rarity": "Common",
+    "traits": [
+        "Circus",
+        "General"
+    ],
+    "level": 3,
+    "prereq": "You Must Have A Signature Trick",
+    "summary": "You gain an additional signature trick.",
+    "description": "Your signature trick can have one additional trait beyond the number provided in Table 2: Trick Progression on page 63 of Pathfinder #151: The Show Must Go On. If the trick trait has an associated skill (such as Intimidation with the fire trait) and that skill is one of your trick checks, your checks with that skill to Perform a Trick aren't penalized if you Perform a Trick using a different skill. For example, if your signature trick has Acrobatics and Intimidation as trick checks and you take this feat to add the fire trait, you can Perform a Trick using Acrobatics (at no penalty), then Acrobatics again (at a -5 penalty), and then Intimidation (at no penalty).Traits\n\nCircus: Note from Nethys: no description was provided for this trait. It is used as part of the circus subsystem from the Extinction Curse Adventure Path\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=552",
+    "name": "Join Pasts",
+    "source": "Pathfinder #147",
+    "traditions": [
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cantrip",
+        "Divination",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Share thoughts and experiences with allies.",
+    "heightenable": true,
+    "description": "With touches to the targets’ foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to Recall Knowledge, the other can Aid the first target’s skill check, using any Lore skill (even if that Lore wouldn’t normally apply) without having made any preparations to Aid.\n\n------\n\nHeightened (+1) You can touch one additional target to include them in the spell’s effects. Multiple targets can attempt checks to Aid the target who is attempting to Recall Knowledge.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "2 willing creatures",
+    "duration": "1 round",
+    "saving": ""
+}

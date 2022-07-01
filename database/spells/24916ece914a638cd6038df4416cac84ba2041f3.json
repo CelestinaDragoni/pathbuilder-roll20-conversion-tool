@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=101",
+    "name": "Enhance Victuals",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Improve food or drink and remove poisons.",
+    "heightenable": true,
+    "description": "You transform the target into delicious fare, changing water into wine or another fine beverage or enhancing the food's taste and ingredients to make it a gourmet treat.\n\n Prior to the transformation, the spell attempts to counteract any poisons in the food or water. The food turns back to normal if not consumed before the duration expires, though any poisons that were counteracted are still gone.\n\n------\n\nHeightened (+1) The number of gallons of water you can target increases by 1, or the number of pounds of food you can target increases by 5.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "up to 1 gallon of non-magical water or up to 5 pounds of food",
+    "duration": "1 hour",
+    "saving": ""
+}

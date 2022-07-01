@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2255",
+    "name": "Armored Rest",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Swordmaster Dedication; Trained In Light, Medium, Or Heavy Armor",
+    "summary": "You've slept many nights in your armor and gotten used to it.",
+    "description": "You've slept many nights in your armor and gotten used to it. You can sleep in armor overnight without being fatigued the next day. If you were already fatigued before sleeping, the armor doesn't prevent you from recovering from being fatigued.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

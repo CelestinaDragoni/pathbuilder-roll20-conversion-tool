@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=737",
+    "name": "Basic Bloodline Spell",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Sorcerer Dedication",
+    "summary": "You gain your bloodline's initial bloodline spell.",
+    "description": "You gain your bloodline’s initial bloodline spell. If you don’t already have one, you also gain a focus pool of 1 Focus Point, which you can Refocus without any special effort.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

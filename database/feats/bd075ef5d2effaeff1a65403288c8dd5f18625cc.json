@@ -1,0 +1,21 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3524",
+    "name": "Mummy's Despair",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Aura",
+        "Divine",
+        "Emotion",
+        "Enchantment",
+        "Fear",
+        "Mental"
+    ],
+    "level": 6,
+    "prereq": "Mummy Dedication",
+    "summary": "You force your mental anguish outward, projecting it upon those around you.",
+    "description": "You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a 30-foot emanation lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will save against the higher of your class DC or spell DC or be frightened 1 (frightened 2 on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.Mummy's Despair Leads To...\n\nGreater DespairTraitsArchetype: This feat belongs to an archetype.\n\nAura: An aura is an emanation that continually ebbs out from you, affecting creatures within a certain radius. Aura can also refer to the magical signature of an item or a creature with a strong alignment.Divine: This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is magical.Emotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Enchantment: Effects and magic items with this trait are associated with the enchantment school of magic, typically involving mind control, emotion alteration, and other mental effects.Fear: Fear effects evoke the emotion of fear. Effects with this trait always have the mental and emotion traits as well.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "2-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3544",
+    "name": "Necromantic Heir",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Skeleton"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "Your affinity for negative energy spills outward and grants you a refilling well of necromantic essence.",
+    "description": "Your affinity for negative energy spills outward and grants you a refilling well of necromantic essence. Once per hour, you can cast harm as a 6th-level divine innate spell.Traits\n\nSkeleton: This undead is made by animating a dead creature’s skeleton with negative energy.",
+    "economy": "none",
+    "trigger": ""
+}

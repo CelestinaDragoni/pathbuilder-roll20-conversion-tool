@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1079",
+    "name": "Cloak of Light",
+    "source": "Pathfinder #172",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Healing",
+        "Light",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "You surround yourself in holy light that restores the living and rebuffs undead.",
+    "heightenable": true,
+    "description": "You surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet. Living creatures that begin their turn adjacent to you recover 2d4 Hit Points. Undead creatures that begin their turn adjacent to you take 4d4 positive damage.\n\n------\n\nHeightened (+2) The healing increases by 1d4, and the damage to undead increases by 2d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "sustained for up to 5 rounds",
+    "saving": ""
+}

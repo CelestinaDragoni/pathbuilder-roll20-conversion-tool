@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1631",
+    "name": "Unstoppable Juggernaut",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian"
+    ],
+    "level": 20,
+    "prereq": "&Mdash;",
+    "summary": "You have become a brutal, unstoppable force of nature, able to shrug off mortal wounds with ease.",
+    "description": "You have become a brutal, unstoppable force of nature, able to shrug off mortal wounds with ease. You gain resistance equal to 3 + your Constitution modifier to all damage, and your resistance from raging increases to 8 + your Constitution modifier.\n\n In addition, if you are reduced to 0 Hit Points while raging, you can end your rage as a reaction to stay at 1 Hit Point. If you do, you become wounded 2 (or increase your wounded condition by 2 if you are already wounded).",
+    "economy": "none",
+    "trigger": ""
+}

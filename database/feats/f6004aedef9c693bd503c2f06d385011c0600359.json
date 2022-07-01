@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=231",
+    "name": "Advanced Deity's Domain",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 8,
+    "prereq": "Deity's Domain",
+    "summary": "Through your conviction, you have glimpsed the deeper secrets of your deity’s domain.",
+    "description": "Through your conviction, you have glimpsed the deeper secrets of your deity’s domain. You gain an advanced domain spell from the domain you chose with Deity’s Domain. You can cast that spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

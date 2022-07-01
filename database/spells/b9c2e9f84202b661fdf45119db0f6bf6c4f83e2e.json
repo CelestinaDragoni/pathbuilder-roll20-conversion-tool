@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=57",
+    "name": "Crushing Despair",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Make a creature sob uncontrollably.",
+    "heightenable": true,
+    "description": "You inflict despair on creatures in the area. The effects for each creature are determined by its Will save.\n\nCritical Success The creature is unaffected.\nSuccess For 1 round, the creature can't use reactions and must attempt another save at the start of its turn; on a failure, it is slowed 1 for that turn as it sobs uncontrollably.\nFailure As success, but the duration is 1 minute.\nCritical Failure As failure, and the creature is automatically slowed 1 for 1 minute.\n\n------\n\nHeightened (7th) The area increases to a 60-foot cone.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 or more rounds",
+    "saving": "Will"
+}

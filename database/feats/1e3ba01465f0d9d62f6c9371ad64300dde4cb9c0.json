@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2907",
+    "name": "Tandem Movement",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner",
+        "Tandem"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You and your eidolon move together.",
+    "description": "You and your eidolon move together. You each use a single action to Stride. Either of you that has the corresponding movement type can Burrow, Climb, Fly, or Swim instead.Traits\n\nTandem: Actions with this trait involve you and your eidolon acting in concert. You can't use a tandem action if either you or your eidolon can't act, if you haven't Manifested your Eidolon, or if you've Manifested your Eidolon in a way where it isn't a separate entity (such as with the Meld into Eidolon feat). Tandem actions often let both you and your eidolon take separate actions, but these must be actions taken separately by you and your eidolon; you can't use a tandem action to take another tandem action.",
+    "economy": "1-action",
+    "trigger": ""
+}

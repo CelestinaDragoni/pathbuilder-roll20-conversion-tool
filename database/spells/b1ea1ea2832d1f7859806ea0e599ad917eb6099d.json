@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=419",
+    "name": "Enduring Might",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Your own might mingles with divine power to protect you.",
+    "heightenable": true,
+    "description": "Your own might mingles with divine power to protect you. You gain resistance equal to 8 plus your Strength modifier against all damage from the triggering attack or effect.\n\n------\n\nHeightened (+1) The resistance increases by 2.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

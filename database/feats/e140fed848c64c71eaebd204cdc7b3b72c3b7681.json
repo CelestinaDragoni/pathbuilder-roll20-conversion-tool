@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2624",
+    "name": "Kitsune Spell Mysteries",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kitsune"
+    ],
+    "level": 5,
+    "prereq": "At Least One Innate Spell From A Kitsune Heritage Or Ancestry Feat",
+    "summary": "You know more kitsune magic.",
+    "description": "You know more kitsune magic. During your daily preparations, choose bane, illusory object, or sanctuary. You can cast this as a 1st-level divine innate spell once that day.Kitsune Spell Mysteries Leads To...\n\nKitsune Spell ExpertiseTraitsKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2038",
+    "name": "Expert Poisoner",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Poisoner Dedication; Expert In Crafting",
+    "summary": "Your advanced alchemy level for poison increases to your level – 3.",
+    "description": "Your advanced alchemy level for poison increases to your level – 3.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

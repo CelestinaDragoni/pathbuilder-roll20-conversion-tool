@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=216",
+    "name": "Unimpeded Step",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 1,
+    "prereq": "Liberator Cause",
+    "summary": "With a burst of divine liberation, your spur your ally’s movement.",
+    "description": "With a burst of divine liberation, your ally’s movement from your Liberating Step is unaffected by difficult terrain, greater difficult terrain, narrow surfaces, and uneven ground.",
+    "economy": "none",
+    "trigger": ""
+}

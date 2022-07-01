@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1611",
+    "name": "Nocturnal Sense",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Rage"
+    ],
+    "level": 6,
+    "prereq": "Acute Scent Or Precise Or Imprecise Scent And Low-light Vision",
+    "summary": "Your senses gain even greater clarity.",
+    "description": "Your senses gain even greater clarity. While raging, you gain darkvision if you don't already have it, and the range of your imprecise scent increases to 60 feet.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "none",
+    "trigger": ""
+}

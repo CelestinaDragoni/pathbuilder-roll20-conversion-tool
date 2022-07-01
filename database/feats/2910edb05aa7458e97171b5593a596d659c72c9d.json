@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=613",
+    "name": "Primal Evolution",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Primal",
+        "Sorcerer"
+    ],
+    "level": 4,
+    "prereq": "Bloodline That Grants Primal Spells",
+    "summary": "You can call upon the creatures of the wild for aid.",
+    "description": "You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest level, which you can use only to cast summon animal or summon plants or fungus. You can cast either of these spells using that spell slot, even if it they aren’t in your spell repertoire.Primal Evolution Leads To...\n\nGreater Physical Evolution, Greater Vital EvolutionTraitsPrimal: This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.",
+    "economy": "none",
+    "trigger": ""
+}

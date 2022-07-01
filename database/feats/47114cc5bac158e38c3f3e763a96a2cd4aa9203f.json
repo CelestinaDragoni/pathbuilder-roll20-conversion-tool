@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1457",
+    "name": "Detective's Readiness",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "When you're on a case, you stay watchful and resolute to avoid tricks your suspect might pull.",
+    "description": "When you're on a case, you stay watchful and resolute to avoid tricks your suspect might pull. You gain your circumstance bonus from Pursue a Lead on saving throws (and their DCs, as normal) against the subject of a lead, and you can use Clue In to assist an ally's saving throw against that subject.",
+    "economy": "none",
+    "trigger": ""
+}

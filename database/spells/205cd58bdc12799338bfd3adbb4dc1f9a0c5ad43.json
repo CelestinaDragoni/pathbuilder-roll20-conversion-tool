@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=874",
+    "name": "Boil Blood",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Fire"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 8,
+    "summary": "Boil a foe's blood.",
+    "heightenable": true,
+    "description": "You heat a foe's blood and boil it within its veins. The target takes 10d10 fire damage, with a Fortitude save. A nonliving creature with blood in its body (such as a vampire) can be affected, but a creature with no blood is immune.\n\nCritical Success The target is unaffected.\nSuccess The target takes half damage.\nFailure The target takes full damage and is drained 2.\nCritical Failure The target takes double damage and is drained 3.\n\n------\n\nHeightened (+1) The damage increases by 1d10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

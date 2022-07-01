@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1833",
+    "name": "Spellbook Prodigy",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Wizard"
+    ],
+    "level": 1,
+    "prereq": "Trained In Arcana",
+    "summary": "You are particularly adept at learning spells to add to your spellbook.",
+    "description": "You are particularly adept at learning spells to add to your spellbook. You can Learn a Spell in half the time it normally takes. Further, when you roll a critical failure on your check to Learn a Spell, you get a failure instead. When you roll a failure, you can try again after 1 week.",
+    "economy": "none",
+    "trigger": ""
+}

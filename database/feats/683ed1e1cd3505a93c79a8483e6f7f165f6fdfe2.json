@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=988",
+    "name": "Grim Insight",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 1,
+    "prereq": "Umbral Gnome Heritage",
+    "summary": "Others’ attempts to scare you often grant you insights about your would-be bullies that you can then exploit.",
+    "description": "Others’ attempts to scare you often grant you insights about your would-be bullies that you can then exploit. If you roll a success on a saving throw against a fear effect, you get a critical success instead, and the source of the fear effect is flat-footed to you until the end of your next turn.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "none",
+    "trigger": ""
+}

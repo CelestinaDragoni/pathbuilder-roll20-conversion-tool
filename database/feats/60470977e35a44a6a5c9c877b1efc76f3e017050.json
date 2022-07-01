@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2865",
+    "name": "Runic Impression",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 8,
+    "prereq": "Focus Pool",
+    "summary": "You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks.",
+    "description": "You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks. You learn the runic impression conflux spell. Increase the number of Focus Points in your focus pool by 1.",
+    "economy": "none",
+    "trigger": ""
+}

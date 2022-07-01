@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2373",
+    "name": "Fell Rider",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 9,
+    "prereq": "Animal Companion",
+    "summary": "You have trained with your animal companion to become a terrifying, unified juggernaut on the battlefield.",
+    "description": "You have trained with your animal companion to become a terrifying, unified juggernaut on the battlefield. Your animal companion becomes trained in Intimidation. If your animal companion uses Support while serving as your mount, it grants you the effects of the Aid reaction on your first Intimidation check to Demoralize on the same turn, even though it can't take reactions.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

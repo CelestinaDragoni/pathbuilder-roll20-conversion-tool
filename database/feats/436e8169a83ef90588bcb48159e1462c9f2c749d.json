@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2650",
+    "name": "Strix Vengeance",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Mental",
+        "Strix"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You dedicate yourself to destroying those who harm your kin.",
+    "description": "You dedicate yourself to destroying those who harm your kin. Until the end of your next turn, you deal an additional +1d6 damage on Strikes against the triggering enemy. The bonus increases to +2d6 if you use a striking weapon or unarmed attack and +3d6 if you use a major striking weapon or unarmed attack.Traits\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.\n\nMental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.Strix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "reaction",
+    "trigger": "You, or a strix ally you can see, are damaged by an enemy's critical hit."
+}

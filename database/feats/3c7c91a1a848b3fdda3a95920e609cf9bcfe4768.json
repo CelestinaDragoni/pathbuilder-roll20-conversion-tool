@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1347",
+    "name": "Symphony of Blood",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 17,
+    "prereq": "&Mdash;",
+    "summary": "You call forth the blood of your foes to grant you vigor.",
+    "description": "You call forth the blood of your foes to grant you vigor. Once per day, you can cast vampiric exsanguination as a 7th-level divine innate spell.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

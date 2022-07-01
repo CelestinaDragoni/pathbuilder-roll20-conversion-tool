@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1743",
+    "name": "Return Fire",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 6,
+    "prereq": "Deflect Arrow; Monastic Archer Stance",
+    "summary": "Snatching an arrow out of the air, you instantly put it to your bow and return fire.",
+    "description": "Snatching an arrow out of the air, you instantly put it to your bow and return fire. When you successfully Deflect an Arrow, as part of that reaction you can immediately make a ranged bow Strike by firing the arrow you deflected from your own bow.",
+    "economy": "none",
+    "trigger": ""
+}

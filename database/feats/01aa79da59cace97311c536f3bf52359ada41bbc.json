@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1577",
+    "name": "Murksight",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Witch"
+    ],
+    "level": 8,
+    "prereq": "&Mdash;",
+    "summary": "Your vision pierces through non-magical fog, mist, rain, and snow.",
+    "description": "Your vision pierces through non-magical fog, mist, rain, and snow. You don't take circumstance penalties to ranged attacks or Perception checks caused by non-magical precipitation, and your targeted attacks don't require a flat check to succeed against a target concealed only by such effects.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=47",
+    "name": "Cone of Cold",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cold",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Bitter cold damages creatures in a cone.",
+    "heightenable": true,
+    "description": "Icy cold rushes forth from your hands. You deal 12d6 cold damage to creatures in the area.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2925",
+    "name": "Pushing Attack",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon has an attack that pushes away enemies.",
+    "description": "Your eidolon has an attack that pushes away enemies. Choose one of the eidolon's unarmed attacks with the shove trait. It gains the Push action for that attack.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

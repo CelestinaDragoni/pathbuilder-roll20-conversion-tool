@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=541",
+    "name": "Mantis Form",
+    "source": "World Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Polymorph",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Transform into a mantis battle form.",
+    "heightenable": false,
+    "description": "You become a mantis. You gain the effects of insect form, heightened to mantis form’s level, and you can only transform into a mantis.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

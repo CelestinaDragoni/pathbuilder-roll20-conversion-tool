@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2620",
+    "name": "Retractable Claws",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kitsune"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You gain a claw unarmed attack that deals 1d4 slashing damage.",
+    "description": "You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
+    "economy": "none",
+    "trigger": ""
+}

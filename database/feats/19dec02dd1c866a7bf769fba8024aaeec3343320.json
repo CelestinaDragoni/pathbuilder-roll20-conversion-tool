@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=955",
+    "name": "Shory Aeromancer",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Human"
+    ],
+    "level": 9,
+    "prereq": "Garundi Ethnicity, Mauxi Ethnicity, Or Tian-yae Ethnicity",
+    "summary": "Your ancestors hailed from the flying cities of the Shory, and a few simple tricks have come down through the ages to you.",
+    "description": "Your ancestors hailed from the flying cities of the Shory, and a few simple tricks have come down through the ages to you. You can cast 4th-level fly on yourself as an innate arcane spell once per day.Shory Aeromancer Leads To...\n\nShory AerialistTraitsHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.",
+    "economy": "none",
+    "trigger": ""
+}

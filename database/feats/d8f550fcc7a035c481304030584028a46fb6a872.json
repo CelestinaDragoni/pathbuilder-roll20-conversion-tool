@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1710",
+    "name": "Shared Clarity",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 18,
+    "prereq": "Premonition Of Clarity",
+    "summary": "You can project your premonitions of clarity to your allies.",
+    "description": "You can project your premonitions of clarity to your allies. When you use Premonition of Clarity, allies within 15 feet of you who failed the same saving throw against the same mental effect can also spend their reactions to reroll the failed saving throw with a +2 circumstance bonus.",
+    "economy": "none",
+    "trigger": ""
+}

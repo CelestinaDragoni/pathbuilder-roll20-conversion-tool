@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1445",
+    "name": "Pinch Time",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Half-Elf"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "One of your parents has a human life span and another an elven life span, with your own somewhere between.",
+    "description": "One of your parents has a human life span and another an elven life span, with your own somewhere between. As a result, you have an unusual perspective on time, which you've learned to manifest to aid yourself in moments of stress. You gain haste as a 3rd-level arcane innate spell, though you can target only yourself. You can Cast this Spell once per day.Traits\n\nHalf-Elf: A creature with this trait is part human and part elf. An ability with this trait can be used or selected only by half-elves.",
+    "economy": "none",
+    "trigger": ""
+}

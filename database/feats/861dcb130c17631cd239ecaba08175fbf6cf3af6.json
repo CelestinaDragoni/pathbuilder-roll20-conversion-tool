@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2543",
+    "name": "Arise, ye Worthy!",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ganzi"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You are descended from the valkyries who protect worthy souls, and can hold back death's grasp.",
+    "description": "You are descended from the valkyries who protect worthy souls, and can hold back death's grasp. You can cast breath of life as a divine innate spell once per day.Traits\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a protean",
+    "economy": "none",
+    "trigger": ""
+}

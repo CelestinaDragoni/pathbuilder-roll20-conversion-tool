@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3147",
+    "name": "Vehicle Mechanic Dedication",
+    "source": "Guns & Gears",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In Crafting; Intelligence 14",
+    "summary": "You are adept at designing and maintaining mechanical vehicles, and you lavish your attention and ingenuity on one vehicle in particular.",
+    "description": "You are adept at designing and maintaining mechanical vehicles, and you lavish your attention and ingenuity on one vehicle in particular. You become an expert in Crafting, and you choose one vehicle you own—or your party owns collectively—to be your signature vehicle: the vehicle you spend time customizing to grant it various advantages. You can spend 1 week of downtime with a new vehicle to designate it as your signature vehicle instead. Due to your amazing customizations and adjustments, pilots gain a +1 circumstance bonus to any piloting checks they make to control your signature vehicle. If you are a master in Crafting, this bonus increases to +2.\n\nSpecial You cannot select another dedication feat until you have gained two other feats from the mechanic archetype.Vehicle Mechanic Dedication Leads To...\n\nEfficient Controls, Engine Bay, Impervious Vehicle, Miraculous Flight, Patch Job, Superior PropulsionTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

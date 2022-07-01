@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=986",
+    "name": "Wandering Heart",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Elf"
+    ],
+    "level": 13,
+    "prereq": "Arctic Elf, Cavern Elf, Desert Elf, Woodland Elf, Or Any Other Elf Heritage Based On Adapting To An Environment",
+    "summary": "While all elves adapt to their environments over time, you have traveled so widely and become attuned to so many environs that your body now changes more rapidly than other elves.",
+    "description": "While all elves adapt to their environments over time, you have traveled so widely and become attuned to so many environs that your body now changes more rapidly than other elves. After spending a week in an environment associated with an elf heritage (such as snow for arctic elf, or a forest or jungle for woodland elf) your heritage automatically changes to become that heritage. This never causes you to change to an elf heritage that isn’t related to an environment, such as ancient elf, seer elf, or whisper elf.Traits\n\nElf: A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have low-light vision. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=463",
+    "name": "Wild Winds Initiate",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 8,
+    "prereq": "Ki Spells",
+    "summary": "You learn a mystical stance that lets you attack from a distance.",
+    "description": "You learn a mystical stance that lets you attack from a distance. You gain the wild winds stance ki spell. Increase the number of Focus Points in your focus pool by 1. While entering the stance is a ki spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.Wild Winds Initiate Leads To...\n\nElectric Counter, Wild Winds Gust",
+    "economy": "none",
+    "trigger": ""
+}

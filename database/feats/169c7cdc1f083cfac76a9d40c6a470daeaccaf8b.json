@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1018",
+    "name": "Shared Luck (Halfling)",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 5,
+    "prereq": "Halfling Luck",
+    "summary": "You are evidence that it’s lucky to travel with a halfling.",
+    "description": "You are evidence that it’s lucky to travel with a halfling. You can use Halfling Luck when an ally within 30 feet fails a skill check or a saving throw to allow the ally to reroll the triggering check instead of you rerolling your own failed check. As usual, your ally must use the new result, even if it’s worse than their first roll. If you have Guiding Luck, you can’t use Guiding Luck’s effect that applies to attack rolls and Perception checks to use Shared Luck to benefit an ally.Traits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

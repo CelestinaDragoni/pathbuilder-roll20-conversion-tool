@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3343",
+    "name": "Shiny Button Eyes",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Poppet"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've polished your eyes to reflect the smallest details in dimmest light.",
+    "description": "You've polished your eyes to reflect the smallest details in dimmest light. You gain the Canny Acumen skill feat as a bonus feat, but you must choose Perception. Additionally, you gain a +1 circumstance bonus to Perception checks against visual illusions.Traits\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "none",
+    "trigger": ""
+}

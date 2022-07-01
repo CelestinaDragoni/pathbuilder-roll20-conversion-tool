@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3569",
+    "name": "Loose Cannon",
+    "source": "Pathfinder #178",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Alkenstar Agent Dedication",
+    "summary": "Your unpredictable gunfire often catches enemies off guard or hits unprotected areas.",
+    "description": "Your unpredictable gunfire often catches enemies off guard or hits unprotected areas. Make a ranged Strike with a firearm against a creature that you haven't already attacked on this turn. You gain a circumstance bonus to damage on this Strike equal to the number of weapon damage dice. The Strike gains the following failure effect.\n\nFailure The firearm misfires, but it doesn't cause the other critical failure effects listed below.\nCritical Failure The firearm misfires and also explodes. It becomes broken, and it deals its normal weapon damage to all creatures in a 20-foot burst centered on the firearm, with a basic Reflex save against your class DC. This damage includes any from the weapon's fundamental and property runes.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "1-action",
+    "trigger": ""
+}

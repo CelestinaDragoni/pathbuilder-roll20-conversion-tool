@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2603",
+    "name": "Eternal Wings (Sylph)",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Sylph"
+    ],
+    "level": 17,
+    "prereq": "Wings Of Air",
+    "summary": "Your wings are now a permanent part of your body.",
+    "description": "Your wings are now a permanent part of your body. You gain the effects of Wings of Air at all times rather than just once per day for 10 minutes.Traits\n\nSylph: Sylphs are planar scions descended from djinn.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=246",
+    "name": "Read Aura",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Detection",
+        "Divination"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Detect if an object is magical, and determine the school of its magic.",
+    "heightenable": true,
+    "description": "You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical, and if it is, you learn the school of magic.\n\n If the object is illusory, you detect this only if the effect's level is lower than the level of your read aura spell.\n\n------\n\nHeightened (3rd) You can target up to 10 objects.\nHeightened (6th) You can target any number of objects.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 object",
+    "duration": "",
+    "saving": ""
+}

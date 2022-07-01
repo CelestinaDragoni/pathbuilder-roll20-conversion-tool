@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2896",
+    "name": "Magical Understudy",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "Your eidolon evolves to cast spells.",
+    "description": "Your eidolon evolves to cast spells. It gains the Cast a Spell activity and learns two cantrips of its tradition, which it can cast as innate spells.Magical Understudy Leads To...\n\nMagical Adept, Share Eidolon MagicTraitsEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

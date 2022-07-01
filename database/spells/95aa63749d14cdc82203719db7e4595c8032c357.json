@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=909",
+    "name": "Feral Shades",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "A cone of hound-shaped shades tear creatures apart.",
+    "heightenable": true,
+    "description": "A wave of gray mist formed of negative energy spills out from your outstretched hand, briefly taking the shape of a pack of predatory animals that set viciously on your foes. You deal 2d4 slashing damage and 2d4 negative damage to creatures in the area. The shades set upon the vulnerable with greater ferocity: prone creatures or those taking persistent bleed damage take a –2 status penalty to the save.\n\n------\n\nHeightened (+1) The slashing damage and the negative damage each increase by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

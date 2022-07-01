@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1911",
+    "name": "Blessed Sacrifice",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Blessed One Dedication",
+    "summary": "You gain the protector's sacrifice domain spell as a devotion spell.",
+    "description": "You gain the protector's sacrifice domain spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

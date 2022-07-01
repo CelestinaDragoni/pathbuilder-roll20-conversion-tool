@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2685",
+    "name": "Reloading Trick",
+    "source": "Pathfinder #165",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Manipulate"
+    ],
+    "level": 6,
+    "prereq": "Drow Shootist Dedication",
+    "summary": "You can fire off a single shot even when unprepared. You Interact to reload your hand crossbow and Strike with it.",
+    "description": "You can fire off a single shot even when unprepared. You Interact to reload your hand crossbow and Strike with it.\n\nSpecial If you have the Repeating Hand Crossbow Training feat, you can use this feat with a repeating hand crossbow to load either a bolt or a magazine, but the speed means you can fire only one bolt, then the magazine jams. You must spend a 3-action Interact activity to remove the jammed magazine and clear it before it can be used again.Traits\n\nArchetype: This feat belongs to an archetype.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1",
+    "name": "Abyssal Plague",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Chaotic",
+        "Disease",
+        "Evil",
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Inflict a draining curse.",
+    "heightenable": false,
+    "description": "Your touch afflicts the target with Abyssal plague, which siphons fragments of their soul away to empower the Abyss. The effect is based on the target's Fortitude save.\n\nAbyssal Plague (disease); Level 9. The target can't recover from the drained condition from Abyssal plague until the disease is cured. Stage 1 drained 1 (1 day); Stage 2 drained increases by 2 (1 day).\n\nCritical Success The target is unaffected.\nSuccess The target takes 2 evil damage per spell level, and takes a –2 status penalty to saves against Abyssal plague for 1 day or until the target contracts it, whichever comes first.\nFailure The target is afflicted with Abyssal plague at stage 1.\nCritical Failure The target is afflicted with Abyssal plague at stage 2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": "FortitudeYour touch afflicts the target with Abyssal plague, which siphons fragments of their soul away to empower the Abyss. The effect is based on the target's Fortitude save.Abyssal Plague (disease)"
+}

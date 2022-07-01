@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3196",
+    "name": "Unshakable Grit",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 12,
+    "prereq": "Grit And Tenacity",
+    "summary": "You've become hardened by conflict after everything you've faced, and you possess a certain intractable stubbornness.",
+    "description": "You've become hardened by conflict after everything you've faced, and you possess a certain intractable stubbornness. If the reroll granted to you by your Grit and Tenacity reaction is a success, you get a critical success instead; if it's a critical failure, you get a failure instead.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3273",
+    "name": "Lucky Escape",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Misfortune"
+    ],
+    "level": 4,
+    "prereq": "Unexpected Sharpshooter Dedication",
+    "summary": "Force your foe to reroll the triggering attack",
+    "description": "Your enemy lies in wait, lines up the perfect shot, and pulls the trigger... then at just the right moment you duck down to notice something scrawled on the cobblestone in chalk, a shiny coin, or some other coincidental distraction, creating an opportunity for the attack to miss. The attacker must roll the attack twice and use the worse result.Traits\n\nArchetype: This feat belongs to an archetype.\n\nMisfortune: A misfortune effect detrimentally alters how you roll your dice. You can never have more than one misfortune effect alter a single roll. If multiple misfortune effects would apply, the GM decides which is worse and applies it. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "reaction",
+    "trigger": "A creature targets you with an attack, even if you aren't aware of it."
+}

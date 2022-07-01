@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1274",
+    "name": "Scamper",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You instinctively know how to flee danger.",
+    "description": "You instinctively know how to flee danger. You Stride up to your Speed, with a +5-foot status bonus to your Speed, and you gain a +2 circumstance bonus to AC against reactions triggered by this movement. You must end this movement in a space that's not adjacent to any enemy.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "1-action",
+    "trigger": ""
+}

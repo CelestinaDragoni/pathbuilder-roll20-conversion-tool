@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3346",
+    "name": "Histrionic Injury",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Mental",
+        "Poppet"
+    ],
+    "level": 5,
+    "prereq": "&Mdash;",
+    "summary": "You respond with a startled look, dramatic pratfall, or theatrical arm-flailing that stymies your attacker.",
+    "description": "You respond with a startled look, dramatic pratfall, or theatrical arm-flailing that stymies your attacker. The attacker must succeed at a Will saving throw against your class DC or spell DC, whichever is higher, or become stupefied 1 for 1 round (stupefied 2 on a critical failure).Traits\n\nMental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.\n\nPoppet: Small constructs originally designed to serve as companions or servants. They occasionally gain a greater spark of life, transforming them into independent, sapient creatures.",
+    "economy": "reaction",
+    "trigger": "A creature you can see damages you with a melee Strike."
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=648",
+    "name": "Blood Feast",
+    "source": "Pathfinder #154",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Necromancy"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Your head splits vertically into an enormous maw, which feasts upon the target's blood.",
+    "heightenable": true,
+    "description": "Your head splits vertically into an enormous maw, which feasts upon the target's blood, dealing 12d6 piercing damage, depending on your spell attack roll. After the spell, your head sews back together as if it had never split apart. You gain temporary Hit Points for 1 minute equal to half the piercing damage the target takes.\n\n If you are a gug, increase the piercing damage by 2d6 and increase the persistent bleed damage you deal on a critical hit by 1d8. This spell doesn’t alter a gug’s appearance.\n\nCritical Success The creature takes double damage and 1d8 persistent bleed damage.\nSuccess The creature takes full damage.\nFailure You miss and the creature takes no damage.\n\n------\n\nHeightened (+1) The piercing damage increases by 2d6, and the persistent bleed damage on a critical increases by 1.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

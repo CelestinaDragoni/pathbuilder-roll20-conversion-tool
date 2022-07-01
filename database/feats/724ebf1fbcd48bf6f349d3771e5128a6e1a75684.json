@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=115",
+    "name": "Uncanny Bombs",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 12,
+    "prereq": "Far Lobber",
+    "summary": "You lob bombs unerringly, despite obstructions or distance.",
+    "description": "You lob bombs unerringly, despite obstructions or distance. When you throw an alchemical item with the bomb trait, its range increment increases to 60 feet, you reduce any circumstance bonus to the target’s AC from cover by 1, and you automatically succeed at the flat check when targeting a concealed creature.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=786",
+    "name": "Sepulchral Mask",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Divination",
+        "Emotion",
+        "Mental",
+        "Sorcerer",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You manifest a supernatural funerary mask, granting you a +1 status bonus to Will saving throws against emotion effects for 1 minute.",
+    "heightenable": true,
+    "description": "You manifest a supernatural funerary mask, granting you a +1 status bonus to Will saving throws against emotion effects for 1 minute. Its somber countenance forces your foes to confront their regrets and sins. Each enemy in the area when you Cast the Spell or that starts its turn in the area takes 1d4 mental damage and must attempt a Will save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and takes a –1 status penalty to Will saves against emotion effects for 1 round.\nCritical Failure The creature takes double damage and a –1 status penalty to Will saves against emotion effects for 1 minute.\n\n------\n\nHeightened (+2) Increase the mental damage by 2d4 and the emanation's radius by 5 feet.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "enemies in the area",
+    "duration": "1 minute",
+    "saving": "Will"
+}

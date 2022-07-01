@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=287",
+    "name": "Channeled Succor",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Cleric"
+    ],
+    "level": 8,
+    "prereq": "Healing Font",
+    "summary": "You can remove conditions with divine grace.",
+    "description": "You can remove conditions with divine grace. You can sacrifice one heal spell you’ve prepared in your extra slots from healing font to cast one of the following spells instead: remove curse, remove disease, remove paralysis, or restoration. The spell is heightened to the same level as the heal spell you sacrificed.",
+    "economy": "none",
+    "trigger": ""
+}

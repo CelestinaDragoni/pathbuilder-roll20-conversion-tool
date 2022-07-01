@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=319",
+    "name": "Summon Dragon",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Conjure a dragon to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure a dragon to fight for you. This works like summon animal, except you summon a common creature that has the dragon trait and whose level is 5 or lower, such as those below.\n\n------\n\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel 1 DragonsHouse Drake (CG)Level 2 DragonsShadow Drake (CE), Tatzlwyrm (N)Level 3 DragonsRiver Drake (NE)Level 5 DragonsFlame Drake (CE)Level 6 DragonsJungle Drake (NE), Sea Drake (NE), Wyvern (NE), Young White Dragon (CE)Level 7 DragonsFrost Drake (CE), Young Black Dragon (CE), Young Brass Dragon (CG)Level 8 DragonsDesert Drake (NE), Young Copper Dragon (CG), Young Green Dragon (LE)Level 9 DragonsDragon Turtle (N), Young Blue Dragon (LE), Young Bronze Dragon (LG), Zombie Dragon (NE)Level 10 DragonsAdult White Dragon (CE), Peluda (LE), Young Red Dragon (CE), Young Silver Dragon (LG)Level 11 DragonsAdult Black Dragon (CE), Adult Brass Dragon (CG), Young Gold Dragon (LG)Level 12 DragonsAdult Copper Dragon (CG), Adult Green Dragon (LE)Level 13 DragonsAdult Blue Dragon (LE), Adult Bronze Dragon (LG)Level 14 DragonsAdult Red Dragon (CE), Adult Silver Dragon (LG)Level 15 DragonsAdult Gold Dragon (LG)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

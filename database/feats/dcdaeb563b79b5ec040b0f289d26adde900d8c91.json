@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1275",
+    "name": "Snare Setter",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 1,
+    "prereq": "Trained In Crafting",
+    "summary": "You are adept at the time-honored kobold art of trap making.",
+    "description": "You are adept at the time-honored kobold art of trap making. You gain the trained proficiency in Crafting. If you were already trained in Crafting, you instead become trained in a skill of your choice. You gain access to all uncommon kobold snares. You gain the Snare Crafting feat, though when choosing your formulas for that feat, you can also choose from uncommon kobold snares, as well as common snares.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

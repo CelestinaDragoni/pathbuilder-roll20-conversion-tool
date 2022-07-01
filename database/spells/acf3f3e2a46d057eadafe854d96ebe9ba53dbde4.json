@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=154",
+    "name": "Hydraulic Push",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Evocation",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Damage and push a creature with a blast of water.",
+    "heightenable": true,
+    "description": "You call forth a powerful blast of pressurized water that bludgeons the target and knocks it back. Make a ranged spell attack roll.\n\nCritical Success The target takes 6d6 bludgeoning damage and is knocked back 10 feet.\nSuccess The target takes 3d6 bludgeoning damage and is knocked back 5 feet.\n\n------\n\nHeightened (+1) The damage increases by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature or unattended object",
+    "duration": "",
+    "saving": ""
+}

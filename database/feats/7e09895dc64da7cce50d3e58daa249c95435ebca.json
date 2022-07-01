@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2918",
+    "name": "Energy Resistance",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Evolution",
+        "Summoner"
+    ],
+    "level": 8,
+    "prereq": "Energy Heart",
+    "summary": "Your eidolon has stronger resistance.",
+    "description": "Your eidolon has stronger resistance. Its resistance from Energy Heart and Dual Energy Heart increase to your level.Traits\n\nEvolution: Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.",
+    "economy": "none",
+    "trigger": ""
+}

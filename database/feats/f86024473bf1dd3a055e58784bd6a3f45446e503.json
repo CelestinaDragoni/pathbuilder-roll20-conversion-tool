@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1834",
+    "name": "Energy Ablation",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Metamagic",
+        "Wizard"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "When you cast energy spells, you retain some of that energy as a protective barrier.",
+    "description": "When you cast energy spells, you retain some of that energy as a protective barrier. If your next action is to Cast a Spell that deals energy damage, whether or not it successfully deals damage, you gain resistance to that type of energy equal to the spell's level (minimum 1) until the end of your next turn. If the spell deals more than one type of energy damage, choose one and gain resistance to that type.Traits\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "1-action",
+    "trigger": ""
+}

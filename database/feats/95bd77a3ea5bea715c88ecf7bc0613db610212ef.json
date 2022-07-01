@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1115",
+    "name": "Halcyon Speaker Dedication",
+    "source": "Character Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 6,
+    "prereq": "Magaambyan Attendant Dedication; Member Of The Magaambya Of Conversant Rank",
+    "summary": "You devote much of your study to halcyon magic.",
+    "description": "You devote much of your study to halcyon magic. You gain two common Halcyon cantrips and two common 1st-level halcyon spells (see Halcyon Spells). In addition to being able to cast your halcyon spells via your arcane or primal spell slots, you also gain a 1st-level halcyon spell slot. You can use your halcyon spell slots to spontaneously cast your halcyon spells.\n\nSpecial You cannot select another dedication feat until you have gained two other feats from the halcyon speaker archetype.Halcyon Speaker Dedication Leads To...\n\nDualistic Synergy, Halcyon Spellcasting Initiate, Persistent CreationTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

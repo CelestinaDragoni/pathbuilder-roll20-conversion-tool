@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=423",
+    "name": "Flame Barrier",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Protect yourself or an ally from fire.",
+    "heightenable": true,
+    "description": "You swiftly deflect incoming flames. The target gains fire resistance 15 against the triggering effect.\n\n------\n\nHeightened (+2) The resistance increases by 5.",
+    "economy": "reaction",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "An effect would deal fire damage to either you or an ally within range.",
+    "range": "60 feet",
+    "target": "the creature that would take fire damage",
+    "duration": "",
+    "saving": ""
+}

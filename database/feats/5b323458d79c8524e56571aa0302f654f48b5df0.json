@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3250",
+    "name": "Banshee Cry Display",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Firework Technician Dedication",
+    "summary": "You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording.",
+    "description": "You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording. You gain the Banshee Cry fireworks display.\n\n Banshee Cry     Trigger A creature within 30 feet Casts a Spell that has a verbal component or Activates an Item using a command Activation; Effect You set off a firework to explode with a loud screech near the creature. The creature must attempt a Will save.\n\nSuccess The creature is unaffected.\nFailure The creature must use an additional action on the triggering action or activity, or it's disrupted.\nCritical Failure The triggering action is disrupted.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature within 30 feet Casts a Spell that has a verbal component or Activates an Item using a command Activation; Effect You set off a firework to explode with a loud screech near the creature. The creature must attempt a Will save."
+}

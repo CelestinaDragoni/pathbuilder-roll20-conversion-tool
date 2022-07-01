@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=986",
+    "name": "Rip the Spirit",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Death",
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Tear at a living creature's spirit with negative energy to damage and drain it.",
+    "heightenable": true,
+    "description": "You supernaturally rip the spirit from a living creature's body, dooming the target to pain and death. The target takes 5d6 negative damage, depending on its basic Fortitude save, and is drained 1 if it fails its save. The spell's effect is based on how many actions you spend when Casting the Spell.\n\n     (somatic) The spell targets one living creature in range. \n    (somatic, verbal) The spell targets one living creature in range and the damage is 10d6 negative instead of 5d6. \n    (material, somatic, verbal) The spell targets all living creatures in a 30-foot emanation.\n\n------\n\nHeightened (+1) The amount of damage increases by 1d6, or by 2d6 for the 2-action version.",
+    "economy": "1-to-3-actions",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 living creature",
+    "duration": "",
+    "saving": ""
+}

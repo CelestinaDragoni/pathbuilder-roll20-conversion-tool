@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=680",
+    "name": "Countless Eyes",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Occult",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Cause magical eyes to appear all over a creature's body.",
+    "heightenable": false,
+    "description": "Eyes form across the touched creature's body, allowing it to see in all directions at once. The subject can't be flanked for the spell's duration. In addition, when the subject Seeks, it can Seek in a 30-foot burst centered on itself or up to four 15-foot bursts within line of sight.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "1 minute",
+    "saving": ""
+}

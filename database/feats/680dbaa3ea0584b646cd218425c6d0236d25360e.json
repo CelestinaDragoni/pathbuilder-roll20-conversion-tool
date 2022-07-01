@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2532",
+    "name": "Creative Prodigy",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ganzi"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You have a powerful creative drive, useful for prevarication and performance.",
+    "description": "You have a powerful creative drive, useful for prevarication and performance. You gain the trained proficiency rank in Deception and Performance. If you are already trained in either of these skills, you become trained in a skill of your choice in its place. You also become trained in Art Lore.Traits\n\nGanzi: A planar scion descended from a chaotic being of the Maelstrom, such as a protean",
+    "economy": "none",
+    "trigger": ""
+}

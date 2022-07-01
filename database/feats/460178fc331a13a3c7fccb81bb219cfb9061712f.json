@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1318",
+    "name": "Tengu Weapon Study",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 5,
+    "prereq": "Tengu Weapon Familiarity",
+    "summary": "You've learned techniques for using blades and other tengu weapons.",
+    "description": "You've learned techniques for using blades and other tengu weapons. Whenever you critically hit using one of the weapons from your Tengu Weapon Familiarity, you apply the weapon's critical specialization effect.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}

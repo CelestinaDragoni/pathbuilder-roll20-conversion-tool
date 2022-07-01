@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1389",
+    "name": "Devil Magic",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tiefling"
+    ],
+    "level": 9,
+    "prereq": "Hellspawn",
+    "summary": "Drawing on the infernal power of your sinister forbears, you mislead your foes with magical deception.",
+    "description": "Drawing on the infernal power of your sinister forbears, you mislead your foes with magical deception. You can cast invisibility and misdirection each once per day as 2nd-level divine innate spells.Traits\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

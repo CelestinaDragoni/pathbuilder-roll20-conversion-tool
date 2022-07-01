@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=402",
+    "name": "Fearsome Brute",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 10,
+    "prereq": "&Mdash;",
+    "summary": "Fear makes your foes weak and more vulnerable to your attacks.",
+    "description": "Fear makes your foes weak and more vulnerable to your attacks. You gain a circumstance bonus to damage rolls for Strikes against frightened creatures. The bonus is equal to double the target’s frightened value.\n\n If you have master proficiency in Intimidation, increase the bonus to triple the target’s frightened value.",
+    "economy": "none",
+    "trigger": ""
+}

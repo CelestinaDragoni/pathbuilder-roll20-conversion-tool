@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1006",
+    "name": "Summon Axiom",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 5,
+    "summary": "Summon a lawful celestial, monitor, or fiend.",
+    "heightenable": true,
+    "description": "You conjure a lawful celestial, monitor, or fiend to fight on your behalf. You summon a common lawful creature that has the celestial, monitor, or fiend trait and whose level is 5 or lower. You can't summon a creature unless its alignment is one of your deity's preferred alignments (or, if you don't have a deity, is within one step of your alignment). At the GM's discretion, some deities might restrict specific types of creatures, even if their alignments match. Heightening the spell increases the maximum level of creature you can summon.\n\n------\n\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel 0 AxiomsLemure (LE)Level 1 AxiomsArbiter (LN), Augur (LE), Doru (LE), Imp (LE), Lantern Archon (LG), Shaukeen (LE)Level 3 AxiomsHell Hound (LE), Zebub (LE)Level 4 AxiomsAghash (LE), Horned Archon (LG), Hound Archon (LG)Level 5 AxiomsBarbazu (LE), Dandasuka (LE), Ostiarius (LE)Level 6 AxiomsEvangelist (LE)Level 7 AxiomsAdhukait (LE), Hellcat (LE), Legion Archon (LG), Levaloch (LE), Pairaka (LE), Theletos (LN)Level 8 AxiomsAxiomite (LN), Erinys (LE), Hellwasp Swarm (LE), Onidoshi (LE), Sarglagon (LE)Level 9 AxiomsNessian Warhound (LE), Osyluth (LE), Zelekhut (LN)Level 10 AxiomsPhistophilus (LE), Raja Rakshasa (LE), Sacristan (LE), Shield Archon (LG), Soul Skelm (LE)Level 11 AxiomsHamatula (LE), Munagola (LE)Level 12 AxiomsInterlocutor (LE), Japalisura (LE), Kolyarut (LN)Level 13 AxiomsGelugon (LE)Level 14 AxiomsFire Yai (LE), Gylou (LE), Nikaramsa (LE), Sepid (LE), Trumpet Archon (LG)Level 15 AxiomsMarut (LN)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

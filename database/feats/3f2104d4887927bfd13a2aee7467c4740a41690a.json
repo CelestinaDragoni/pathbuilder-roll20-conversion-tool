@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3376",
+    "name": "Animate Net",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Spell Trickster Dedication; Ability To Cast Animate Rope",
+    "summary": "When you cast animate rope, you can modify it to animate a net.",
+    "description": "When you cast animate rope, you can modify its target to be 1 net. If you do, replace the spell's standard effects with the following: You cause a net to animate and throw itself at a Medium or smaller creature within 20 feet of the net. Attempt a spell attack roll against the target's Reflex DC. On a success, the target is flat-footed and takes a –10-foot circumstance penalty to its Speeds until it Escapes; on a critical success, it's also immobilized until it Escapes. The Escape DC is equal to your spell DC as long as the spell lasts. Once the spell ends, the Escape DC returns to the normal DC for a net (usually 16), and a creature adjacent to the target can Interact to remove the net.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

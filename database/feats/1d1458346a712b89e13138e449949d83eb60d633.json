@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2027",
+    "name": "Medic Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Battle Medicine; Trained In Medicine",
+    "summary": "You become an expert in Medicine.",
+    "description": "You become an expert in Medicine. When you succeed with Battle Medicine or Treat Wounds, the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at DC 40. Once per day, you can use Battle Medicine on a creature that's temporarily immune. If you're a master in Medicine, you can do so once per hour.\n\nSpecial You can't select another dedication feat until you gain two other feats from the medic archetype.Medic Dedication Leads To...\n\nDoctor's Visitation, Preventative Treatment, Resuscitate, Treat ConditionTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

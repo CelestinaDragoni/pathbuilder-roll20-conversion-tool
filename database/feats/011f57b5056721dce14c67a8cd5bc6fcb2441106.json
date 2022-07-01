@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3365",
+    "name": "Effortless Captivation",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Metamagic"
+    ],
+    "level": 14,
+    "prereq": "Captivator Dedication",
+    "summary": "You maintain your innate enchantments and illusions with hardly a thought.",
+    "description": "You maintain your innate enchantments and illusions with hardly a thought. You immediately gain the effects of the Sustain a Spell action, which you can use only to extend the duration of an enchantment or illusion spell.Traits\n\nArchetype: This feat belongs to an archetype.\n\nMetamagic: Actions with the metamagic trait, usually from metamagic feats, tweak the properties of your spells. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell’s effect, not of the metamagic action itself.",
+    "economy": "free_action",
+    "trigger": "Your turn begins."
+}

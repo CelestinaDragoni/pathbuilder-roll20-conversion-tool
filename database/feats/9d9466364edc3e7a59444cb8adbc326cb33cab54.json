@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2194",
+    "name": "Sense Alignment",
+    "source": "Pathfinder #157",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Secret"
+    ],
+    "level": 4,
+    "prereq": "Edgewatch Detective Dedication",
+    "summary": "You read the body language of an intelligent creature within 30 feet and pick up on subtle cues to detect its general propensity for good or evil and law or chaos.",
+    "description": "You read the body language of an intelligent creature within 30 feet and pick up on subtle cues to detect its general propensity for good or evil and law or chaos. The GM rolls a secret Perception check, comparing the result against the target's Deception DC.\n\n\nCritical Success You ascertain the target's alignment.\nSuccess You ascertain the target's alignment, but only along one axis (your choice of either the good-evil axis or the lawful-chaotic axis).\nFailure You do not learn the target's alignment.\nCritical Failure You incorrectly ascertain the target's alignment, misidentifying their alignment along either one axis or both (GM's choice).Traits\n\nArchetype: This feat belongs to an archetype.\n\nSecret: The GM rolls the check for this ability in secret.",
+    "economy": "3-action",
+    "trigger": ""
+}

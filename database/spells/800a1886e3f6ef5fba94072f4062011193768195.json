@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=392",
+    "name": "Triple Time",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Bard",
+        "Cantrip",
+        "Composition",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": true,
+    "focus": true,
+    "level": 2,
+    "summary": "You dance at a lively tempo, speeding your allies’ movement.",
+    "heightenable": false,
+    "description": "You dance at a lively tempo, speeding your allies' movement. You and all allies in the area gain a +10-foot status bonus to all Speeds for 1 round.",
+    "economy": "1-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 round",
+    "saving": ""
+}

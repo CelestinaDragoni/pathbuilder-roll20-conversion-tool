@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3194",
+    "name": "Shattering Shot",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 12,
+    "prereq": "&Mdash;",
+    "summary": "You fling a bomb into the air and then shoot it with your gun before it falls, raining destruction down over a wide area.",
+    "description": "You fling a bomb into the air and then shoot it with your gun before it falls, raining destruction down over a wide area. If necessary, you Interact to draw the bomb and regrip your weapon. You throw your bomb to the corner of a square within your firearm's first range increment and shoot it with your firearm. All creatures in a 15-foot burst of the bomb take the bomb's normal damage with a basic Reflex save against your class DC. They don't take any splash or persistent damage the bomb would deal normally.",
+    "economy": "1-action",
+    "trigger": ""
+}

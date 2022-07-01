@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=775",
+    "name": "Ranger's Bramble",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Plant",
+        "Ranger",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You cause plants in the area to entangle your foes, with the effects of entangle.",
+    "heightenable": true,
+    "description": "You cause plants in the area to entangle your foes, with the effects of entangle. A creature that critically fails the save takes 2d4 persistent bleed damage in addition to being immobilized. Escaping your bramble doesn't end the bleed damage.\n\n------\n\nHeightened (+1) The bleed damage on a critical failure increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "100 feet",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3032",
+    "name": "Interfering Surge",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Wellspring Mage Dedication",
+    "summary": "You overcharge the triggering spell with magic.",
+    "description": "You overcharge the triggering spell with magic. You expend a spell slot and attempt to counteract the triggering spell using the energy of the expended slot. If the triggering spell is in your repertoire and the spell slot you expended was a high enough level to cast it, you take no penalty. Otherwise, you take a –2 penalty to the counteract check if the triggering spell was cast using the same magical tradition you cast, or a –5 penalty if it was cast using a different tradition.\n\n If the triggering spell is successfully counteracted, it creates a wellspring surge from its caster in addition to the normal effects of being counteracted. If it isn't counteracted, your expended spell slot creates a wellspring surge from you.\n\nSpecial This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, primal, or occult).Traits\n\nAbjuration: Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature you can see Casts a Spell."
+}

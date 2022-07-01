@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=61",
+    "name": "Halfling Weapon Trickster",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 5,
+    "prereq": "Halfling Weapon Familiarity",
+    "summary": "You are particularly adept at fighting with your people’s favored weapons.",
+    "description": "You are particularly adept at fighting with your people's favored weapons. Whenever you critically succeed at an attack roll using a shortsword, a sling, or a halfling weapon, you apply the weapon's critical specialization effect.\nTraits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

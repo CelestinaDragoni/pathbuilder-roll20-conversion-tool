@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=44",
+    "name": "Color Spray",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion",
+        "Incapacitation",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Swirling colors dazzle or stun creatures.",
+    "heightenable": false,
+    "description": "Swirling colors affect viewers based on their Will saves.\n\nCritical Success The creature is unaffected.\nSuccess The creature is dazzled for 1 round.\nFailure The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.\nCritical Failure The creature is stunned for 1 round and blinded for 1 minute.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 or more rounds (see below)",
+    "saving": "Will"
+}

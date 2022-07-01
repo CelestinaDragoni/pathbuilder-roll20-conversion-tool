@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2186",
+    "name": "Disturbing Defense",
+    "source": "The Slithering",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Oozemorph Dedication",
+    "summary": "Your internal organs and blood vessels have shifted and changed, and even you don't know precisely where in your body they are.",
+    "description": "Your internal organs and blood vessels have shifted and changed, and even you don't know precisely where in your body they are. You gain resistance to precision damage equal to 2 + your number of class feats from the oozemorph archetype. The DC of your flat checks to recover from persistent bleed damage is 13, rather than 15.Disturbing Defense Leads To...\n\nPeculiar Anatomy, Rubbery SkinTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

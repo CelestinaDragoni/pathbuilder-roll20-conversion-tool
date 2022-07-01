@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=317",
+    "name": "Call of the Wild",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Druid"
+    ],
+    "level": 2,
+    "prereq": "&Mdash;",
+    "summary": "You call upon the creatures of nature to come to your aid.",
+    "description": "You call upon the creatures of nature to come to your aid. You can spend 10 minutes in concert with nature to replace one of the spells you’ve prepared in one of your druid spell slots with a summon animal or summon plants and fungus spell of the same level.Call of the Wild Leads To...\n\nPrimal Summons",
+    "economy": "none",
+    "trigger": ""
+}

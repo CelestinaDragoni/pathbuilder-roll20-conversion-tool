@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2463",
+    "name": "Nanite Surge",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Android",
+        "Concentrate"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You stimulate your nanites, forcing your body to temporarily increase its efficiency.",
+    "description": "You stimulate your nanites, forcing your body to temporarily increase its efficiency. You gain a +2 status bonus to the triggering skill check. In addition, your circuitry glows, lighting a 10-foot emanation with dim light for 1 round.Nanite Surge Leads To...\n\nConsistent Surge, Offensive Subroutine, Protective SubroutineTraitsAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "reaction",
+    "trigger": "You attempt a skill check requiring three actions or fewer."
+}

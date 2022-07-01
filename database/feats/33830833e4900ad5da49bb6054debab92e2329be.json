@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1433",
+    "name": "Dance Underfoot",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 9,
+    "prereq": "Step Lively",
+    "summary": "You dart under the legs of your enemies in combat.",
+    "description": "You dart under the legs of your enemies in combat. You can end a successful Tumble Through action in a Large or larger enemy's space. Also, when using the Step Lively feat, you can Step into the triggering enemy's space. The enemy must have limbs or otherwise leave you enough room for this maneuver, as determined by the GM. For instance, you could share space with a giant or dragon, but not an ooze.Dance Underfoot Leads To...\n\nToppling DanceTraitsHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

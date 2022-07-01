@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3195",
+    "name": "Shooter's Camouflage",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Gunslinger"
+    ],
+    "level": 12,
+    "prereq": "Master In Stealth",
+    "summary": "You specialize in blending into a particular type of environment, able to disappear after taking your shot.",
+    "description": "You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can Hide and Sneak even without cover or being concealed.",
+    "economy": "none",
+    "trigger": ""
+}

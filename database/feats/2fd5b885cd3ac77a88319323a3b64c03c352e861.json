@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=482",
+    "name": "Shattering Strike (Monk)",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 16,
+    "prereq": "&Mdash;",
+    "summary": "The force of your considered blow shatters objects and defenses alike.",
+    "description": "The force of your considered blow shatters objects and defenses alike. Make an unarmed Strike. It bypasses the target’s resistances. If the target has Hardness, the Strike treats the Hardness as if it were half its value.",
+    "economy": "2-action",
+    "trigger": ""
+}

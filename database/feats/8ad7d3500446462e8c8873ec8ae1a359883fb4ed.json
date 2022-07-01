@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2570",
+    "name": "Fortify Shield",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Oread"
+    ],
+    "level": 5,
+    "prereq": "Shield Block",
+    "summary": "You reinforce your shield with a rocky outgrowth of metal and stone.",
+    "description": "You reinforce your shield with a rocky outgrowth of metal and stone. You Raise your Shield. If you use the Shield Block reaction before your next turn, add your character level to your shield's Hardness when determining how much damage is blocked.Traits\n\nOread: Oreads are planar scions descended from shaitans.",
+    "economy": "1-action",
+    "trigger": ""
+}

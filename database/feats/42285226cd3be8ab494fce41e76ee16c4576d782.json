@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3456",
+    "name": "Spirit's Absolution",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "level": 6,
+    "prereq": "Exorcist Dedication",
+    "summary": "You purify a spirit by absolving it of its sins and regrets.",
+    "description": "You purify a spirit by absolving it of its sins and regrets. This cathartic experience restores your Hit Points or those of an adjacent ally. If you expend a spirit wisp, the target recovers 1d4 Hit Points per level you have. If you expend a spirit remnant, the target recovers 1d6 Hit Points per level of the incorporeal undead or haunt from which you gained the remnant.Traits\n\nArchetype: This feat belongs to an archetype.\n\nHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.Necromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Positive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
+    "economy": "1-action",
+    "trigger": ""
+}

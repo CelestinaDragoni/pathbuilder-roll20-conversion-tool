@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2204",
+    "name": "Speaking Sky",
+    "source": "Pathfinder #158",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Jalmeri Heavenseeker Dedication",
+    "summary": "You can hear air movement like soft whispers.",
+    "description": "You can hear air movement like soft whispers. You gain the speaking sky ki spell. Increase the number of Focus Points in your focus pool by 1.\nTraits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2026",
+    "name": "Avalanche Strike",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Flourish",
+        "Open"
+    ],
+    "level": 16,
+    "prereq": "Mauler Dedication",
+    "summary": "You attack all nearby adversaries.",
+    "description": "You attack all nearby adversaries. Make a melee Strike with the required weapon against each enemy within your melee reach. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you have made all your attacks.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.Open: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
+    "economy": "3-action",
+    "trigger": ""
+}

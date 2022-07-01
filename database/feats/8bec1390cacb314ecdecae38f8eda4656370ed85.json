@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=261",
+    "name": "Celestial Mount",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Champion"
+    ],
+    "level": 20,
+    "prereq": "Divine Ally (Steed); Tenets Of Good",
+    "summary": "Your steed gains incredible celestial powers granted by your deity.",
+    "description": "Your steed gains incredible celestial powers granted by your deity. It gains darkvision, its maximum Hit Points increase by 40, and it gains weakness 10 to evil damage.\n\n Additionally, it grows wings appropriate to a servitor of your deity (such as metallic wings for an archon), granting it a fly Speed equal to its Speed. It gains the celestial trait and the trait appropriate to the type of servitor it has become (archon, angel, or azata, for example).",
+    "economy": "none",
+    "trigger": ""
+}

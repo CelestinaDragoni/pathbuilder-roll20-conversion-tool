@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1182",
+    "name": "Numb to Death",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "General"
+    ],
+    "level": 7,
+    "prereq": "Diehard; You Have Died At Least Once",
+    "summary": "Your past has left you numb to death’s call",
+    "description": "Your past has left you numb to death’s call. The first time each day that you regain Hit Points while you are dying, you regain additional Hit Points equal to your level, and you neither gain the wounded condition nor increase the value of this condition.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.",
+    "economy": "none",
+    "trigger": ""
+}

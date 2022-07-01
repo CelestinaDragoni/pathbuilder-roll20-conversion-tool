@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=198",
+    "name": "Misdirection",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Illusion"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Cause one creature’s auras to appear to be another’s.",
+    "heightenable": false,
+    "description": "You reshape the magic aura of one creature or object to resemble that of another. You designate one target as the primary target and the other as the secondary target. Effects that would detect auras on the primary target instead detect the same types of auras from the secondary target. A creature reading the aura can attempt to disbelieve the illusion. You can Dismiss the spell from up to a mile away.",
+    "economy": "none",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "2 creatures or objects",
+    "duration": "until the next time you make your daily preparations",
+    "saving": ""
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=559",
+    "name": "Practice Makes Perfect",
+    "source": "Pathfinder #148",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "Gain a bonus on a failed skill check, which may turn a failure into a success.",
+    "heightenable": false,
+    "description": "The target gains a +2 status bonus to the triggering check, or a +3 bonus if the target has master or better proficiency in the skill. This bonus can change the outcome of the target’s check.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "You or an ally within range fails a skill check for a skill in which you or they are trained.",
+    "range": "30 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1086",
+    "name": "Signifer Armor Expertise",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Hellknight Signifer Dedication",
+    "summary": "You’ve spent enough time helping your comrades equip medium and heavy armor that you spread your own expertise to those armors as well.",
+    "description": "You’ve spent enough time helping your comrades equip medium and heavy armor that you spread your own expertise to those armors as well. If you have expert proficiency in any armor or unarmored defense, you also gain expert proficiency in medium and heavy armor.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

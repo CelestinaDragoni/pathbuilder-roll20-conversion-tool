@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=687",
+    "name": "Enervation",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Arcane",
+        "Divine",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Drain a creature's vigor.",
+    "heightenable": true,
+    "description": "Extending a finger, you fire a beam of negative energy that weakens the life force of any creature it touches. Each living creature in the line must attempt a Fortitude save.\n\nCritical Success The creature is unaffected.\nSuccess The creature takes 2d8 persistent negative damage.\nFailure The creature takes 4d8 persistent negative damage and becomes drained 1.\nCritical Failure The creature takes 4d8 persistent negative damage and becomes drained 2 and doomed 1.\n\n------\n\nHeightened (+2) The persistent negative damage increases by 1d8 on a success, or by 2d8 on a failure or critical failure.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

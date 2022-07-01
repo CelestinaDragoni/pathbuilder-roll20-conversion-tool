@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=172",
+    "name": "Lightning Bolt",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Electricity",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 3,
+    "summary": "Lightning strikes all creatures in a line.",
+    "heightenable": true,
+    "description": "A bolt of lightning strikes outward from your hand, dealing 4d12 electricity damage.\n\n------\n\nHeightened (+1) The damage increases by 1d12.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=789",
+    "name": "Steal Shadow",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Necromancy",
+        "Shadow",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You steal a creature's shadow, leaving it weakened and vulnerable.",
+    "heightenable": true,
+    "description": "You steal a creature's shadow, leaving it weakened and vulnerable. The target must attempt a Fortitude save.\n\nCritical Success The target is unaffected.\nSuccess The target is enfeebled 1 for 1 round.\nFailure The target takes 3d4 negative damage and is enfeebled 1 for the spell's duration as you tear its shadow away, collecting it in your hand. On subsequent rounds, the first time each round you Sustain the Spell, you can throttle the shadow to deal 3d4 negative damage to the target (basic Fortitude save). Until the spell ends, the target doesn't cast a shadow.\nCritical Failure As failure, but the target is enfeebled 2.\n\n------\n\nHeightened (+1) The damage when the spell is cast and when it is sustained increases by 1d4.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "60 feet",
+    "target": "1 creature",
+    "duration": "sustained up to 1 minute",
+    "saving": "Fortitude"
+}

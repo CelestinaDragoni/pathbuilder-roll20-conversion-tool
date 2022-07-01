@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2424",
+    "name": "Skull Creeper",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Ratfolk"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You wear skulls to demoralize foes.",
+    "description": "You wear skulls to demoralize foes. You become trained in Intimidation and gain the Intimidating Glare skill feat. If you're already trained in Intimidation, you instead become trained in a skill of your choice. If you pay 50 gp for a splendid skull mask, the mask grants you a +1 item bonus to Intimidation; its usage is worn (mask).Traits\n\nRatfolk: A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.",
+    "economy": "none",
+    "trigger": ""
+}

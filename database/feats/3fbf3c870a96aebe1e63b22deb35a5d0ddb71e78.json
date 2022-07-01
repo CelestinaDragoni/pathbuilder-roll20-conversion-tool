@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3559",
+    "name": "Feast",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Manipulate"
+    ],
+    "level": 4,
+    "prereq": "Zombie Dedication",
+    "summary": "You feast upon an adjacent restrained or unconscious creature, or a deceased creature that died in the past hour.",
+    "description": "You feast upon an adjacent restrained or unconscious creature, or a deceased creature that died in the past hour. If the creature is alive, you deal damage equal to your jaws damage. Whether it's alive or not, you gain a number of temporary Hit Points equal to half your level that last for 1 minute.\n\n You can instead choose to gain temporary Hit Points equal to double your level, but if you do, you must succeed at a DC 6 flat check or your body deteriorates.Feast Leads To...\n\nBrains!TraitsArchetype: This feat belongs to an archetype.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "2-action",
+    "trigger": ""
+}

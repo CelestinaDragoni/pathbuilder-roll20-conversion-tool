@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2397",
+    "name": "Call of the Green Man",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Leshy"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "You can call forth nearby nature spirits to augment your body.",
+    "description": "You can call forth nearby nature spirits to augment your body. Once per day, you can cast plant form as a 5th-level primal innate spell. When you reach 17th level, this spell can be heightened to 6th level.Traits\n\nLeshy: Leshies are living plants animated by primal magic.",
+    "economy": "none",
+    "trigger": ""
+}

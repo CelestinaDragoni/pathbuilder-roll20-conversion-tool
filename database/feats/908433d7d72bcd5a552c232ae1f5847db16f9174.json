@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2613",
+    "name": "Strong Swimmer",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Undine"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "Your swim Speed increases to match your land Speed.",
+    "description": "Your swim Speed increases to match your land Speed.Traits\n\nUndine: Undines are planar scions descended from marids.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1380",
+    "name": "Grimspawn",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Lineage",
+        "Tiefling"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your lineage traces back to a daemon, one of the manifestations of horrific forms of death that devour souls within their foul home of Abaddon.",
+    "description": "Your lineage traces back to a daemon, one of the manifestations of horrific forms of death that devour souls within their foul home of Abaddon. As a result, you cling tenaciously to the last shreds of your own life force. You gain the Diehard feat.Grimspawn Leads To...\n\nDaemon MagicTraitsLineage: A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.\n\nTiefling: A creature with this trait has the tiefling versatile heritage. Tieflings are planar scions descended from fiends. An ability with this trait can be used or selected only by tieflings.",
+    "economy": "none",
+    "trigger": ""
+}

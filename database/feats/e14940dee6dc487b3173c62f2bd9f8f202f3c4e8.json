@@ -1,0 +1,18 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2372",
+    "name": "Cantorian Rejuvenation",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Healing",
+        "Hobgoblin",
+        "Necromancy",
+        "Positive"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "The life-giving energy that flows in your blood revitalizes you.",
+    "description": "The life-giving energy that flows in your blood revitalizes you. You recover 4d6 Hit Points and gain 10 temporary Hit Points for 1 minute. When you reach 15th level, you instead recover 6d6 HP and gain 15 temporary HP.Traits\n\nHealing: A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing diseases or other debilitating effects.\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic orderNecromancy: Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.Positive: Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.",
+    "economy": "2-action",
+    "trigger": ""
+}

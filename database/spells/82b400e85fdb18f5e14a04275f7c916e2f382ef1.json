@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=454",
+    "name": "Sudden Shift",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration",
+        "Cleric",
+        "Illusion"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You swiftly move from a dangerous spot and veil yourself.",
+    "heightenable": false,
+    "description": "You swiftly move from a dangerous spot and veil yourself. You Step and become concealed.",
+    "economy": "reaction",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "An enemy misses you with a melee attack.",
+    "range": "",
+    "target": "",
+    "duration": "until the end of your next turn",
+    "saving": ""
+}

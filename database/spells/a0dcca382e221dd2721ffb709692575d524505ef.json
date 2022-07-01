@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=307",
+    "name": "Stabilize",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Cantrip",
+        "Healing",
+        "Necromancy",
+        "Positive"
+    ],
+    "cantrip": true,
+    "focus": false,
+    "level": 1,
+    "summary": "Stabilize a dying creature.",
+    "heightenable": false,
+    "description": "Positive energy shuts death's door. The target loses the dying condition, though it remains unconscious at 0 Hit Points.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 dying creature",
+    "duration": "",
+    "saving": ""
+}

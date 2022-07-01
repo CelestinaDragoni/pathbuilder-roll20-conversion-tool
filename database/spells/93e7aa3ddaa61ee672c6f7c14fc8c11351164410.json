@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=892",
+    "name": "Deity's Strike",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Force"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "Enormous deific weapon falls onto a foe from the sky.",
+    "heightenable": true,
+    "description": "A manifested version of your deity's favored weapon appears in the air above and attacks the target, using your spell attack roll. On a hit, the weapon deals 7d12 force damage, or double damage on a critical hit.\n\n After the attack, whether it succeeds or fails, divine energy bursts from the weapon in a shock wave. It emits in a 10-foot-wide, 30-foot-long line starting from the target and continuing in a direction you choose. Choose an alignment your deity has (chaotic, evil, good, or lawful). Your target and any other creatures within the area of the spell take 5d6 damage of the chosen alignment type, with a basic Reflex save. The spell gains the trait of the alignment you choose. If your deity is true neutral, the weapon doesn't create a shock wave.\n\n------\n\nHeightened (9th) The force damage increases by 1d12 and the alignment damage increases by 1d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "1 creature (see text)",
+    "duration": "",
+    "saving": ""
+}

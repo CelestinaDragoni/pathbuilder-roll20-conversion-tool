@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=434",
+    "name": "Mystic Beacon",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "The next damaging or healing spell the target casts becomes more powerful.",
+    "heightenable": false,
+    "description": "The next damaging or healing spell the target casts before the start of your next turn deals damage or restores Hit Points as if the spell were heightened 1 level higher than its actual level. The spell otherwise functions at its actual level. Once the target casts the spell, mystic beacon ends.",
+    "economy": "1-action",
+    "components": [
+        "Somatic"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 willing creature",
+    "duration": "until the start of your next turn",
+    "saving": ""
+}

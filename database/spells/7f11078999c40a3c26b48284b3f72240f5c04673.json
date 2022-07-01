@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1123",
+    "name": "Radiant Beam",
+    "source": "Knights of Lastwall",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Evocation",
+        "Good",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "You fire a beam of blinding light from your outstretched hands.",
+    "heightenable": true,
+    "description": "You fire a beam of blinding light from your outstretched hands. The beam deals 5d10 good damage. On a failed saving throw, a creature becomes dazzled for 1 round, or dazzled for 4 rounds on a critical failure.\n\n If the light passes through an area of magical darkness or targets a creature affected by magical darkness, radiant beam attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the target.\n\n------\n\nHeightened (+1)  The damage increases by 1d10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

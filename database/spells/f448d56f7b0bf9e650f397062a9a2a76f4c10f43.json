@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=568",
+    "name": "Anticipate Peril",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You grant the target brief foresight.",
+    "heightenable": true,
+    "description": "You grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends.\n\n------\n\nHeightened (+2) The status bonus increases by 1, to a maximum of +4 at 7th level.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

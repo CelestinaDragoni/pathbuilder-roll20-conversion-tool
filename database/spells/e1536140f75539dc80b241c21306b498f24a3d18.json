@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=569",
+    "name": "Befuddle",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Arcane"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "You sow seeds of confusion in your target’s mind, causing their actions and thoughts to become clumsy.",
+    "heightenable": false,
+    "description": "You sow seeds of confusion in your target’s mind, causing their actions and thoughts to become clumsy.\n\nCritical Success The target is unaffected.\nSuccess The target is clumsy 1 and stupefied 1.\nFailure The target is clumsy 2 and stupefied 2.\nCritical Failure The target is clumsy 3, stupefied 3, and confused.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "1 round",
+    "saving": "Will"
+}

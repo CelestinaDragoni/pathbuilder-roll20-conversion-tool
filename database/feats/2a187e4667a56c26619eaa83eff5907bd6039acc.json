@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2047",
+    "name": "Scout Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Trained In Stealth And Survival",
+    "summary": "You are a highly skilled scout, capable of providing your allies a timely warning of any danger.",
+    "description": "You are a highly skilled scout, capable of providing your allies a timely warning of any danger. You gain the Scout's Warning ranger feat. When you're using the Scout exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the scout archetype.Scout Dedication Leads To...\n\nEclipsed Vitality, Fleeting Shadow, Scout's Charge, Scout's Pounce, Scout's Speed, Terrain ScoutTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.",
+    "economy": "none",
+    "trigger": ""
+}

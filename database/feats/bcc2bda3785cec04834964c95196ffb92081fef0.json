@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=629",
+    "name": "Greater Crossblooded Evolution",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 18,
+    "prereq": "Crossblooded Evolution",
+    "summary": "Your bloodline is extraordinarily complex.",
+    "description": "Your bloodline is extraordinarily complex. You can have up to three spells from other traditions in your spell repertoire, rather than just one. These spells must each be of a different spell level, but they don’t need to be from the same tradition.",
+    "economy": "none",
+    "trigger": ""
+}

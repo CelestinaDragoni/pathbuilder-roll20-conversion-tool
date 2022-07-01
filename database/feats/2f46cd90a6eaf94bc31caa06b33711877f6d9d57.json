@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2473",
+    "name": "Repair Module",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Android",
+        "Concentrate"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You trigger your body's repair programming, causing your body's nanites to heal your wounds.",
+    "description": "You trigger your body's repair programming, causing your body's nanites to heal your wounds. You gain fast healing equal to half your level for 1 minute. While Repair Module is active, you can't use other abilities that require the use of your nanites.Traits\n\nAndroid: A synthetic humanoid ancestry created by artificial means. Most common in Numeria.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "1-action",
+    "trigger": ""
+}

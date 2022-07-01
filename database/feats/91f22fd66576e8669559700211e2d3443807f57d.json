@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2870",
+    "name": "Dimensional Disappearance",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Magus"
+    ],
+    "level": 10,
+    "prereq": "Dimensional Assault Focus Spell, Laughing Shadow Hybrid Study",
+    "summary": "You take advantage of teleportation to better hide your position.",
+    "description": "You take advantage of teleportation to better hide your position. When you cast dimensional assault, you're affected by an invisibility spell at the end of the teleport. You can choose not to make the Strike that is normally part of dimensional assault. If you do make the Strike, your invisibility ends after the Strike, as normal for invisibility.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2345",
+    "name": "Old Soul",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Dhampir"
+    ],
+    "level": 1,
+    "prereq": "At Least 100 Years Old",
+    "summary": "Your immortal lineage has granted you a lifespan much longer than most mortals, and you've learned a lot along the way.",
+    "description": "Your immortal lineage has granted you a lifespan much longer than most mortals, and you've learned a lot along the way. You become trained in two skills of your choice.Traits\n\nDhampir: A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of vampires and members of other ancestries.",
+    "economy": "none",
+    "trigger": ""
+}

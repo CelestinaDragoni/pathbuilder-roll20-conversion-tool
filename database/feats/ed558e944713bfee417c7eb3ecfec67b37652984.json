@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=514",
+    "name": "Deadly Aim",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Open",
+        "Ranger"
+    ],
+    "level": 8,
+    "prereq": "Weapon Specialization",
+    "summary": "You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit.",
+    "description": "You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit. Make a ranged Strike against your hunted prey at a –2 penalty. You gain a +4 circumstance bonus to damage on that Strike. This bonus increases to +6 at 11th level and +8 at 15th level.Traits\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2812",
+    "name": "Constant Gaze",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Goloma"
+    ],
+    "level": 9,
+    "prereq": "Watchful Gaze",
+    "summary": "Your eyes keep a continual watch for dangers from all sides.",
+    "description": "Your eyes keep a continual watch for dangers from all sides. You can't be flanked by creatures of your level or lower, even when you haven't used Watchful Gaze.Traits\n\nGoloma: Insular humanoids that bear countless eyes.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3030",
+    "name": "Wellspring Control",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Fortune"
+    ],
+    "level": 4,
+    "prereq": "Wellspring Mage Dedication",
+    "summary": "When you generate a wellspring surge, roll twice on the Wellspring Surges Table and take the result of your choice.",
+    "description": "When you generate a wellspring surge, roll twice on the Wellspring Surges Table and take the result of your choice. This doesn't apply when you cause another creature to generate a wellspring surge.Traits\n\nArchetype: This feat belongs to an archetype.\n\nFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2819",
+    "name": "Hunter's Defense",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 1,
+    "prereq": "Trained In Nature",
+    "summary": "Your canny understanding of natural and primal creatures helps you predict and dodge their attacks.",
+    "description": "Your canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your Nature DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being flat-footed, even though you wouldn't take the –2 circumstance penalty against the attack.Traits\n\nGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "reaction",
+    "trigger": "A creature with the animal, beast, elemental, fey, fungus, or plant trait attacks you, and you can see the attacker."
+}

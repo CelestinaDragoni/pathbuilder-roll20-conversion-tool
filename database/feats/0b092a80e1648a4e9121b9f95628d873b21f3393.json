@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=191",
+    "name": "Versatile Signature",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 4,
+    "prereq": "Polymath Muse",
+    "summary": "You’re always tweaking your available repertoire.",
+    "description": "While most bards are known for certain signature performances and spells, you’re always tweaking your available repertoire. When you make your daily preparations, you can change one of your signature spells to a different spell of that level from your repertoire.",
+    "economy": "none",
+    "trigger": ""
+}

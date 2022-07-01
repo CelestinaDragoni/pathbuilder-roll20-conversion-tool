@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1363",
+    "name": "Celestial Strikes",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "Your connection to good arms all your attacks against forces of evil.",
+    "description": "Your connection to good arms all your attacks against forces of evil. All your weapon and unarmed Strikes deal 1 additional good damage and have the good and magical traits.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "none",
+    "trigger": ""
+}

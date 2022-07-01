@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=720",
+    "name": "Sudden Blight",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Necromancy",
+        "Negative"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Decay living creatures and plants.",
+    "heightenable": true,
+    "description": "You accelerate the processes of decay in the area. Each living creature in the area takes 2d10 negative damage (basic Fortitude save). A creature afflicted by a disease takes a –2 circumstance penalty to this save.\n\n You can also direct the blight to rot all Small and Tiny non-creature plants in the area, eliminating non-magical undergrowth and any resulting difficult terrain, cover, and concealment. Sudden blight attempts to counteract any magical effect on the plants before withering them.\n\n------\n\nHeightened (+1) The damage increases by 1d10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "120 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=883",
+    "name": "Chromatic Ray",
+    "source": "Secrets of Magic",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Attack",
+        "Evocation",
+        "Light"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Ray of light causes effects based on its color.",
+    "heightenable": true,
+    "description": "You send out a ray of colored light streaming toward your enemy, with a magical effect depending on the ray's color. Make a spell attack roll. If you hit, roll 1d4 to see which beam you cast. If the ray deals damage, that damage is doubled on a critical hit. Any additional traits that apply to a ray are listed in parentheses just after the name of the color. Red (fire) The ray deals 30 fire damage to the target.Orange (acid) The ray deals 40 acid damage to the target.Yellow (electricity) The ray deals 50 electricity damage to the target.Green (poison) The ray deals 25 poison damage to the target, and the target must succeed at a Fortitude save or be enfeebled 1 for 1 minute (enfeebled 2 on a critical failure).\n\n------\n\nHeightened (6th) The damage for red, orange, yellow, and green each increase by 10. Roll 1d8 to determine the ray's color, using the results for 1–4 above and the results for 5–8 below. Blue The ray has the effect of the flesh to stone spell. On a critical hit, the target is clumsy 1 as long as it's slowed by the flesh to stone effect.Indigo (emotion, incapacitation, mental) The ray has the effect of the confusion spell. On a critical hit, it has the effect of warp mind instead.Violet The target is slowed for 1 minute. It must also succeed at a Will save or be teleported 120 feet directly away from you (if there isn't room for it to appear there, it appears in the nearest open space); this is a teleportation effect.Intense Color The target is dazzled until the end of your next turn, or blinded if your attack roll was a critical hit. Roll again and add the effects of another color (rerolling results of 8).",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

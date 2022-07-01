@@ -1,0 +1,32 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=1081",
+    "name": "Moonburst",
+    "source": "Pathfinder #172",
+    "traditions": [
+        "Divine",
+        "Primal"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cold",
+        "Evocation",
+        "Light",
+        "Positive"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 7,
+    "summary": "A powerful globe of chilling moonlight explodes in the area, dealing 8d10 cold damage to creatures and objects in the area, plus 8d10 additional positive damage to undead creatures.",
+    "heightenable": true,
+    "description": "A powerful globe of chilling moonlight explodes in the area, dealing 8d10 cold damage to creatures and objects in the area, plus 8d10 additional positive damage to undead creatures. Moonburst's cold damage is silver damage for the purposes of weaknesses, resistances, and the like. Each creature and object in the area must attempt a Reflex save.\n\nCritical Success The creature or object is unaffected.\nSuccess The creature or object takes half damage.\nFailure The creature or object takes full damage.\nCritical Failure The creature or object takes full damage. If it's a creature, it's blinded for an unlimited duration. \n\nIf the globe overlaps with an area of magical darkness, moonburst attempts to counteract the darkness effect.\n\n------\n\nHeightened (+1) The cold damage increases by 1d10, and the positive damage against undead increases by 1d10.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

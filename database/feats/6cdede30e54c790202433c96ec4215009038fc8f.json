@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1959",
+    "name": "Student of the Dueling Arts",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 12,
+    "prereq": "Duelist Dedication",
+    "summary": "You have studied a great many combat techniques, which you can review each day.",
+    "description": "You have studied a great many combat techniques, which you can review each day. During your daily preparations, you can swap out any number of your duelist archetype feats for other duelist archetype feats of the appropriate level for which you are qualified. You can't swap out Duelist Dedication or Student of the Dueling Arts in this way.\n\n In addition, you can enter a stance from a duelist archetype feat you don't have (such as one listed under Additional Feats) by increasing the number of actions it takes to enter the stance by 1 (typically to 2 actions). You must still meet the feat's prerequisites.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

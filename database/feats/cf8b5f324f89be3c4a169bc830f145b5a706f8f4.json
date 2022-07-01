@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=381",
+    "name": "Furious Focus",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Fighter"
+    ],
+    "level": 6,
+    "prereq": "Power Attack",
+    "summary": "You’ve learned to maintain your balance even when swinging furiously.",
+    "description": "You’ve learned to maintain your balance even when swinging furiously. When you make a Power Attack with a melee weapon you’re wielding in two hands, it counts as one attack toward your multiple attack penalty instead of two.",
+    "economy": "none",
+    "trigger": ""
+}

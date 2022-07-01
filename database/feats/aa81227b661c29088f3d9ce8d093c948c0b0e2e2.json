@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1218",
+    "name": "Scamper Underfoot",
+    "source": "Pathfinder #153",
+    "rarity": "Common",
+    "traits": [
+        "Shoony"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You are used to ducking under foes and can scurry around the battlefield with ease.",
+    "description": "You are used to ducking under foes and can scurry around the battlefield with ease. You gain a +1 circumstance bonus to Acrobatics checks to Tumble Through the spaces of Medium or larger enemies, and the presence of an enemy doesn’t make the squares difficult terrain.Scamper Underfoot Leads To...\n\nTough TumblerTraitsShoony: Note from Nethys: no description was provided for this trait",
+    "economy": "none",
+    "trigger": ""
+}

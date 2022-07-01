@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2476",
+    "name": "Axiomatic Lore",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aphorite"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You possess a strong understanding of process among mortals and lawful outsiders alike.",
+    "description": "You possess a strong understanding of process among mortals and lawful outsiders alike. The source of this knowledge might be intuition, study, or a childhood spent among other aphorites. You gain the trained proficiency rank in Diplomacy and Society. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Axis Lore.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
+    "economy": "none",
+    "trigger": ""
+}

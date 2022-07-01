@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=32",
+    "name": "Animal Elocutionist",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Gnome"
+    ],
+    "level": 5,
+    "prereq": "Burrow Elocutionist",
+    "summary": "You hear animal sounds as conversations instead of unintelligent noise, and can respond in turn.",
+    "description": "You hear animal sounds as conversations instead of unintelligent noise, and can respond in turn. You can speak to all animals, not just animals with a burrow Speed. You gain a +1 circumstance bonus to Make an Impression on animals (which usually uses the Diplomacy skill).\nTraits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.",
+    "economy": "none",
+    "trigger": ""
+}

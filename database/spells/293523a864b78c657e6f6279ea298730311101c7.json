@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=415",
+    "name": "Destructive Aura",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Evocation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Swirling sands of divine devastation surround you, weakening the defenses of all they touch.",
+    "heightenable": true,
+    "description": "Swirling sands of divine devastation surround you, weakening the defenses of all they touch. Reduce the resistances of yourself and creatures in the area by 2.\n\n------\n\nHeightened (+2) Reduce the resistances by an addition 2.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

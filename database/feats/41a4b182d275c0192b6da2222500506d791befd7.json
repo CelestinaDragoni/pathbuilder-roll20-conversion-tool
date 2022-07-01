@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2644",
+    "name": "Nestling Fall",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Strix"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You trust the strength of your wings and can spread them to glide safely to the ground.",
+    "description": "You trust the strength of your wings and can spread them to glide safely to the ground. As long as you can act, you take no damage from falling, no matter what distance you fall.Traits\n\nStrix: Winged humanoids, most of whom live in and around Cheliax.",
+    "economy": "none",
+    "trigger": ""
+}

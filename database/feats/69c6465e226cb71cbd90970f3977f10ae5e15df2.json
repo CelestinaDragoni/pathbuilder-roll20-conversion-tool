@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3643",
+    "name": "Purifying Breeze",
+    "source": "Knights of Lastwall",
+    "rarity": "Uncommon",
+    "traits": [
+        "Cleric",
+        "Oracle",
+        "Sorcerer"
+    ],
+    "level": 14,
+    "prereq": "Divine Spells",
+    "summary": "You transfer the divine essence of your magic to the air around you, cleansing it of toxins.",
+    "description": "You transfer the divine essence of your magic to the air around you, cleansing it of toxins. Attempt a counteract check against each airborne disease or poison effect in a 15-foot radius around you. Regardless of your success or failure, until the beginning of your next turn, all creatures in the purified area gain a +1 status bonus to Fortitude saving throws. Traits\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "1-action",
+    "trigger": ""
+}

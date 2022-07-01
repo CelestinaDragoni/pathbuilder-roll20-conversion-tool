@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2796",
+    "name": "Distant Cackle",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Gnoll"
+    ],
+    "level": 5,
+    "prereq": "Witch Gnoll Heritage",
+    "summary": "It takes a very brave person to enter the laughter-haunted forest where you dwell.",
+    "description": "It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast ventriloquism once per day as a 1st-level occult innate spell.Traits\n\nGnoll: Gnolls are humanoids that resemble hyenas.",
+    "economy": "none",
+    "trigger": ""
+}

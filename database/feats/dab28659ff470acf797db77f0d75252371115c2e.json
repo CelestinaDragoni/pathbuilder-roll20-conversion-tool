@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=63",
+    "name": "Irrepressible",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Halfling"
+    ],
+    "level": 9,
+    "prereq": "&Mdash;",
+    "summary": "You are easily able to ward off attempts to play on your fears and emotions.",
+    "description": "You are easily able to ward off attempts to play on your fears and emotions. When you roll a success on a saving throw against an emotion effect, you get a critical success instead. If your heritage is gutsy halfling, when you roll a critical failure on a saving throw against an emotion effect, you get a failure instead.\nTraits\n\nHalfling: A creature with this trait is a member of the halfling ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.",
+    "economy": "none",
+    "trigger": ""
+}

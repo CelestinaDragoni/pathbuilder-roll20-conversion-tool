@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1028",
+    "name": "Remorseless Lash",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Hobgoblin"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You’re skilled at beating a foe when their morale is already breaking.",
+    "description": "You’re skilled at beating a foe when their morale is already breaking. When you succeed at a melee weapon Strike against a frightened foe, that foe can’t reduce their frightened condition below 1 until the beginning of your next turn.Traits\n\nHobgoblin: Hobgoblins are a sturdy, clever people with a propensity for militaristic order",
+    "economy": "none",
+    "trigger": ""
+}

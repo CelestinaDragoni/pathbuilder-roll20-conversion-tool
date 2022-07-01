@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2253",
+    "name": "Quick Stow (Swordmaster)",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Manipulate"
+    ],
+    "level": 8,
+    "prereq": "Swordmaster Dedication",
+    "summary": "You know that situations can change rapidly and might leave you needing to change equipment in the middle of combat.",
+    "description": "You know that situations can change rapidly and might leave you needing to change equipment in the middle of combat. Your training has taught you how to swap your equipment on the fly. You Interact to stow a weapon and then Interact again to draw a readied item or weapon.Traits\n\nArchetype: This feat belongs to an archetype.\n\nManipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.",
+    "economy": "1-action",
+    "trigger": ""
+}

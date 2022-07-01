@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3076",
+    "name": "Gigavolt",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 12,
+    "prereq": "Megavolt",
+    "summary": "When you unleash electricity from your innovation, you can bounce it off obstacles, creating a field of electric death.",
+    "description": "When you unleash electricity from your innovation, you can bounce it off obstacles, creating a field of electric death. When you use Megavolt, each time your line of electricity hits a solid barrier, such as a wall, it bounces off at an angle of your choice and continues until you have reached the full length of the line. Even if a creature is in the area from multiple bounces, it takes the damage only once.",
+    "economy": "none",
+    "trigger": ""
+}

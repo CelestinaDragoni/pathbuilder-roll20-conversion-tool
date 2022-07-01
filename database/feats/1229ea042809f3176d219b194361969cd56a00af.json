@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=195",
+    "name": "Eclectic Skill",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Bard"
+    ],
+    "level": 8,
+    "prereq": "Polymath Muse; Master In Occultism",
+    "summary": "Your broad experiences translate to a range of skills.",
+    "description": "Your broad experiences translate to a range of skills. Your proficiency bonus to untrained skill checks is equal to your level. You can attempt any skill check that normally requires you to be trained, even if you are untrained. If you have legendary proficiency in Occultism, you can attempt any skill check that normally requires you to have expert proficiency, even if untrained or trained.",
+    "economy": "none",
+    "trigger": ""
+}

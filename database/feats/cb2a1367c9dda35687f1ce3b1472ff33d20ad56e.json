@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2104",
+    "name": "Shattering Strike (Weapon Improviser)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Improvised Pummel",
+    "summary": "The improvised weapon shatters, destroying it completely but dealing an additional 3d6 piercing damage to the creature you hit with the Improvised Pummel.",
+    "description": "The improvised weapon shatters, destroying it completely but dealing an additional 3d6 piercing damage to the creature you hit with the Improvised Pummel. This extra damage you apply on the critical hit doesn't double from the critical hit, as normal.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "An improvised weapon that you are wielding becomes broken as a result of a critical success on an Improvised Pummel."
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=477",
+    "name": "Tongue of the Sun and Moon",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "&Mdash;",
+    "summary": "You have transcended the barriers between words and meaning.",
+    "description": "You have transcended the barriers between words and meaning. You can speak and understand all spoken languages.",
+    "economy": "none",
+    "trigger": ""
+}

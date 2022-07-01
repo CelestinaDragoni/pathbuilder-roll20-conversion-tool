@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1531",
+    "name": "Swaggering Initiative",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Swashbuckler"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You swagger readily into any fight—even an ambush.",
+    "description": "You swagger readily into any fight—even an ambush. You gain a +2 circumstance bonus to your initiative roll and can Interact to draw a weapon.",
+    "economy": "free_action",
+    "trigger": "You are about to roll initiative."
+}

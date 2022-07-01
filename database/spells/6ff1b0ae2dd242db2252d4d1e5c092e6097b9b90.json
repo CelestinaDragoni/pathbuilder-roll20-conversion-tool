@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=623",
+    "name": "Stasis",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Incapacitation",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "The flow of time congeals around an object or creature, holding it in place.",
+    "heightenable": false,
+    "description": "The flow of time congeals around an object or creature, holding it in place. The target must attempt a Will save (an unattended object automatically critically fails its save).\n\nCritical Success The target is unaffected.\nSuccess The target is stunned 1 as time thickens around it.\nFailure Time ceases to pass for the target for 1 round. It is invulnerable to all damage, it cannot be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. While in stasis, the target can’t be moved, and it remains fixed in place, defying gravity if need be.\nCritical Failure As failure, but the target is held in stasis for 3 rounds. At the end of each of its turns, it can attempt a Will save to reduce the remaining duration by 1 round or end it entirely on a critical success.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "1 creature or up to 1 Bulk of objects",
+    "duration": "varies",
+    "saving": "Will"
+}

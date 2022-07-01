@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2795",
+    "name": "Sensitive Nose",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Gnoll"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Your large black nose isn't just for show.",
+    "description": "Your large black nose isn't just for show. You gain imprecise scent with a range of 30 feet.\n\nSpecial You can take this feat only at 1st level, and you can’t retrain out of this feat or into this feat.Traits\n\nGnoll: Gnolls are humanoids that resemble hyenas.",
+    "economy": "none",
+    "trigger": ""
+}

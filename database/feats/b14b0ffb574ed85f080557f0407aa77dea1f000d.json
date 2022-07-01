@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1349",
+    "name": "Celestial Eyes",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aasimar"
+    ],
+    "level": 1,
+    "prereq": "Low-light Vision",
+    "summary": "You can see through darkness.",
+    "description": "You can see through darkness. You gain darkvision.\n\nSpecial You can select this feat only at 1st level, and you can't retrain into or out of this feat.Traits\n\nAasimar: A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.",
+    "economy": "none",
+    "trigger": ""
+}

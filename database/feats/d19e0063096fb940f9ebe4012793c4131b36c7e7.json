@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=444",
+    "name": "Flurry of Maneuvers",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 4,
+    "prereq": "Expert In Athletics",
+    "summary": "You flurry is a combination of maneuvers.",
+    "description": "You flurry is a combination of maneuvers. You can replace one or both of your attacks during a Flurry of Blows with Grapples, Shoves, or Trips.",
+    "economy": "none",
+    "trigger": ""
+}

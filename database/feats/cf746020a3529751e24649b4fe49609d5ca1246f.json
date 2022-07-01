@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1785",
+    "name": "Head Stomp",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Rogue"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "Make an unarmed melee attack against a prone target.",
+    "description": "Make an unarmed melee attack against a prone target. On a hit, the target becomes flat-footed to all attacks until the end of your next turn.",
+    "economy": "1-action",
+    "trigger": ""
+}

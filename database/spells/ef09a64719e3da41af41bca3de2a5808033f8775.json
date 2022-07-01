@@ -1,0 +1,33 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=514",
+    "name": "Horrific Visage",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Emotion",
+        "Fear",
+        "Illusion",
+        "Mental",
+        "Sorcerer",
+        "Visual"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You briefly transform your features into the horrific visage of a hag, striking fear into your enemies.",
+    "heightenable": true,
+    "description": "You briefly transform your features into the horrific visage of a hag, striking fear into your enemies. Foes in the area must attempt a Will save.\n\nSuccess The foe is unaffected.\nFailure The foe is frightened 1.\nCritical Failure The foe is frightened 2.\n\n------\n\nHeightened (5th) Foes in the area are frightened 1 on a success, frightened 2 on a failure, and frightened 3 and fleeing for 1 round on a critical failure. They are still unaffected on a critical success.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

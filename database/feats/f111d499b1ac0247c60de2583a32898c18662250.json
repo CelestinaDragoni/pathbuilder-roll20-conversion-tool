@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=907",
+    "name": "Hellknight Armiger Dedication",
+    "source": "World Guide",
+    "rarity": "Uncommon",
+    "traits": [
+        "Archetype",
+        "Dedication"
+    ],
+    "level": 2,
+    "prereq": "Member Of A Hellknight Order; Trained In Heavy Armor As Well As Your Order's Favored Weapon",
+    "summary": "You have taken the first step to being a full Hellknight.",
+    "description": "Your Hellknight training teaches you to terrorize others into compliance, but you also study the structure and hierarchy of Hell. You must survive painful tests of your body and mind called reckonings, which steady your mind against all sorts of trauma. You gain resistance to mental damage equal to 1 + your number of class feats from the Hellknight Armiger archetype and other Hellknight archetypes. You become trained in Intimidation and Hell Lore; if you were already trained, you become an expert instead.\n\nSpecial You can’t select another dedication feat except dedication feats for higher positions within the Hellknights until you have gained two other feats from the Hellknight armiger archetype.Hellknight Armiger Dedication Leads To...\n\nAdvanced Order Training, Ardent Armiger, Armiger's Mobility, Diabolic Certitude, Hellknight Dedication, Hellknight Order Cross-Training, Hellknight Signifer Dedication, Mortification, Order TrainingTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Uncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "none",
+    "trigger": ""
+}

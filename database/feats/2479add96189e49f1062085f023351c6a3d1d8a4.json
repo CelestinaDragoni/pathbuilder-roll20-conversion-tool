@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2761",
+    "name": "Demonblood Frenzy",
+    "source": "The Mwangi Expanse",
+    "rarity": "Uncommon",
+    "traits": [
+        "Orc"
+    ],
+    "level": 5,
+    "prereq": "Tusks Unarmed Attack",
+    "summary": "Just the taste of fiendish blood is enough to send blood rushing through your veins in a supernatural fury.",
+    "description": "Just the taste of fiendish blood is enough to send blood rushing through your veins in a supernatural fury. You become quickened until the end of your next turn and you can use the extra action to make a tusks Strike, Stride, or Step.Traits\n\nOrc: A creature with this trait is a member of the orc ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.\n\nUncommon: Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of Recall Knowledge checks related to these creature is increased by 2.",
+    "economy": "reaction",
+    "trigger": "You successfully Strike a living creature that has the fiend trait with your tusks unarmed attack"
+}

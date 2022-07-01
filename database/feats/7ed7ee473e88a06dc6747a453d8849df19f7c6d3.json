@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=99",
+    "name": "Calculated Splash",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 4,
+    "prereq": "&Mdash;",
+    "summary": "You have calculated all the angles to maximize a bomb’s splash.",
+    "description": "You have calculated all the angles to maximize a bomb’s splash. When you throw an alchemical bomb with the splash trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 0) instead of the normal amount.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Calculated Splash Leads To...Controlled Blast, Expanded Splash",
+    "economy": "none",
+    "trigger": ""
+}

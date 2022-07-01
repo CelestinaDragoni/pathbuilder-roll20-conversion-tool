@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=131",
+    "name": "Moment of Clarity",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Barbarian",
+        "Concentrate",
+        "Rage"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You push back your rage for a moment in order to think clearly.",
+    "description": "You push back your rage for a moment in order to think clearly. Until the end of this turn, you can use actions with the concentrate trait even if those actions don’t have the rage trait.Traits\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.",
+    "economy": "1-action",
+    "trigger": ""
+}

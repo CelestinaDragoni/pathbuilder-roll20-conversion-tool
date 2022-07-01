@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2357",
+    "name": "Vanth's Weapon Familiarity",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Duskwalker"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You seek to emulate vanth reapers' fighting styles.",
+    "description": "You seek to emulate vanth reapers' fighting styles. You are trained with bo staves, longbows, composite longbows, scythes, and staves.Vanth's Weapon Familiarity Leads To...\n\nVanth's Weapon Execution, Vanth's Weapon ExpertiseTraitsDuskwalker: A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of psychopomps. An ability with this trait can be used or selected only by duskwalkers.",
+    "economy": "none",
+    "trigger": ""
+}

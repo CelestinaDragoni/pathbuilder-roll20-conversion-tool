@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3398",
+    "name": "Clinch Strike",
+    "source": "Grand Bazaar",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Wrestler Dedication",
+    "summary": "Your opponents can't slip your grasp without receiving further punishment.",
+    "description": "Your opponents can't slip your grasp without receiving further punishment. Make an unarmed melee Strike against the triggering creature.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "A creature you had grabbed or restrained successfully Escapes."
+}

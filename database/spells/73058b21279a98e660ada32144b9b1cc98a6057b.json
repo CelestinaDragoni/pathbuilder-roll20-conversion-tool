@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=20",
+    "name": "Barkskin",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Plant"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 2,
+    "summary": "Target's skin is covered in protective bark.",
+    "heightenable": true,
+    "description": "The target's skin becomes covered in bark. The target gains resistance 2 to bludgeoning and piercing damage and weakness 3 to fire. After the target takes fire damage, it can Dismiss the spell as a free action triggered by taking the damage; doing so doesn't reduce the fire damage the target was dealt.\n\n------\n\nHeightened (+2) The resistances increase by 2, and the weakness increases by 3.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 willing creature",
+    "duration": "10 minutes",
+    "saving": ""
+}

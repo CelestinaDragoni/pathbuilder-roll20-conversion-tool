@@ -1,0 +1,19 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1962",
+    "name": "Enchanting Arrow",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Emotion",
+        "Enchantment",
+        "Magical",
+        "Mental"
+    ],
+    "level": 8,
+    "prereq": "Eldritch Archer Dedication",
+    "summary": "With a single whisper carried on the wind, you enchant your ammunition to make a foe more vulnerable to your attacks.",
+    "description": "With a single whisper carried on the wind, you enchant your ammunition to make a foe more vulnerable to your attacks. Make a bow Strike. On a hit, the target takes an additional 2d6 mental damage. On a critical hit, the target also becomes stunned 1. The mental damage increases to 3d6 if your bow has a greater striking rune, or to 4d6 if your bow has a major striking rune.Traits\n\nArchetype: This feat belongs to an archetype.\n\nEmotion: This effect alters a creature's emotions. Effects with this trait always have the mental trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.Enchantment: Effects and magic items with this trait are associated with the enchantment school of magic, typically involving mind control, emotion alteration, and other mental effects.Magical: Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.\n\n Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical.Mental: A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.",
+    "economy": "2-action",
+    "trigger": ""
+}

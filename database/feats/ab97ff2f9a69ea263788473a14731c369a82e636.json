@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3262",
+    "name": "Duo's Aim",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Concentrate"
+    ],
+    "level": 8,
+    "prereq": "Sniping Duo Dedication",
+    "summary": "With assistance from your spotter, you aim for an especially accurate attack.",
+    "description": "With assistance from your spotter, you aim for an especially accurate attack. Make a ranged weapon Strike against a foe either within your spotter's melee reach or the first range increment of a ranged weapon your spotter is wielding. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's concealment. If you're using a firearm with the kickback trait, you don't take the normal circumstance penalty to this Strike for not having the required Strength score or firing without using a tripod.Traits\n\nArchetype: This feat belongs to an archetype.\n\nConcentrate: An action with this trait requires a degree of mental concentration and discipline.",
+    "economy": "2-action",
+    "trigger": ""
+}

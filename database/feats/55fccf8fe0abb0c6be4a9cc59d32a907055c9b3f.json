@@ -1,0 +1,17 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1859",
+    "name": "Swashbuckler Dedication",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Dedication",
+        "Multiclass"
+    ],
+    "level": 2,
+    "prereq": "Dexterity 14; Charisma 14",
+    "summary": "Choose a swashbuckler style.",
+    "description": "Choose a swashbuckler style. You gain the panache class feature, and you can gain panache in all the ways a swashbuckler of your style can. You become trained in Acrobatics or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice. You also become trained in swashbuckler class DC. You don't gain any other effects of your chosen style.\n\nSpecial You can't select another dedication feat until you have gained two other feats from the swashbuckler archetype.Swashbuckler Dedication Leads To...\n\nBasic Flair, Evasiveness (Swashbuckler), Finishing Precision, Swashbuckler's Riposte, Swashbuckler's SpeedTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.Multiclass: Archetypes with the multiclass trait represent diversifying your training into another class’s specialties. You can’t select a multiclass archetype’s dedication feat if you are a member of the class of the same name.",
+    "economy": "none",
+    "trigger": ""
+}

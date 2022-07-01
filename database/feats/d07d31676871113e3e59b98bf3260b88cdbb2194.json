@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3410",
+    "name": "Blessing of the Sun Gods",
+    "source": "Pathfinder #172",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Bright Lion Dedication",
+    "summary": "The Old Sun Gods share their power with you.",
+    "description": "The Old Sun Gods share their power with you. Select the ambition, cities, darkness, dreams, family, fire, freedom, healing, moon, passion, or sun domain. You gain an initial domain spell for that domain. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can regain using the Refocus activity to pray to the Old Sun Gods; if you already have a focus pool, increase the number of Focus Points in your focus pool by 1. Your Bright Lion focus spells are divine spells; you become trained in divine spell attacks and spell DCs, using Charisma as your spellcasting ability score.\n\nSpecial You can select this feat multiple times, selecting a different domain each time and gaining its domain spell.Blessing of the Sun Gods Leads To...\n\nGreater Sun BlessingTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1177",
+    "name": "Blessed Blood",
+    "source": "Gods & Magic",
+    "rarity": "Common",
+    "traits": [
+        "Sorcerer"
+    ],
+    "level": 1,
+    "prereq": "Bloodline That Grants Divine Spells; You Follow A Deity",
+    "summary": "Your deity’s blessings manifest in your blood-borne power",
+    "description": "Your deity’s blessings manifest in your blood-borne power. Add up to three of your deity’s spells (spells your deity grants to clerics) to your spell list. They are not automatically added to your repertoire, but you can select them just as you would spells normally on the divine spell list.",
+    "economy": "none",
+    "trigger": ""
+}

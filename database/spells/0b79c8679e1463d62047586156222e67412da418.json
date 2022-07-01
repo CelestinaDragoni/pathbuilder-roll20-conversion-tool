@@ -1,0 +1,28 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=626",
+    "name": "Empty Inside",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Abjuration",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place.",
+    "heightenable": true,
+    "description": "You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a counteract check against one emotion effect affecting you.\n\n------\n\nHeightened (5th) You can attempt counteract checks against any number of emotion effects affecting you.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

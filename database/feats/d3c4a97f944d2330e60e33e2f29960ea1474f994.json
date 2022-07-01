@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2935",
+    "name": "Share Eidolon Magic",
+    "source": "Secrets of Magic",
+    "rarity": "Common",
+    "traits": [
+        "Summoner"
+    ],
+    "level": 14,
+    "prereq": "Magical Understudy",
+    "summary": "Your eidolon shares innate spells with you.",
+    "description": "Your eidolon shares innate spells with you. You can cast the innate spells your eidolon gained from Magical Understudy, Magical Adept, and Magical Master. You and your eidolon share the same daily uses of these innate spells.",
+    "economy": "none",
+    "trigger": ""
+}

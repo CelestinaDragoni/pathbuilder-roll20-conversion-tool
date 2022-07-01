@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1072",
+    "name": "Daring Flourish",
+    "source": "Character Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 10,
+    "prereq": "Daring Act",
+    "summary": "You make quick use of an opening from your daring stunts.",
+    "description": "You make quick use of an opening from your daring stunts. At the end of a successful Daring Act, you can make a melee Strike against the target or attempt to Disarm the target. The target is flat-footed against the Strike you make during Daring Act as well as the next melee attack you attempt against it before the end of your turn.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

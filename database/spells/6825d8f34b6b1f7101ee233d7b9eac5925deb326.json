@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=68",
+    "name": "Detect Scrying",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Arcane",
+        "Occult"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Detection",
+        "Divination"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Find out if scrying effects are in the area.",
+    "heightenable": true,
+    "description": "By tapping into trace divinatory auras, you detect the presence of scrying effects in the area. If detect scrying is higher level than a scrying effect, you gain a glimpse of the scrying creature and learn its approximate distance and direction.\n\n------\n\nHeightened (6th) The duration is until the next time you make your daily preparations.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 hour",
+    "saving": ""
+}

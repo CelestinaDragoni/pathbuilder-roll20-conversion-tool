@@ -1,0 +1,30 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=768",
+    "name": "Enlarge Companion",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Polymorph",
+        "Ranger",
+        "Transmutation"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 4,
+    "summary": "Your animal companion grows much larger, towering over its foes in battle.",
+    "heightenable": false,
+    "description": "Your animal companion grows much larger, towering over its foes in battle. Your animal companion becomes Huge, gaining the effects of a 4th-level enlarge spell.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "your animal companion",
+    "duration": "1 minute",
+    "saving": ""
+}

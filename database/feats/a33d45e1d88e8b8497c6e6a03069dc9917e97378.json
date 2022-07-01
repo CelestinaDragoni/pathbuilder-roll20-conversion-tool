@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3412",
+    "name": "Lion's Fury",
+    "source": "Pathfinder #172",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Lion's Might",
+    "summary": "#VALUE!",
+    "description": "You gain access to the lion scythe's and sun sling's critical specialization effects.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

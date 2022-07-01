@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=151",
+    "name": "Holy Cascade",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Evocation",
+        "Good",
+        "Positive",
+        "Water"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Turn a vial of holy water into an explosion of blessed water.",
+    "heightenable": true,
+    "description": "You call upon sacred energy to amplify a vial of holy water, tossing it an incredible distance. It explodes in an enormous burst that deals 3d6 bludgeoning damage to creatures in the area from the cascade of water. The water deals an additional 6d6 positive damage to undead and 6d6 good damage to fiends.\n\n------\n\nHeightened (+1) The bludgeoning damage increases by 1d6, and the additional positive and good damage each increase by 2d6.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "500 feet",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=852",
+    "name": "Cleansing Flames",
+    "source": "Pathfinder #168",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Fire",
+        "Healing",
+        "Necromancy",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 5,
+    "summary": "You wrap the target in purifying flames.",
+    "heightenable": false,
+    "description": "You wrap the target in purifying flames. You can attempt to counteract a single poison or non-curse effect imparting the clumsy, dazzled, enfeebled, fatigued, frightened, paralyzed, sickened, or stupefied condition. The target can choose to empower the flames with their life force, becoming drained 1 (or increasing their drained value by 1, if already under the condition) to grant you a +1 circumstance bonus to your counteract check.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "touch",
+    "target": "1 creature",
+    "duration": "",
+    "saving": ""
+}

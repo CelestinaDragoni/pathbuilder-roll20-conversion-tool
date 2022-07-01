@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2629",
+    "name": "Kitsune Spell Expertise",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kitsune"
+    ],
+    "level": 13,
+    "prereq": "Kitsune Spell Mysteries",
+    "summary": "Your tails show your magical mastery.",
+    "description": "Your tails show your magical mastery. During your daily preparations, choose confusion, death ward, or illusory scene. You can Cast this Spell as a 5th-level divine innate spell once that day. You become an expert in divine spell DCs and divine spell attack rolls.Traits\n\nKitsune: Shapeshifting humanoids whose true forms resemble foxes.",
+    "economy": "none",
+    "trigger": ""
+}

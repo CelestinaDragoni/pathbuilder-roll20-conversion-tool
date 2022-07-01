@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=582",
+    "name": "Critical Debilitations",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Incapacitation",
+        "Rogue"
+    ],
+    "level": 12,
+    "prereq": "Debilitating Strike",
+    "summary": "Your debilitations are especially effective on your most powerful attacks.",
+    "description": "Your debilitations are especially effective on your most powerful attacks. Whenever you critically succeed at an attack roll against an enemy and use Debilitating Strike, add the following debilitation to the list you can choose from. Debilitation The target attempts a Fortitude save against your class DC with the following effects.\n\nCritical Success The target is unaffected.\nSuccess The target is slowed 1 until the end of your next turn.\nFailure The target is slowed 2 until the end of your next turn.\nCritical Failure The target is paralyzed until the end of your next turn.Traits\n\nIncapacitation: An ability with this trait can take a character completely out of the fight or even kill them, and it’s harder to use on a more powerful character. If a spell has the incapacitation trait, any creature of more than twice the spell’s level treats the result of their check to prevent being incapacitated by the spell as one degree of success better, or the result of any check the spellcaster made to incapacitate them as one degree of success worse. If any other effect has the incapacitation trait, a creature of higher level than the item, creature, or hazard generating the effect gains the same benefits.",
+    "economy": "none",
+    "trigger": ""
+}

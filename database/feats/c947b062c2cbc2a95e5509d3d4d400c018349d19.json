@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1477",
+    "name": "Implausible Purchase (Investigator)",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Investigator"
+    ],
+    "level": 16,
+    "prereq": "Predictive Purchase (Investigator)",
+    "summary": "It seems impossible, but you've analyzed every angle and are able to just keep pulling out exactly the item you need, even in far-flung locations.",
+    "description": "It seems impossible, but you've analyzed every angle and are able to just keep pulling out exactly the item you need, even in far-flung locations. You can use Prescient Planner even if you have already used it after purchasing goods, and you can use it as a single action instead of a 2-action activity, during which you Interact to draw the item. In addition, five times per day, you can use Prescient Planner to pull out a common consumable item up to 6 levels lower than your level.",
+    "economy": "none",
+    "trigger": ""
+}

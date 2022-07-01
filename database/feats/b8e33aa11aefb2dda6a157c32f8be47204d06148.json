@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1759",
+    "name": "Ki Center",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Monk"
+    ],
+    "level": 18,
+    "prereq": "Ki Spells; Master Of Many Styles",
+    "summary": "You center yourself with the universe and draw upon its vast power.",
+    "description": "You center yourself with the universe and draw upon its vast power. You cast a single action ki spell with the stance trait, without spending a Focus Point.",
+    "economy": "free_action",
+    "trigger": ""
+}

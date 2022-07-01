@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=9",
+    "name": "Anathematic Reprisal",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Divine"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 4,
+    "summary": "Cause mental pain to one who commits anathema against your deity.",
+    "heightenable": true,
+    "description": "You punish a creature that transgresses against your deity, drawing upon the anguish you feel upon seeing one of your deity's anathema committed.\n\n You can cast this spell only when a creature actively commits a unique act of anathema. For example, if creating undead were anathema to your deity, you could use anathematic reprisal on a necromancer who had just created undead in front of you, but not on an undead creature just for existing.\n\n You deal 4d6 mental damage to the target, but a basic Will save can reduce this damage. If it fails, it is also stupefied 1 for 1 round. The creature is then temporarily immune for 1 minute.\n\n------\n\nHeightened (+1) The damage increases by 1d6.",
+    "economy": "reaction",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "A creature performs an act anathema to your deity.",
+    "range": "30 feet",
+    "target": "the triggering creature",
+    "duration": "",
+    "saving": ""
+}

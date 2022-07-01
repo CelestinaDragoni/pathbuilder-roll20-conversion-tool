@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=788",
+    "name": "Spirit Veil",
+    "source": "Advanced Player's Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Illusion",
+        "Sorcerer"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "You draw an occluding veil of spirits around yourself, blocking yourself especially well from undead eyes.",
+    "heightenable": true,
+    "description": "You draw an occluding veil of spirits around yourself, blocking yourself especially well from undead eyes. You become concealed to all creatures, and you are hidden from undead creatures regardless of what precise senses they have; this grants the effects of invisibility, but against all the undead creature's precise senses. If you physically interact with an undead creature or use a hostile action, the spell ends.\n\n------\n\nHeightened (+1) You can target one additional willing creature within 30 feet. The spell ends if any target physically interacts with an undead creature or uses a hostile action",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "1 minute",
+    "saving": ""
+}

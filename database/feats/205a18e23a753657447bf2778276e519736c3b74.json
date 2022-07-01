@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2818",
+    "name": "Grippli Weapon Familiarity",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Grippli"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "You've trained with weapons ideally suited to marshes and dense forests.",
+    "description": "You've trained with weapons ideally suited to marshes and dense forests. You are trained with blowguns, hatchets, scythes, shortbows, and composite shortbows. You also gain access to all uncommon grippli weapons. For the purpose of determining your proficiency, martial grippli weapons are simple weapons, and advanced grippli weapons are martial weapons.Grippli Weapon Familiarity Leads To...\n\nGrippli Weapon Expertise, Grippli Weapon InnovatorTraitsGrippli: Gripplis are a family of frog-like humanoids. Gripplis craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

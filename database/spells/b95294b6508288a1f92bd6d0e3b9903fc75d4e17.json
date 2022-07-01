@@ -1,0 +1,29 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=325",
+    "name": "Summon Plant or Fungus",
+    "source": "Core Rulebook",
+    "traditions": [
+        "Primal"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Conjuration"
+    ],
+    "cantrip": false,
+    "focus": false,
+    "level": 1,
+    "summary": "Conjure a plant or fungus to fight on your behalf.",
+    "heightenable": true,
+    "description": "You conjure a plant or fungus to fight for you. This works like summon animal, except you summon a common creature that has the plant or fungus trait and whose level is –1, such as those below.\n\n------\n\nHeightened (2nd) Level 1.\nHeightened (3rd) Level 2.\nHeightened (4th) Level 3.\nHeightened (5th) Level 5.\nHeightened (6th) Level 7.\nHeightened (7th) Level 9.\nHeightened (8th) Level 11.\nHeightened (9th) Level 13.\nHeightened (10th) Level 15.\nLevel -1 Plants and FungisYellow Musk Thrall (N)Level 0 Plants and FungisLeaf Leshy (N), Vine Lasher (N), Vine Leshy (N)Level 1 Plants and FungisGourd Leshy (N), Sunflower Leshy (N)Level 2 Plants and FungisBloodlash Bush (N), Cactus Leshy (N), Fungus Leshy (N), Slime Mold (N), Stinkweed Shambler (NE), Yellow Musk Brute (N), Yellow Musk Creeper (N)Level 3 Plants and FungisAssassin Vine (N), Dryad (CG), Seaweed Leshy (N), Snapping Flytrap (N), Twigjack (CE), Violet Fungus (N)Level 4 Plants and FungisArboreal Warden (NG), Calathgar (N), Flytrap Leshy (N), Mandragora (CE), Myceloid (NE)Level 5 Plants and FungisBasidirond (N), Wizard Sponge (N)Level 6 Plants and FungisAwakened Tree (N), Scythe Tree (CE), Shambler (N)Level 7 Plants and FungisArboreal Reaper (N), Tendriculos (N)Level 8 Plants and FungisArboreal Regent (NG)Level 9 Plants and FungisDrakauthix (N)Level 10 Plants and FungisCounteflora (N), Dezullon (N), Giant Flytrap (N)Level 12 Plants and FungisArboreal Archive (NG)Level 13 Plants and FungisViper Vine (N)Level 15 Plants and FungisWemmuth (NE)",
+    "economy": "3-action",
+    "components": [
+        "Somatic",
+        "Verbal",
+        "Material"
+    ],
+    "trigger": "",
+    "range": "30 feet",
+    "target": "",
+    "duration": "sustained up to 1 minute",
+    "saving": ""
+}

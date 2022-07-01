@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2477",
+    "name": "Internal Cohesion",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Aphorite"
+    ],
+    "level": 1,
+    "prereq": "&Mdash;",
+    "summary": "Axis's order suffuses your body and helps it maintain coherency.",
+    "description": "Axis's order suffuses your body and helps it maintain coherency. You and your allies can Treat your Wounds without healer's tools. Once per day, when someone rolls a failure or a critical failure on a check to Treat your Wounds, you can focus on your internal cohesion to increase the degree of success by one step.Traits\n\nAphorite: A type of planar scion descended from a being from Axis, the Plane of Law.",
+    "economy": "none",
+    "trigger": ""
+}

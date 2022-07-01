@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2392",
+    "name": "Wyrmling Flight",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Kobold"
+    ],
+    "level": 17,
+    "prereq": "Hatchling Flight",
+    "summary": "Your draconic wings have grown large and strong enough for flight.",
+    "description": "Your draconic wings have grown large and strong enough for flight. You gain a fly Speed equal to your Speed, using your wings to stay aloft.Traits\n\nKobold: A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision. An ability with this trait can be used or selected only by kobolds.",
+    "economy": "none",
+    "trigger": ""
+}

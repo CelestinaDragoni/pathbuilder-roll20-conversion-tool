@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3609",
+    "name": "Resolute Defender",
+    "source": "Knights of Lastwall",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 14,
+    "prereq": "Lastwall Sentry Dedication",
+    "summary": "You hold your shield together with the power of your faith and conviction, refusing to let wood splinter and steel shatter until the day's battles are won.",
+    "description": "You hold your shield together with the power of your faith and conviction, refusing to let wood splinter and steel shatter until the day's battles are won. If a shield would be destroyed due to damage taken during your Shield Block, the shield remains intact at 1 Hit Point instead. Its construction is weakened until you repair it, preventing you from using Resolute Defender to save the same shield again until your next daily preparations.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

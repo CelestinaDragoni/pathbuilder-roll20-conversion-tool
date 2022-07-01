@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3243",
+    "name": "Controlled Blast",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 8,
+    "prereq": "Demolitionist Dedication; Calculated Splash, Directional Bombs, Or Expanded Splash",
+    "summary": "You maximize the effectiveness of your explosives by controlling every possible parameter of the blast meticulously.",
+    "description": "You maximize the effectiveness of your explosives by controlling every possible parameter of the blast meticulously. If you have the Directional Bombs feats, you can use it with Set Explosives or Demolition Charge, even though you didn't throw the bombs. If you have the Calculated Splash or Expanded Splash feats, you can apply the additional splash damage to one of the bombs when you Set Explosives or use Demolition Charge, and you can apply the increased splash area from Expanded Splash to all the bombs.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

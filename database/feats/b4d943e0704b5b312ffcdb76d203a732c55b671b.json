@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3260",
+    "name": "Exploit Opening",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Sniping Duo Dedication",
+    "summary": "You take advantage of your spotter's devastating attack to unleash your own follow-up attack.",
+    "description": "You take advantage of your spotter's devastating attack to unleash your own follow-up attack. Make a ranged Strike with a –2 penalty against the target of the triggering attack. This Strike doesn't count toward your multiple attack penalty and your multiple attack penalty doesn't apply to the Strike.Traits\n\nArchetype: This feat belongs to an archetype.",
+    "economy": "reaction",
+    "trigger": "Your spotter critically succeeds at a Strike against a creature, and that creature is within your ranged weapon's first range increment."
+}

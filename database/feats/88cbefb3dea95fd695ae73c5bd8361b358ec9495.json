@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3064",
+    "name": "Gigaton Strike",
+    "source": "Guns & Gears",
+    "rarity": "Common",
+    "traits": [
+        "Inventor"
+    ],
+    "level": 8,
+    "prereq": "Megaton Strike",
+    "summary": "When you use a full-power Megaton Strike, you can knock your foe back.",
+    "description": "When you use a full-power Megaton Strike, you can knock your foe back. When you succeed at your Strike while using an unstable Megaton Strike, your target must attempt a Fortitude save against your class DC.\nCritical Success The creature is unaffected.\nSuccess The creature is pushed back 5 feet.\nFailure The creature is pushed back 10 feet.\nCritical Failure The creature is pushed back 20 feet.\n\nSpecial If your innovation is a minion, this benefit applies on its unstable Megaton Strikes.",
+    "economy": "none",
+    "trigger": ""
+}

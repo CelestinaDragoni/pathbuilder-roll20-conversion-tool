@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2800",
+    "name": "Breath Like Honey",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Gnoll"
+    ],
+    "level": 9,
+    "prereq": "Sweetbreath Gnoll Heritage",
+    "summary": "You smell of honey and savory things.",
+    "description": "You smell of honey and savory things. You can cast enthrall as a 3rd-level occult innate spell once per day, except the spell has a range of 30 feet and the inhaled trait instead of the auditory trait. Targets don't gain any circumstance bonus for disagreeing with you. Your circumstance bonus to checks to Make an Impression if the target can smell your breath increases to +2.Traits\n\nGnoll: Gnolls are humanoids that resemble hyenas.",
+    "economy": "none",
+    "trigger": ""
+}

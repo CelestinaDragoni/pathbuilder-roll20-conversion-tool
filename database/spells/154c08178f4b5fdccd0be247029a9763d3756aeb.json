@@ -1,0 +1,27 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=546",
+    "name": "Untwisting Iron Buffer",
+    "source": "World Guide",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Uncommon",
+    "traits": [
+        "Abjuration"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 3,
+    "summary": "Gain temporary hit points.",
+    "heightenable": true,
+    "description": "You send currents of protective ki to the surface of your body that protect you from harm, at least until your enemies dissipate them. You gain 15 temporary Hit Points, which last for up to 3 rounds.\n\n------\n\nHeightened (+1) The temporary Hit Points increase by 5.",
+    "economy": "1-action",
+    "components": [
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "",
+    "target": "",
+    "duration": "",
+    "saving": ""
+}

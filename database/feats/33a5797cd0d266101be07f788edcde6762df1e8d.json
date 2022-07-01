@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=728",
+    "name": "Basic Trickery",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 4,
+    "prereq": "Rogue Dedication",
+    "summary": "You gain a 1st- or 2nd-level rogue feat.",
+    "description": "You gain a 1st- or 2nd-level rogue feat.Basic Trickery Leads To...\n\nAdvanced TrickeryTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

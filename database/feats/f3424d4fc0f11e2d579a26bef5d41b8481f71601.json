@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2271",
+    "name": "Explosive Death Drop",
+    "source": "PFS Guide",
+    "rarity": "Common",
+    "traits": [
+        "Fire",
+        "Monk"
+    ],
+    "level": 14,
+    "prereq": "Blazing Talon Surge",
+    "summary": "You lift your enemy into the air before bringing them crashing down with a fiery detonation.",
+    "description": "You lift your enemy into the air before bringing them crashing down with a fiery detonation. Roll an Athletics check against your target's Fortitude DC. You take a –1 circumstance penalty to your check if the target is one size larger than you and a –3 circumstance penalty if it's larger than that. You gain a +1 circumstance bonus to your check if the target is one size smaller than you and a +3 circumstance bonus if it's smaller than that.\n\nCritical Success The target takes 12d6 fire damage and falls prone in an unoccupied adjacent square of your choice. The target is no longer grabbed. The target and any creature adjacent to it also each take 1d6 persistent fire damage.\nSuccess As critical success, but the target takes 6d6 fire damage instead of 12d6, and creatures don't take persistent fire damage.\nFailure The target is no longer grabbed.\nCritical Failure As failure, but you fall prone.Traits\n\nFire: Effects with the fire trait deal fire damage or either conjure or manipulate fire. Those that manipulate fire have no effect in an area without fire. Creatures with this trait consist primarily of fire or have a magical connection to that element. Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely hostile to non-fire creatures.\n\nRain of Embers StyleSource PFS Guide pg. 118\nThe martial artist Meleeka Sanvara (CN female human monk) originally met agents of the Pathfinder Society as an enemy when the agents were sent to retrieve an artifact she had stolen. Now, Meleeka works as a Pathfinder agent and occasionally shares the knowledge of her family's unique martial arts techniques with agents who earn her trust.\n\nRelated Feats: Blazing Talon Surge, Rain of Embers Stance",
+    "economy": "1-action",
+    "trigger": ""
+}

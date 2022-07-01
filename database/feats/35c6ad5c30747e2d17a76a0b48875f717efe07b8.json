@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=3487",
+    "name": "Deathly Secrets",
+    "source": "Book of the Dead",
+    "rarity": "Common",
+    "traits": [
+        "Archetype"
+    ],
+    "level": 6,
+    "prereq": "Reanimator Dedication",
+    "summary": "No means of creating or ruling the undead is beyond your grasp, even those of magical traditions not your own.",
+    "description": "No means of creating or ruling the undead is beyond your grasp, even those of magical traditions not your own. You learn either the eyes of the dead or subjugate undead focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by meditating over the earthly remains of a dead sentient creature. The rules for focus spells appear here. Focus spells granted by the reanimator archetype are from the same tradition as those used to meet the archetype's prerequisite.\n\nSpecial You can select this feat more than once. Each time, you learn a different spell and your focus pool increases by 1 Focus Point.Deathly Secrets Leads To...\n\nGreater Deathly Secrets, Master of the DeadTraitsArchetype: This feat belongs to an archetype.",
+    "economy": "none",
+    "trigger": ""
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2787",
+    "name": "Conrasu Weapon Expertise",
+    "source": "The Mwangi Expanse",
+    "rarity": "Common",
+    "traits": [
+        "Conrasu"
+    ],
+    "level": 13,
+    "prereq": "&Mdash;",
+    "summary": "Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for conrasu weapons.",
+    "description": "Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for composite shortbow, glaive, longspear, longsword, shortbow, spear, and all conrasu weapons in which you are trained.Traits\n\nConrasu: A people that are made of cosmic force given consciousness and housed within unique exoskeletons. Conrasus craft and use these weapons.",
+    "economy": "none",
+    "trigger": ""
+}

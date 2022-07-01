@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=118",
+    "name": "True Debilitating Bomb",
+    "source": "Core Rulebook",
+    "rarity": "Common",
+    "traits": [
+        "Alchemist"
+    ],
+    "level": 14,
+    "prereq": "Greater Debilitating Bomb",
+    "summary": "Ever inventive, you have discovered increasingly devastating ways for your bombs to impede and hamper your foes.",
+    "description": "Ever inventive, you have discovered increasingly devastating ways for your bombs to impede and hamper your foes. When you use Debilitating Bomb, add the following to the list of effects you can choose from: enfeebled 2, stupefied 2, or a –15-foot status penalty to Speeds. If you instead apply one of the effects listed in Debilitating Bomb, the target avoids the effect only if the result of its saving throw is a critical success.",
+    "economy": "none",
+    "trigger": ""
+}

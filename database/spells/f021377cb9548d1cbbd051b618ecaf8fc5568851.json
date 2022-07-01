@@ -1,0 +1,31 @@
+{
+    "url": "https://2e.aonprd.com/Spells.aspx?ID=614",
+    "name": "Lament",
+    "source": "Gods & Magic",
+    "traditions": [
+        "Focus"
+    ],
+    "rarity": "Common",
+    "traits": [
+        "Auditory",
+        "Emotion",
+        "Enchantment",
+        "Mental"
+    ],
+    "cantrip": false,
+    "focus": true,
+    "level": 1,
+    "summary": "You let out your negative emotions in a guttural wail that shakes your enemies’ hearts.",
+    "heightenable": true,
+    "description": "You let out your negative emotions in a guttural wail that shakes your enemies’ hearts and deals 1d8 mental damage (basic Will save). If you have any harmful conditions imposed by emotion effects, lament deals additional mental damage equal to the counteract level of the highest-level effect.\n\n------\n\nHeightened (+1) The damage increases by 1d8.",
+    "economy": "2-action",
+    "components": [
+        "Somatic",
+        "Verbal"
+    ],
+    "trigger": "",
+    "range": "30-foot cone",
+    "target": "1 or more creatures",
+    "duration": "",
+    "saving": ""
+}

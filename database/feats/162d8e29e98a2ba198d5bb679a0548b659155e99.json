@@ -1,0 +1,16 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=1882",
+    "name": "Scholastic Identification",
+    "source": "Advanced Player's Guide",
+    "rarity": "Common",
+    "traits": [
+        "Archetype",
+        "Skill"
+    ],
+    "level": 7,
+    "prereq": "Archaeologist Dedication; Master In Society",
+    "summary": "You have the knowledge needed to understand ancient texts and cultural artifacts.",
+    "description": "You have the knowledge needed to understand ancient texts and cultural artifacts. You can use Society when Deciphering Writing, no matter the type of writing you are examining. You can also use Society to Identify Magic when examining a magic item or location with cultural significance.Traits\n\nArchetype: This feat belongs to an archetype.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.",
+    "economy": "none",
+    "trigger": ""
+}

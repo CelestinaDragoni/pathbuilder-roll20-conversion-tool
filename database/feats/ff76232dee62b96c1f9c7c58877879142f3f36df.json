@@ -1,0 +1,15 @@
+{
+    "url": "https://2e.aonprd.com/Feats.aspx?ID=2444",
+    "name": "Thunder God's Fan",
+    "source": "Ancestry Guide",
+    "rarity": "Common",
+    "traits": [
+        "Tengu"
+    ],
+    "level": 13,
+    "prereq": "Wind God's Fan",
+    "summary": "A wave of your fan unleashes the fury of the storm.",
+    "description": "A wave of your fan unleashes the fury of the storm. You can Activate your tengu feather fan one additional time per day. Add the 5th-level lightning bolt spell to the spells contained within your fan.Traits\n\nTengu: A creature with this trait is a member of the tengu ancestry. Tengus are humanoids who resemble birds. An ability with this trait can be used or selected only by tengus. An item with this trait is created and used by tengus.",
+    "economy": "none",
+    "trigger": ""
+}
