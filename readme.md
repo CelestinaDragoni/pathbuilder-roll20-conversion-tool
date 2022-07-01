@@ -7,7 +7,7 @@ Takes Pathbuilder 2e JSON files and converts them for use in Roll20 (Imported vi
 ## Prerequisites
 You must have the following installed:
 - PHP 7.0+ (With JSON Encode/Decode Support) (Tested With 7.4)
-- Linux/Unix/MacOS Operating System, however CYGWIN w/ PHP should work in windows, however untested.
+- Linux/Unix/MacOS Operating System, however CYGWIN w/ PHP should work in windows, though untested.
 - Google Chrome Retail
 - VTT Enhancement Suite Plugin: https://justas-d.github.io/roll20-enhancement-suite/
 
