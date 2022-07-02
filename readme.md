@@ -41,7 +41,6 @@ You must have the following installed:
 - Go back to your character sheet and everything (mostly) should have been imported.
 - You should go up and down a level to force a recalculation of all stats just to be safe.
 
-This application is sorta set up for a web application (minus a few parts), I'm just lazy and I've spent too much work on this already. Might come back to it later.
 
 ## Known Limitations
 - Even though Max HP is being set it still  needs a level up/down to recalculate.
