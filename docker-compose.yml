@@ -7,4 +7,4 @@ services:
       - ./docker/etc/nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf
       - ./:/srv/sites/pbr20
     ports:
-      - "56709:56709"
+      - "80:80"
