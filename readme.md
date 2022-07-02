@@ -21,7 +21,7 @@ You must have the following installed:
 ## Starting Docker
 - Just run `docker-up.sh` (or `docker-compose up -d` in the root of this folder) and go to `localhost:56709` you should see the following interface:
 
-![Web Interface](.github/web.png)
+![Web Interface](.github/webinterface.png)
 
 ## Using Command Line Tool
 - Download your pathbuilder JSON file from the website: https://pathbuilder2e.com
