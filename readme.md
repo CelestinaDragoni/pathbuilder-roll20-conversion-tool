@@ -2,7 +2,9 @@
 
 # Pathbuilder 2e to Roll20 Conversion Tool
 
-Takes Pathbuilder 2e JSON files and converts them for use in Roll20 (Imported via VTT Enhancement Suite)
+Takes Pathbuilder 2e JSON files and converts them for use in Roll20 (Imported via VTT Enhancement Suite).
+
+WARNING: I AM NOT RESPONSIBLE FOR ANYTHING RELATED TO USING THIS TOOL. YOU ARE USING THIS TOOL AT YOUR OWN RISK.
 
 ## Prerequisites (Web Interface)
 You must have the following installed:
