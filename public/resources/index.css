@@ -102,5 +102,5 @@ form button[type="submit"]:hover {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-  line-height: 24px;
+  line-height: 1.75em;
 }
