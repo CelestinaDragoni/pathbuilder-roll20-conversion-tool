@@ -6,6 +6,10 @@ Takes Pathbuilder 2e JSON files and converts them for use in Roll20 (Imported vi
 
 WARNING: I AM NOT RESPONSIBLE FOR ANYTHING RELATED TO USING THIS TOOL. YOU ARE USING THIS TOOL AT YOUR OWN RISK.
 
+## Online Tool:
+
+An already hosted version can be found at: http://pbr20.kernelzechs.com/
+
 ## Prerequisites (Web Interface)
 You must have the following installed:
 - Docker (or Docker Desktop)
