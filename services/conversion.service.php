@@ -2,6 +2,10 @@
 
 namespace PBR20\Services;
 
+/**
+ * Roll20 Conversion Service
+ * Takes the player model and converts it into a Roll 20 compatible JSON file.
+ */
 class Conversion {
 
     /** Roll20 Rank 'Display' Character **/

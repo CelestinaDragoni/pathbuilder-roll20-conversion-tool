@@ -1,21 +1,35 @@
-![Picture](readme.png)
+![Picture](.github/readme.png)
 
 # Pathbuilder 2e to Roll20 Conversion Tool
 
 Takes Pathbuilder 2e JSON files and converts them for use in Roll20 (Imported via VTT Enhancement Suite)
 
-## Prerequisites
+## Prerequisites (Web Interface)
+You must have the following installed:
+- Docker (or Docker Desktop)
+- Docker Compose
+
+## Prerequisites (Command Line, Optional)
 You must have the following installed:
 - PHP 7.0+ (With JSON Encode/Decode Support) (Tested With 7.4)
 - Linux/Unix/MacOS Operating System, however CYGWIN w/ PHP should work in windows, though untested.
+
+## Prerequisites (Importing)
 - Google Chrome Retail
 - VTT Enhancement Suite Plugin: https://justas-d.github.io/roll20-enhancement-suite/
 
-## Guide
+## Starting Docker
+- Just run `docker-up.sh` (or `docker-compose up -d` in the root of this folder) and go to `localhost:56709` you should see the following interface:
+
+![Web Interface](.github/web.png)
+
+## Using Command Line Tool
 - Download your pathbuilder JSON file from the website: https://pathbuilder2e.com
   - JSON **exports require you to have a paid account**, ask a friend if they have one so they can do it for you.
 - Using your terminal, go to the checkout directory and do the following:
   - `php command.php --input=your-pathbuilder-export.json > roll20.json`
+
+## Importing To Roll 20
 - Now go to Roll 20 and go to the campaign you'll be using this character with.
 - Go to your character sheet (don't pop it out of the window), at the top you'll see [Export & Overwrite], click that.
 - Now click [Overwrite] and upload your Roll 20 ready JSON into here.

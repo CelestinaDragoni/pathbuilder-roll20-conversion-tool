@@ -98,7 +98,7 @@ class Player
     {
         $data = json_decode($pathbuilderData, true);
         if (empty($data)) {
-            throw New Exception('Invalid Pathbuilder Data');
+            throw New \Exception('Invalid Pathbuilder Data');
         }
 
         // Create Player
