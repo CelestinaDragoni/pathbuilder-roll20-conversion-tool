@@ -116,7 +116,7 @@ class Player {
     ];
 
     /** DC **/
-    public $stat        = 'str';
+    public $stat        = 'strength';
     public $dc          = 0;
 
     /** Feats **/
