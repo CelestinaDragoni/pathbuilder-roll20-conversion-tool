@@ -5,9 +5,6 @@ namespace PBR20\Factory;
 /**
  * Pathbuilder Player Factory
  * Takes a pathbuilder struct and puts it into our normalized player model.
- *
- * Developer Note:
- * This class is very unslightly, I'm unhappy with the cleanliness of this. Refactor?
  */
 class Player
 {
