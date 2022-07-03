@@ -521,8 +521,8 @@ class Conversion {
          */
         private function _convertFeatsClass(\PBR20\Models\Player $player, Array &$root, Array &$attrs) : Void
         {
-            if (!empty($player->generalFeats)) {
-                foreach ($player->generalFeats as $feat) {
+            if (!empty($player->classFeats)) {
+                foreach ($player->classFeats as $feat) {
                     $id = $this->_uuid();
                     $attrs[] = $this->_createStruct("repeating_feat-class_{$id}_feat_class", $feat['name']);
                     $attrs[] = $this->_createStruct("repeating_feat-class_{$id}_feat_class_level", $feat['level']);
@@ -548,8 +548,8 @@ class Conversion {
          */
         private function _convertFeatsBonus(\PBR20\Models\Player $player, Array &$root, Array &$attrs) : Void
         {
-            if (!empty($player->generalFeats)) {
-                foreach ($player->generalFeats as $feat) {
+            if (!empty($player->bonusFeats)) {
+                foreach ($player->bonusFeats as $feat) {
                     $id = $this->_uuid();
                     $attrs[] = $this->_createStruct("repeating_feat-bonus_{$id}_feat_bonus", $feat['name']);
                     $attrs[] = $this->_createStruct("repeating_feat-bonus_{$id}_feat_bonus_level", $feat['level']);
