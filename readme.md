@@ -25,7 +25,7 @@ You must have the following installed:
 - VTT Enhancement Suite Plugin: https://justas-d.github.io/roll20-enhancement-suite/
 
 ## Starting Docker
-- Just run `docker-up.sh` (or `docker-compose up -d` in the root of this folder) and go to `localhost:56709` you should see the following interface:
+- Just run `docker-up.sh` (or `docker-compose up -d` in the root of this folder) and go to `localhost` you should see the following interface:
 
 ![Web Interface](.github/webinterface.png)
 
