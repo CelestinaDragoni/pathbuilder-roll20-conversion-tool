@@ -467,4 +467,21 @@ class Player {
 
         return 0;
     }
+
+    /**
+     * Get spellcasting rank from magic skills.
+     * @return int
+     */
+    public function getSpellCastingDCRank() : Int
+    {
+        $rank = 0;
+
+        foreach ($this->magicSkills as $skill) {
+            if ($skill > $rank) {
+                $rank = $skill;
+            }
+        }
+
+        return $rank;
+    }
 };

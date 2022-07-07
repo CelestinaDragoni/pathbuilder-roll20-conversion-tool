@@ -48,7 +48,6 @@ You must have the following installed:
 
 ## Known Limitations
 - Even though Max HP is being set it still  needs a level up/down to recalculate.
-- Spell Attack and Spell DC are not included.
 - Weapons/Armor/Inventory/Gold do not port over on purpose.
 - Because Pathbuilder does some non-standard things, some spells might not have any details.
   - **Example**: Fiend's Door (Feat) is listed as a Feat and Innate spell, but it's actually just Dimension Door.

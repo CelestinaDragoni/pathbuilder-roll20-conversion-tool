@@ -121,7 +121,6 @@ if (checkFile($error)) {
             <h2>Known Limitations</h2>
             <ul>
                 <li>Even though Max HP is being set it still needs a level up/down to recalculate.</li>
-                <li>Spell Attack and Spell DC are not included.</li>
                 <li>Weapons/Armor/Inventory/Gold do not port over on purpose.</li>
                 <li>Because Pathbuilder does some non-standard things, some spells might not have any details.</li>
                 <li>Example: Fiend's Door (Feat) is listed as a Feat and Innate spell, but it's actually just Dimension Door.</li>

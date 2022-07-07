@@ -80,34 +80,16 @@ class Conversion {
         // Clone Our Schema
         $data = $this->_schema;
 
-        // Basic Bitch Stuff
+        // Basic Stuff
         $data['character']['name'] = $player->name;
         $data['character']['attribs'][0]['id'] = $this->_uuid();
 
-        // Bring On The Pain
-        $this->_convertPlayerHeader($player, $data, $data['character']['attribs']);
-        $this->_convertPlayerDetails($player, $data, $data['character']['attribs']);
-        $this->_convertPlayerLanguages($player, $data, $data['character']['attribs']);
-        $this->_convertAbilities($player, $data, $data['character']['attribs']);
-        $this->_convertSkills($player, $data, $data['character']['attribs']);
-        $this->_convertSkillsWeapons($player, $data, $data['character']['attribs']);
-        $this->_convertSkillsArmor($player, $data, $data['character']['attribs']);
-        $this->_convertSkillsSaves($player, $data, $data['character']['attribs']);
-        $this->_convertSkillsPerception($player, $data, $data['character']['attribs']);
-        $this->_convertClassDC($player, $data, $data['character']['attribs']);
-        $this->_convertAC($player, $data, $data['character']['attribs']);
-        $this->_convertHP($player, $data, $data['character']['attribs']);
-        $this->_convertSpeed($player, $data, $data['character']['attribs']);
-        $this->_convertFeatsAncestry($player, $data, $data['character']['attribs']);
-        $this->_convertFeatsSkill($player, $data, $data['character']['attribs']);
-        $this->_convertFeatsGeneral($player, $data, $data['character']['attribs']);
-        $this->_convertFeatsClass($player, $data, $data['character']['attribs']);
-        $this->_convertFeatsBonus($player, $data, $data['character']['attribs']);
-        $this->_convertMagicTraditions($player, $data, $data['character']['attribs']);
-        $this->_convertInnateSpells($player, $data, $data['character']['attribs']);
-        $this->_convertFocusSpells($player, $data, $data['character']['attribs']);
-        $this->_convertCantripSpells($player, $data, $data['character']['attribs']);
-        $this->_convertCoreSpells($player, $data, $data['character']['attribs']);
+        // A little reflection action to make my life easier extending this.
+        foreach (get_class_methods($this) as $fn) {
+            if (strpos($fn, '_convert') !== false) {
+                $this->$fn($player, $data, $data['character']['attribs']);
+            }
+        }
 
         return $data;
     }
@@ -399,6 +381,8 @@ class Conversion {
             $attrs[] = $this->_createStruct('armor_class_proficiency', $player->getUnarmoredACProficiency());
             $attrs[] = $this->_createStruct('armor_class_proficiency_display', $this->_rank[$player->armorSkills['unarmored']]);
             $attrs[] = $this->_createStruct('armor_class_ability_select', '@{dexterity_modifier}');
+            $attrs[] = $this->_createStruct('armor_class_dc_rank', (string)$player->armorSkills['unarmored']);
+            $attrs[] = $this->_createStruct('armor_class_shield', $player->getUnarmoredAC());
         }
 
         /**
@@ -717,6 +701,23 @@ class Conversion {
                     }
                 }
             }
+        }
+
+        /**
+         * Convert Spell DC
+         * @param Player $player
+         * @param array $root
+         * @param array $attrs
+         * @return void
+         */
+        private function _convertSpellDC(\PBR20\Models\Player $player, Array &$root, Array &$attrs) : Void
+        {
+            $attrs[] = $this->_createStruct('spell_attack_rank', (string)$player->getSpellCastingDCRank());
+            $attrs[] = $this->_createStruct('spell_dc_rank', (string)$player->getSpellCastingDCRank());
+            $attrs[] = $this->_createStruct('spell_dc_key_ability', $player->getAbilityMod($player->stat));
+            $attrs[] = $this->_createStruct('spell_attack_key_ability', $player->getAbilityMod($player->stat));
+            $attrs[] = $this->_createStruct('spell_dc_key_ability_select', sprintf('@{%s_modifier}', $player->stat));
+            $attrs[] = $this->_createStruct('spell_attack_key_ability_select', sprintf('@{%s_modifier}', $player->stat));
         }
 }
 
